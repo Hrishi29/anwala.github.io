@@ -1,0 +1,1 @@
+curl -i -d "fname=hrishi&lname=gadkari" -X POST http://www.cs.odu.edu/~anwala/files/temp/namesEcho.php > output.html

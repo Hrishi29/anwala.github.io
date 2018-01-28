@@ -1,0 +1,40 @@
+Extracting all links from webpage:
+
+http://www.cs.odu.edu/~yaohang
+teaching.html
+projects.html
+Tools.html
+education.html
+pubs.html
+people.html
+contact.html
+YaohangLiCV2010.pdf
+Services.html
+software.html
+links.html
+http://www.cs.odu.edu/
+http://www.odu.edu/
+mailto:yaohang@cs.odu.edu
+http://www.cs.odu.edu/
+http://www.odu.edu/
+http://www.shodor.org
+http://www.cs.appstate.edu/nc-hpc/
+http://www.sura.org
+postdoctoral_researcher_position.htm
+phdstudent_positions.htm
+http://www.orau.org
+http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0845702
+http://www.fsu.edu
+http://www.scut.edu.cn
+http://www.ornl.gov
+http://fellowships.ncsa.uiuc.edu/summer/past.html
+http://www.ncsa.uiuc.edu/
+http://www.ornl.gov
+http://www.ncat.edu/
+
+Extracting pdf links from webpage if present:
+
+First Link: http://www.cs.odu.edu/~yaohang/YaohangLiCV2010.pdf
+Final Link: http://www.cs.odu.edu/~yaohang/YaohangLiCV2010.pdf
+Bytes: 39166
+

@@ -1,0 +1,165 @@
+Extracting all links from webpage:
+
+http://www.cs.odu.edu
+http://www.odu.edu
+http://www.cs.odu.edu/~mweigle/Main/Home?action=login
+http://www.cs.odu.edu/~mweigle/Main/Home
+http://www.cs.odu.edu/~mweigle/Main/Research
+http://www.cs.odu.edu/~mweigle/Main/PubsByYear
+http://www.cs.odu.edu/~mweigle/Main/Students
+http://www.cs.odu.edu/~mweigle/files/CV.pdf
+http://www.cs.odu.edu/~mweigle/Resources/WorkingWithMe
+http://www.cs.odu.edu/~mweigle/Resources/ResearchMethods
+http://www.cs.odu.edu/~mweigle/Resources/InfoVis
+http://www.cs.odu.edu/~mweigle/Main/Teaching
+http://www.cs.odu.edu/~mweigle/Main/Sched
+http://www.cs.odu.edu/~mweigle/Main/Personal
+http://www.cs.odu.edu/~mweigle/CS725-S18/Home
+https://graduate.cs.odu.edu/
+http://www.cs.odu.edu/~yaohang
+https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-256368-17
+https://www.neh.gov/divisions/odh/grant-news/announcing-new-2017-odh-grant-awards
+http://ws-dl.cs.odu.edu
+http://ws-dl.blogspot.com
+http://ws-dl.blogspot.com/2018/01/2018-01-08-introducing-reconstructive.html
+http://ws-dl.blogspot.com/2018/01/2018-01-07-review-of-ws-dls-2017.html
+http://ws-dl.blogspot.com/2018/01/2018-01-06-two-wsdl-classes-offered-for.html
+http://ws-dl.blogspot.com/2018/01/2018-01-02-link-to-web-archives-not.html
+http://ws-dl.blogspot.com/2017/12/2017-12-31-digital-blackness-in-archive.html
+http://www.cs.odu.edu/~mweigle/Research/InfoVis-Gallery
+https://arxiv.org/abs/1712.03140
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=aturban-arxiv17
+https://arxiv.org/abs/1708.05790
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=mccoy-arxiv17
+http://dx.doi.org/10.1145/3041656
+http://www.cs.odu.edu/~mweigle/papers/alkwai-tois17-preprint.pdf
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=alkwai-tois17
+http://www.cs.odu.edu/~mweigle/papers/alam-jcdl17.pdf
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=alam-jcdl17
+http://www.cs.odu.edu/~anwala/files/publications/NwalaJCDL_LMP.pdf
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=nwala-jcdl17
+http://www.cs.odu.edu/~mweigle/papers/alnoamany-websci17.pdf
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=alnoamany-websci17
+http://www.cs.odu.edu/~mweigle/papers/brunelle-jcdl17.pdf
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=brunelle-jcdl17
+http://dx.doi.org/10.1109/JCDL.2017.7991619
+http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_wail.pdf
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=berlin-jcdl17
+http://dx.doi.org/10.1109/JCDL.2017.7991601
+http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_countingMementos.pdf
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=kelly-jcdl17
+http://arxiv.org/abs/1705.06218
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=alnoamany-arxiv17
+http://dx.doi.org/10.1109/JCDL.2017.7991601
+http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_countingMementos.pdf
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=kelly-jcdl17
+http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-mink.pdf
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=jordan-jcdl15
+http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-arabic-sites.pdf
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=alkwai-jcdl15
+http://dx.doi.org/10.1109/MASS.2014.91
+http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-misenet14.pdf
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=mohrehkesh-misenet14
+http://dx.doi.org/10.1109/JCDL.2014.6970187
+http://www.cs.odu.edu/~mln/pubs/jcdl-2014/jcdl-2014-brunelle-damage.pdf
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=brunelle-jcdl14
+http://dx.doi.org/10.1145/2509338.2509340
+http://www.cs.odu.edu/~mweigle/papers/olariu-misenet13.pdf
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=olariu-misenet13
+http://dx.doi.org/10.1007/978-3-642-40501-3_35
+http://www.cs.odu.edu/~mln/pubs/tpdl-2013/paper_149.pdf
+http://arxiv.org/abs/1309.4016
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=alnoamany-tpdl13
+http://dx.doi.org/10.1109/SOLI.2009.5203967
+http://www.cs.odu.edu/~mweigle/papers/yan-soli09.pdf
+http://www.cs.odu.edu/~mweigle/Main/Home?action=bibentry&bibfile=Main.bibtex&bibref=yan-soli09
+https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-256368-17
+https://mellon.org/grants/grants-database/grants/old-dominion-university/11600663/
+http://www.nsf.gov/awardsearch/showAward?AWD_ID=1526700
+http://www.imls.gov/grants/awarded/lg-71-15-0077-15
+http://www.cs.odu.edu/~mweigle/files/CV.pdf
+http://www.cs.odu.edu/~acmw
+http://www.ncwit.org/alliances/aa
+http://www.cs.odu.edu/
+http://www.odu.edu/
+http://www.clemson.edu/ces/departments/computing/
+http://www.clemson.edu
+http://www.cs.unc.edu
+http://www.unc.edu
+http://www.ulm.edu/cba/computerscience/index.html
+http://www.ulm.edu/honors
+http://www.ulm.edu
+http://www.cs.odu.edu/~mweigle/Main/Home?action=print
+http://www.cs.odu.edu/~mweigle/Site/Search
+http://www.cs.odu.edu/~mweigle/Main/Home?action=login
+
+Extracting pdf links from webpage if present:
+
+First Link: http://www.cs.odu.edu/~mweigle/files/CV.pdf
+Final Link: http://www.cs.odu.edu/~mweigle/files/CV.pdf
+Bytes: 101583
+
+First Link: http://www.cs.odu.edu/~mweigle/papers/alkwai-tois17-preprint.pdf
+Final Link: http://www.cs.odu.edu/~mweigle/papers/alkwai-tois17-preprint.pdf
+Bytes: 1430568
+
+First Link: http://www.cs.odu.edu/~mweigle/papers/alam-jcdl17.pdf
+Final Link: http://www.cs.odu.edu/~mweigle/papers/alam-jcdl17.pdf
+Bytes: 1600140
+
+First Link: http://www.cs.odu.edu/~anwala/files/publications/NwalaJCDL_LMP.pdf
+Final Link: http://www.cs.odu.edu/~anwala/files/publications/NwalaJCDL_LMP.pdf
+Bytes: 17623699
+
+First Link: http://www.cs.odu.edu/~mweigle/papers/alnoamany-websci17.pdf
+Final Link: http://www.cs.odu.edu/~mweigle/papers/alnoamany-websci17.pdf
+Bytes: 6962016
+
+First Link: http://www.cs.odu.edu/~mweigle/papers/brunelle-jcdl17.pdf
+Final Link: http://www.cs.odu.edu/~mweigle/papers/brunelle-jcdl17.pdf
+Bytes: 1276346
+
+First Link: http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_wail.pdf
+Final Link: http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_wail.pdf
+Bytes: 412476
+
+First Link: http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_countingMementos.pdf
+Final Link: http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_countingMementos.pdf
+Bytes: 274265
+
+First Link: http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_countingMementos.pdf
+Final Link: http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_countingMementos.pdf
+Bytes: 274265
+
+First Link: http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-mink.pdf
+Final Link: http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-mink.pdf
+Bytes: 1254605
+
+First Link: http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-arabic-sites.pdf
+Final Link: http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-arabic-sites.pdf
+Bytes: 709420
+
+First Link: http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-misenet14.pdf
+Final Link: http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-misenet14.pdf
+Bytes: 1231147
+
+First Link: http://www.cs.odu.edu/~mln/pubs/jcdl-2014/jcdl-2014-brunelle-damage.pdf
+Final Link: http://www.cs.odu.edu/~mln/pubs/jcdl-2014/jcdl-2014-brunelle-damage.pdf
+Bytes: 2205546
+
+First Link: http://www.cs.odu.edu/~mweigle/papers/olariu-misenet13.pdf
+Final Link: http://www.cs.odu.edu/~mweigle/papers/olariu-misenet13.pdf
+Bytes: 405542
+
+First Link: http://www.cs.odu.edu/~mln/pubs/tpdl-2013/paper_149.pdf
+Final Link: http://www.cs.odu.edu/~mln/pubs/tpdl-2013/paper_149.pdf
+Bytes: 813692
+
+First Link: http://www.cs.odu.edu/~mweigle/papers/yan-soli09.pdf
+Final Link: http://www.cs.odu.edu/~mweigle/papers/yan-soli09.pdf
+Bytes: 278184
+
+First Link: http://www.cs.odu.edu/~mweigle/files/CV.pdf
+Final Link: http://www.cs.odu.edu/~mweigle/files/CV.pdf
+Bytes: 101583
+
