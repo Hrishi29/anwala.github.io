@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-01-16T04:26:48Z",
+            "uri": "http://web.archive.org/web/20180116042648/http://www.washingtonexaminer.com/trumps-mar-a-lago-cited-for-15-food-safety-violations-report/article/2645999"
+        },
+        "last": {
+            "datetime": "2018-02-03T19:44:13Z",
+            "uri": "http://web.archive.org/web/20180203194413/http://www.washingtonexaminer.com/trumps-mar-a-lago-cited-for-15-food-safety-violations-report/article/2645999"
+        },
+        "list": [
+            {
+                "datetime": "2018-01-16T04:26:48Z",
+                "uri": "http://web.archive.org/web/20180116042648/http://www.washingtonexaminer.com/trumps-mar-a-lago-cited-for-15-food-safety-violations-report/article/2645999"
+            },
+            {
+                "datetime": "2018-02-03T19:44:13Z",
+                "uri": "http://web.archive.org/web/20180203194413/http://www.washingtonexaminer.com/trumps-mar-a-lago-cited-for-15-food-safety-violations-report/article/2645999"
+            }
+        ]
+    },
+    "original_uri": "http://www.washingtonexaminer.com/trumps-mar-a-lago-cited-for-15-food-safety-violations-report/article/2645999",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.washingtonexaminer.com/trumps-mar-a-lago-cited-for-15-food-safety-violations-report/article/2645999",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.washingtonexaminer.com/trumps-mar-a-lago-cited-for-15-food-safety-violations-report/article/2645999",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.washingtonexaminer.com/trumps-mar-a-lago-cited-for-15-food-safety-violations-report/article/2645999",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.washingtonexaminer.com/trumps-mar-a-lago-cited-for-15-food-safety-violations-report/article/2645999",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.washingtonexaminer.com/trumps-mar-a-lago-cited-for-15-food-safety-violations-report/article/2645999"
+    }
+}

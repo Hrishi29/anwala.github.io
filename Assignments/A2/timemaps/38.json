@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T18:00:31Z",
+            "uri": "http://web.archive.org/web/20180209180031/http://www.newsweek.com/omarosa-said-she-would-never-vote-trump-again-million-years-802024"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:23:12Z",
+            "uri": "http://web.archive.org/web/20180211052312/http://www.newsweek.com/omarosa-said-she-would-never-vote-trump-again-million-years-802024"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T18:00:31Z",
+                "uri": "http://web.archive.org/web/20180209180031/http://www.newsweek.com/omarosa-said-she-would-never-vote-trump-again-million-years-802024"
+            },
+            {
+                "datetime": "2018-02-09T19:33:59Z",
+                "uri": "http://web.archive.org/web/20180209193359/http://www.newsweek.com/omarosa-said-she-would-never-vote-trump-again-million-years-802024"
+            },
+            {
+                "datetime": "2018-02-09T22:22:46Z",
+                "uri": "http://web.archive.org/web/20180209222246/http://www.newsweek.com/omarosa-said-she-would-never-vote-trump-again-million-years-802024"
+            },
+            {
+                "datetime": "2018-02-09T23:08:15Z",
+                "uri": "http://web.archive.org/web/20180209230815/http://www.newsweek.com/omarosa-said-she-would-never-vote-trump-again-million-years-802024"
+            },
+            {
+                "datetime": "2018-02-10T23:45:40Z",
+                "uri": "http://web.archive.org/web/20180210234540/http://www.newsweek.com/omarosa-said-she-would-never-vote-trump-again-million-years-802024"
+            },
+            {
+                "datetime": "2018-02-11T05:23:12Z",
+                "uri": "http://web.archive.org/web/20180211052312/http://www.newsweek.com/omarosa-said-she-would-never-vote-trump-again-million-years-802024"
+            }
+        ]
+    },
+    "original_uri": "http://www.newsweek.com/omarosa-said-she-would-never-vote-trump-again-million-years-802024",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.newsweek.com/omarosa-said-she-would-never-vote-trump-again-million-years-802024",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.newsweek.com/omarosa-said-she-would-never-vote-trump-again-million-years-802024",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.newsweek.com/omarosa-said-she-would-never-vote-trump-again-million-years-802024",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.newsweek.com/omarosa-said-she-would-never-vote-trump-again-million-years-802024",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.newsweek.com/omarosa-said-she-would-never-vote-trump-again-million-years-802024"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T02:25:19Z",
+            "uri": "http://web.archive.org/web/20180210022519/https://www.npr.org/2018/02/09/584699083/trump-will-not-immediately-release-democratic-memo-suggests-revisions"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:57:35Z",
+            "uri": "http://web.archive.org/web/20180211055735/https://www.npr.org/2018/02/09/584699083/trump-will-not-immediately-release-democratic-memo-suggests-revisions"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T02:25:19Z",
+                "uri": "http://web.archive.org/web/20180210022519/https://www.npr.org/2018/02/09/584699083/trump-will-not-immediately-release-democratic-memo-suggests-revisions"
+            },
+            {
+                "datetime": "2018-02-10T04:25:16Z",
+                "uri": "http://web.archive.org/web/20180210042516/https://www.npr.org/2018/02/09/584699083/trump-will-not-immediately-release-democratic-memo-suggests-revisions"
+            },
+            {
+                "datetime": "2018-02-10T15:13:04Z",
+                "uri": "http://web.archive.org/web/20180210151304/https://www.npr.org/2018/02/09/584699083/trump-will-not-immediately-release-democratic-memo-suggests-revisions"
+            },
+            {
+                "datetime": "2018-02-10T22:08:19Z",
+                "uri": "http://web.archive.org/web/20180210220819/https://www.npr.org/2018/02/09/584699083/trump-will-not-immediately-release-democratic-memo-suggests-revisions"
+            },
+            {
+                "datetime": "2018-02-10T23:40:04Z",
+                "uri": "http://web.archive.org/web/20180210234004/https://www.npr.org/2018/02/09/584699083/trump-will-not-immediately-release-democratic-memo-suggests-revisions"
+            },
+            {
+                "datetime": "2018-02-11T02:56:50Z",
+                "uri": "http://web.archive.org/web/20180211025650/https://www.npr.org/2018/02/09/584699083/trump-will-not-immediately-release-democratic-memo-suggests-revisions"
+            },
+            {
+                "datetime": "2018-02-11T05:57:35Z",
+                "uri": "http://web.archive.org/web/20180211055735/https://www.npr.org/2018/02/09/584699083/trump-will-not-immediately-release-democratic-memo-suggests-revisions"
+            }
+        ]
+    },
+    "original_uri": "https://www.npr.org/2018/02/09/584699083/trump-will-not-immediately-release-democratic-memo-suggests-revisions",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.npr.org/2018/02/09/584699083/trump-will-not-immediately-release-democratic-memo-suggests-revisions",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.npr.org/2018/02/09/584699083/trump-will-not-immediately-release-democratic-memo-suggests-revisions",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.npr.org/2018/02/09/584699083/trump-will-not-immediately-release-democratic-memo-suggests-revisions",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.npr.org/2018/02/09/584699083/trump-will-not-immediately-release-democratic-memo-suggests-revisions",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.npr.org/2018/02/09/584699083/trump-will-not-immediately-release-democratic-memo-suggests-revisions"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T20:42:52Z",
+            "uri": "http://web.archive.org/web/20180208204252/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T16:34:06Z",
+            "uri": "http://web.archive.org/web/20180211163406/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T20:42:52Z",
+                "uri": "http://web.archive.org/web/20180208204252/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+            },
+            {
+                "datetime": "2018-02-08T22:53:53Z",
+                "uri": "http://archive.is/20180208225353/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+            },
+            {
+                "datetime": "2018-02-08T23:03:16Z",
+                "uri": "http://web.archive.org/web/20180208230316/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+            },
+            {
+                "datetime": "2018-02-08T23:38:17Z",
+                "uri": "http://web.archive.org/web/20180208233817/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+            },
+            {
+                "datetime": "2018-02-08T23:59:55Z",
+                "uri": "http://web.archive.org/web/20180208235955/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+            },
+            {
+                "datetime": "2018-02-09T03:14:42Z",
+                "uri": "http://web.archive.org/web/20180209031442/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+            },
+            {
+                "datetime": "2018-02-09T11:16:10Z",
+                "uri": "http://web.archive.org/web/20180209111610/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+            },
+            {
+                "datetime": "2018-02-09T11:22:30Z",
+                "uri": "http://web.archive.org/web/20180209112230/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+            },
+            {
+                "datetime": "2018-02-10T05:19:41Z",
+                "uri": "http://web.archive.org/web/20180210051941/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+            },
+            {
+                "datetime": "2018-02-10T17:49:31Z",
+                "uri": "http://web.archive.org/web/20180210174931/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+            },
+            {
+                "datetime": "2018-02-11T05:58:48Z",
+                "uri": "http://web.archive.org/web/20180211055848/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+            },
+            {
+                "datetime": "2018-02-11T06:47:12Z",
+                "uri": "http://web.archive.org/web/20180211064712/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+            },
+            {
+                "datetime": "2018-02-11T16:34:06Z",
+                "uri": "http://web.archive.org/web/20180211163406/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+            }
+        ]
+    },
+    "original_uri": "http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://money.cnn.com/2018/02/08/media/who-is-hope-hicks/index.html"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T02:16:24Z",
+            "uri": "http://web.archive.org/web/20180210021624/https://amp.theguardian.com/us-news/2018/feb/09/donald-trump-blocks-democrat-nunes-memo-russia"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:08:46Z",
+            "uri": "http://web.archive.org/web/20180211050846/https://amp.theguardian.com/us-news/2018/feb/09/donald-trump-blocks-democrat-nunes-memo-russia"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T02:16:24Z",
+                "uri": "http://web.archive.org/web/20180210021624/https://amp.theguardian.com/us-news/2018/feb/09/donald-trump-blocks-democrat-nunes-memo-russia"
+            },
+            {
+                "datetime": "2018-02-10T03:40:30Z",
+                "uri": "http://web.archive.org/web/20180210034030/https://amp.theguardian.com/us-news/2018/feb/09/donald-trump-blocks-democrat-nunes-memo-russia"
+            },
+            {
+                "datetime": "2018-02-10T16:56:03Z",
+                "uri": "http://web.archive.org/web/20180210165603/https://amp.theguardian.com/us-news/2018/feb/09/donald-trump-blocks-democrat-nunes-memo-russia"
+            },
+            {
+                "datetime": "2018-02-10T16:59:24Z",
+                "uri": "http://web.archive.org/web/20180210165924/https://amp.theguardian.com/us-news/2018/feb/09/donald-trump-blocks-democrat-nunes-memo-russia"
+            },
+            {
+                "datetime": "2018-02-11T01:31:14Z",
+                "uri": "http://web.archive.org/web/20180211013114/https://amp.theguardian.com/us-news/2018/feb/09/donald-trump-blocks-democrat-nunes-memo-russia"
+            },
+            {
+                "datetime": "2018-02-11T05:08:46Z",
+                "uri": "http://web.archive.org/web/20180211050846/https://amp.theguardian.com/us-news/2018/feb/09/donald-trump-blocks-democrat-nunes-memo-russia"
+            }
+        ]
+    },
+    "original_uri": "https://amp.theguardian.com/us-news/2018/feb/09/donald-trump-blocks-democrat-nunes-memo-russia",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://amp.theguardian.com/us-news/2018/feb/09/donald-trump-blocks-democrat-nunes-memo-russia",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://amp.theguardian.com/us-news/2018/feb/09/donald-trump-blocks-democrat-nunes-memo-russia",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://amp.theguardian.com/us-news/2018/feb/09/donald-trump-blocks-democrat-nunes-memo-russia",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://amp.theguardian.com/us-news/2018/feb/09/donald-trump-blocks-democrat-nunes-memo-russia",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://amp.theguardian.com/us-news/2018/feb/09/donald-trump-blocks-democrat-nunes-memo-russia"
+    }
+}

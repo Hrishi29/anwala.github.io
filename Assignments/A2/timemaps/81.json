@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T02:38:02Z",
+            "uri": "http://web.archive.org/web/20180210023802/https://www.reuters.com/article/us-usa-trump-russia-spies/russian-offering-info-on-trump-bilked-u-s-spies-out-of-money-ny-times-idUSKBN1FU039"
+        },
+        "last": {
+            "datetime": "2018-02-11T09:03:58Z",
+            "uri": "http://web.archive.org/web/20180211090358/https://www.reuters.com/article/us-usa-trump-russia-spies/russian-offering-info-on-trump-bilked-u-s-spies-out-of-money-ny-times-idUSKBN1FU039"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T02:38:02Z",
+                "uri": "http://web.archive.org/web/20180210023802/https://www.reuters.com/article/us-usa-trump-russia-spies/russian-offering-info-on-trump-bilked-u-s-spies-out-of-money-ny-times-idUSKBN1FU039"
+            },
+            {
+                "datetime": "2018-02-10T03:44:16Z",
+                "uri": "http://web.archive.org/web/20180210034416/https://www.reuters.com/article/us-usa-trump-russia-spies/russian-offering-info-on-trump-bilked-u-s-spies-out-of-money-ny-times-idUSKBN1FU039"
+            },
+            {
+                "datetime": "2018-02-10T05:44:01Z",
+                "uri": "http://web.archive.org/web/20180210054401/https://www.reuters.com/article/us-usa-trump-russia-spies/russian-offering-info-on-trump-bilked-u-s-spies-out-of-money-ny-times-idUSKBN1FU039"
+            },
+            {
+                "datetime": "2018-02-11T01:05:40Z",
+                "uri": "http://web.archive.org/web/20180211010540/https://www.reuters.com/article/us-usa-trump-russia-spies/russian-offering-info-on-trump-bilked-u-s-spies-out-of-money-ny-times-idUSKBN1FU039"
+            },
+            {
+                "datetime": "2018-02-11T05:08:58Z",
+                "uri": "http://web.archive.org/web/20180211050858/https://www.reuters.com/article/us-usa-trump-russia-spies/russian-offering-info-on-trump-bilked-u-s-spies-out-of-money-ny-times-idUSKBN1FU039"
+            },
+            {
+                "datetime": "2018-02-11T09:03:58Z",
+                "uri": "http://web.archive.org/web/20180211090358/https://www.reuters.com/article/us-usa-trump-russia-spies/russian-offering-info-on-trump-bilked-u-s-spies-out-of-money-ny-times-idUSKBN1FU039"
+            }
+        ]
+    },
+    "original_uri": "https://www.reuters.com/article/us-usa-trump-russia-spies/russian-offering-info-on-trump-bilked-u-s-spies-out-of-money-ny-times-idUSKBN1FU039",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-usa-trump-russia-spies/russian-offering-info-on-trump-bilked-u-s-spies-out-of-money-ny-times-idUSKBN1FU039",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.reuters.com/article/us-usa-trump-russia-spies/russian-offering-info-on-trump-bilked-u-s-spies-out-of-money-ny-times-idUSKBN1FU039",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.reuters.com/article/us-usa-trump-russia-spies/russian-offering-info-on-trump-bilked-u-s-spies-out-of-money-ny-times-idUSKBN1FU039",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-usa-trump-russia-spies/russian-offering-info-on-trump-bilked-u-s-spies-out-of-money-ny-times-idUSKBN1FU039",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.reuters.com/article/us-usa-trump-russia-spies/russian-offering-info-on-trump-bilked-u-s-spies-out-of-money-ny-times-idUSKBN1FU039"
+    }
+}

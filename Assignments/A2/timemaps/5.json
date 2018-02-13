@@ -1,0 +1,74 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T02:26:09Z",
+            "uri": "http://web.archive.org/web/20180209022609/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+        },
+        "last": {
+            "datetime": "2018-02-11T02:15:46Z",
+            "uri": "http://web.archive.org/web/20180211021546/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T02:26:09Z",
+                "uri": "http://web.archive.org/web/20180209022609/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+            },
+            {
+                "datetime": "2018-02-09T02:55:08Z",
+                "uri": "http://web.archive.org/web/20180209025508/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+            },
+            {
+                "datetime": "2018-02-09T02:59:18Z",
+                "uri": "http://wayback.archive-it.org/all/20180209025918/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+            },
+            {
+                "datetime": "2018-02-09T02:59:18Z",
+                "uri": "http://web.archive.org/web/20180209025918/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+            },
+            {
+                "datetime": "2018-02-09T04:16:05Z",
+                "uri": "http://web.archive.org/web/20180209041605/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+            },
+            {
+                "datetime": "2018-02-09T08:04:27Z",
+                "uri": "http://wayback.archive-it.org/all/20180209080427/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+            },
+            {
+                "datetime": "2018-02-09T08:04:27Z",
+                "uri": "http://web.archive.org/web/20180209080427/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+            },
+            {
+                "datetime": "2018-02-09T13:54:56Z",
+                "uri": "http://web.archive.org/web/20180209135456/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+            },
+            {
+                "datetime": "2018-02-09T16:02:25Z",
+                "uri": "http://archive.is/20180209160225/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+            },
+            {
+                "datetime": "2018-02-09T16:58:12Z",
+                "uri": "http://archive.is/20180209165812/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+            },
+            {
+                "datetime": "2018-02-09T17:47:05Z",
+                "uri": "http://archive.is/20180209174705/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+            },
+            {
+                "datetime": "2018-02-10T01:04:46Z",
+                "uri": "http://web.archive.org/web/20180210010446/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+            },
+            {
+                "datetime": "2018-02-11T02:15:46Z",
+                "uri": "http://web.archive.org/web/20180211021546/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+            }
+        ]
+    },
+    "original_uri": "https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M"
+    }
+}

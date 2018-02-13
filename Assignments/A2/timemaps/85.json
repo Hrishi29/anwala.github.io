@@ -1,0 +1,90 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T03:04:12Z",
+            "uri": "http://archive.is/20180209030412/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T07:20:38Z",
+            "uri": "http://web.archive.org/web/20180211072038/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T03:04:12Z",
+                "uri": "http://archive.is/20180209030412/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-09T03:11:07Z",
+                "uri": "http://web.archive.org/web/20180209031107/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-09T04:25:12Z",
+                "uri": "http://web.archive.org/web/20180209042512/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-09T04:54:42Z",
+                "uri": "http://web.archive.org/web/20180209045442/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-09T08:15:17Z",
+                "uri": "http://web.archive.org/web/20180209081517/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-09T14:09:00Z",
+                "uri": "http://web.archive.org/web/20180209140900/http://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-09T15:44:26Z",
+                "uri": "http://web.archive.org/web/20180209154426/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-09T18:23:12Z",
+                "uri": "http://web.archive.org/web/20180209182312/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-09T19:00:35Z",
+                "uri": "http://web.archive.org/web/20180209190035/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-09T22:32:18Z",
+                "uri": "http://web.archive.org/web/20180209223218/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T03:10:53Z",
+                "uri": "http://web.archive.org/web/20180210031053/http://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T16:30:24Z",
+                "uri": "http://web.archive.org/web/20180210163024/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T16:40:12Z",
+                "uri": "http://web.archive.org/web/20180210164012/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-11T03:32:01Z",
+                "uri": "http://web.archive.org/web/20180211033201/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-11T04:15:12Z",
+                "uri": "http://web.archive.org/web/20180211041512/http://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-11T05:44:09Z",
+                "uri": "http://web.archive.org/web/20180211054409/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            },
+            {
+                "datetime": "2018-02-11T07:20:38Z",
+                "uri": "http://web.archive.org/web/20180211072038/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/02/08/us/politics/kelly-trump.html"
+    }
+}

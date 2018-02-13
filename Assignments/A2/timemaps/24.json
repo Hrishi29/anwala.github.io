@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T05:16:32Z",
+            "uri": "http://web.archive.org/web/20180211051632/http://thehill.com/homenews/house/373234-schiff-dems-will-to-review-recommended-memo-redactions-from-doj-fbi"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:16:32Z",
+            "uri": "http://web.archive.org/web/20180211051632/http://thehill.com/homenews/house/373234-schiff-dems-will-to-review-recommended-memo-redactions-from-doj-fbi"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T05:16:32Z",
+                "uri": "http://web.archive.org/web/20180211051632/http://thehill.com/homenews/house/373234-schiff-dems-will-to-review-recommended-memo-redactions-from-doj-fbi"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/homenews/house/373234-schiff-dems-will-to-review-recommended-memo-redactions-from-doj-fbi",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/house/373234-schiff-dems-will-to-review-recommended-memo-redactions-from-doj-fbi",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/homenews/house/373234-schiff-dems-will-to-review-recommended-memo-redactions-from-doj-fbi",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/homenews/house/373234-schiff-dems-will-to-review-recommended-memo-redactions-from-doj-fbi",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/house/373234-schiff-dems-will-to-review-recommended-memo-redactions-from-doj-fbi",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/homenews/house/373234-schiff-dems-will-to-review-recommended-memo-redactions-from-doj-fbi"
+    }
+}

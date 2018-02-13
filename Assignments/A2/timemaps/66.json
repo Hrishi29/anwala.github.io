@@ -1,0 +1,66 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-07T20:57:11Z",
+            "uri": "http://web.archive.org/web/20180207205711/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T21:51:07Z",
+            "uri": "http://web.archive.org/web/20180210215107/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-07T20:57:11Z",
+                "uri": "http://web.archive.org/web/20180207205711/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html"
+            },
+            {
+                "datetime": "2018-02-07T23:18:37Z",
+                "uri": "http://web.archive.org/web/20180207231837/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html"
+            },
+            {
+                "datetime": "2018-02-08T01:12:59Z",
+                "uri": "http://web.archive.org/web/20180208011259/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html"
+            },
+            {
+                "datetime": "2018-02-08T01:22:12Z",
+                "uri": "http://archive.is/20180208012212/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html"
+            },
+            {
+                "datetime": "2018-02-08T02:59:32Z",
+                "uri": "http://web.archive.org/web/20180208025932/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html"
+            },
+            {
+                "datetime": "2018-02-08T13:04:30Z",
+                "uri": "http://web.archive.org/web/20180208130430/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html"
+            },
+            {
+                "datetime": "2018-02-08T14:33:27Z",
+                "uri": "http://web.archive.org/web/20180208143327/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html"
+            },
+            {
+                "datetime": "2018-02-09T17:09:12Z",
+                "uri": "http://web.archive.org/web/20180209170912/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html"
+            },
+            {
+                "datetime": "2018-02-10T14:21:18Z",
+                "uri": "http://web.archive.org/web/20180210142118/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html"
+            },
+            {
+                "datetime": "2018-02-10T17:42:08Z",
+                "uri": "http://web.archive.org/web/20180210174208/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html"
+            },
+            {
+                "datetime": "2018-02-10T21:51:07Z",
+                "uri": "http://web.archive.org/web/20180210215107/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.foxnews.com/politics/2018/02/07/new-strzok-page-texts-call-into-question-obamas-2016-statement-on-fbi-probes.html"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T03:42:40Z",
+            "uri": "http://web.archive.org/web/20180210034240/https://www.boston.com/news/media/2018/02/09/fox-news-deletes-column-on-darker-gayer-different-olympics"
+        },
+        "last": {
+            "datetime": "2018-02-10T03:42:40Z",
+            "uri": "http://web.archive.org/web/20180210034240/https://www.boston.com/news/media/2018/02/09/fox-news-deletes-column-on-darker-gayer-different-olympics"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T03:42:40Z",
+                "uri": "http://web.archive.org/web/20180210034240/https://www.boston.com/news/media/2018/02/09/fox-news-deletes-column-on-darker-gayer-different-olympics"
+            }
+        ]
+    },
+    "original_uri": "https://www.boston.com/news/media/2018/02/09/fox-news-deletes-column-on-darker-gayer-different-olympics",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.boston.com/news/media/2018/02/09/fox-news-deletes-column-on-darker-gayer-different-olympics",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.boston.com/news/media/2018/02/09/fox-news-deletes-column-on-darker-gayer-different-olympics",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.boston.com/news/media/2018/02/09/fox-news-deletes-column-on-darker-gayer-different-olympics",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.boston.com/news/media/2018/02/09/fox-news-deletes-column-on-darker-gayer-different-olympics",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.boston.com/news/media/2018/02/09/fox-news-deletes-column-on-darker-gayer-different-olympics"
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T19:02:20Z",
+            "uri": "http://web.archive.org/web/20180208190220/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+        },
+        "last": {
+            "datetime": "2018-02-11T22:44:59Z",
+            "uri": "http://web.archive.org/web/20180211224459/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T19:02:20Z",
+                "uri": "http://web.archive.org/web/20180208190220/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-08T19:02:29Z",
+                "uri": "http://archive.is/20180208190229/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-08T21:16:20Z",
+                "uri": "http://web.archive.org/web/20180208211620/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-08T21:31:32Z",
+                "uri": "http://web.archive.org/web/20180208213132/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-08T21:46:49Z",
+                "uri": "http://web.archive.org/web/20180208214649/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-08T22:02:02Z",
+                "uri": "http://web.archive.org/web/20180208220202/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-09T16:26:33Z",
+                "uri": "http://web.archive.org/web/20180209162633/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-09T20:30:18Z",
+                "uri": "http://web.archive.org/web/20180209203018/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-09T21:21:34Z",
+                "uri": "http://web.archive.org/web/20180209212134/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-09T21:36:51Z",
+                "uri": "http://web.archive.org/web/20180209213651/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-10T18:16:43Z",
+                "uri": "http://archive.is/20180210181643/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T12:24:54Z",
+                "uri": "http://web.archive.org/web/20180211122454/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T13:16:19Z",
+                "uri": "http://web.archive.org/web/20180211131619/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T13:31:45Z",
+                "uri": "http://web.archive.org/web/20180211133145/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T13:45:09Z",
+                "uri": "http://web.archive.org/web/20180211134509/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T14:01:12Z",
+                "uri": "http://web.archive.org/web/20180211140112/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T14:15:50Z",
+                "uri": "http://web.archive.org/web/20180211141550/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T14:17:08Z",
+                "uri": "http://perma-archives.org/warc/20180211141708/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T14:18:36Z",
+                "uri": "http://perma-archives.org/warc/20180211141836/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T14:18:36Z",
+                "uri": "http://perma-archives.org/warc/20180211141836/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T14:18:36Z",
+                "uri": "http://perma-archives.org/warc/20180211141836/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T14:18:36Z",
+                "uri": "http://perma-archives.org/warc/20180211141836/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T14:18:36Z",
+                "uri": "http://perma-archives.org/warc/20180211141836/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T14:18:36Z",
+                "uri": "http://perma-archives.org/warc/20180211141836/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T14:18:36Z",
+                "uri": "http://perma-archives.org/warc/20180211141836/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T14:19:13Z",
+                "uri": "http://perma-archives.org/warc/20180211141913/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T14:30:47Z",
+                "uri": "http://web.archive.org/web/20180211143047/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T14:45:52Z",
+                "uri": "http://web.archive.org/web/20180211144552/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T15:01:13Z",
+                "uri": "http://web.archive.org/web/20180211150113/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T15:16:17Z",
+                "uri": "http://web.archive.org/web/20180211151617/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T15:31:22Z",
+                "uri": "http://web.archive.org/web/20180211153122/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T15:46:36Z",
+                "uri": "http://web.archive.org/web/20180211154636/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            },
+            {
+                "datetime": "2018-02-11T22:44:59Z",
+                "uri": "http://web.archive.org/web/20180211224459/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+            }
+        ]
+    },
+    "original_uri": "http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.esquire.com/news-politics/a15895746/bust-big-tech-silicon-valley/"
+    }
+}

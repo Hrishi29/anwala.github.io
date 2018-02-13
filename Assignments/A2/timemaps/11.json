@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T05:19:04Z",
+            "uri": "http://web.archive.org/web/20180211051904/http://thehill.com/homenews/373206-us-intelligence-negotiating-return-of-classified-nsa-documents"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:19:04Z",
+            "uri": "http://web.archive.org/web/20180211051904/http://thehill.com/homenews/373206-us-intelligence-negotiating-return-of-classified-nsa-documents"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T05:19:04Z",
+                "uri": "http://web.archive.org/web/20180211051904/http://thehill.com/homenews/373206-us-intelligence-negotiating-return-of-classified-nsa-documents"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/homenews/373206-us-intelligence-negotiating-return-of-classified-nsa-documents",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/373206-us-intelligence-negotiating-return-of-classified-nsa-documents",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/homenews/373206-us-intelligence-negotiating-return-of-classified-nsa-documents",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/homenews/373206-us-intelligence-negotiating-return-of-classified-nsa-documents",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/373206-us-intelligence-negotiating-return-of-classified-nsa-documents",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/homenews/373206-us-intelligence-negotiating-return-of-classified-nsa-documents"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-09-20T03:10:37Z",
+            "uri": "http://web.archive.org/web/20170920031037/http://deadstate.org/christian-college-punished-football-players-who-raped-and-beat-a-student-with-an-8-page-essay/"
+        },
+        "last": {
+            "datetime": "2017-10-22T04:08:26Z",
+            "uri": "http://web.archive.org/web/20171022040826/http://deadstate.org/christian-college-punished-football-players-who-raped-and-beat-a-student-with-an-8-page-essay/"
+        },
+        "list": [
+            {
+                "datetime": "2017-09-20T03:10:37Z",
+                "uri": "http://web.archive.org/web/20170920031037/http://deadstate.org/christian-college-punished-football-players-who-raped-and-beat-a-student-with-an-8-page-essay/"
+            },
+            {
+                "datetime": "2017-10-22T04:08:26Z",
+                "uri": "http://web.archive.org/web/20171022040826/http://deadstate.org/christian-college-punished-football-players-who-raped-and-beat-a-student-with-an-8-page-essay/"
+            }
+        ]
+    },
+    "original_uri": "http://deadstate.org/christian-college-punished-football-players-who-raped-and-beat-a-student-with-an-8-page-essay/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://deadstate.org/christian-college-punished-football-players-who-raped-and-beat-a-student-with-an-8-page-essay/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://deadstate.org/christian-college-punished-football-players-who-raped-and-beat-a-student-with-an-8-page-essay/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://deadstate.org/christian-college-punished-football-players-who-raped-and-beat-a-student-with-an-8-page-essay/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://deadstate.org/christian-college-punished-football-players-who-raped-and-beat-a-student-with-an-8-page-essay/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://deadstate.org/christian-college-punished-football-players-who-raped-and-beat-a-student-with-an-8-page-essay/"
+    }
+}

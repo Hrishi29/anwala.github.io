@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2015-01-06T12:00:23Z",
+            "uri": "http://web.archive.org/web/20150106120023/http://www.shortpacked.com:80/?id=183"
+        },
+        "last": {
+            "datetime": "2017-07-06T21:35:09Z",
+            "uri": "http://web.archive.org/web/20170706213509/http://www.shortpacked.com:80/?id=183"
+        },
+        "list": [
+            {
+                "datetime": "2015-01-06T12:00:23Z",
+                "uri": "http://web.archive.org/web/20150106120023/http://www.shortpacked.com:80/?id=183"
+            },
+            {
+                "datetime": "2015-04-29T09:33:35Z",
+                "uri": "http://web.archive.org/web/20150429093335/http://www.shortpacked.com:80/?id=183"
+            },
+            {
+                "datetime": "2016-07-30T22:29:57Z",
+                "uri": "http://web.archive.org/web/20160730222957/http://www.shortpacked.com:80/?id=183"
+            },
+            {
+                "datetime": "2017-07-06T21:35:09Z",
+                "uri": "http://web.archive.org/web/20170706213509/http://www.shortpacked.com:80/?id=183"
+            }
+        ]
+    },
+    "original_uri": "http://www.shortpacked.com/?id=183",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.shortpacked.com/?id=183",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.shortpacked.com/?id=183",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.shortpacked.com/?id=183",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.shortpacked.com/?id=183",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.shortpacked.com/?id=183"
+    }
+}

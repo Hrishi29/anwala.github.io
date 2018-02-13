@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T05:51:16Z",
+            "uri": "http://web.archive.org/web/20180210055116/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big"
+        },
+        "last": {
+            "datetime": "2018-02-10T05:51:16Z",
+            "uri": "http://web.archive.org/web/20180210055116/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T05:51:16Z",
+                "uri": "http://web.archive.org/web/20180210055116/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big"
+    }
+}

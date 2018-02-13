@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T03:04:13Z",
+            "uri": "http://web.archive.org/web/20180210030413/http://www.sankei.com/politics/news/180210/plt1802100009-n1.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T06:50:09Z",
+            "uri": "http://archive.is/20180210065009/http://www.sankei.com/politics/news/180210/plt1802100009-n1.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T03:04:13Z",
+                "uri": "http://web.archive.org/web/20180210030413/http://www.sankei.com/politics/news/180210/plt1802100009-n1.html"
+            },
+            {
+                "datetime": "2018-02-10T06:50:09Z",
+                "uri": "http://archive.is/20180210065009/http://www.sankei.com/politics/news/180210/plt1802100009-n1.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.sankei.com/politics/news/180210/plt1802100009-n1.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.sankei.com/politics/news/180210/plt1802100009-n1.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.sankei.com/politics/news/180210/plt1802100009-n1.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.sankei.com/politics/news/180210/plt1802100009-n1.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.sankei.com/politics/news/180210/plt1802100009-n1.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.sankei.com/politics/news/180210/plt1802100009-n1.html"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T20:56:53Z",
+            "uri": "http://web.archive.org/web/20180209205653/https://slate.com/news-and-politics/2018/02/john-kelly-is-no-better-than-donald-trump.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T23:28:05Z",
+            "uri": "http://web.archive.org/web/20180210232805/https://slate.com/news-and-politics/2018/02/john-kelly-is-no-better-than-donald-trump.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T20:56:53Z",
+                "uri": "http://web.archive.org/web/20180209205653/https://slate.com/news-and-politics/2018/02/john-kelly-is-no-better-than-donald-trump.html"
+            },
+            {
+                "datetime": "2018-02-09T22:22:10Z",
+                "uri": "http://web.archive.org/web/20180209222210/https://slate.com/news-and-politics/2018/02/john-kelly-is-no-better-than-donald-trump.html"
+            },
+            {
+                "datetime": "2018-02-09T22:22:13Z",
+                "uri": "http://web.archive.org/web/20180209222213/https://slate.com/news-and-politics/2018/02/john-kelly-is-no-better-than-donald-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T01:56:22Z",
+                "uri": "http://web.archive.org/web/20180210015622/https://slate.com/news-and-politics/2018/02/john-kelly-is-no-better-than-donald-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T22:59:06Z",
+                "uri": "http://web.archive.org/web/20180210225906/https://slate.com/news-and-politics/2018/02/john-kelly-is-no-better-than-donald-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T23:28:05Z",
+                "uri": "http://web.archive.org/web/20180210232805/https://slate.com/news-and-politics/2018/02/john-kelly-is-no-better-than-donald-trump.html"
+            }
+        ]
+    },
+    "original_uri": "https://slate.com/news-and-politics/2018/02/john-kelly-is-no-better-than-donald-trump.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://slate.com/news-and-politics/2018/02/john-kelly-is-no-better-than-donald-trump.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://slate.com/news-and-politics/2018/02/john-kelly-is-no-better-than-donald-trump.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://slate.com/news-and-politics/2018/02/john-kelly-is-no-better-than-donald-trump.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://slate.com/news-and-politics/2018/02/john-kelly-is-no-better-than-donald-trump.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://slate.com/news-and-politics/2018/02/john-kelly-is-no-better-than-donald-trump.html"
+    }
+}

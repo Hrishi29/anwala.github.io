@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T06:55:50Z",
+            "uri": "http://web.archive.org/web/20180210065550/http://thehill.com/homenews/senate/373171-kaine-theres-a-complete-moral-vacuum-in-the-oval-office"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:25:49Z",
+            "uri": "http://web.archive.org/web/20180211052549/http://thehill.com/homenews/senate/373171-kaine-theres-a-complete-moral-vacuum-in-the-oval-office"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T06:55:50Z",
+                "uri": "http://web.archive.org/web/20180210065550/http://thehill.com/homenews/senate/373171-kaine-theres-a-complete-moral-vacuum-in-the-oval-office"
+            },
+            {
+                "datetime": "2018-02-11T05:25:49Z",
+                "uri": "http://web.archive.org/web/20180211052549/http://thehill.com/homenews/senate/373171-kaine-theres-a-complete-moral-vacuum-in-the-oval-office"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/homenews/senate/373171-kaine-theres-a-complete-moral-vacuum-in-the-oval-office",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/senate/373171-kaine-theres-a-complete-moral-vacuum-in-the-oval-office",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/homenews/senate/373171-kaine-theres-a-complete-moral-vacuum-in-the-oval-office",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/homenews/senate/373171-kaine-theres-a-complete-moral-vacuum-in-the-oval-office",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/senate/373171-kaine-theres-a-complete-moral-vacuum-in-the-oval-office",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/homenews/senate/373171-kaine-theres-a-complete-moral-vacuum-in-the-oval-office"
+    }
+}

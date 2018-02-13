@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T02:59:42Z",
+            "uri": "http://web.archive.org/web/20180210025942/https://www.nbcwashington.com/news/local/The-President-Saved-My-Life-Trump-Meets-Cancer-Survivor-Who-He-Gave-10K-473638753.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T02:59:42Z",
+            "uri": "http://web.archive.org/web/20180210025942/https://www.nbcwashington.com/news/local/The-President-Saved-My-Life-Trump-Meets-Cancer-Survivor-Who-He-Gave-10K-473638753.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T02:59:42Z",
+                "uri": "http://web.archive.org/web/20180210025942/https://www.nbcwashington.com/news/local/The-President-Saved-My-Life-Trump-Meets-Cancer-Survivor-Who-He-Gave-10K-473638753.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nbcwashington.com/news/local/The-President-Saved-My-Life-Trump-Meets-Cancer-Survivor-Who-He-Gave-10K-473638753.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nbcwashington.com/news/local/The-President-Saved-My-Life-Trump-Meets-Cancer-Survivor-Who-He-Gave-10K-473638753.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nbcwashington.com/news/local/The-President-Saved-My-Life-Trump-Meets-Cancer-Survivor-Who-He-Gave-10K-473638753.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nbcwashington.com/news/local/The-President-Saved-My-Life-Trump-Meets-Cancer-Survivor-Who-He-Gave-10K-473638753.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nbcwashington.com/news/local/The-President-Saved-My-Life-Trump-Meets-Cancer-Survivor-Who-He-Gave-10K-473638753.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nbcwashington.com/news/local/The-President-Saved-My-Life-Trump-Meets-Cancer-Survivor-Who-He-Gave-10K-473638753.html"
+    }
+}
