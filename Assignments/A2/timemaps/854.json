@@ -1,0 +1,82 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T01:26:46Z",
+            "uri": "http://web.archive.org/web/20180210012646/https://olympics.cbc.ca/schedule/"
+        },
+        "last": {
+            "datetime": "2018-02-12T00:45:32Z",
+            "uri": "http://web.archive.org/web/20180212004532/https://olympics.cbc.ca/schedule/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T01:26:46Z",
+                "uri": "http://web.archive.org/web/20180210012646/https://olympics.cbc.ca/schedule/"
+            },
+            {
+                "datetime": "2018-02-10T01:27:12Z",
+                "uri": "http://archive.is/20180210012712/https://olympics.cbc.ca/schedule/"
+            },
+            {
+                "datetime": "2018-02-10T06:23:12Z",
+                "uri": "http://web.archive.org/web/20180210062312/https://olympics.cbc.ca/schedule/"
+            },
+            {
+                "datetime": "2018-02-10T06:45:52Z",
+                "uri": "http://web.archive.org/web/20180210064552/https://olympics.cbc.ca/schedule/"
+            },
+            {
+                "datetime": "2018-02-10T14:24:53Z",
+                "uri": "http://web.archive.org/web/20180210142453/https://olympics.cbc.ca/schedule/"
+            },
+            {
+                "datetime": "2018-02-10T18:34:41Z",
+                "uri": "http://web.archive.org/web/20180210183441/https://olympics.cbc.ca/schedule/"
+            },
+            {
+                "datetime": "2018-02-10T23:18:35Z",
+                "uri": "http://web.archive.org/web/20180210231835/https://olympics.cbc.ca/schedule/"
+            },
+            {
+                "datetime": "2018-02-11T02:27:50Z",
+                "uri": "http://web.archive.org/web/20180211022750/https://olympics.cbc.ca/schedule/"
+            },
+            {
+                "datetime": "2018-02-11T02:27:50Z",
+                "uri": "http://web.archive.org/web/20180211022750/https://olympics.cbc.ca/schedule/"
+            },
+            {
+                "datetime": "2018-02-11T14:18:24Z",
+                "uri": "http://web.archive.org/web/20180211141824/https://olympics.cbc.ca/schedule/"
+            },
+            {
+                "datetime": "2018-02-11T14:18:24Z",
+                "uri": "http://web.archive.org/web/20180211141824/https://olympics.cbc.ca/schedule/"
+            },
+            {
+                "datetime": "2018-02-11T18:34:02Z",
+                "uri": "http://web.archive.org/web/20180211183402/https://olympics.cbc.ca/schedule/"
+            },
+            {
+                "datetime": "2018-02-11T21:07:37Z",
+                "uri": "http://web.archive.org/web/20180211210737/https://olympics.cbc.ca/schedule/"
+            },
+            {
+                "datetime": "2018-02-12T00:06:28Z",
+                "uri": "http://web.archive.org/web/20180212000628/https://olympics.cbc.ca/schedule/"
+            },
+            {
+                "datetime": "2018-02-12T00:45:32Z",
+                "uri": "http://web.archive.org/web/20180212004532/https://olympics.cbc.ca/schedule/"
+            }
+        ]
+    },
+    "original_uri": "https://olympics.cbc.ca/schedule/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://olympics.cbc.ca/schedule/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://olympics.cbc.ca/schedule/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://olympics.cbc.ca/schedule/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://olympics.cbc.ca/schedule/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://olympics.cbc.ca/schedule/"
+    }
+}

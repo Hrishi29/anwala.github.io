@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-02T16:25:53Z",
+            "uri": "http://web.archive.org/web/20180202162553/https://www.usatoday.com/story/money/2018/02/02/exxon-mobil-profit-trump-tax-cut/300076002/"
+        },
+        "last": {
+            "datetime": "2018-02-07T23:02:09Z",
+            "uri": "http://web.archive.org/web/20180207230209/https://www.usatoday.com/story/money/2018/02/02/exxon-mobil-profit-trump-tax-cut/300076002/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-02T16:25:53Z",
+                "uri": "http://web.archive.org/web/20180202162553/https://www.usatoday.com/story/money/2018/02/02/exxon-mobil-profit-trump-tax-cut/300076002/"
+            },
+            {
+                "datetime": "2018-02-02T20:26:33Z",
+                "uri": "http://web.archive.org/web/20180202202633/https://www.usatoday.com/story/money/2018/02/02/exxon-mobil-profit-trump-tax-cut/300076002/"
+            },
+            {
+                "datetime": "2018-02-02T20:27:00Z",
+                "uri": "http://web.archive.org/web/20180202202700/http://www.usatoday.com/story/money/2018/02/02/exxon-mobil-profit-trump-tax-cut/300076002/"
+            },
+            {
+                "datetime": "2018-02-07T23:02:09Z",
+                "uri": "http://web.archive.org/web/20180207230209/https://www.usatoday.com/story/money/2018/02/02/exxon-mobil-profit-trump-tax-cut/300076002/"
+            }
+        ]
+    },
+    "original_uri": "https://www.usatoday.com/story/money/2018/02/02/exxon-mobil-profit-trump-tax-cut/300076002/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.usatoday.com/story/money/2018/02/02/exxon-mobil-profit-trump-tax-cut/300076002/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.usatoday.com/story/money/2018/02/02/exxon-mobil-profit-trump-tax-cut/300076002/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.usatoday.com/story/money/2018/02/02/exxon-mobil-profit-trump-tax-cut/300076002/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.usatoday.com/story/money/2018/02/02/exxon-mobil-profit-trump-tax-cut/300076002/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.usatoday.com/story/money/2018/02/02/exxon-mobil-profit-trump-tax-cut/300076002/"
+    }
+}

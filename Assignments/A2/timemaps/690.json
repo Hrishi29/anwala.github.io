@@ -1,0 +1,70 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T18:58:28Z",
+            "uri": "http://web.archive.org/web/20180209185828/http://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/"
+        },
+        "last": {
+            "datetime": "2018-02-11T06:47:01Z",
+            "uri": "http://web.archive.org/web/20180211064701/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T18:58:28Z",
+                "uri": "http://web.archive.org/web/20180209185828/http://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/"
+            },
+            {
+                "datetime": "2018-02-09T18:58:30Z",
+                "uri": "http://web.archive.org/web/20180209185830/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/"
+            },
+            {
+                "datetime": "2018-02-09T21:04:50Z",
+                "uri": "http://web.archive.org/web/20180209210450/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/"
+            },
+            {
+                "datetime": "2018-02-09T22:26:33Z",
+                "uri": "http://web.archive.org/web/20180209222633/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/"
+            },
+            {
+                "datetime": "2018-02-09T22:28:28Z",
+                "uri": "http://archive.is/20180209222828/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/"
+            },
+            {
+                "datetime": "2018-02-09T22:53:07Z",
+                "uri": "http://web.archive.org/web/20180209225307/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/"
+            },
+            {
+                "datetime": "2018-02-10T00:38:33Z",
+                "uri": "http://web.archive.org/web/20180210003833/http://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/"
+            },
+            {
+                "datetime": "2018-02-10T06:32:08Z",
+                "uri": "http://web.archive.org/web/20180210063208/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/"
+            },
+            {
+                "datetime": "2018-02-10T17:01:27Z",
+                "uri": "http://web.archive.org/web/20180210170127/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/"
+            },
+            {
+                "datetime": "2018-02-11T01:41:37Z",
+                "uri": "http://web.archive.org/web/20180211014137/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/"
+            },
+            {
+                "datetime": "2018-02-11T06:47:01Z",
+                "uri": "http://wayback.archive-it.org/all/20180211064701/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/"
+            },
+            {
+                "datetime": "2018-02-11T06:47:01Z",
+                "uri": "http://web.archive.org/web/20180211064701/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/"
+            }
+        ]
+    },
+    "original_uri": "https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.salon.com/2018/02/09/trump-cant-be-bothered-to-read-his-daily-intel-reports/"
+    }
+}

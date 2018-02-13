@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T04:59:41Z",
+            "uri": "http://web.archive.org/web/20180210045941/http://yournewswires.com/"
+        },
+        "last": {
+            "datetime": "2018-02-11T22:26:52Z",
+            "uri": "http://web.archive.org/web/20180211222652/http://yournewswires.com/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T04:59:41Z",
+                "uri": "http://web.archive.org/web/20180210045941/http://yournewswires.com/"
+            },
+            {
+                "datetime": "2018-02-10T04:59:41Z",
+                "uri": "http://web.archive.org/web/20180210045941/http://yournewswires.com/"
+            },
+            {
+                "datetime": "2018-02-10T04:59:42Z",
+                "uri": "http://web.archive.org/web/20180210045942/http://yournewswires.com/"
+            },
+            {
+                "datetime": "2018-02-10T04:59:42Z",
+                "uri": "http://web.archive.org/web/20180210045942/http://yournewswires.com/"
+            },
+            {
+                "datetime": "2018-02-11T10:23:36Z",
+                "uri": "http://web.archive.org/web/20180211102336/http://yournewswires.com/"
+            },
+            {
+                "datetime": "2018-02-11T10:23:36Z",
+                "uri": "http://web.archive.org/web/20180211102336/http://yournewswires.com/"
+            },
+            {
+                "datetime": "2018-02-11T22:26:52Z",
+                "uri": "http://web.archive.org/web/20180211222652/http://yournewswires.com/"
+            }
+        ]
+    },
+    "original_uri": "http://yournewswires.com/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://yournewswires.com/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://yournewswires.com/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://yournewswires.com/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://yournewswires.com/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://yournewswires.com/"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T18:51:06Z",
+            "uri": "http://web.archive.org/web/20180209185106/http://www.foxnews.com/us/2018/02/09/fate-trumps-border-wall-could-be-decided-by-judge-who-clashed-with-president.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T15:32:58Z",
+            "uri": "http://web.archive.org/web/20180210153258/http://www.foxnews.com/us/2018/02/09/fate-trumps-border-wall-could-be-decided-by-judge-who-clashed-with-president.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T18:51:06Z",
+                "uri": "http://web.archive.org/web/20180209185106/http://www.foxnews.com/us/2018/02/09/fate-trumps-border-wall-could-be-decided-by-judge-who-clashed-with-president.html"
+            },
+            {
+                "datetime": "2018-02-09T22:19:47Z",
+                "uri": "http://web.archive.org/web/20180209221947/http://www.foxnews.com/us/2018/02/09/fate-trumps-border-wall-could-be-decided-by-judge-who-clashed-with-president.html"
+            },
+            {
+                "datetime": "2018-02-10T01:24:00Z",
+                "uri": "http://web.archive.org/web/20180210012400/http://www.foxnews.com/us/2018/02/09/fate-trumps-border-wall-could-be-decided-by-judge-who-clashed-with-president.html"
+            },
+            {
+                "datetime": "2018-02-10T01:30:57Z",
+                "uri": "http://web.archive.org/web/20180210013057/http://www.foxnews.com/us/2018/02/09/fate-trumps-border-wall-could-be-decided-by-judge-who-clashed-with-president.html"
+            },
+            {
+                "datetime": "2018-02-10T04:20:36Z",
+                "uri": "http://web.archive.org/web/20180210042036/http://www.foxnews.com/us/2018/02/09/fate-trumps-border-wall-could-be-decided-by-judge-who-clashed-with-president.html"
+            },
+            {
+                "datetime": "2018-02-10T06:05:22Z",
+                "uri": "http://web.archive.org/web/20180210060522/http://www.foxnews.com/us/2018/02/09/fate-trumps-border-wall-could-be-decided-by-judge-who-clashed-with-president.html"
+            },
+            {
+                "datetime": "2018-02-10T15:32:58Z",
+                "uri": "http://web.archive.org/web/20180210153258/http://www.foxnews.com/us/2018/02/09/fate-trumps-border-wall-could-be-decided-by-judge-who-clashed-with-president.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.foxnews.com/us/2018/02/09/fate-trumps-border-wall-could-be-decided-by-judge-who-clashed-with-president.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/us/2018/02/09/fate-trumps-border-wall-could-be-decided-by-judge-who-clashed-with-president.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.foxnews.com/us/2018/02/09/fate-trumps-border-wall-could-be-decided-by-judge-who-clashed-with-president.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.foxnews.com/us/2018/02/09/fate-trumps-border-wall-could-be-decided-by-judge-who-clashed-with-president.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/us/2018/02/09/fate-trumps-border-wall-could-be-decided-by-judge-who-clashed-with-president.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.foxnews.com/us/2018/02/09/fate-trumps-border-wall-could-be-decided-by-judge-who-clashed-with-president.html"
+    }
+}

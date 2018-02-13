@@ -1,0 +1,106 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T04:16:17Z",
+            "uri": "http://web.archive.org/web/20180210041617/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+        },
+        "last": {
+            "datetime": "2018-02-11T23:35:46Z",
+            "uri": "http://web.archive.org/web/20180211233546/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T04:16:17Z",
+                "uri": "http://web.archive.org/web/20180210041617/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-10T19:20:56Z",
+                "uri": "http://web.archive.org/web/20180210192056/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-10T23:17:17Z",
+                "uri": "http://web.archive.org/web/20180210231717/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-10T23:42:22Z",
+                "uri": "http://web.archive.org/web/20180210234222/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T00:25:59Z",
+                "uri": "http://web.archive.org/web/20180211002559/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T02:45:46Z",
+                "uri": "http://web.archive.org/web/20180211024546/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T04:56:46Z",
+                "uri": "http://web.archive.org/web/20180211045646/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T06:37:15Z",
+                "uri": "http://web.archive.org/web/20180211063715/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T07:07:51Z",
+                "uri": "http://web.archive.org/web/20180211070751/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T07:57:44Z",
+                "uri": "http://web.archive.org/web/20180211075744/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T09:24:01Z",
+                "uri": "http://web.archive.org/web/20180211092401/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T09:46:20Z",
+                "uri": "http://web.archive.org/web/20180211094620/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T12:02:28Z",
+                "uri": "http://web.archive.org/web/20180211120228/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T16:55:23Z",
+                "uri": "http://web.archive.org/web/20180211165523/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T18:21:00Z",
+                "uri": "http://web.archive.org/web/20180211182100/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T18:37:44Z",
+                "uri": "http://web.archive.org/web/20180211183744/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T20:11:25Z",
+                "uri": "http://web.archive.org/web/20180211201125/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T21:08:56Z",
+                "uri": "http://web.archive.org/web/20180211210856/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T21:47:49Z",
+                "uri": "http://web.archive.org/web/20180211214749/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T22:19:15Z",
+                "uri": "http://web.archive.org/web/20180211221915/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            },
+            {
+                "datetime": "2018-02-11T23:35:46Z",
+                "uri": "http://web.archive.org/web/20180211233546/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+            }
+        ]
+    },
+    "original_uri": "http://www.bbc.co.uk/sport/winter-olympics/43013929",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.co.uk/sport/winter-olympics/43013929",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.bbc.co.uk/sport/winter-olympics/43013929",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.bbc.co.uk/sport/winter-olympics/43013929",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.co.uk/sport/winter-olympics/43013929",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.bbc.co.uk/sport/winter-olympics/43013929"
+    }
+}

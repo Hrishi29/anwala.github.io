@@ -1,0 +1,86 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T00:32:29Z",
+            "uri": "http://web.archive.org/web/20180210003229/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:15:52Z",
+            "uri": "http://web.archive.org/web/20180211051552/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T00:32:29Z",
+                "uri": "http://web.archive.org/web/20180210003229/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            },
+            {
+                "datetime": "2018-02-10T00:34:29Z",
+                "uri": "http://web.archive.org/web/20180210003429/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            },
+            {
+                "datetime": "2018-02-10T01:30:32Z",
+                "uri": "http://web.archive.org/web/20180210013032/http://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            },
+            {
+                "datetime": "2018-02-10T01:33:51Z",
+                "uri": "http://web.archive.org/web/20180210013351/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            },
+            {
+                "datetime": "2018-02-10T02:13:04Z",
+                "uri": "http://web.archive.org/web/20180210021304/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            },
+            {
+                "datetime": "2018-02-10T03:01:53Z",
+                "uri": "http://web.archive.org/web/20180210030153/http://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            },
+            {
+                "datetime": "2018-02-10T03:45:39Z",
+                "uri": "http://web.archive.org/web/20180210034539/http://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            },
+            {
+                "datetime": "2018-02-10T03:46:12Z",
+                "uri": "http://archive.is/20180210034612/http://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            },
+            {
+                "datetime": "2018-02-10T08:59:25Z",
+                "uri": "http://wayback.archive-it.org/all/20180210085925/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            },
+            {
+                "datetime": "2018-02-10T08:59:25Z",
+                "uri": "http://web.archive.org/web/20180210085925/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            },
+            {
+                "datetime": "2018-02-10T21:19:29Z",
+                "uri": "http://web.archive.org/web/20180210211929/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            },
+            {
+                "datetime": "2018-02-10T21:34:42Z",
+                "uri": "http://web.archive.org/web/20180210213442/http://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            },
+            {
+                "datetime": "2018-02-10T22:38:36Z",
+                "uri": "http://web.archive.org/web/20180210223836/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            },
+            {
+                "datetime": "2018-02-10T23:51:03Z",
+                "uri": "http://web.archive.org/web/20180210235103/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            },
+            {
+                "datetime": "2018-02-11T05:15:52Z",
+                "uri": "http://wayback.archive-it.org/all/20180211051552/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            },
+            {
+                "datetime": "2018-02-11T05:15:52Z",
+                "uri": "http://web.archive.org/web/20180211051552/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cnn.com/2018/02/09/politics/trump-officials-pending-security-clearances/index.html"
+    }
+}

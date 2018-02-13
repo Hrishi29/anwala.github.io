@@ -1,0 +1,58 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T18:23:49Z",
+            "uri": "http://web.archive.org/web/20180209182349/https://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T04:14:58Z",
+            "uri": "http://web.archive.org/web/20180211041458/http://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T18:23:49Z",
+                "uri": "http://web.archive.org/web/20180209182349/https://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html"
+            },
+            {
+                "datetime": "2018-02-09T19:01:13Z",
+                "uri": "http://web.archive.org/web/20180209190113/https://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html"
+            },
+            {
+                "datetime": "2018-02-09T22:32:28Z",
+                "uri": "http://web.archive.org/web/20180209223228/https://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html"
+            },
+            {
+                "datetime": "2018-02-10T03:10:41Z",
+                "uri": "http://web.archive.org/web/20180210031041/http://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html"
+            },
+            {
+                "datetime": "2018-02-10T06:54:40Z",
+                "uri": "http://web.archive.org/web/20180210065440/https://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html"
+            },
+            {
+                "datetime": "2018-02-10T16:19:52Z",
+                "uri": "http://web.archive.org/web/20180210161952/https://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html"
+            },
+            {
+                "datetime": "2018-02-10T21:34:51Z",
+                "uri": "http://web.archive.org/web/20180210213451/https://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html"
+            },
+            {
+                "datetime": "2018-02-10T21:55:31Z",
+                "uri": "http://web.archive.org/web/20180210215531/https://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html"
+            },
+            {
+                "datetime": "2018-02-11T04:14:58Z",
+                "uri": "http://web.archive.org/web/20180211041458/http://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/02/09/business/trump-hotel-mississippi-tax-break.html"
+    }
+}

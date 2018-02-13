@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-02T10:06:30Z",
+            "uri": "http://web.archive.org/web/20180202100630/http://www.governing.com/topics/politics/gov-2018-attorneys-general-races-states.html"
+        },
+        "last": {
+            "datetime": "2018-02-05T22:06:33Z",
+            "uri": "http://web.archive.org/web/20180205220633/http://www.governing.com/topics/politics/gov-2018-attorneys-general-races-states.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-02T10:06:30Z",
+                "uri": "http://web.archive.org/web/20180202100630/http://www.governing.com/topics/politics/gov-2018-attorneys-general-races-states.html"
+            },
+            {
+                "datetime": "2018-02-04T06:45:51Z",
+                "uri": "http://wayback.archive-it.org/all/20180204064551/http://www.governing.com/topics/politics/gov-2018-attorneys-general-races-states.html"
+            },
+            {
+                "datetime": "2018-02-04T06:45:51Z",
+                "uri": "http://web.archive.org/web/20180204064551/http://www.governing.com/topics/politics/gov-2018-attorneys-general-races-states.html"
+            },
+            {
+                "datetime": "2018-02-05T22:06:33Z",
+                "uri": "http://web.archive.org/web/20180205220633/http://www.governing.com/topics/politics/gov-2018-attorneys-general-races-states.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.governing.com/topics/politics/gov-2018-attorneys-general-races-states.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.governing.com/topics/politics/gov-2018-attorneys-general-races-states.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.governing.com/topics/politics/gov-2018-attorneys-general-races-states.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.governing.com/topics/politics/gov-2018-attorneys-general-races-states.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.governing.com/topics/politics/gov-2018-attorneys-general-races-states.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.governing.com/topics/politics/gov-2018-attorneys-general-races-states.html"
+    }
+}

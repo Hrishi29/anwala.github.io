@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T14:36:20Z",
+            "uri": "http://web.archive.org/web/20180209143620/http://www.latimes.com/opinion/op-ed/la-oe-shaub-patriot-fund-20180209-story.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T19:30:51Z",
+            "uri": "http://web.archive.org/web/20180210193051/http://www.latimes.com/opinion/op-ed/la-oe-shaub-patriot-fund-20180209-story.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T14:36:20Z",
+                "uri": "http://web.archive.org/web/20180209143620/http://www.latimes.com/opinion/op-ed/la-oe-shaub-patriot-fund-20180209-story.html"
+            },
+            {
+                "datetime": "2018-02-09T16:54:12Z",
+                "uri": "http://web.archive.org/web/20180209165412/http://www.latimes.com/opinion/op-ed/la-oe-shaub-patriot-fund-20180209-story.html"
+            },
+            {
+                "datetime": "2018-02-09T19:11:30Z",
+                "uri": "http://web.archive.org/web/20180209191130/http://www.latimes.com/opinion/op-ed/la-oe-shaub-patriot-fund-20180209-story.html"
+            },
+            {
+                "datetime": "2018-02-09T21:05:04Z",
+                "uri": "http://web.archive.org/web/20180209210504/http://www.latimes.com/opinion/op-ed/la-oe-shaub-patriot-fund-20180209-story.html"
+            },
+            {
+                "datetime": "2018-02-10T19:30:51Z",
+                "uri": "http://web.archive.org/web/20180210193051/http://www.latimes.com/opinion/op-ed/la-oe-shaub-patriot-fund-20180209-story.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.latimes.com/opinion/op-ed/la-oe-shaub-patriot-fund-20180209-story.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.latimes.com/opinion/op-ed/la-oe-shaub-patriot-fund-20180209-story.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.latimes.com/opinion/op-ed/la-oe-shaub-patriot-fund-20180209-story.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.latimes.com/opinion/op-ed/la-oe-shaub-patriot-fund-20180209-story.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.latimes.com/opinion/op-ed/la-oe-shaub-patriot-fund-20180209-story.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.latimes.com/opinion/op-ed/la-oe-shaub-patriot-fund-20180209-story.html"
+    }
+}

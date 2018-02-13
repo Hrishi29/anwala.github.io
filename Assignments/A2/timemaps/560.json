@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T04:57:26Z",
+            "uri": "http://archive.is/20180210045726/http://www.bbc.com/news/world-us-canada-43012426"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:15:56Z",
+            "uri": "http://web.archive.org/web/20180211051556/http://www.bbc.com/news/world-us-canada-43012426"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T04:57:26Z",
+                "uri": "http://archive.is/20180210045726/http://www.bbc.com/news/world-us-canada-43012426"
+            },
+            {
+                "datetime": "2018-02-10T18:57:26Z",
+                "uri": "http://web.archive.org/web/20180210185726/http://www.bbc.com/news/world-us-canada-43012426"
+            },
+            {
+                "datetime": "2018-02-10T23:07:14Z",
+                "uri": "http://archive.is/20180210230714/http://www.bbc.com/news/world-us-canada-43012426"
+            },
+            {
+                "datetime": "2018-02-11T02:50:45Z",
+                "uri": "http://web.archive.org/web/20180211025045/http://www.bbc.com/news/world-us-canada-43012426"
+            },
+            {
+                "datetime": "2018-02-11T05:15:56Z",
+                "uri": "http://wayback.archive-it.org/all/20180211051556/http://www.bbc.com/news/world-us-canada-43012426"
+            },
+            {
+                "datetime": "2018-02-11T05:15:56Z",
+                "uri": "http://web.archive.org/web/20180211051556/http://www.bbc.com/news/world-us-canada-43012426"
+            }
+        ]
+    },
+    "original_uri": "http://www.bbc.com/news/world-us-canada-43012426",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.com/news/world-us-canada-43012426",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.bbc.com/news/world-us-canada-43012426",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.bbc.com/news/world-us-canada-43012426",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.com/news/world-us-canada-43012426",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.bbc.com/news/world-us-canada-43012426"
+    }
+}

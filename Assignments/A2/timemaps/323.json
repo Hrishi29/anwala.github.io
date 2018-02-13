@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T16:54:09Z",
+            "uri": "http://web.archive.org/web/20180209165409/https://www.washingtonpost.com/news/reliable-source/wp/2018/02/08/omarosa-says-she-wouldnt-vote-for-trump-again-in-a-million-years/?utm_term=.4a8a5fd02f1b&tid=sm_tw"
+        },
+        "last": {
+            "datetime": "2018-02-09T16:54:09Z",
+            "uri": "http://web.archive.org/web/20180209165409/https://www.washingtonpost.com/news/reliable-source/wp/2018/02/08/omarosa-says-she-wouldnt-vote-for-trump-again-in-a-million-years/?utm_term=.4a8a5fd02f1b&tid=sm_tw"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T16:54:09Z",
+                "uri": "http://web.archive.org/web/20180209165409/https://www.washingtonpost.com/news/reliable-source/wp/2018/02/08/omarosa-says-she-wouldnt-vote-for-trump-again-in-a-million-years/?utm_term=.4a8a5fd02f1b&tid=sm_tw"
+            }
+        ]
+    },
+    "original_uri": "https://www.washingtonpost.com/news/reliable-source/wp/2018/02/08/omarosa-says-she-wouldnt-vote-for-trump-again-in-a-million-years/?utm_term=.4a8a5fd02f1b&tid=sm_tw",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/news/reliable-source/wp/2018/02/08/omarosa-says-she-wouldnt-vote-for-trump-again-in-a-million-years/?utm_term=.4a8a5fd02f1b&tid=sm_tw",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.washingtonpost.com/news/reliable-source/wp/2018/02/08/omarosa-says-she-wouldnt-vote-for-trump-again-in-a-million-years/?utm_term=.4a8a5fd02f1b&tid=sm_tw",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.washingtonpost.com/news/reliable-source/wp/2018/02/08/omarosa-says-she-wouldnt-vote-for-trump-again-in-a-million-years/?utm_term=.4a8a5fd02f1b&tid=sm_tw",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/news/reliable-source/wp/2018/02/08/omarosa-says-she-wouldnt-vote-for-trump-again-in-a-million-years/?utm_term=.4a8a5fd02f1b&tid=sm_tw",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.washingtonpost.com/news/reliable-source/wp/2018/02/08/omarosa-says-she-wouldnt-vote-for-trump-again-in-a-million-years/?utm_term=.4a8a5fd02f1b&tid=sm_tw"
+    }
+}

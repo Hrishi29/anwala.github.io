@@ -1,0 +1,86 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-03-30T17:45:48Z",
+            "uri": "http://web.archive.org/web/20160330174548/http://www.mediaite.com/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/"
+        },
+        "last": {
+            "datetime": "2016-10-23T22:11:42Z",
+            "uri": "http://web.archive.org/web/20161023221142/http://www.mediaite.com/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/"
+        },
+        "list": [
+            {
+                "datetime": "2016-03-30T17:45:48Z",
+                "uri": "http://web.archive.org/web/20160330174548/http://www.mediaite.com/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/"
+            },
+            {
+                "datetime": "2016-03-31T23:54:10Z",
+                "uri": "http://web.archive.org/web/20160331235410/http://www.mediaite.com:80/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/"
+            },
+            {
+                "datetime": "2016-03-31T23:54:10Z",
+                "uri": "http://web.archive.org/web/20160331235410/http://www.mediaite.com:80/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before"
+            },
+            {
+                "datetime": "2016-04-03T04:55:44Z",
+                "uri": "http://web.archive.org/web/20160403045544/http://www.mediaite.com:80/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/"
+            },
+            {
+                "datetime": "2016-04-29T12:38:55Z",
+                "uri": "http://web.archive.org/web/20160429123855/http://www.mediaite.com/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/"
+            },
+            {
+                "datetime": "2016-05-05T01:31:40Z",
+                "uri": "http://webarchive.loc.gov/all/20160505013140/http://www.mediaite.com/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/"
+            },
+            {
+                "datetime": "2016-05-05T06:37:53Z",
+                "uri": "http://web.archive.org/web/20160505063753/http://www.mediaite.com:80/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/"
+            },
+            {
+                "datetime": "2016-05-05T06:37:53Z",
+                "uri": "http://web.archive.org/web/20160505063753/http://www.mediaite.com:80/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before"
+            },
+            {
+                "datetime": "2016-06-03T06:35:17Z",
+                "uri": "http://web.archive.org/web/20160603063517/http://www.mediaite.com:80/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/"
+            },
+            {
+                "datetime": "2016-06-22T17:26:04Z",
+                "uri": "http://web.archive.org/web/20160622172604/http://www.mediaite.com:80/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/"
+            },
+            {
+                "datetime": "2016-06-22T17:26:04Z",
+                "uri": "http://web.archive.org/web/20160622172604/http://www.mediaite.com:80/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before"
+            },
+            {
+                "datetime": "2016-07-27T21:33:12Z",
+                "uri": "http://web.archive.org/web/20160727213312/http://www.mediaite.com:80/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/"
+            },
+            {
+                "datetime": "2016-07-27T21:33:12Z",
+                "uri": "http://web.archive.org/web/20160727213312/http://www.mediaite.com:80/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before"
+            },
+            {
+                "datetime": "2016-08-05T02:23:04Z",
+                "uri": "http://web.archive.org/web/20160805022304/http://www.mediaite.com:80/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/"
+            },
+            {
+                "datetime": "2016-08-27T17:43:49Z",
+                "uri": "http://web.archive.org/web/20160827174349/http://www.mediaite.com/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/"
+            },
+            {
+                "datetime": "2016-10-23T22:11:42Z",
+                "uri": "http://web.archive.org/web/20161023221142/http://www.mediaite.com/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/"
+            }
+        ]
+    },
+    "original_uri": "https://www.mediaite.com/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.mediaite.com/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.mediaite.com/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.mediaite.com/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.mediaite.com/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.mediaite.com/online/trump-on-michelle-fields-how-do-you-know-those-bruises-werent-there-before/"
+    }
+}

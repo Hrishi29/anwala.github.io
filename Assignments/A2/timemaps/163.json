@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T05:27:46Z",
+            "uri": "http://web.archive.org/web/20180211052746/http://thehill.com/homenews/media/373188-jake-tapper-resurfaces-trump-tweet-about-domestic-abuse-in-wake-of-rob-porter"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:27:46Z",
+            "uri": "http://web.archive.org/web/20180211052746/http://thehill.com/homenews/media/373188-jake-tapper-resurfaces-trump-tweet-about-domestic-abuse-in-wake-of-rob-porter"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T05:27:46Z",
+                "uri": "http://web.archive.org/web/20180211052746/http://thehill.com/homenews/media/373188-jake-tapper-resurfaces-trump-tweet-about-domestic-abuse-in-wake-of-rob-porter"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/homenews/media/373188-jake-tapper-resurfaces-trump-tweet-about-domestic-abuse-in-wake-of-rob-porter",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/media/373188-jake-tapper-resurfaces-trump-tweet-about-domestic-abuse-in-wake-of-rob-porter",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/homenews/media/373188-jake-tapper-resurfaces-trump-tweet-about-domestic-abuse-in-wake-of-rob-porter",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/homenews/media/373188-jake-tapper-resurfaces-trump-tweet-about-domestic-abuse-in-wake-of-rob-porter",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/media/373188-jake-tapper-resurfaces-trump-tweet-about-domestic-abuse-in-wake-of-rob-porter",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/homenews/media/373188-jake-tapper-resurfaces-trump-tweet-about-domestic-abuse-in-wake-of-rob-porter"
+    }
+}

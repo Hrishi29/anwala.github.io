@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T05:04:24Z",
+            "uri": "http://web.archive.org/web/20180210050424/https://www.cnbc.com/2018/02/09/trump-speechwriter-quits-over-abuse-allegations.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:16:39Z",
+            "uri": "http://web.archive.org/web/20180211051639/https://www.cnbc.com/2018/02/09/trump-speechwriter-quits-over-abuse-allegations.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T05:04:24Z",
+                "uri": "http://web.archive.org/web/20180210050424/https://www.cnbc.com/2018/02/09/trump-speechwriter-quits-over-abuse-allegations.html"
+            },
+            {
+                "datetime": "2018-02-10T15:43:38Z",
+                "uri": "http://web.archive.org/web/20180210154338/http://www.cnbc.com/2018/02/09/trump-speechwriter-quits-over-abuse-allegations.html"
+            },
+            {
+                "datetime": "2018-02-10T19:00:51Z",
+                "uri": "http://web.archive.org/web/20180210190051/https://www.cnbc.com/2018/02/09/trump-speechwriter-quits-over-abuse-allegations.html"
+            },
+            {
+                "datetime": "2018-02-11T05:16:39Z",
+                "uri": "http://web.archive.org/web/20180211051639/https://www.cnbc.com/2018/02/09/trump-speechwriter-quits-over-abuse-allegations.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.cnbc.com/2018/02/09/trump-speechwriter-quits-over-abuse-allegations.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cnbc.com/2018/02/09/trump-speechwriter-quits-over-abuse-allegations.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cnbc.com/2018/02/09/trump-speechwriter-quits-over-abuse-allegations.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cnbc.com/2018/02/09/trump-speechwriter-quits-over-abuse-allegations.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cnbc.com/2018/02/09/trump-speechwriter-quits-over-abuse-allegations.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cnbc.com/2018/02/09/trump-speechwriter-quits-over-abuse-allegations.html"
+    }
+}

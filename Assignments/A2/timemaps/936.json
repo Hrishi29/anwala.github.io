@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T04:54:36Z",
+            "uri": "http://web.archive.org/web/20180209045436/http://www.sandiegouniontribune.com/news/politics/sd-me-gop-hunter-20180208-story.html"
+        },
+        "last": {
+            "datetime": "2018-02-09T04:54:36Z",
+            "uri": "http://web.archive.org/web/20180209045436/http://www.sandiegouniontribune.com/news/politics/sd-me-gop-hunter-20180208-story.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T04:54:36Z",
+                "uri": "http://web.archive.org/web/20180209045436/http://www.sandiegouniontribune.com/news/politics/sd-me-gop-hunter-20180208-story.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.sandiegouniontribune.com/news/politics/sd-me-gop-hunter-20180208-story.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.sandiegouniontribune.com/news/politics/sd-me-gop-hunter-20180208-story.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.sandiegouniontribune.com/news/politics/sd-me-gop-hunter-20180208-story.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.sandiegouniontribune.com/news/politics/sd-me-gop-hunter-20180208-story.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.sandiegouniontribune.com/news/politics/sd-me-gop-hunter-20180208-story.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.sandiegouniontribune.com/news/politics/sd-me-gop-hunter-20180208-story.html"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-07-14T23:10:06Z",
+            "uri": "http://web.archive.org/web/20170714231006/http://www.styledetails.com:80/10-fun-facts-about-donald-trumps-children"
+        },
+        "last": {
+            "datetime": "2018-02-04T01:18:06Z",
+            "uri": "http://web.archive.org/web/20180204011806/http://www.styledetails.com/10-fun-facts-about-donald-trumps-children"
+        },
+        "list": [
+            {
+                "datetime": "2017-07-14T23:10:06Z",
+                "uri": "http://web.archive.org/web/20170714231006/http://www.styledetails.com:80/10-fun-facts-about-donald-trumps-children"
+            },
+            {
+                "datetime": "2018-02-04T01:18:06Z",
+                "uri": "http://web.archive.org/web/20180204011806/http://www.styledetails.com/10-fun-facts-about-donald-trumps-children"
+            }
+        ]
+    },
+    "original_uri": "http://www.styledetails.com/10-fun-facts-about-donald-trumps-children",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.styledetails.com/10-fun-facts-about-donald-trumps-children",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.styledetails.com/10-fun-facts-about-donald-trumps-children",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.styledetails.com/10-fun-facts-about-donald-trumps-children",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.styledetails.com/10-fun-facts-about-donald-trumps-children",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.styledetails.com/10-fun-facts-about-donald-trumps-children"
+    }
+}

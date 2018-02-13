@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T02:47:01Z",
+            "uri": "http://web.archive.org/web/20180209024701/https://www.nytimes.com/2018/02/08/us/politics/republicans-spending-deficits-debt.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T02:43:52Z",
+            "uri": "http://web.archive.org/web/20180210024352/https://www.nytimes.com/2018/02/08/us/politics/republicans-spending-deficits-debt.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T02:47:01Z",
+                "uri": "http://web.archive.org/web/20180209024701/https://www.nytimes.com/2018/02/08/us/politics/republicans-spending-deficits-debt.html"
+            },
+            {
+                "datetime": "2018-02-09T05:58:52Z",
+                "uri": "http://web.archive.org/web/20180209055852/https://www.nytimes.com/2018/02/08/us/politics/republicans-spending-deficits-debt.html"
+            },
+            {
+                "datetime": "2018-02-09T06:14:31Z",
+                "uri": "http://archive.is/20180209061431/https://www.nytimes.com/2018/02/08/us/politics/republicans-spending-deficits-debt.html"
+            },
+            {
+                "datetime": "2018-02-09T18:21:59Z",
+                "uri": "http://web.archive.org/web/20180209182159/https://www.nytimes.com/2018/02/08/us/politics/republicans-spending-deficits-debt.html"
+            },
+            {
+                "datetime": "2018-02-09T19:19:08Z",
+                "uri": "http://web.archive.org/web/20180209191908/https://www.nytimes.com/2018/02/08/us/politics/republicans-spending-deficits-debt.html"
+            },
+            {
+                "datetime": "2018-02-10T02:43:52Z",
+                "uri": "http://web.archive.org/web/20180210024352/https://www.nytimes.com/2018/02/08/us/politics/republicans-spending-deficits-debt.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nytimes.com/2018/02/08/us/politics/republicans-spending-deficits-debt.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/08/us/politics/republicans-spending-deficits-debt.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/02/08/us/politics/republicans-spending-deficits-debt.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/02/08/us/politics/republicans-spending-deficits-debt.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/08/us/politics/republicans-spending-deficits-debt.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/02/08/us/politics/republicans-spending-deficits-debt.html"
+    }
+}

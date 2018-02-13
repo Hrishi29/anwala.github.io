@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T00:03:14Z",
+            "uri": "http://web.archive.org/web/20180208000314/https://www.theguardian.com/us-news/2018/feb/07/donald-trump-hair-wind?CMP=twt_gu"
+        },
+        "last": {
+            "datetime": "2018-02-08T00:03:14Z",
+            "uri": "http://web.archive.org/web/20180208000314/https://www.theguardian.com/us-news/2018/feb/07/donald-trump-hair-wind?CMP=twt_gu"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T00:03:14Z",
+                "uri": "http://web.archive.org/web/20180208000314/https://www.theguardian.com/us-news/2018/feb/07/donald-trump-hair-wind?CMP=twt_gu"
+            }
+        ]
+    },
+    "original_uri": "https://www.theguardian.com/us-news/2018/feb/07/donald-trump-hair-wind?CMP=twt_gu",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/us-news/2018/feb/07/donald-trump-hair-wind?CMP=twt_gu",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/us-news/2018/feb/07/donald-trump-hair-wind?CMP=twt_gu",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/us-news/2018/feb/07/donald-trump-hair-wind?CMP=twt_gu",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/us-news/2018/feb/07/donald-trump-hair-wind?CMP=twt_gu",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/us-news/2018/feb/07/donald-trump-hair-wind?CMP=twt_gu"
+    }
+}

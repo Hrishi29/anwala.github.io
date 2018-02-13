@@ -1,0 +1,54 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T03:40:14Z",
+            "uri": "http://web.archive.org/web/20180210034014/https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo"
+        },
+        "last": {
+            "datetime": "2018-02-11T13:56:55Z",
+            "uri": "http://archive.is/20180211135655/https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T03:40:14Z",
+                "uri": "http://web.archive.org/web/20180210034014/https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo"
+            },
+            {
+                "datetime": "2018-02-10T03:45:30Z",
+                "uri": "http://web.archive.org/web/20180210034530/https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo"
+            },
+            {
+                "datetime": "2018-02-10T17:08:36Z",
+                "uri": "http://web.archive.org/web/20180210170836/https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo"
+            },
+            {
+                "datetime": "2018-02-10T18:53:56Z",
+                "uri": "http://web.archive.org/web/20180210185356/https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo"
+            },
+            {
+                "datetime": "2018-02-10T22:53:58Z",
+                "uri": "http://web.archive.org/web/20180210225358/https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo"
+            },
+            {
+                "datetime": "2018-02-11T05:08:56Z",
+                "uri": "http://web.archive.org/web/20180211050856/https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo"
+            },
+            {
+                "datetime": "2018-02-11T08:27:34Z",
+                "uri": "http://web.archive.org/web/20180211082734/https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo"
+            },
+            {
+                "datetime": "2018-02-11T13:56:55Z",
+                "uri": "http://archive.is/20180211135655/https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo"
+            }
+        ]
+    },
+    "original_uri": "https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.bloomberg.com/news/articles/2018-02-10/trump-blocks-release-of-democratic-rebuttal-to-gop-probe-memo"
+    }
+}

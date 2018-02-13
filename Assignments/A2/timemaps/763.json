@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T20:38:01Z",
+            "uri": "http://web.archive.org/web/20180210203801/http://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/mikaela-shiffrin-could-pyeongchang-olympics-dominant-star/325702002/"
+        },
+        "last": {
+            "datetime": "2018-02-11T13:18:33Z",
+            "uri": "http://web.archive.org/web/20180211131833/http://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/mikaela-shiffrin-could-pyeongchang-olympics-dominant-star/325702002/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T20:38:01Z",
+                "uri": "http://web.archive.org/web/20180210203801/http://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/mikaela-shiffrin-could-pyeongchang-olympics-dominant-star/325702002/"
+            },
+            {
+                "datetime": "2018-02-11T12:24:19Z",
+                "uri": "http://web.archive.org/web/20180211122419/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/mikaela-shiffrin-could-pyeongchang-olympics-dominant-star/325702002/"
+            },
+            {
+                "datetime": "2018-02-11T13:18:33Z",
+                "uri": "http://web.archive.org/web/20180211131833/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/mikaela-shiffrin-could-pyeongchang-olympics-dominant-star/325702002/"
+            },
+            {
+                "datetime": "2018-02-11T13:18:33Z",
+                "uri": "http://web.archive.org/web/20180211131833/http://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/mikaela-shiffrin-could-pyeongchang-olympics-dominant-star/325702002/"
+            },
+            {
+                "datetime": "2018-02-11T13:18:33Z",
+                "uri": "http://web.archive.org/web/20180211131833/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/mikaela-shiffrin-could-pyeongchang-olympics-dominant-star/325702002/"
+            },
+            {
+                "datetime": "2018-02-11T13:18:33Z",
+                "uri": "http://web.archive.org/web/20180211131833/http://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/mikaela-shiffrin-could-pyeongchang-olympics-dominant-star/325702002/"
+            }
+        ]
+    },
+    "original_uri": "https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/mikaela-shiffrin-could-pyeongchang-olympics-dominant-star/325702002/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/mikaela-shiffrin-could-pyeongchang-olympics-dominant-star/325702002/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/mikaela-shiffrin-could-pyeongchang-olympics-dominant-star/325702002/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/mikaela-shiffrin-could-pyeongchang-olympics-dominant-star/325702002/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/mikaela-shiffrin-could-pyeongchang-olympics-dominant-star/325702002/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/mikaela-shiffrin-could-pyeongchang-olympics-dominant-star/325702002/"
+    }
+}

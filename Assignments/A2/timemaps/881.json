@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T22:37:14Z",
+            "uri": "http://web.archive.org/web/20180209223714/http://www.cbs8.com/story/37470031/trump-faces-legal-challenge-on-border-wall-with-mexico"
+        },
+        "last": {
+            "datetime": "2018-02-09T22:37:14Z",
+            "uri": "http://web.archive.org/web/20180209223714/http://www.cbs8.com/story/37470031/trump-faces-legal-challenge-on-border-wall-with-mexico"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T22:37:14Z",
+                "uri": "http://web.archive.org/web/20180209223714/http://www.cbs8.com/story/37470031/trump-faces-legal-challenge-on-border-wall-with-mexico"
+            }
+        ]
+    },
+    "original_uri": "http://www.cbs8.com/story/37470031/trump-faces-legal-challenge-on-border-wall-with-mexico",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.cbs8.com/story/37470031/trump-faces-legal-challenge-on-border-wall-with-mexico",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.cbs8.com/story/37470031/trump-faces-legal-challenge-on-border-wall-with-mexico",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.cbs8.com/story/37470031/trump-faces-legal-challenge-on-border-wall-with-mexico",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.cbs8.com/story/37470031/trump-faces-legal-challenge-on-border-wall-with-mexico",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.cbs8.com/story/37470031/trump-faces-legal-challenge-on-border-wall-with-mexico"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-07-29T14:20:44Z",
+            "uri": "http://web.archive.org/web/20160729142044/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819"
+        },
+        "last": {
+            "datetime": "2017-11-19T05:42:11Z",
+            "uri": "http://web.archive.org/web/20171119054211/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819"
+        },
+        "list": [
+            {
+                "datetime": "2016-07-29T14:20:44Z",
+                "uri": "http://web.archive.org/web/20160729142044/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819"
+            },
+            {
+                "datetime": "2016-07-31T10:39:57Z",
+                "uri": "http://web.archive.org/web/20160731103957/http://www.nydailynews.com:80/news/politics/obama-hillary-president-dnc-article-1.2728819"
+            },
+            {
+                "datetime": "2016-07-31T11:11:15Z",
+                "uri": "http://web.archive.org/web/20160731111115/http://www.nydailynews.com:80/news/politics/obama-hillary-president-dnc-article-1.2728819?"
+            },
+            {
+                "datetime": "2016-08-10T10:56:23Z",
+                "uri": "http://web.archive.org/web/20160810105623/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819"
+            },
+            {
+                "datetime": "2017-08-29T18:09:15Z",
+                "uri": "http://web.archive.org/web/20170829180915/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819"
+            },
+            {
+                "datetime": "2017-11-03T23:00:52Z",
+                "uri": "http://web.archive.org/web/20171103230052/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819"
+            },
+            {
+                "datetime": "2017-11-04T01:43:16Z",
+                "uri": "http://web.archive.org/web/20171104014316/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819"
+            },
+            {
+                "datetime": "2017-11-04T02:07:46Z",
+                "uri": "http://web.archive.org/web/20171104020746/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819"
+            },
+            {
+                "datetime": "2017-11-04T02:58:18Z",
+                "uri": "http://web.archive.org/web/20171104025818/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819"
+            },
+            {
+                "datetime": "2017-11-04T03:50:05Z",
+                "uri": "http://web.archive.org/web/20171104035005/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819"
+            },
+            {
+                "datetime": "2017-11-04T05:07:46Z",
+                "uri": "http://web.archive.org/web/20171104050746/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819"
+            },
+            {
+                "datetime": "2017-11-04T05:27:46Z",
+                "uri": "http://web.archive.org/web/20171104052746/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819"
+            },
+            {
+                "datetime": "2017-11-19T05:42:11Z",
+                "uri": "http://web.archive.org/web/20171119054211/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819"
+            }
+        ]
+    },
+    "original_uri": "http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.nydailynews.com/news/politics/obama-hillary-president-dnc-article-1.2728819"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T03:04:17Z",
+            "uri": "http://web.archive.org/web/20180210030417/http://www.chicagotribune.com/news/local/politics/ct-joe-berrios-raila-kaegi-ojection-20180209-story.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T03:04:17Z",
+            "uri": "http://web.archive.org/web/20180210030417/http://www.chicagotribune.com/news/local/politics/ct-joe-berrios-raila-kaegi-ojection-20180209-story.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T03:04:17Z",
+                "uri": "http://web.archive.org/web/20180210030417/http://www.chicagotribune.com/news/local/politics/ct-joe-berrios-raila-kaegi-ojection-20180209-story.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.chicagotribune.com/news/local/politics/ct-joe-berrios-raila-kaegi-ojection-20180209-story.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.chicagotribune.com/news/local/politics/ct-joe-berrios-raila-kaegi-ojection-20180209-story.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.chicagotribune.com/news/local/politics/ct-joe-berrios-raila-kaegi-ojection-20180209-story.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.chicagotribune.com/news/local/politics/ct-joe-berrios-raila-kaegi-ojection-20180209-story.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.chicagotribune.com/news/local/politics/ct-joe-berrios-raila-kaegi-ojection-20180209-story.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.chicagotribune.com/news/local/politics/ct-joe-berrios-raila-kaegi-ojection-20180209-story.html"
+    }
+}

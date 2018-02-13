@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T01:00:10Z",
+            "uri": "http://web.archive.org/web/20180210010010/http://www.foxnews.com/politics/2018/02/09/trump-orders-revisions-to-dems-fisa-rebuttal-memo-halting-release.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T07:06:59Z",
+            "uri": "http://web.archive.org/web/20180211070659/http://www.foxnews.com/politics/2018/02/09/trump-orders-revisions-to-dems-fisa-rebuttal-memo-halting-release.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T01:00:10Z",
+                "uri": "http://web.archive.org/web/20180210010010/http://www.foxnews.com/politics/2018/02/09/trump-orders-revisions-to-dems-fisa-rebuttal-memo-halting-release.html"
+            },
+            {
+                "datetime": "2018-02-10T02:16:54Z",
+                "uri": "http://web.archive.org/web/20180210021654/http://www.foxnews.com/politics/2018/02/09/trump-orders-revisions-to-dems-fisa-rebuttal-memo-halting-release.html"
+            },
+            {
+                "datetime": "2018-02-11T07:06:59Z",
+                "uri": "http://wayback.archive-it.org/all/20180211070659/http://www.foxnews.com/politics/2018/02/09/trump-orders-revisions-to-dems-fisa-rebuttal-memo-halting-release.html"
+            },
+            {
+                "datetime": "2018-02-11T07:06:59Z",
+                "uri": "http://web.archive.org/web/20180211070659/http://www.foxnews.com/politics/2018/02/09/trump-orders-revisions-to-dems-fisa-rebuttal-memo-halting-release.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.foxnews.com/politics/2018/02/09/trump-orders-revisions-to-dems-fisa-rebuttal-memo-halting-release.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/02/09/trump-orders-revisions-to-dems-fisa-rebuttal-memo-halting-release.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.foxnews.com/politics/2018/02/09/trump-orders-revisions-to-dems-fisa-rebuttal-memo-halting-release.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.foxnews.com/politics/2018/02/09/trump-orders-revisions-to-dems-fisa-rebuttal-memo-halting-release.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/02/09/trump-orders-revisions-to-dems-fisa-rebuttal-memo-halting-release.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.foxnews.com/politics/2018/02/09/trump-orders-revisions-to-dems-fisa-rebuttal-memo-halting-release.html"
+    }
+}

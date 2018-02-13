@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T19:18:23Z",
+            "uri": "http://web.archive.org/web/20180208191823/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+        },
+        "last": {
+            "datetime": "2018-02-11T06:49:16Z",
+            "uri": "http://web.archive.org/web/20180211064916/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T19:18:23Z",
+                "uri": "http://web.archive.org/web/20180208191823/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-02-11T06:49:16Z",
+                "uri": "http://wayback.archive-it.org/all/20180211064916/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-02-11T06:49:16Z",
+                "uri": "http://web.archive.org/web/20180211064916/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            }
+        ]
+    },
+    "original_uri": "https://newrepublic.com/article/146990/unacceptable-cost-taming-trump",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+    }
+}

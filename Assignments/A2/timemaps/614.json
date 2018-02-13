@@ -1,0 +1,54 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T15:03:26Z",
+            "uri": "http://web.archive.org/web/20180209150326/http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city/"
+        },
+        "last": {
+            "datetime": "2018-02-11T09:33:31Z",
+            "uri": "http://web.archive.org/web/20180211093331/http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T15:03:26Z",
+                "uri": "http://web.archive.org/web/20180209150326/http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city/"
+            },
+            {
+                "datetime": "2018-02-09T16:19:03Z",
+                "uri": "http://web.archive.org/web/20180209161903/http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city/"
+            },
+            {
+                "datetime": "2018-02-09T19:08:17Z",
+                "uri": "http://web.archive.org/web/20180209190817/http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city/"
+            },
+            {
+                "datetime": "2018-02-09T22:44:54Z",
+                "uri": "http://web.archive.org/web/20180209224454/http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city/"
+            },
+            {
+                "datetime": "2018-02-10T07:01:55Z",
+                "uri": "http://web.archive.org/web/20180210070155/http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city/"
+            },
+            {
+                "datetime": "2018-02-10T07:02:04Z",
+                "uri": "http://web.archive.org/web/20180210070204/http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city"
+            },
+            {
+                "datetime": "2018-02-11T09:33:22Z",
+                "uri": "http://web.archive.org/web/20180211093322/http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city/"
+            },
+            {
+                "datetime": "2018-02-11T09:33:31Z",
+                "uri": "http://web.archive.org/web/20180211093331/http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city"
+            }
+        ]
+    },
+    "original_uri": "http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.telegraph.co.uk/football/2018/02/09/pep-guardiola-hopes-riyad-mahrez-will-play-against-man-city/"
+    }
+}

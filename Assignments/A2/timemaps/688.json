@@ -1,0 +1,66 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T14:36:11Z",
+            "uri": "http://web.archive.org/web/20180209143611/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740"
+        },
+        "last": {
+            "datetime": "2018-02-11T07:59:05Z",
+            "uri": "http://web.archive.org/web/20180211075905/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T14:36:11Z",
+                "uri": "http://web.archive.org/web/20180209143611/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740"
+            },
+            {
+                "datetime": "2018-02-09T15:51:49Z",
+                "uri": "http://archive.is/20180209155149/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740"
+            },
+            {
+                "datetime": "2018-02-09T18:19:18Z",
+                "uri": "http://web.archive.org/web/20180209181918/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740"
+            },
+            {
+                "datetime": "2018-02-09T22:24:25Z",
+                "uri": "http://web.archive.org/web/20180209222425/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740"
+            },
+            {
+                "datetime": "2018-02-10T18:48:19Z",
+                "uri": "http://web.archive.org/web/20180210184819/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740"
+            },
+            {
+                "datetime": "2018-02-10T21:12:44Z",
+                "uri": "http://wayback.archive-it.org/all/20180210211244/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740"
+            },
+            {
+                "datetime": "2018-02-10T21:12:44Z",
+                "uri": "http://web.archive.org/web/20180210211244/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740"
+            },
+            {
+                "datetime": "2018-02-10T23:34:08Z",
+                "uri": "http://web.archive.org/web/20180210233408/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740"
+            },
+            {
+                "datetime": "2018-02-11T00:07:15Z",
+                "uri": "http://web.archive.org/web/20180211000715/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740"
+            },
+            {
+                "datetime": "2018-02-11T07:59:05Z",
+                "uri": "http://wayback.archive-it.org/all/20180211075905/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740"
+            },
+            {
+                "datetime": "2018-02-11T07:59:05Z",
+                "uri": "http://web.archive.org/web/20180211075905/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740"
+            }
+        ]
+    },
+    "original_uri": "http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://abcnews.go.com/Politics/congressional-russia-investigators-interested-2nd-dossier-trump-russia/story?id=52931740"
+    }
+}

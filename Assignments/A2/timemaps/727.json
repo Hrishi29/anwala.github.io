@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T05:00:49Z",
+            "uri": "http://web.archive.org/web/20180210050049/https://www.mediaite.com/online/u-s-spies-reportedly-paid-100000-to-russian-who-wanted-to-sell-dirt-on-trump/"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:15:29Z",
+            "uri": "http://web.archive.org/web/20180211051529/https://www.mediaite.com/online/u-s-spies-reportedly-paid-100000-to-russian-who-wanted-to-sell-dirt-on-trump/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T05:00:49Z",
+                "uri": "http://web.archive.org/web/20180210050049/https://www.mediaite.com/online/u-s-spies-reportedly-paid-100000-to-russian-who-wanted-to-sell-dirt-on-trump/"
+            },
+            {
+                "datetime": "2018-02-10T14:36:26Z",
+                "uri": "http://web.archive.org/web/20180210143626/https://www.mediaite.com/online/u-s-spies-reportedly-paid-100000-to-russian-who-wanted-to-sell-dirt-on-trump/"
+            },
+            {
+                "datetime": "2018-02-11T05:15:29Z",
+                "uri": "http://wayback.archive-it.org/all/20180211051529/https://www.mediaite.com/online/u-s-spies-reportedly-paid-100000-to-russian-who-wanted-to-sell-dirt-on-trump/"
+            },
+            {
+                "datetime": "2018-02-11T05:15:29Z",
+                "uri": "http://web.archive.org/web/20180211051529/https://www.mediaite.com/online/u-s-spies-reportedly-paid-100000-to-russian-who-wanted-to-sell-dirt-on-trump/"
+            }
+        ]
+    },
+    "original_uri": "https://www.mediaite.com/online/u-s-spies-reportedly-paid-100000-to-russian-who-wanted-to-sell-dirt-on-trump/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.mediaite.com/online/u-s-spies-reportedly-paid-100000-to-russian-who-wanted-to-sell-dirt-on-trump/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.mediaite.com/online/u-s-spies-reportedly-paid-100000-to-russian-who-wanted-to-sell-dirt-on-trump/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.mediaite.com/online/u-s-spies-reportedly-paid-100000-to-russian-who-wanted-to-sell-dirt-on-trump/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.mediaite.com/online/u-s-spies-reportedly-paid-100000-to-russian-who-wanted-to-sell-dirt-on-trump/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.mediaite.com/online/u-s-spies-reportedly-paid-100000-to-russian-who-wanted-to-sell-dirt-on-trump/"
+    }
+}

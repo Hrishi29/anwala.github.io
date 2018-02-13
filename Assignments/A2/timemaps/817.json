@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T05:49:08Z",
+            "uri": "http://web.archive.org/web/20180210054908/http://www.hani.co.kr/arti/politics/bluehouse/831703.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T05:49:08Z",
+            "uri": "http://web.archive.org/web/20180210054908/http://www.hani.co.kr/arti/politics/bluehouse/831703.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T05:49:08Z",
+                "uri": "http://web.archive.org/web/20180210054908/http://www.hani.co.kr/arti/politics/bluehouse/831703.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.hani.co.kr/arti/politics/bluehouse/831703.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.hani.co.kr/arti/politics/bluehouse/831703.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.hani.co.kr/arti/politics/bluehouse/831703.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.hani.co.kr/arti/politics/bluehouse/831703.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.hani.co.kr/arti/politics/bluehouse/831703.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.hani.co.kr/arti/politics/bluehouse/831703.html"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T00:46:38Z",
+            "uri": "http://web.archive.org/web/20180210004638/http://www.wral.com/trump-praises-top-adviser-accused-of-abusing-ex-wives/17326144/"
+        },
+        "last": {
+            "datetime": "2018-02-10T00:46:38Z",
+            "uri": "http://web.archive.org/web/20180210004638/http://www.wral.com/trump-praises-top-adviser-accused-of-abusing-ex-wives/17326144/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T00:46:38Z",
+                "uri": "http://web.archive.org/web/20180210004638/http://www.wral.com/trump-praises-top-adviser-accused-of-abusing-ex-wives/17326144/"
+            }
+        ]
+    },
+    "original_uri": "http://www.wral.com/trump-praises-top-adviser-accused-of-abusing-ex-wives/17326144/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.wral.com/trump-praises-top-adviser-accused-of-abusing-ex-wives/17326144/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.wral.com/trump-praises-top-adviser-accused-of-abusing-ex-wives/17326144/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.wral.com/trump-praises-top-adviser-accused-of-abusing-ex-wives/17326144/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.wral.com/trump-praises-top-adviser-accused-of-abusing-ex-wives/17326144/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.wral.com/trump-praises-top-adviser-accused-of-abusing-ex-wives/17326144/"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-07T17:50:29Z",
+            "uri": "http://web.archive.org/web/20180207175029/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+        },
+        "last": {
+            "datetime": "2018-02-10T23:31:57Z",
+            "uri": "http://web.archive.org/web/20180210233157/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-07T17:50:29Z",
+                "uri": "http://web.archive.org/web/20180207175029/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-07T19:09:49Z",
+                "uri": "http://wayback.archive-it.org/all/20180207190949/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-07T19:09:49Z",
+                "uri": "http://web.archive.org/web/20180207190949/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-07T20:24:55Z",
+                "uri": "http://archive.is/20180207202455/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-07T20:56:59Z",
+                "uri": "http://web.archive.org/web/20180207205659/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-07T21:40:14Z",
+                "uri": "http://web.archive.org/web/20180207214014/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-08T18:34:23Z",
+                "uri": "http://web.archive.org/web/20180208183423/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-08T19:32:46Z",
+                "uri": "http://wayback.archive-it.org/all/20180208193246/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-08T19:32:46Z",
+                "uri": "http://web.archive.org/web/20180208193246/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-08T21:20:32Z",
+                "uri": "http://web.archive.org/web/20180208212032/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-08T21:35:52Z",
+                "uri": "http://web.archive.org/web/20180208213552/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-09T11:47:57Z",
+                "uri": "http://web.archive.org/web/20180209114757/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-09T21:04:53Z",
+                "uri": "http://web.archive.org/web/20180209210453/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-09T22:22:53Z",
+                "uri": "http://web.archive.org/web/20180209222253/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-09T23:30:09Z",
+                "uri": "http://wayback.archive-it.org/all/20180209233009/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-09T23:30:09Z",
+                "uri": "http://web.archive.org/web/20180209233009/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-10T17:25:06Z",
+                "uri": "http://web.archive.org/web/20180210172506/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-10T21:47:27Z",
+                "uri": "http://web.archive.org/web/20180210214727/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-10T22:01:06Z",
+                "uri": "http://web.archive.org/web/20180210220106/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            },
+            {
+                "datetime": "2018-02-10T23:31:57Z",
+                "uri": "http://web.archive.org/web/20180210233157/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+            }
+        ]
+    },
+    "original_uri": "https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.economist.com/blogs/democracyinamerica/2018/02/trumparade"
+    }
+}

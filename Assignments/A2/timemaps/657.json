@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T07:42:41Z",
+            "uri": "http://web.archive.org/web/20180210074241/http://www.politicususa.com/2018/02/09/russian-offering-info-trump-bilked-u-s-spies-money-ny-times.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T07:42:41Z",
+            "uri": "http://web.archive.org/web/20180210074241/http://www.politicususa.com/2018/02/09/russian-offering-info-trump-bilked-u-s-spies-money-ny-times.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T07:42:41Z",
+                "uri": "http://web.archive.org/web/20180210074241/http://www.politicususa.com/2018/02/09/russian-offering-info-trump-bilked-u-s-spies-money-ny-times.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.politicususa.com/2018/02/09/russian-offering-info-trump-bilked-u-s-spies-money-ny-times.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.politicususa.com/2018/02/09/russian-offering-info-trump-bilked-u-s-spies-money-ny-times.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.politicususa.com/2018/02/09/russian-offering-info-trump-bilked-u-s-spies-money-ny-times.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.politicususa.com/2018/02/09/russian-offering-info-trump-bilked-u-s-spies-money-ny-times.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.politicususa.com/2018/02/09/russian-offering-info-trump-bilked-u-s-spies-money-ny-times.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.politicususa.com/2018/02/09/russian-offering-info-trump-bilked-u-s-spies-money-ny-times.html"
+    }
+}

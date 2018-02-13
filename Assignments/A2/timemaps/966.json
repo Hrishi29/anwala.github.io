@@ -1,0 +1,54 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T18:23:42Z",
+            "uri": "http://web.archive.org/web/20180209182342/https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/"
+        },
+        "last": {
+            "datetime": "2018-02-11T02:52:24Z",
+            "uri": "http://web.archive.org/web/20180211025224/https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T18:23:42Z",
+                "uri": "http://web.archive.org/web/20180209182342/https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/"
+            },
+            {
+                "datetime": "2018-02-09T21:36:58Z",
+                "uri": "http://web.archive.org/web/20180209213658/https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/"
+            },
+            {
+                "datetime": "2018-02-10T00:53:27Z",
+                "uri": "http://web.archive.org/web/20180210005327/https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/"
+            },
+            {
+                "datetime": "2018-02-10T04:53:21Z",
+                "uri": "http://web.archive.org/web/20180210045321/https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/"
+            },
+            {
+                "datetime": "2018-02-10T06:03:46Z",
+                "uri": "http://web.archive.org/web/20180210060346/https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/"
+            },
+            {
+                "datetime": "2018-02-10T07:22:47Z",
+                "uri": "http://web.archive.org/web/20180210072247/https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/"
+            },
+            {
+                "datetime": "2018-02-11T02:10:26Z",
+                "uri": "http://web.archive.org/web/20180211021026/https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/"
+            },
+            {
+                "datetime": "2018-02-11T02:52:24Z",
+                "uri": "http://web.archive.org/web/20180211025224/https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/"
+            }
+        ]
+    },
+    "original_uri": "https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.japantimes.co.jp/sports/2018/02/09/olympics/winter-olympics/olympics-figure-skating/shoma-uno-delivers-stellar-performance-give-japan-early-lead-figure-skating-team-event/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T00:07:51Z",
+            "uri": "http://web.archive.org/web/20180210000751/https://www.infowars.com/trump-budget-to-include-3-billion-for-border-wall-official/"
+        },
+        "last": {
+            "datetime": "2018-02-10T03:04:51Z",
+            "uri": "http://web.archive.org/web/20180210030451/http://www.infowars.com/trump-budget-to-include-3-billion-for-border-wall-official/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T00:07:51Z",
+                "uri": "http://web.archive.org/web/20180210000751/https://www.infowars.com/trump-budget-to-include-3-billion-for-border-wall-official/"
+            },
+            {
+                "datetime": "2018-02-10T03:04:51Z",
+                "uri": "http://web.archive.org/web/20180210030451/http://www.infowars.com/trump-budget-to-include-3-billion-for-border-wall-official/"
+            }
+        ]
+    },
+    "original_uri": "https://www.infowars.com/trump-budget-to-include-3-billion-for-border-wall-official/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.infowars.com/trump-budget-to-include-3-billion-for-border-wall-official/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.infowars.com/trump-budget-to-include-3-billion-for-border-wall-official/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.infowars.com/trump-budget-to-include-3-billion-for-border-wall-official/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.infowars.com/trump-budget-to-include-3-billion-for-border-wall-official/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.infowars.com/trump-budget-to-include-3-billion-for-border-wall-official/"
+    }
+}

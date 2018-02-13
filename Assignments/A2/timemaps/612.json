@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T07:25:42Z",
+            "uri": "http://web.archive.org/web/20180210072542/https://www.thesun.co.uk/sport/football/5543825/former-manchester-united-and-celtic-star-liam-miller-dies-from-pancreatic-cancer-aged-36/"
+        },
+        "last": {
+            "datetime": "2018-02-10T07:25:45Z",
+            "uri": "http://web.archive.org/web/20180210072545/http://www.thesun.co.uk/sport/football/5543825/former-manchester-united-and-celtic-star-liam-miller-dies-from-pancreatic-cancer-aged-36/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T07:25:42Z",
+                "uri": "http://web.archive.org/web/20180210072542/https://www.thesun.co.uk/sport/football/5543825/former-manchester-united-and-celtic-star-liam-miller-dies-from-pancreatic-cancer-aged-36/"
+            },
+            {
+                "datetime": "2018-02-10T07:25:45Z",
+                "uri": "http://web.archive.org/web/20180210072545/http://www.thesun.co.uk/sport/football/5543825/former-manchester-united-and-celtic-star-liam-miller-dies-from-pancreatic-cancer-aged-36/"
+            }
+        ]
+    },
+    "original_uri": "https://www.thesun.co.uk/sport/football/5543825/former-manchester-united-and-celtic-star-liam-miller-dies-from-pancreatic-cancer-aged-36/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5543825/former-manchester-united-and-celtic-star-liam-miller-dies-from-pancreatic-cancer-aged-36/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thesun.co.uk/sport/football/5543825/former-manchester-united-and-celtic-star-liam-miller-dies-from-pancreatic-cancer-aged-36/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thesun.co.uk/sport/football/5543825/former-manchester-united-and-celtic-star-liam-miller-dies-from-pancreatic-cancer-aged-36/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5543825/former-manchester-united-and-celtic-star-liam-miller-dies-from-pancreatic-cancer-aged-36/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thesun.co.uk/sport/football/5543825/former-manchester-united-and-celtic-star-liam-miller-dies-from-pancreatic-cancer-aged-36/"
+    }
+}

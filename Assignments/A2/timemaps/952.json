@@ -1,0 +1,78 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T10:01:50Z",
+            "uri": "http://web.archive.org/web/20180209100150/http://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+        },
+        "last": {
+            "datetime": "2018-02-11T01:12:54Z",
+            "uri": "http://web.archive.org/web/20180211011254/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T10:01:50Z",
+                "uri": "http://web.archive.org/web/20180209100150/http://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+            },
+            {
+                "datetime": "2018-02-09T15:13:22Z",
+                "uri": "http://web.archive.org/web/20180209151322/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+            },
+            {
+                "datetime": "2018-02-09T15:47:02Z",
+                "uri": "http://web.archive.org/web/20180209154702/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+            },
+            {
+                "datetime": "2018-02-09T16:02:02Z",
+                "uri": "http://web.archive.org/web/20180209160202/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+            },
+            {
+                "datetime": "2018-02-09T16:20:57Z",
+                "uri": "http://web.archive.org/web/20180209162057/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+            },
+            {
+                "datetime": "2018-02-09T16:54:41Z",
+                "uri": "http://web.archive.org/web/20180209165441/http://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+            },
+            {
+                "datetime": "2018-02-09T16:55:21Z",
+                "uri": "http://web.archive.org/web/20180209165521/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+            },
+            {
+                "datetime": "2018-02-09T17:35:18Z",
+                "uri": "http://web.archive.org/web/20180209173518/http://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+            },
+            {
+                "datetime": "2018-02-09T17:46:22Z",
+                "uri": "http://web.archive.org/web/20180209174622/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+            },
+            {
+                "datetime": "2018-02-09T23:20:51Z",
+                "uri": "http://web.archive.org/web/20180209232051/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+            },
+            {
+                "datetime": "2018-02-10T00:39:11Z",
+                "uri": "http://web.archive.org/web/20180210003911/http://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+            },
+            {
+                "datetime": "2018-02-10T06:31:30Z",
+                "uri": "http://web.archive.org/web/20180210063130/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+            },
+            {
+                "datetime": "2018-02-10T17:02:51Z",
+                "uri": "http://web.archive.org/web/20180210170251/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+            },
+            {
+                "datetime": "2018-02-11T01:12:54Z",
+                "uri": "http://web.archive.org/web/20180211011254/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+            }
+        ]
+    },
+    "original_uri": "https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.salon.com/2018/02/09/the-strange-tale-of-carter-page-republicans-built-a-defense-of-trump-around-this-guy/"
+    }
+}

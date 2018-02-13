@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T09:29:31Z",
+            "uri": "http://web.archive.org/web/20180210092931/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T04:39:57Z",
+            "uri": "http://web.archive.org/web/20180211043957/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T09:29:31Z",
+                "uri": "http://web.archive.org/web/20180210092931/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+            },
+            {
+                "datetime": "2018-02-11T02:23:33Z",
+                "uri": "http://web.archive.org/web/20180211022333/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+            },
+            {
+                "datetime": "2018-02-11T04:39:57Z",
+                "uri": "http://web.archive.org/web/20180211043957/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+            }
+        ]
+    },
+    "original_uri": "http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+    }
+}

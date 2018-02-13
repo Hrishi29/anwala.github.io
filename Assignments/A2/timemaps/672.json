@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T01:54:26Z",
+            "uri": "http://web.archive.org/web/20180210015426/http://thehill.com/373011-watch-gop-senator-i-dont-understand-opposition-to-trumps-parade-idea"
+        },
+        "last": {
+            "datetime": "2018-02-10T01:54:26Z",
+            "uri": "http://web.archive.org/web/20180210015426/http://thehill.com/373011-watch-gop-senator-i-dont-understand-opposition-to-trumps-parade-idea"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T01:54:26Z",
+                "uri": "http://web.archive.org/web/20180210015426/http://thehill.com/373011-watch-gop-senator-i-dont-understand-opposition-to-trumps-parade-idea"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/373011-watch-gop-senator-i-dont-understand-opposition-to-trumps-parade-idea",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/373011-watch-gop-senator-i-dont-understand-opposition-to-trumps-parade-idea",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/373011-watch-gop-senator-i-dont-understand-opposition-to-trumps-parade-idea",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/373011-watch-gop-senator-i-dont-understand-opposition-to-trumps-parade-idea",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/373011-watch-gop-senator-i-dont-understand-opposition-to-trumps-parade-idea",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/373011-watch-gop-senator-i-dont-understand-opposition-to-trumps-parade-idea"
+    }
+}

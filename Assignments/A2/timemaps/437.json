@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T17:06:41Z",
+            "uri": "http://web.archive.org/web/20180210170641/http://insider.foxnews.com/2018/02/07/judge-jeanine-trump-russia-probe-and-dossier-read-hollywood-script"
+        },
+        "last": {
+            "datetime": "2018-02-11T07:59:44Z",
+            "uri": "http://web.archive.org/web/20180211075944/http://insider.foxnews.com/2018/02/07/judge-jeanine-trump-russia-probe-and-dossier-read-hollywood-script"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T17:06:41Z",
+                "uri": "http://web.archive.org/web/20180210170641/http://insider.foxnews.com/2018/02/07/judge-jeanine-trump-russia-probe-and-dossier-read-hollywood-script"
+            },
+            {
+                "datetime": "2018-02-11T07:59:44Z",
+                "uri": "http://wayback.archive-it.org/all/20180211075944/http://insider.foxnews.com/2018/02/07/judge-jeanine-trump-russia-probe-and-dossier-read-hollywood-script"
+            },
+            {
+                "datetime": "2018-02-11T07:59:44Z",
+                "uri": "http://web.archive.org/web/20180211075944/http://insider.foxnews.com/2018/02/07/judge-jeanine-trump-russia-probe-and-dossier-read-hollywood-script"
+            }
+        ]
+    },
+    "original_uri": "http://insider.foxnews.com/2018/02/07/judge-jeanine-trump-russia-probe-and-dossier-read-hollywood-script",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://insider.foxnews.com/2018/02/07/judge-jeanine-trump-russia-probe-and-dossier-read-hollywood-script",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://insider.foxnews.com/2018/02/07/judge-jeanine-trump-russia-probe-and-dossier-read-hollywood-script",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://insider.foxnews.com/2018/02/07/judge-jeanine-trump-russia-probe-and-dossier-read-hollywood-script",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://insider.foxnews.com/2018/02/07/judge-jeanine-trump-russia-probe-and-dossier-read-hollywood-script",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://insider.foxnews.com/2018/02/07/judge-jeanine-trump-russia-probe-and-dossier-read-hollywood-script"
+    }
+}

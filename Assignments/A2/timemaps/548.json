@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T15:01:51Z",
+            "uri": "http://web.archive.org/web/20180210150151/https://www.wired.com/story/olympics-opening-ceremony-drone-show/?mbid=social_twitter_onsiteshare"
+        },
+        "last": {
+            "datetime": "2018-02-10T21:47:11Z",
+            "uri": "http://web.archive.org/web/20180210214711/https://www.wired.com/story/olympics-opening-ceremony-drone-show/?mbid=social_twitter_onsiteshare"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T15:01:51Z",
+                "uri": "http://web.archive.org/web/20180210150151/https://www.wired.com/story/olympics-opening-ceremony-drone-show/?mbid=social_twitter_onsiteshare"
+            },
+            {
+                "datetime": "2018-02-10T21:47:11Z",
+                "uri": "http://web.archive.org/web/20180210214711/https://www.wired.com/story/olympics-opening-ceremony-drone-show/?mbid=social_twitter_onsiteshare"
+            }
+        ]
+    },
+    "original_uri": "https://www.wired.com/story/olympics-opening-ceremony-drone-show/?mbid=social_twitter_onsiteshare",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.wired.com/story/olympics-opening-ceremony-drone-show/?mbid=social_twitter_onsiteshare",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.wired.com/story/olympics-opening-ceremony-drone-show/?mbid=social_twitter_onsiteshare",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.wired.com/story/olympics-opening-ceremony-drone-show/?mbid=social_twitter_onsiteshare",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.wired.com/story/olympics-opening-ceremony-drone-show/?mbid=social_twitter_onsiteshare",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.wired.com/story/olympics-opening-ceremony-drone-show/?mbid=social_twitter_onsiteshare"
+    }
+}

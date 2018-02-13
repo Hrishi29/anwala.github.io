@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T05:45:12Z",
+            "uri": "http://web.archive.org/web/20180210054512/http://www.kens5.com/news/nation-world/trump-speechwriter-resigns-after-abuse-allegations/516880615"
+        },
+        "last": {
+            "datetime": "2018-02-10T05:45:12Z",
+            "uri": "http://web.archive.org/web/20180210054512/http://www.kens5.com/news/nation-world/trump-speechwriter-resigns-after-abuse-allegations/516880615"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T05:45:12Z",
+                "uri": "http://web.archive.org/web/20180210054512/http://www.kens5.com/news/nation-world/trump-speechwriter-resigns-after-abuse-allegations/516880615"
+            }
+        ]
+    },
+    "original_uri": "http://www.kens5.com/news/nation-world/trump-speechwriter-resigns-after-abuse-allegations/516880615",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.kens5.com/news/nation-world/trump-speechwriter-resigns-after-abuse-allegations/516880615",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.kens5.com/news/nation-world/trump-speechwriter-resigns-after-abuse-allegations/516880615",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.kens5.com/news/nation-world/trump-speechwriter-resigns-after-abuse-allegations/516880615",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.kens5.com/news/nation-world/trump-speechwriter-resigns-after-abuse-allegations/516880615",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.kens5.com/news/nation-world/trump-speechwriter-resigns-after-abuse-allegations/516880615"
+    }
+}

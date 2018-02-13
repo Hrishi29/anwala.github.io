@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T20:54:38Z",
+            "uri": "http://web.archive.org/web/20180209205438/http://thehill.com/homenews/administration/373124-trump-prefers-oral-report-to-reading-daily-intel-briefing-report"
+        },
+        "last": {
+            "datetime": "2018-02-11T21:49:57Z",
+            "uri": "http://perma-archives.org/warc/20180211214957/http://thehill.com/homenews/administration/373124-trump-prefers-oral-report-to-reading-daily-intel-briefing-report"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T20:54:38Z",
+                "uri": "http://web.archive.org/web/20180209205438/http://thehill.com/homenews/administration/373124-trump-prefers-oral-report-to-reading-daily-intel-briefing-report"
+            },
+            {
+                "datetime": "2018-02-11T07:03:11Z",
+                "uri": "http://web.archive.org/web/20180211070311/http://thehill.com/homenews/administration/373124-trump-prefers-oral-report-to-reading-daily-intel-briefing-report"
+            },
+            {
+                "datetime": "2018-02-11T21:49:57Z",
+                "uri": "http://perma-archives.org/warc/20180211214957/http://thehill.com/homenews/administration/373124-trump-prefers-oral-report-to-reading-daily-intel-briefing-report"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/homenews/administration/373124-trump-prefers-oral-report-to-reading-daily-intel-briefing-report",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/administration/373124-trump-prefers-oral-report-to-reading-daily-intel-briefing-report",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/homenews/administration/373124-trump-prefers-oral-report-to-reading-daily-intel-briefing-report",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/homenews/administration/373124-trump-prefers-oral-report-to-reading-daily-intel-briefing-report",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/administration/373124-trump-prefers-oral-report-to-reading-daily-intel-briefing-report",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/homenews/administration/373124-trump-prefers-oral-report-to-reading-daily-intel-briefing-report"
+    }
+}

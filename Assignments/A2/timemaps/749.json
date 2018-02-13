@@ -1,0 +1,54 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-02-04T17:16:28Z",
+            "uri": "http://web.archive.org/web/20170204171628/https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2"
+        },
+        "last": {
+            "datetime": "2017-10-24T02:23:20Z",
+            "uri": "http://web.archive.org/web/20171024022320/https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2"
+        },
+        "list": [
+            {
+                "datetime": "2017-02-04T17:16:28Z",
+                "uri": "http://web.archive.org/web/20170204171628/https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2"
+            },
+            {
+                "datetime": "2017-06-02T16:00:44Z",
+                "uri": "http://web.archive.org/web/20170602160044/https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2"
+            },
+            {
+                "datetime": "2017-08-18T02:15:14Z",
+                "uri": "http://wayback.archive-it.org/all/20170818021514/https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2"
+            },
+            {
+                "datetime": "2017-08-18T02:15:14Z",
+                "uri": "http://web.archive.org/web/20170818021514/https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2"
+            },
+            {
+                "datetime": "2017-08-22T00:18:48Z",
+                "uri": "http://wayback.archive-it.org/all/20170822001848/https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2"
+            },
+            {
+                "datetime": "2017-08-22T00:18:48Z",
+                "uri": "http://web.archive.org/web/20170822001848/https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2"
+            },
+            {
+                "datetime": "2017-10-11T11:51:42Z",
+                "uri": "http://wayback.archive-it.org/all/20171011115142/https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2"
+            },
+            {
+                "datetime": "2017-10-24T02:23:20Z",
+                "uri": "http://web.archive.org/web/20171024022320/https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2"
+            }
+        ]
+    },
+    "original_uri": "https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://amp.businessinsider.com/tesla-death-ray-border-wall-trump-2017-2"
+    }
+}

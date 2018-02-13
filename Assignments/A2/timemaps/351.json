@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T01:02:32Z",
+            "uri": "http://web.archive.org/web/20180208010232/https://thepropertygazette.org/2018/02/07/despite-trumps-tough-talk-trade-gap-widens-to-9-year-high/"
+        },
+        "last": {
+            "datetime": "2018-02-08T01:02:32Z",
+            "uri": "http://web.archive.org/web/20180208010232/https://thepropertygazette.org/2018/02/07/despite-trumps-tough-talk-trade-gap-widens-to-9-year-high/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T01:02:32Z",
+                "uri": "http://web.archive.org/web/20180208010232/https://thepropertygazette.org/2018/02/07/despite-trumps-tough-talk-trade-gap-widens-to-9-year-high/"
+            }
+        ]
+    },
+    "original_uri": "https://thepropertygazette.org/2018/02/07/despite-trumps-tough-talk-trade-gap-widens-to-9-year-high/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://thepropertygazette.org/2018/02/07/despite-trumps-tough-talk-trade-gap-widens-to-9-year-high/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://thepropertygazette.org/2018/02/07/despite-trumps-tough-talk-trade-gap-widens-to-9-year-high/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://thepropertygazette.org/2018/02/07/despite-trumps-tough-talk-trade-gap-widens-to-9-year-high/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://thepropertygazette.org/2018/02/07/despite-trumps-tough-talk-trade-gap-widens-to-9-year-high/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://thepropertygazette.org/2018/02/07/despite-trumps-tough-talk-trade-gap-widens-to-9-year-high/"
+    }
+}

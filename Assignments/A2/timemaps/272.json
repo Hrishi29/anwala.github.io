@@ -1,0 +1,78 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T22:49:42Z",
+            "uri": "http://web.archive.org/web/20180209224942/https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T06:02:26Z",
+            "uri": "http://web.archive.org/web/20180211060226/https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T22:49:42Z",
+                "uri": "http://web.archive.org/web/20180209224942/https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+            },
+            {
+                "datetime": "2018-02-09T23:30:55Z",
+                "uri": "http://web.archive.org/web/20180209233055/http://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+            },
+            {
+                "datetime": "2018-02-10T00:42:27Z",
+                "uri": "http://web.archive.org/web/20180210004227/https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+            },
+            {
+                "datetime": "2018-02-10T01:31:29Z",
+                "uri": "http://web.archive.org/web/20180210013129/http://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+            },
+            {
+                "datetime": "2018-02-10T04:14:07Z",
+                "uri": "http://web.archive.org/web/20180210041407/https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+            },
+            {
+                "datetime": "2018-02-10T15:37:19Z",
+                "uri": "http://web.archive.org/web/20180210153719/http://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+            },
+            {
+                "datetime": "2018-02-10T17:26:45Z",
+                "uri": "http://web.archive.org/web/20180210172645/https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+            },
+            {
+                "datetime": "2018-02-10T20:21:28Z",
+                "uri": "http://web.archive.org/web/20180210202128/http://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+            },
+            {
+                "datetime": "2018-02-10T21:21:18Z",
+                "uri": "http://web.archive.org/web/20180210212118/https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+            },
+            {
+                "datetime": "2018-02-10T21:36:15Z",
+                "uri": "http://web.archive.org/web/20180210213615/http://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+            },
+            {
+                "datetime": "2018-02-10T22:19:48Z",
+                "uri": "http://web.archive.org/web/20180210221948/http://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+            },
+            {
+                "datetime": "2018-02-10T23:36:20Z",
+                "uri": "http://web.archive.org/web/20180210233620/https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+            },
+            {
+                "datetime": "2018-02-10T23:46:14Z",
+                "uri": "http://web.archive.org/web/20180210234614/https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+            },
+            {
+                "datetime": "2018-02-11T06:02:26Z",
+                "uri": "http://web.archive.org/web/20180211060226/https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cnn.com/2018/02/09/politics/aly-raisman-abuse-allegations/index.html"
+    }
+}

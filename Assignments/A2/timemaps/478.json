@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T05:09:57Z",
+            "uri": "http://wayback.archive-it.org/all/20180211050957/http://www.dailymail.co.uk/news/article-5374235/Trump-weighing-response-Democratic-Russia-memo-White-House.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:09:57Z",
+            "uri": "http://wayback.archive-it.org/all/20180211050957/http://www.dailymail.co.uk/news/article-5374235/Trump-weighing-response-Democratic-Russia-memo-White-House.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T05:09:57Z",
+                "uri": "http://wayback.archive-it.org/all/20180211050957/http://www.dailymail.co.uk/news/article-5374235/Trump-weighing-response-Democratic-Russia-memo-White-House.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.dailymail.co.uk/news/article-5374235/Trump-weighing-response-Democratic-Russia-memo-White-House.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.dailymail.co.uk/news/article-5374235/Trump-weighing-response-Democratic-Russia-memo-White-House.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.dailymail.co.uk/news/article-5374235/Trump-weighing-response-Democratic-Russia-memo-White-House.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.dailymail.co.uk/news/article-5374235/Trump-weighing-response-Democratic-Russia-memo-White-House.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.dailymail.co.uk/news/article-5374235/Trump-weighing-response-Democratic-Russia-memo-White-House.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.dailymail.co.uk/news/article-5374235/Trump-weighing-response-Democratic-Russia-memo-White-House.html"
+    }
+}

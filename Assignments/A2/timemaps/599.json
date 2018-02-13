@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T06:19:45Z",
+            "uri": "http://web.archive.org/web/20180210061945/http://www.wgal.com/article/winter-us-olympic-team-outfits/16924790"
+        },
+        "last": {
+            "datetime": "2018-02-10T09:19:01Z",
+            "uri": "http://web.archive.org/web/20180210091901/http://www.wgal.com/article/winter-us-olympic-team-outfits/16924790"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T06:19:45Z",
+                "uri": "http://web.archive.org/web/20180210061945/http://www.wgal.com/article/winter-us-olympic-team-outfits/16924790"
+            },
+            {
+                "datetime": "2018-02-10T09:19:01Z",
+                "uri": "http://web.archive.org/web/20180210091901/http://www.wgal.com/article/winter-us-olympic-team-outfits/16924790"
+            }
+        ]
+    },
+    "original_uri": "http://www.wgal.com/article/winter-us-olympic-team-outfits/16924790",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.wgal.com/article/winter-us-olympic-team-outfits/16924790",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.wgal.com/article/winter-us-olympic-team-outfits/16924790",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.wgal.com/article/winter-us-olympic-team-outfits/16924790",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.wgal.com/article/winter-us-olympic-team-outfits/16924790",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.wgal.com/article/winter-us-olympic-team-outfits/16924790"
+    }
+}

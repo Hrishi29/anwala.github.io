@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T04:01:47Z",
+            "uri": "http://web.archive.org/web/20180210040147/http://www.bostonglobe.com/news/politics/2018/02/09/american-spies-paid-russian-who-wanted-sell-material-trump/prs0wxrOYX5GjMlDIqWFrK/story.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T05:46:35Z",
+            "uri": "http://web.archive.org/web/20180210054635/https://www.bostonglobe.com/news/politics/2018/02/09/american-spies-paid-russian-who-wanted-sell-material-trump/prs0wxrOYX5GjMlDIqWFrK/story.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T04:01:47Z",
+                "uri": "http://web.archive.org/web/20180210040147/http://www.bostonglobe.com/news/politics/2018/02/09/american-spies-paid-russian-who-wanted-sell-material-trump/prs0wxrOYX5GjMlDIqWFrK/story.html"
+            },
+            {
+                "datetime": "2018-02-10T05:04:07Z",
+                "uri": "http://web.archive.org/web/20180210050407/http://www.bostonglobe.com/news/politics/2018/02/09/american-spies-paid-russian-who-wanted-sell-material-trump/prs0wxrOYX5GjMlDIqWFrK/story.html"
+            },
+            {
+                "datetime": "2018-02-10T05:46:35Z",
+                "uri": "http://web.archive.org/web/20180210054635/https://www.bostonglobe.com/news/politics/2018/02/09/american-spies-paid-russian-who-wanted-sell-material-trump/prs0wxrOYX5GjMlDIqWFrK/story.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.bostonglobe.com/news/politics/2018/02/09/american-spies-paid-russian-who-wanted-sell-material-trump/prs0wxrOYX5GjMlDIqWFrK/story.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.bostonglobe.com/news/politics/2018/02/09/american-spies-paid-russian-who-wanted-sell-material-trump/prs0wxrOYX5GjMlDIqWFrK/story.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.bostonglobe.com/news/politics/2018/02/09/american-spies-paid-russian-who-wanted-sell-material-trump/prs0wxrOYX5GjMlDIqWFrK/story.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.bostonglobe.com/news/politics/2018/02/09/american-spies-paid-russian-who-wanted-sell-material-trump/prs0wxrOYX5GjMlDIqWFrK/story.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.bostonglobe.com/news/politics/2018/02/09/american-spies-paid-russian-who-wanted-sell-material-trump/prs0wxrOYX5GjMlDIqWFrK/story.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.bostonglobe.com/news/politics/2018/02/09/american-spies-paid-russian-who-wanted-sell-material-trump/prs0wxrOYX5GjMlDIqWFrK/story.html"
+    }
+}

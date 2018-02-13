@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T04:30:49Z",
+            "uri": "http://web.archive.org/web/20180209043049/https://www.reuters.com/article/us-usa-immigration-services-exclusive/exclusive-trump-administration-may-target-immigrants-who-use-food-aid-other-benefits-idUSKBN1FS2ZK?utm_source=twitter&utm_medium=Social"
+        },
+        "last": {
+            "datetime": "2018-02-09T04:30:49Z",
+            "uri": "http://web.archive.org/web/20180209043049/https://www.reuters.com/article/us-usa-immigration-services-exclusive/exclusive-trump-administration-may-target-immigrants-who-use-food-aid-other-benefits-idUSKBN1FS2ZK?utm_source=twitter&utm_medium=Social"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T04:30:49Z",
+                "uri": "http://web.archive.org/web/20180209043049/https://www.reuters.com/article/us-usa-immigration-services-exclusive/exclusive-trump-administration-may-target-immigrants-who-use-food-aid-other-benefits-idUSKBN1FS2ZK?utm_source=twitter&utm_medium=Social"
+            }
+        ]
+    },
+    "original_uri": "https://www.reuters.com/article/us-usa-immigration-services-exclusive/exclusive-trump-administration-may-target-immigrants-who-use-food-aid-other-benefits-idUSKBN1FS2ZK?utm_source=twitter&utm_medium=Social",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-usa-immigration-services-exclusive/exclusive-trump-administration-may-target-immigrants-who-use-food-aid-other-benefits-idUSKBN1FS2ZK?utm_source=twitter&utm_medium=Social",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.reuters.com/article/us-usa-immigration-services-exclusive/exclusive-trump-administration-may-target-immigrants-who-use-food-aid-other-benefits-idUSKBN1FS2ZK?utm_source=twitter&utm_medium=Social",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.reuters.com/article/us-usa-immigration-services-exclusive/exclusive-trump-administration-may-target-immigrants-who-use-food-aid-other-benefits-idUSKBN1FS2ZK?utm_source=twitter&utm_medium=Social",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-usa-immigration-services-exclusive/exclusive-trump-administration-may-target-immigrants-who-use-food-aid-other-benefits-idUSKBN1FS2ZK?utm_source=twitter&utm_medium=Social",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.reuters.com/article/us-usa-immigration-services-exclusive/exclusive-trump-administration-may-target-immigrants-who-use-food-aid-other-benefits-idUSKBN1FS2ZK?utm_source=twitter&utm_medium=Social"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T00:02:31Z",
+            "uri": "http://archive.is/20180210000231/https://www.nytimes.com/2018/02/09/sports/pence-rippon-olympics.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T06:01:28Z",
+            "uri": "http://web.archive.org/web/20180211060128/https://www.nytimes.com/2018/02/09/sports/pence-rippon-olympics.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T00:02:31Z",
+                "uri": "http://archive.is/20180210000231/https://www.nytimes.com/2018/02/09/sports/pence-rippon-olympics.html"
+            },
+            {
+                "datetime": "2018-02-10T01:04:20Z",
+                "uri": "http://web.archive.org/web/20180210010420/https://www.nytimes.com/2018/02/09/sports/pence-rippon-olympics.html"
+            },
+            {
+                "datetime": "2018-02-10T03:02:01Z",
+                "uri": "http://web.archive.org/web/20180210030201/https://www.nytimes.com/2018/02/09/sports/pence-rippon-olympics.html"
+            },
+            {
+                "datetime": "2018-02-10T06:27:12Z",
+                "uri": "http://web.archive.org/web/20180210062712/https://www.nytimes.com/2018/02/09/sports/pence-rippon-olympics.html"
+            },
+            {
+                "datetime": "2018-02-11T02:22:38Z",
+                "uri": "http://web.archive.org/web/20180211022238/https://www.nytimes.com/2018/02/09/sports/pence-rippon-olympics.html"
+            },
+            {
+                "datetime": "2018-02-11T04:39:01Z",
+                "uri": "http://web.archive.org/web/20180211043901/https://www.nytimes.com/2018/02/09/sports/pence-rippon-olympics.html"
+            },
+            {
+                "datetime": "2018-02-11T06:01:28Z",
+                "uri": "http://web.archive.org/web/20180211060128/https://www.nytimes.com/2018/02/09/sports/pence-rippon-olympics.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nytimes.com/2018/02/09/sports/pence-rippon-olympics.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/sports/pence-rippon-olympics.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/02/09/sports/pence-rippon-olympics.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/02/09/sports/pence-rippon-olympics.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/sports/pence-rippon-olympics.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/02/09/sports/pence-rippon-olympics.html"
+    }
+}

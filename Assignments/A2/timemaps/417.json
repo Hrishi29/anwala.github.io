@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T06:58:00Z",
+            "uri": "http://web.archive.org/web/20180210065800/https://www.usatoday.com/story/news/politics/2018/02/09/read-trumps-letter-blocking-release-democratic-memo/325620002/"
+        },
+        "last": {
+            "datetime": "2018-02-11T12:57:37Z",
+            "uri": "http://web.archive.org/web/20180211125737/http://www.usatoday.com/story/news/politics/2018/02/09/read-trumps-letter-blocking-release-democratic-memo/325620002/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T06:58:00Z",
+                "uri": "http://web.archive.org/web/20180210065800/https://www.usatoday.com/story/news/politics/2018/02/09/read-trumps-letter-blocking-release-democratic-memo/325620002/"
+            },
+            {
+                "datetime": "2018-02-10T09:49:01Z",
+                "uri": "http://web.archive.org/web/20180210094901/https://www.usatoday.com/story/news/politics/2018/02/09/read-trumps-letter-blocking-release-democratic-memo/325620002/"
+            },
+            {
+                "datetime": "2018-02-10T09:49:01Z",
+                "uri": "http://web.archive.org/web/20180210094901/http://www.usatoday.com/story/news/politics/2018/02/09/read-trumps-letter-blocking-release-democratic-memo/325620002/"
+            },
+            {
+                "datetime": "2018-02-11T12:57:20Z",
+                "uri": "http://web.archive.org/web/20180211125720/https://www.usatoday.com/story/news/politics/2018/02/09/read-trumps-letter-blocking-release-democratic-memo/325620002/"
+            },
+            {
+                "datetime": "2018-02-11T12:57:37Z",
+                "uri": "http://web.archive.org/web/20180211125737/http://www.usatoday.com/story/news/politics/2018/02/09/read-trumps-letter-blocking-release-democratic-memo/325620002/"
+            }
+        ]
+    },
+    "original_uri": "https://www.usatoday.com/story/news/politics/2018/02/09/read-trumps-letter-blocking-release-democratic-memo/325620002/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.usatoday.com/story/news/politics/2018/02/09/read-trumps-letter-blocking-release-democratic-memo/325620002/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.usatoday.com/story/news/politics/2018/02/09/read-trumps-letter-blocking-release-democratic-memo/325620002/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.usatoday.com/story/news/politics/2018/02/09/read-trumps-letter-blocking-release-democratic-memo/325620002/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.usatoday.com/story/news/politics/2018/02/09/read-trumps-letter-blocking-release-democratic-memo/325620002/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.usatoday.com/story/news/politics/2018/02/09/read-trumps-letter-blocking-release-democratic-memo/325620002/"
+    }
+}

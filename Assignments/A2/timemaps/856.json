@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T01:15:04Z",
+            "uri": "http://web.archive.org/web/20180209011504/http://insider.foxnews.com/2018/02/08/newt-gingrich-says-media-hiding-fbi-agents-anti-trump-texts"
+        },
+        "last": {
+            "datetime": "2018-02-09T05:20:42Z",
+            "uri": "http://web.archive.org/web/20180209052042/http://insider.foxnews.com/2018/02/08/newt-gingrich-says-media-hiding-fbi-agents-anti-trump-texts"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T01:15:04Z",
+                "uri": "http://web.archive.org/web/20180209011504/http://insider.foxnews.com/2018/02/08/newt-gingrich-says-media-hiding-fbi-agents-anti-trump-texts"
+            },
+            {
+                "datetime": "2018-02-09T05:20:42Z",
+                "uri": "http://web.archive.org/web/20180209052042/http://insider.foxnews.com/2018/02/08/newt-gingrich-says-media-hiding-fbi-agents-anti-trump-texts"
+            }
+        ]
+    },
+    "original_uri": "http://insider.foxnews.com/2018/02/08/newt-gingrich-says-media-hiding-fbi-agents-anti-trump-texts",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://insider.foxnews.com/2018/02/08/newt-gingrich-says-media-hiding-fbi-agents-anti-trump-texts",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://insider.foxnews.com/2018/02/08/newt-gingrich-says-media-hiding-fbi-agents-anti-trump-texts",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://insider.foxnews.com/2018/02/08/newt-gingrich-says-media-hiding-fbi-agents-anti-trump-texts",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://insider.foxnews.com/2018/02/08/newt-gingrich-says-media-hiding-fbi-agents-anti-trump-texts",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://insider.foxnews.com/2018/02/08/newt-gingrich-says-media-hiding-fbi-agents-anti-trump-texts"
+    }
+}

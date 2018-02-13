@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T01:41:43Z",
+            "uri": "http://web.archive.org/web/20180210014143/https://www.buzzfeed.com/ryanmac/scammers-are-impersonating-elon-musk-and-donald-trump-steal"
+        },
+        "last": {
+            "datetime": "2018-02-11T06:09:59Z",
+            "uri": "http://web.archive.org/web/20180211060959/https://www.buzzfeed.com/ryanmac/scammers-are-impersonating-elon-musk-and-donald-trump-steal"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T01:41:43Z",
+                "uri": "http://web.archive.org/web/20180210014143/https://www.buzzfeed.com/ryanmac/scammers-are-impersonating-elon-musk-and-donald-trump-steal"
+            },
+            {
+                "datetime": "2018-02-10T02:12:13Z",
+                "uri": "http://web.archive.org/web/20180210021213/https://www.buzzfeed.com/ryanmac/scammers-are-impersonating-elon-musk-and-donald-trump-steal"
+            },
+            {
+                "datetime": "2018-02-11T06:09:59Z",
+                "uri": "http://web.archive.org/web/20180211060959/https://www.buzzfeed.com/ryanmac/scammers-are-impersonating-elon-musk-and-donald-trump-steal"
+            }
+        ]
+    },
+    "original_uri": "https://www.buzzfeed.com/ryanmac/scammers-are-impersonating-elon-musk-and-donald-trump-steal",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.buzzfeed.com/ryanmac/scammers-are-impersonating-elon-musk-and-donald-trump-steal",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.buzzfeed.com/ryanmac/scammers-are-impersonating-elon-musk-and-donald-trump-steal",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.buzzfeed.com/ryanmac/scammers-are-impersonating-elon-musk-and-donald-trump-steal",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.buzzfeed.com/ryanmac/scammers-are-impersonating-elon-musk-and-donald-trump-steal",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.buzzfeed.com/ryanmac/scammers-are-impersonating-elon-musk-and-donald-trump-steal"
+    }
+}

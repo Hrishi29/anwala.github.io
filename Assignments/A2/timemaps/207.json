@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T23:30:52Z",
+            "uri": "http://web.archive.org/web/20180209233052/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T21:53:53Z",
+            "uri": "http://web.archive.org/web/20180210215353/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T23:30:52Z",
+                "uri": "http://web.archive.org/web/20180209233052/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-02-10T03:40:14Z",
+                "uri": "http://web.archive.org/web/20180210034014/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-02-10T21:53:53Z",
+                "uri": "http://web.archive.org/web/20180210215353/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            }
+        ]
+    },
+    "original_uri": "http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T00:07:41Z",
+            "uri": "http://web.archive.org/web/20180210000741/https://www.wvgazettemail.com/news/politics/governor-appoints-anti-vaccine-spokeswoman-to-house-of-delegates/article_f40c906c-f84e-5442-ae76-7a472d5aac2d.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T00:07:41Z",
+            "uri": "http://web.archive.org/web/20180210000741/https://www.wvgazettemail.com/news/politics/governor-appoints-anti-vaccine-spokeswoman-to-house-of-delegates/article_f40c906c-f84e-5442-ae76-7a472d5aac2d.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T00:07:41Z",
+                "uri": "http://web.archive.org/web/20180210000741/https://www.wvgazettemail.com/news/politics/governor-appoints-anti-vaccine-spokeswoman-to-house-of-delegates/article_f40c906c-f84e-5442-ae76-7a472d5aac2d.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.wvgazettemail.com/news/politics/governor-appoints-anti-vaccine-spokeswoman-to-house-of-delegates/article_f40c906c-f84e-5442-ae76-7a472d5aac2d.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.wvgazettemail.com/news/politics/governor-appoints-anti-vaccine-spokeswoman-to-house-of-delegates/article_f40c906c-f84e-5442-ae76-7a472d5aac2d.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.wvgazettemail.com/news/politics/governor-appoints-anti-vaccine-spokeswoman-to-house-of-delegates/article_f40c906c-f84e-5442-ae76-7a472d5aac2d.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.wvgazettemail.com/news/politics/governor-appoints-anti-vaccine-spokeswoman-to-house-of-delegates/article_f40c906c-f84e-5442-ae76-7a472d5aac2d.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.wvgazettemail.com/news/politics/governor-appoints-anti-vaccine-spokeswoman-to-house-of-delegates/article_f40c906c-f84e-5442-ae76-7a472d5aac2d.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.wvgazettemail.com/news/politics/governor-appoints-anti-vaccine-spokeswoman-to-house-of-delegates/article_f40c906c-f84e-5442-ae76-7a472d5aac2d.html"
+    }
+}

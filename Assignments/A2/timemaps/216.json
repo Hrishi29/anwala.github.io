@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T00:49:19Z",
+            "uri": "http://web.archive.org/web/20180210004919/https://www.nytimes.com/2018/02/09/health/trump-drug-prices-medicare.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T08:49:24Z",
+            "uri": "http://web.archive.org/web/20180211084924/https://www.nytimes.com/2018/02/09/health/trump-drug-prices-medicare.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T00:49:19Z",
+                "uri": "http://web.archive.org/web/20180210004919/https://www.nytimes.com/2018/02/09/health/trump-drug-prices-medicare.html"
+            },
+            {
+                "datetime": "2018-02-10T19:00:04Z",
+                "uri": "http://web.archive.org/web/20180210190004/https://www.nytimes.com/2018/02/09/health/trump-drug-prices-medicare.html"
+            },
+            {
+                "datetime": "2018-02-10T19:34:34Z",
+                "uri": "http://web.archive.org/web/20180210193434/https://www.nytimes.com/2018/02/09/health/trump-drug-prices-medicare.html"
+            },
+            {
+                "datetime": "2018-02-11T00:24:48Z",
+                "uri": "http://web.archive.org/web/20180211002448/https://www.nytimes.com/2018/02/09/health/trump-drug-prices-medicare.html"
+            },
+            {
+                "datetime": "2018-02-11T08:49:24Z",
+                "uri": "http://web.archive.org/web/20180211084924/https://www.nytimes.com/2018/02/09/health/trump-drug-prices-medicare.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nytimes.com/2018/02/09/health/trump-drug-prices-medicare.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/health/trump-drug-prices-medicare.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/02/09/health/trump-drug-prices-medicare.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/02/09/health/trump-drug-prices-medicare.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/health/trump-drug-prices-medicare.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/02/09/health/trump-drug-prices-medicare.html"
+    }
+}

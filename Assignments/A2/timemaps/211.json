@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T02:32:29Z",
+            "uri": "http://web.archive.org/web/20180210023229/http://www.washingtonexaminer.com/matt-gaetz-the-boy-politician-making-the-most-of-his-trump-moment/article/2648700"
+        },
+        "last": {
+            "datetime": "2018-02-10T02:32:29Z",
+            "uri": "http://web.archive.org/web/20180210023229/http://www.washingtonexaminer.com/matt-gaetz-the-boy-politician-making-the-most-of-his-trump-moment/article/2648700"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T02:32:29Z",
+                "uri": "http://web.archive.org/web/20180210023229/http://www.washingtonexaminer.com/matt-gaetz-the-boy-politician-making-the-most-of-his-trump-moment/article/2648700"
+            }
+        ]
+    },
+    "original_uri": "http://www.washingtonexaminer.com/matt-gaetz-the-boy-politician-making-the-most-of-his-trump-moment/article/2648700",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.washingtonexaminer.com/matt-gaetz-the-boy-politician-making-the-most-of-his-trump-moment/article/2648700",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.washingtonexaminer.com/matt-gaetz-the-boy-politician-making-the-most-of-his-trump-moment/article/2648700",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.washingtonexaminer.com/matt-gaetz-the-boy-politician-making-the-most-of-his-trump-moment/article/2648700",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.washingtonexaminer.com/matt-gaetz-the-boy-politician-making-the-most-of-his-trump-moment/article/2648700",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.washingtonexaminer.com/matt-gaetz-the-boy-politician-making-the-most-of-his-trump-moment/article/2648700"
+    }
+}

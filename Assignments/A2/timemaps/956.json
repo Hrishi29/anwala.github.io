@@ -1,0 +1,394 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-06-11T20:15:45Z",
+            "uri": "http://wayback.archive-it.org/all/20170611201545/http://www.andrewjanzforcongress.com/"
+        },
+        "last": {
+            "datetime": "2018-02-04T13:35:36Z",
+            "uri": "http://web.archive.org/web/20180204133536/https://www.andrewjanzforcongress.com/"
+        },
+        "list": [
+            {
+                "datetime": "2017-06-11T20:15:45Z",
+                "uri": "http://wayback.archive-it.org/all/20170611201545/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-06-11T20:15:45Z",
+                "uri": "http://web.archive.org/web/20170611201545/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-06-11T20:15:47Z",
+                "uri": "http://wayback.archive-it.org/all/20170611201547/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-06-11T20:15:47Z",
+                "uri": "http://web.archive.org/web/20170611201547/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-06-11T20:15:50Z",
+                "uri": "http://wayback.archive-it.org/all/20170611201550/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-06-11T20:15:50Z",
+                "uri": "http://web.archive.org/web/20170611201550/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-06-12T21:13:46Z",
+                "uri": "http://wayback.archive-it.org/all/20170612211346/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-06-12T21:13:46Z",
+                "uri": "http://web.archive.org/web/20170612211346/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-06-12T21:13:49Z",
+                "uri": "http://wayback.archive-it.org/all/20170612211349/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-06-12T21:13:49Z",
+                "uri": "http://web.archive.org/web/20170612211349/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-06-23T17:59:03Z",
+                "uri": "http://web.archive.org/web/20170623175903/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-06-23T17:59:08Z",
+                "uri": "http://web.archive.org/web/20170623175908/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-09-10T04:15:39Z",
+                "uri": "http://web.archive.org/web/20170910041539/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-09-10T08:36:59Z",
+                "uri": "http://web.archive.org/web/20170910083659/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-09-12T15:24:07Z",
+                "uri": "http://web.archive.org/web/20170912152407/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-08T23:42:34Z",
+                "uri": "http://web.archive.org/web/20171108234234/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-16T11:15:57Z",
+                "uri": "http://web.archive.org/web/20171116111557/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-16T13:35:09Z",
+                "uri": "http://web.archive.org/web/20171116133509/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-18T02:50:11Z",
+                "uri": "http://wayback.archive-it.org/all/20171118025011/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-18T02:50:11Z",
+                "uri": "http://web.archive.org/web/20171118025011/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-18T02:50:12Z",
+                "uri": "http://wayback.archive-it.org/all/20171118025012/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-18T02:50:12Z",
+                "uri": "http://web.archive.org/web/20171118025012/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-18T02:50:13Z",
+                "uri": "http://wayback.archive-it.org/all/20171118025013/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-18T02:50:13Z",
+                "uri": "http://web.archive.org/web/20171118025013/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-18T23:33:07Z",
+                "uri": "http://wayback.archive-it.org/all/20171118233307/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-18T23:33:07Z",
+                "uri": "http://web.archive.org/web/20171118233307/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-18T23:33:09Z",
+                "uri": "http://wayback.archive-it.org/all/20171118233309/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-18T23:33:09Z",
+                "uri": "http://web.archive.org/web/20171118233309/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-18T23:33:11Z",
+                "uri": "http://wayback.archive-it.org/all/20171118233311/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-18T23:33:11Z",
+                "uri": "http://web.archive.org/web/20171118233311/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-26T14:14:29Z",
+                "uri": "http://wayback.archive-it.org/all/20171126141429/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-26T14:14:29Z",
+                "uri": "http://wayback.archive-it.org/all/20171126141429/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-26T14:14:29Z",
+                "uri": "http://web.archive.org/web/20171126141429/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-26T14:14:29Z",
+                "uri": "http://web.archive.org/web/20171126141429/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-26T14:14:31Z",
+                "uri": "http://wayback.archive-it.org/all/20171126141431/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-11-26T14:14:31Z",
+                "uri": "http://web.archive.org/web/20171126141431/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-12-01T23:55:51Z",
+                "uri": "http://wayback.archive-it.org/all/20171201235551/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-12-01T23:55:51Z",
+                "uri": "http://web.archive.org/web/20171201235551/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-12-01T23:55:56Z",
+                "uri": "http://wayback.archive-it.org/all/20171201235556/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-12-01T23:55:56Z",
+                "uri": "http://web.archive.org/web/20171201235556/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-12-01T23:55:57Z",
+                "uri": "http://wayback.archive-it.org/all/20171201235557/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-12-01T23:55:57Z",
+                "uri": "http://web.archive.org/web/20171201235557/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-12-07T15:21:59Z",
+                "uri": "http://web.archive.org/web/20171207152159/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-12-22T01:30:28Z",
+                "uri": "http://web.archive.org/web/20171222013028/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-12-24T23:03:55Z",
+                "uri": "http://web.archive.org/web/20171224230355/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2017-12-31T11:50:22Z",
+                "uri": "http://web.archive.org/web/20171231115022/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-06T02:54:05Z",
+                "uri": "http://wayback.archive-it.org/all/20180106025405/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-06T02:54:05Z",
+                "uri": "http://web.archive.org/web/20180106025405/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-06T02:54:09Z",
+                "uri": "http://wayback.archive-it.org/all/20180106025409/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-06T02:54:09Z",
+                "uri": "http://web.archive.org/web/20180106025409/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-06T02:54:10Z",
+                "uri": "http://wayback.archive-it.org/all/20180106025410/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-06T02:54:10Z",
+                "uri": "http://web.archive.org/web/20180106025410/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-15T01:51:10Z",
+                "uri": "http://wayback.archive-it.org/all/20180115015110/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-15T01:51:10Z",
+                "uri": "http://web.archive.org/web/20180115015110/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-15T01:51:31Z",
+                "uri": "http://wayback.archive-it.org/all/20180115015131/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-15T01:51:31Z",
+                "uri": "http://web.archive.org/web/20180115015131/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-15T01:51:37Z",
+                "uri": "http://wayback.archive-it.org/all/20180115015137/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-15T01:51:37Z",
+                "uri": "http://web.archive.org/web/20180115015137/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-17T19:31:39Z",
+                "uri": "http://web.archive.org/web/20180117193139/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-18T06:22:16Z",
+                "uri": "http://web.archive.org/web/20180118062216/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-19T01:38:17Z",
+                "uri": "http://web.archive.org/web/20180119013817/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-24T22:07:28Z",
+                "uri": "http://wayback.archive-it.org/all/20180124220728/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-24T22:07:28Z",
+                "uri": "http://web.archive.org/web/20180124220728/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-24T22:55:28Z",
+                "uri": "http://wayback.archive-it.org/all/20180124225528/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-24T22:55:28Z",
+                "uri": "http://web.archive.org/web/20180124225528/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T00:27:39Z",
+                "uri": "http://wayback.archive-it.org/all/20180125002739/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T00:27:39Z",
+                "uri": "http://web.archive.org/web/20180125002739/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T00:35:26Z",
+                "uri": "http://wayback.archive-it.org/all/20180125003526/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T00:35:26Z",
+                "uri": "http://web.archive.org/web/20180125003526/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T01:29:37Z",
+                "uri": "http://wayback.archive-it.org/all/20180125012937/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T01:29:37Z",
+                "uri": "http://web.archive.org/web/20180125012937/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T01:29:45Z",
+                "uri": "http://wayback.archive-it.org/all/20180125012945/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T01:29:45Z",
+                "uri": "http://web.archive.org/web/20180125012945/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T01:37:29Z",
+                "uri": "http://wayback.archive-it.org/all/20180125013729/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T01:37:29Z",
+                "uri": "http://web.archive.org/web/20180125013729/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T01:52:05Z",
+                "uri": "http://wayback.archive-it.org/all/20180125015205/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T01:52:05Z",
+                "uri": "http://web.archive.org/web/20180125015205/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T01:52:55Z",
+                "uri": "http://wayback.archive-it.org/all/20180125015255/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T01:52:55Z",
+                "uri": "http://web.archive.org/web/20180125015255/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T01:53:09Z",
+                "uri": "http://wayback.archive-it.org/all/20180125015309/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T01:53:09Z",
+                "uri": "http://web.archive.org/web/20180125015309/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T03:20:00Z",
+                "uri": "http://wayback.archive-it.org/all/20180125032000/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T03:20:00Z",
+                "uri": "http://web.archive.org/web/20180125032000/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T04:27:25Z",
+                "uri": "http://wayback.archive-it.org/all/20180125042725/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-25T04:27:25Z",
+                "uri": "http://web.archive.org/web/20180125042725/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-01-31T06:16:39Z",
+                "uri": "http://web.archive.org/web/20180131061639/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-02-02T04:20:43Z",
+                "uri": "http://web.archive.org/web/20180202042043/https://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-02-02T08:58:48Z",
+                "uri": "http://web.archive.org/web/20180202085848/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-02-02T22:40:50Z",
+                "uri": "http://web.archive.org/web/20180202224050/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-02-03T04:36:12Z",
+                "uri": "http://web.archive.org/web/20180203043612/http://andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-02-04T13:35:34Z",
+                "uri": "http://web.archive.org/web/20180204133534/http://andrewjanzforcongress.com"
+            },
+            {
+                "datetime": "2018-02-04T13:35:35Z",
+                "uri": "http://web.archive.org/web/20180204133535/http://www.andrewjanzforcongress.com/"
+            },
+            {
+                "datetime": "2018-02-04T13:35:36Z",
+                "uri": "http://web.archive.org/web/20180204133536/https://www.andrewjanzforcongress.com/"
+            }
+        ]
+    },
+    "original_uri": "https://www.andrewjanzforcongress.com/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.andrewjanzforcongress.com/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.andrewjanzforcongress.com/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.andrewjanzforcongress.com/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.andrewjanzforcongress.com/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.andrewjanzforcongress.com/"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T04:25:35Z",
+            "uri": "http://web.archive.org/web/20180210042535/https://www.rollcall.com/news/politics/trump-blocks-release-democrats-intelligence-memo"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:09:32Z",
+            "uri": "http://web.archive.org/web/20180211050932/https://www.rollcall.com/news/politics/trump-blocks-release-democrats-intelligence-memo"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T04:25:35Z",
+                "uri": "http://web.archive.org/web/20180210042535/https://www.rollcall.com/news/politics/trump-blocks-release-democrats-intelligence-memo"
+            },
+            {
+                "datetime": "2018-02-10T06:57:02Z",
+                "uri": "http://web.archive.org/web/20180210065702/https://www.rollcall.com/news/politics/trump-blocks-release-democrats-intelligence-memo"
+            },
+            {
+                "datetime": "2018-02-11T05:09:32Z",
+                "uri": "http://wayback.archive-it.org/all/20180211050932/https://www.rollcall.com/news/politics/trump-blocks-release-democrats-intelligence-memo"
+            },
+            {
+                "datetime": "2018-02-11T05:09:32Z",
+                "uri": "http://web.archive.org/web/20180211050932/https://www.rollcall.com/news/politics/trump-blocks-release-democrats-intelligence-memo"
+            }
+        ]
+    },
+    "original_uri": "https://www.rollcall.com/news/politics/trump-blocks-release-democrats-intelligence-memo",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.rollcall.com/news/politics/trump-blocks-release-democrats-intelligence-memo",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.rollcall.com/news/politics/trump-blocks-release-democrats-intelligence-memo",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.rollcall.com/news/politics/trump-blocks-release-democrats-intelligence-memo",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.rollcall.com/news/politics/trump-blocks-release-democrats-intelligence-memo",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.rollcall.com/news/politics/trump-blocks-release-democrats-intelligence-memo"
+    }
+}

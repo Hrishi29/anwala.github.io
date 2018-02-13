@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T19:33:04Z",
+            "uri": "http://web.archive.org/web/20180210193304/https://www.washingtonpost.com/opinions/trump-lied-about-a-border-agents-death-the-truth-wont-catch-up/2018/02/09/02941b9a-0db7-11e8-95a5-c396801049ef_story.html?hpid=hp_no-name_opinion-card-d%3Ahomepage%2Fstory&utm_term=.895bc15d8b9f"
+        },
+        "last": {
+            "datetime": "2018-02-10T21:49:20Z",
+            "uri": "http://web.archive.org/web/20180210214920/https://www.washingtonpost.com/opinions/trump-lied-about-a-border-agents-death-the-truth-wont-catch-up/2018/02/09/02941b9a-0db7-11e8-95a5-c396801049ef_story.html?hpid=hp_no-name_opinion-card-d%3Ahomepage%2Fstory&utm_term=.895bc15d8b9f"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T19:33:04Z",
+                "uri": "http://web.archive.org/web/20180210193304/https://www.washingtonpost.com/opinions/trump-lied-about-a-border-agents-death-the-truth-wont-catch-up/2018/02/09/02941b9a-0db7-11e8-95a5-c396801049ef_story.html?hpid=hp_no-name_opinion-card-d%3Ahomepage%2Fstory&utm_term=.895bc15d8b9f"
+            },
+            {
+                "datetime": "2018-02-10T21:49:20Z",
+                "uri": "http://web.archive.org/web/20180210214920/https://www.washingtonpost.com/opinions/trump-lied-about-a-border-agents-death-the-truth-wont-catch-up/2018/02/09/02941b9a-0db7-11e8-95a5-c396801049ef_story.html?hpid=hp_no-name_opinion-card-d%3Ahomepage%2Fstory&utm_term=.895bc15d8b9f"
+            }
+        ]
+    },
+    "original_uri": "https://www.washingtonpost.com/opinions/trump-lied-about-a-border-agents-death-the-truth-wont-catch-up/2018/02/09/02941b9a-0db7-11e8-95a5-c396801049ef_story.html?hpid=hp_no-name_opinion-card-d%3Ahomepage%2Fstory&utm_term=.895bc15d8b9f",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/opinions/trump-lied-about-a-border-agents-death-the-truth-wont-catch-up/2018/02/09/02941b9a-0db7-11e8-95a5-c396801049ef_story.html?hpid=hp_no-name_opinion-card-d%3Ahomepage%2Fstory&utm_term=.895bc15d8b9f",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.washingtonpost.com/opinions/trump-lied-about-a-border-agents-death-the-truth-wont-catch-up/2018/02/09/02941b9a-0db7-11e8-95a5-c396801049ef_story.html?hpid=hp_no-name_opinion-card-d%3Ahomepage%2Fstory&utm_term=.895bc15d8b9f",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.washingtonpost.com/opinions/trump-lied-about-a-border-agents-death-the-truth-wont-catch-up/2018/02/09/02941b9a-0db7-11e8-95a5-c396801049ef_story.html?hpid=hp_no-name_opinion-card-d%3Ahomepage%2Fstory&utm_term=.895bc15d8b9f",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/opinions/trump-lied-about-a-border-agents-death-the-truth-wont-catch-up/2018/02/09/02941b9a-0db7-11e8-95a5-c396801049ef_story.html?hpid=hp_no-name_opinion-card-d%3Ahomepage%2Fstory&utm_term=.895bc15d8b9f",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.washingtonpost.com/opinions/trump-lied-about-a-border-agents-death-the-truth-wont-catch-up/2018/02/09/02941b9a-0db7-11e8-95a5-c396801049ef_story.html?hpid=hp_no-name_opinion-card-d%3Ahomepage%2Fstory&utm_term=.895bc15d8b9f"
+    }
+}

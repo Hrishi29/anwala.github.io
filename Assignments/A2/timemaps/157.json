@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T01:08:35Z",
+            "uri": "http://web.archive.org/web/20180210010835/https://www.huffingtonpost.com/entry/trump-democrats-response-memo_us_5a7b488ce4b0c6726e0ea82e"
+        },
+        "last": {
+            "datetime": "2018-02-11T07:50:27Z",
+            "uri": "http://web.archive.org/web/20180211075027/https://www.huffingtonpost.com/entry/trump-democrats-response-memo_us_5a7b488ce4b0c6726e0ea82e"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T01:08:35Z",
+                "uri": "http://web.archive.org/web/20180210010835/https://www.huffingtonpost.com/entry/trump-democrats-response-memo_us_5a7b488ce4b0c6726e0ea82e"
+            },
+            {
+                "datetime": "2018-02-10T04:18:51Z",
+                "uri": "http://web.archive.org/web/20180210041851/https://www.huffingtonpost.com/entry/trump-democrats-response-memo_us_5a7b488ce4b0c6726e0ea82e"
+            },
+            {
+                "datetime": "2018-02-10T18:07:56Z",
+                "uri": "http://web.archive.org/web/20180210180756/https://www.huffingtonpost.com/entry/trump-democrats-response-memo_us_5a7b488ce4b0c6726e0ea82e"
+            },
+            {
+                "datetime": "2018-02-11T05:09:40Z",
+                "uri": "http://web.archive.org/web/20180211050940/https://www.huffingtonpost.com/entry/trump-democrats-response-memo_us_5a7b488ce4b0c6726e0ea82e"
+            },
+            {
+                "datetime": "2018-02-11T07:50:27Z",
+                "uri": "http://web.archive.org/web/20180211075027/https://www.huffingtonpost.com/entry/trump-democrats-response-memo_us_5a7b488ce4b0c6726e0ea82e"
+            }
+        ]
+    },
+    "original_uri": "https://www.huffingtonpost.com/entry/trump-democrats-response-memo_us_5a7b488ce4b0c6726e0ea82e",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.huffingtonpost.com/entry/trump-democrats-response-memo_us_5a7b488ce4b0c6726e0ea82e",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.huffingtonpost.com/entry/trump-democrats-response-memo_us_5a7b488ce4b0c6726e0ea82e",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.huffingtonpost.com/entry/trump-democrats-response-memo_us_5a7b488ce4b0c6726e0ea82e",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.huffingtonpost.com/entry/trump-democrats-response-memo_us_5a7b488ce4b0c6726e0ea82e",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.huffingtonpost.com/entry/trump-democrats-response-memo_us_5a7b488ce4b0c6726e0ea82e"
+    }
+}

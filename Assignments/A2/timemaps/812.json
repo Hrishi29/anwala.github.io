@@ -1,0 +1,74 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-06-29T02:26:25Z",
+            "uri": "http://web.archive.org/web/20170629022625/http://www.odaction.com:80/impeach"
+        },
+        "last": {
+            "datetime": "2018-02-04T00:20:37Z",
+            "uri": "http://archive.is/20180204002037/https://odaction.com/impeach/"
+        },
+        "list": [
+            {
+                "datetime": "2017-06-29T02:26:25Z",
+                "uri": "http://web.archive.org/web/20170629022625/http://www.odaction.com:80/impeach"
+            },
+            {
+                "datetime": "2017-07-09T13:09:16Z",
+                "uri": "http://web.archive.org/web/20170709130916/http://www.odaction.com:80/impeach"
+            },
+            {
+                "datetime": "2017-07-10T15:41:42Z",
+                "uri": "http://web.archive.org/web/20170710154142/http://www.odaction.com:80/impeach"
+            },
+            {
+                "datetime": "2017-07-21T11:02:51Z",
+                "uri": "http://web.archive.org/web/20170721110251/http://www.odaction.com:80/impeach"
+            },
+            {
+                "datetime": "2017-07-31T09:32:33Z",
+                "uri": "http://web.archive.org/web/20170731093233/http://www.odaction.com:80/impeach"
+            },
+            {
+                "datetime": "2017-08-09T00:29:26Z",
+                "uri": "http://web.archive.org/web/20170809002926/http://www.odaction.com:80/impeach"
+            },
+            {
+                "datetime": "2017-08-21T00:21:15Z",
+                "uri": "http://web.archive.org/web/20170821002115/http://www.odaction.com/impeach"
+            },
+            {
+                "datetime": "2017-08-30T09:31:50Z",
+                "uri": "http://web.archive.org/web/20170830093150/http://www.odaction.com/impeach"
+            },
+            {
+                "datetime": "2017-11-19T07:12:07Z",
+                "uri": "http://web.archive.org/web/20171119071207/http://www.odaction.com/impeach"
+            },
+            {
+                "datetime": "2017-11-19T07:12:10Z",
+                "uri": "http://web.archive.org/web/20171119071210/http://odaction.com/impeach"
+            },
+            {
+                "datetime": "2017-11-19T07:12:15Z",
+                "uri": "http://web.archive.org/web/20171119071215/https://odaction.com/impeach"
+            },
+            {
+                "datetime": "2018-01-21T08:36:12Z",
+                "uri": "http://web.archive.org/web/20180121083612/https://odaction.com/impeach/"
+            },
+            {
+                "datetime": "2018-02-04T00:20:37Z",
+                "uri": "http://archive.is/20180204002037/https://odaction.com/impeach/"
+            }
+        ]
+    },
+    "original_uri": "https://odaction.com/impeach/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://odaction.com/impeach/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://odaction.com/impeach/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://odaction.com/impeach/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://odaction.com/impeach/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://odaction.com/impeach/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-02T16:32:15Z",
+            "uri": "http://web.archive.org/web/20180202163215/http://www.smh.com.au/federal-politics/political-news/federal-government-s-disadvantaged-scheme-funnels-millions-to-blue-ribbon-liberal-seats-20180129-p4yyzu.html"
+        },
+        "last": {
+            "datetime": "2018-02-02T16:32:15Z",
+            "uri": "http://web.archive.org/web/20180202163215/http://www.smh.com.au/federal-politics/political-news/federal-government-s-disadvantaged-scheme-funnels-millions-to-blue-ribbon-liberal-seats-20180129-p4yyzu.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-02T16:32:15Z",
+                "uri": "http://web.archive.org/web/20180202163215/http://www.smh.com.au/federal-politics/political-news/federal-government-s-disadvantaged-scheme-funnels-millions-to-blue-ribbon-liberal-seats-20180129-p4yyzu.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.smh.com.au/federal-politics/political-news/federal-government-s-disadvantaged-scheme-funnels-millions-to-blue-ribbon-liberal-seats-20180129-p4yyzu.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.smh.com.au/federal-politics/political-news/federal-government-s-disadvantaged-scheme-funnels-millions-to-blue-ribbon-liberal-seats-20180129-p4yyzu.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.smh.com.au/federal-politics/political-news/federal-government-s-disadvantaged-scheme-funnels-millions-to-blue-ribbon-liberal-seats-20180129-p4yyzu.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.smh.com.au/federal-politics/political-news/federal-government-s-disadvantaged-scheme-funnels-millions-to-blue-ribbon-liberal-seats-20180129-p4yyzu.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.smh.com.au/federal-politics/political-news/federal-government-s-disadvantaged-scheme-funnels-millions-to-blue-ribbon-liberal-seats-20180129-p4yyzu.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.smh.com.au/federal-politics/political-news/federal-government-s-disadvantaged-scheme-funnels-millions-to-blue-ribbon-liberal-seats-20180129-p4yyzu.html"
+    }
+}

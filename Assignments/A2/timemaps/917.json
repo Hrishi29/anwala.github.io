@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T18:44:51Z",
+            "uri": "http://web.archive.org/web/20180209184451/http://www.washingtonexaminer.com/clean-coal-touted-by-trump-gets-a-bipartisan-boost-in-spending-bill/article/2648646"
+        },
+        "last": {
+            "datetime": "2018-02-09T18:44:51Z",
+            "uri": "http://web.archive.org/web/20180209184451/http://www.washingtonexaminer.com/clean-coal-touted-by-trump-gets-a-bipartisan-boost-in-spending-bill/article/2648646"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T18:44:51Z",
+                "uri": "http://web.archive.org/web/20180209184451/http://www.washingtonexaminer.com/clean-coal-touted-by-trump-gets-a-bipartisan-boost-in-spending-bill/article/2648646"
+            }
+        ]
+    },
+    "original_uri": "http://www.washingtonexaminer.com:80/clean-coal-touted-by-trump-gets-a-bipartisan-boost-in-spending-bill/article/2648646",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.washingtonexaminer.com:80/clean-coal-touted-by-trump-gets-a-bipartisan-boost-in-spending-bill/article/2648646",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.washingtonexaminer.com:80/clean-coal-touted-by-trump-gets-a-bipartisan-boost-in-spending-bill/article/2648646",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.washingtonexaminer.com:80/clean-coal-touted-by-trump-gets-a-bipartisan-boost-in-spending-bill/article/2648646",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.washingtonexaminer.com:80/clean-coal-touted-by-trump-gets-a-bipartisan-boost-in-spending-bill/article/2648646",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.washingtonexaminer.com:80/clean-coal-touted-by-trump-gets-a-bipartisan-boost-in-spending-bill/article/2648646"
+    }
+}

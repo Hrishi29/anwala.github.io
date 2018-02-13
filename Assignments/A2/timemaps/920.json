@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T23:57:44Z",
+            "uri": "http://web.archive.org/web/20180210235744/https://www.cnn.com/videos/tv/2018/02/09/lead-jake-tapper-rob-porter-live.cnn"
+        },
+        "last": {
+            "datetime": "2018-02-10T23:57:44Z",
+            "uri": "http://web.archive.org/web/20180210235744/https://www.cnn.com/videos/tv/2018/02/09/lead-jake-tapper-rob-porter-live.cnn"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T23:57:44Z",
+                "uri": "http://web.archive.org/web/20180210235744/https://www.cnn.com/videos/tv/2018/02/09/lead-jake-tapper-rob-porter-live.cnn"
+            }
+        ]
+    },
+    "original_uri": "http://www.cnn.com/videos/tv/2018/02/09/lead-jake-tapper-rob-porter-live.cnn",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.cnn.com/videos/tv/2018/02/09/lead-jake-tapper-rob-porter-live.cnn",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.cnn.com/videos/tv/2018/02/09/lead-jake-tapper-rob-porter-live.cnn",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.cnn.com/videos/tv/2018/02/09/lead-jake-tapper-rob-porter-live.cnn",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.cnn.com/videos/tv/2018/02/09/lead-jake-tapper-rob-porter-live.cnn",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.cnn.com/videos/tv/2018/02/09/lead-jake-tapper-rob-porter-live.cnn"
+    }
+}

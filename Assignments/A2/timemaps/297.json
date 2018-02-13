@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T02:34:39Z",
+            "uri": "http://web.archive.org/web/20180209023439/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+        },
+        "last": {
+            "datetime": "2018-02-11T08:40:30Z",
+            "uri": "http://web.archive.org/web/20180211084030/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T02:34:39Z",
+                "uri": "http://web.archive.org/web/20180209023439/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-09T18:21:04Z",
+                "uri": "http://web.archive.org/web/20180209182104/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-10T04:19:36Z",
+                "uri": "http://web.archive.org/web/20180210041936/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-11T06:47:36Z",
+                "uri": "http://web.archive.org/web/20180211064736/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-11T08:40:30Z",
+                "uri": "http://web.archive.org/web/20180211084030/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-11T08:40:30Z",
+                "uri": "http://web.archive.org/web/20180211084030/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            }
+        ]
+    },
+    "original_uri": "http://time.com/5139760/rob-porter-donald-trump-domestic-violence/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+    }
+}

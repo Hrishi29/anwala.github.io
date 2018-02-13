@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-02T15:23:25Z",
+            "uri": "http://web.archive.org/web/20180202152325/http://usalibertypress.com/2018/01/20/donald-trump-win-2020/"
+        },
+        "last": {
+            "datetime": "2018-02-02T15:23:25Z",
+            "uri": "http://web.archive.org/web/20180202152325/http://usalibertypress.com/2018/01/20/donald-trump-win-2020/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-02T15:23:25Z",
+                "uri": "http://web.archive.org/web/20180202152325/http://usalibertypress.com/2018/01/20/donald-trump-win-2020/"
+            }
+        ]
+    },
+    "original_uri": "http://usalibertypress.com/2018/01/20/donald-trump-win-2020/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://usalibertypress.com/2018/01/20/donald-trump-win-2020/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://usalibertypress.com/2018/01/20/donald-trump-win-2020/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://usalibertypress.com/2018/01/20/donald-trump-win-2020/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://usalibertypress.com/2018/01/20/donald-trump-win-2020/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://usalibertypress.com/2018/01/20/donald-trump-win-2020/"
+    }
+}

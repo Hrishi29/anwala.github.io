@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T17:38:46Z",
+            "uri": "http://web.archive.org/web/20180209173846/http://www.foxcarolina.com/story/37467833/professor-says-he-wouldnt-mind-seeing-trump-dead"
+        },
+        "last": {
+            "datetime": "2018-02-09T17:38:46Z",
+            "uri": "http://web.archive.org/web/20180209173846/http://www.foxcarolina.com/story/37467833/professor-says-he-wouldnt-mind-seeing-trump-dead"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T17:38:46Z",
+                "uri": "http://web.archive.org/web/20180209173846/http://www.foxcarolina.com/story/37467833/professor-says-he-wouldnt-mind-seeing-trump-dead"
+            }
+        ]
+    },
+    "original_uri": "http://www.foxcarolina.com/story/37467833/professor-says-he-wouldnt-mind-seeing-trump-dead",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.foxcarolina.com/story/37467833/professor-says-he-wouldnt-mind-seeing-trump-dead",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.foxcarolina.com/story/37467833/professor-says-he-wouldnt-mind-seeing-trump-dead",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.foxcarolina.com/story/37467833/professor-says-he-wouldnt-mind-seeing-trump-dead",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.foxcarolina.com/story/37467833/professor-says-he-wouldnt-mind-seeing-trump-dead",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.foxcarolina.com/story/37467833/professor-says-he-wouldnt-mind-seeing-trump-dead"
+    }
+}

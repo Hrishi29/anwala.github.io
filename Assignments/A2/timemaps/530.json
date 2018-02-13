@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T04:13:03Z",
+            "uri": "http://web.archive.org/web/20180209041303/https://www.newsmax.com/politics/rasmussen-reports-presidential-approval-rating-survey/2018/02/08/id/842343/"
+        },
+        "last": {
+            "datetime": "2018-02-09T04:13:03Z",
+            "uri": "http://web.archive.org/web/20180209041303/https://www.newsmax.com/politics/rasmussen-reports-presidential-approval-rating-survey/2018/02/08/id/842343/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T04:13:03Z",
+                "uri": "http://web.archive.org/web/20180209041303/https://www.newsmax.com/politics/rasmussen-reports-presidential-approval-rating-survey/2018/02/08/id/842343/"
+            }
+        ]
+    },
+    "original_uri": "https://www.newsmax.com/politics/rasmussen-reports-presidential-approval-rating-survey/2018/02/08/id/842343/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.newsmax.com/politics/rasmussen-reports-presidential-approval-rating-survey/2018/02/08/id/842343/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.newsmax.com/politics/rasmussen-reports-presidential-approval-rating-survey/2018/02/08/id/842343/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.newsmax.com/politics/rasmussen-reports-presidential-approval-rating-survey/2018/02/08/id/842343/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.newsmax.com/politics/rasmussen-reports-presidential-approval-rating-survey/2018/02/08/id/842343/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.newsmax.com/politics/rasmussen-reports-presidential-approval-rating-survey/2018/02/08/id/842343/"
+    }
+}

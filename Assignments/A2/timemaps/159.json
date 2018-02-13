@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T00:24:53Z",
+            "uri": "http://web.archive.org/web/20180209002453/https://www.zerohedge.com/news/2018-02-08/trumps-draining-swamp-real-life-game-thrones"
+        },
+        "last": {
+            "datetime": "2018-02-09T00:24:53Z",
+            "uri": "http://web.archive.org/web/20180209002453/https://www.zerohedge.com/news/2018-02-08/trumps-draining-swamp-real-life-game-thrones"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T00:24:53Z",
+                "uri": "http://web.archive.org/web/20180209002453/https://www.zerohedge.com/news/2018-02-08/trumps-draining-swamp-real-life-game-thrones"
+            }
+        ]
+    },
+    "original_uri": "https://www.zerohedge.com/news/2018-02-08/trumps-draining-swamp-real-life-game-thrones",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.zerohedge.com/news/2018-02-08/trumps-draining-swamp-real-life-game-thrones",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.zerohedge.com/news/2018-02-08/trumps-draining-swamp-real-life-game-thrones",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.zerohedge.com/news/2018-02-08/trumps-draining-swamp-real-life-game-thrones",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.zerohedge.com/news/2018-02-08/trumps-draining-swamp-real-life-game-thrones",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.zerohedge.com/news/2018-02-08/trumps-draining-swamp-real-life-game-thrones"
+    }
+}

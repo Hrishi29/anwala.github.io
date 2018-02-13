@@ -1,0 +1,722 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-02-08T21:06:44Z",
+            "uri": "http://web.archive.org/web/20160208210644/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+        },
+        "last": {
+            "datetime": "2018-02-02T14:50:08Z",
+            "uri": "http://web.archive.org/web/20180202145008/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+        },
+        "list": [
+            {
+                "datetime": "2016-02-08T21:06:44Z",
+                "uri": "http://web.archive.org/web/20160208210644/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-08T21:51:19Z",
+                "uri": "http://web.archive.org/web/20160208215119/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-08T23:36:59Z",
+                "uri": "http://wayback.archive-it.org/all/20160208233659/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-08T23:36:59Z",
+                "uri": "http://web.archive.org/web/20160208233659/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-09T07:46:58Z",
+                "uri": "http://web.archive.org/web/20160209074658/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-09T08:16:35Z",
+                "uri": "http://wayback.archive-it.org/all/20160209081635/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-09T08:16:35Z",
+                "uri": "http://web.archive.org/web/20160209081635/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-09T08:27:59Z",
+                "uri": "http://wayback.archive-it.org/all/20160209082759/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-09T08:27:59Z",
+                "uri": "http://web.archive.org/web/20160209082759/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-09T08:48:53Z",
+                "uri": "http://wayback.archive-it.org/all/20160209084853/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-09T08:48:53Z",
+                "uri": "http://web.archive.org/web/20160209084853/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-09T10:02:52Z",
+                "uri": "http://wayback.archive-it.org/all/20160209100252/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-09T10:02:52Z",
+                "uri": "http://web.archive.org/web/20160209100252/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-09T19:09:41Z",
+                "uri": "http://web.archive.org/web/20160209190941/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-09T22:10:11Z",
+                "uri": "http://web.archive.org/web/20160209221011/http://www.cnn.com:80/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-10T08:26:51Z",
+                "uri": "http://wayback.archive-it.org/all/20160210082651/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-10T08:26:51Z",
+                "uri": "http://web.archive.org/web/20160210082651/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-10T09:21:12Z",
+                "uri": "http://web.archive.org/web/20160210092112/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-10T10:51:22Z",
+                "uri": "http://wayback.archive-it.org/all/20160210105122/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-10T10:51:22Z",
+                "uri": "http://web.archive.org/web/20160210105122/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-10T10:57:24Z",
+                "uri": "http://wayback.archive-it.org/all/20160210105724/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-10T10:57:24Z",
+                "uri": "http://web.archive.org/web/20160210105724/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-10T13:22:01Z",
+                "uri": "http://web.archive.org/web/20160210132201/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-10T13:22:13Z",
+                "uri": "http://wayback.archive-it.org/all/20160210132213/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-10T13:22:13Z",
+                "uri": "http://web.archive.org/web/20160210132213/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-10T14:51:06Z",
+                "uri": "http://web.archive.org/web/20160210145106/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-11T01:15:06Z",
+                "uri": "http://web.archive.org/web/20160211011506/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-11T03:59:09Z",
+                "uri": "http://web.archive.org/web/20160211035909/http://www.cnn.com:80/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-11T03:59:14Z",
+                "uri": "http://web.archive.org/web/20160211035914/http://www.cnn.com:80/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html?"
+            },
+            {
+                "datetime": "2016-02-11T08:30:47Z",
+                "uri": "http://wayback.archive-it.org/all/20160211083047/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-11T08:30:47Z",
+                "uri": "http://web.archive.org/web/20160211083047/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-11T09:16:04Z",
+                "uri": "http://wayback.archive-it.org/all/20160211091604/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-11T09:16:04Z",
+                "uri": "http://web.archive.org/web/20160211091604/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-11T09:38:13Z",
+                "uri": "http://wayback.archive-it.org/all/20160211093813/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-11T09:38:13Z",
+                "uri": "http://web.archive.org/web/20160211093813/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-11T12:27:13Z",
+                "uri": "http://wayback.archive-it.org/all/20160211122713/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-11T12:27:13Z",
+                "uri": "http://web.archive.org/web/20160211122713/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-11T14:49:22Z",
+                "uri": "http://web.archive.org/web/20160211144922/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-12T14:14:40Z",
+                "uri": "http://wayback.archive-it.org/all/20160212141440/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-12T14:14:40Z",
+                "uri": "http://web.archive.org/web/20160212141440/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-12T19:17:01Z",
+                "uri": "http://web.archive.org/web/20160212191701/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-12T21:09:48Z",
+                "uri": "http://web.archive.org/web/20160212210948/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-12T22:21:48Z",
+                "uri": "http://wayback.archive-it.org/all/20160212222148/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-12T22:21:48Z",
+                "uri": "http://web.archive.org/web/20160212222148/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-13T05:30:33Z",
+                "uri": "http://web.archive.org/web/20160213053033/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-13T08:05:05Z",
+                "uri": "http://wayback.archive-it.org/all/20160213080505/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-13T08:05:05Z",
+                "uri": "http://web.archive.org/web/20160213080505/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-13T09:18:56Z",
+                "uri": "http://wayback.archive-it.org/all/20160213091856/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-13T09:18:56Z",
+                "uri": "http://web.archive.org/web/20160213091856/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-13T15:26:53Z",
+                "uri": "http://web.archive.org/web/20160213152653/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-13T23:35:30Z",
+                "uri": "http://wayback.archive-it.org/all/20160213233530/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-13T23:35:30Z",
+                "uri": "http://web.archive.org/web/20160213233530/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-14T00:52:08Z",
+                "uri": "http://web.archive.org/web/20160214005208/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-14T08:08:08Z",
+                "uri": "http://wayback.archive-it.org/all/20160214080808/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-14T08:08:08Z",
+                "uri": "http://web.archive.org/web/20160214080808/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-14T08:09:30Z",
+                "uri": "http://wayback.archive-it.org/all/20160214080930/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-14T08:09:30Z",
+                "uri": "http://web.archive.org/web/20160214080930/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-14T08:14:14Z",
+                "uri": "http://wayback.archive-it.org/all/20160214081414/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-14T08:14:14Z",
+                "uri": "http://web.archive.org/web/20160214081414/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-14T17:34:56Z",
+                "uri": "http://web.archive.org/web/20160214173456/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-14T22:24:19Z",
+                "uri": "http://web.archive.org/web/20160214222419/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-15T08:05:48Z",
+                "uri": "http://wayback.archive-it.org/all/20160215080548/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-15T09:25:55Z",
+                "uri": "http://wayback.archive-it.org/all/20160215092555/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-15T09:25:55Z",
+                "uri": "http://web.archive.org/web/20160215092555/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-15T11:50:50Z",
+                "uri": "http://web.archive.org/web/20160215115050/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-15T23:26:03Z",
+                "uri": "http://web.archive.org/web/20160215232603/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-16T05:23:22Z",
+                "uri": "http://web.archive.org/web/20160216052322/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-16T08:22:57Z",
+                "uri": "http://wayback.archive-it.org/all/20160216082257/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-16T08:22:57Z",
+                "uri": "http://web.archive.org/web/20160216082257/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-16T18:20:45Z",
+                "uri": "http://web.archive.org/web/20160216182045/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-17T08:08:17Z",
+                "uri": "http://wayback.archive-it.org/all/20160217080817/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-17T08:08:17Z",
+                "uri": "http://web.archive.org/web/20160217080817/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-17T09:51:43Z",
+                "uri": "http://wayback.archive-it.org/all/20160217095143/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-17T09:51:43Z",
+                "uri": "http://web.archive.org/web/20160217095143/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-17T13:46:17Z",
+                "uri": "http://web.archive.org/web/20160217134617/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-17T15:52:20Z",
+                "uri": "http://web.archive.org/web/20160217155220/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-17T23:56:45Z",
+                "uri": "http://web.archive.org/web/20160217235645/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-18T05:12:16Z",
+                "uri": "http://web.archive.org/web/20160218051216/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-18T08:04:52Z",
+                "uri": "http://wayback.archive-it.org/all/20160218080452/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-18T08:04:52Z",
+                "uri": "http://web.archive.org/web/20160218080452/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-18T08:16:10Z",
+                "uri": "http://wayback.archive-it.org/all/20160218081610/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-18T08:16:10Z",
+                "uri": "http://web.archive.org/web/20160218081610/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-18T09:12:33Z",
+                "uri": "http://wayback.archive-it.org/all/20160218091233/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-18T09:12:33Z",
+                "uri": "http://web.archive.org/web/20160218091233/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-18T20:57:55Z",
+                "uri": "http://web.archive.org/web/20160218205755/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-19T05:29:14Z",
+                "uri": "http://web.archive.org/web/20160219052914/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-19T07:09:50Z",
+                "uri": "http://web.archive.org/web/20160219070950/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-20T03:27:04Z",
+                "uri": "http://web.archive.org/web/20160220032704/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-20T09:07:16Z",
+                "uri": "http://web.archive.org/web/20160220090716/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-20T12:20:10Z",
+                "uri": "http://web.archive.org/web/20160220122010/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-21T11:01:52Z",
+                "uri": "http://web.archive.org/web/20160221110152/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-21T11:39:05Z",
+                "uri": "http://web.archive.org/web/20160221113905/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-21T12:50:51Z",
+                "uri": "http://web.archive.org/web/20160221125051/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-02-22T04:24:44Z",
+                "uri": "http://web.archive.org/web/20160222042444/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-03-14T05:25:22Z",
+                "uri": "http://web.archive.org/web/20160314052522/http://www.cnn.com:80/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-03-22T18:35:45Z",
+                "uri": "http://web.archive.org/web/20160322183545/http://www.cnn.com:80/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html?"
+            },
+            {
+                "datetime": "2016-04-15T17:55:13Z",
+                "uri": "http://web.archive.org/web/20160415175513/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-04-16T23:32:16Z",
+                "uri": "http://web.archive.org/web/20160416233216/http://www.cnn.com:80/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-04-19T14:28:09Z",
+                "uri": "http://web.archive.org/web/20160419142809/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-04-22T23:34:00Z",
+                "uri": "http://web.archive.org/web/20160422233400/http://www.cnn.com:80/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html?"
+            },
+            {
+                "datetime": "2016-05-22T14:38:56Z",
+                "uri": "http://web.archive.org/web/20160522143856/http://www.cnn.com:80/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-05-25T03:16:47Z",
+                "uri": "http://web.archive.org/web/20160525031647/http://www.cnn.com:80/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html?"
+            },
+            {
+                "datetime": "2016-06-25T11:22:55Z",
+                "uri": "http://web.archive.org/web/20160625112255/http://www.cnn.com:80/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-07-27T20:15:45Z",
+                "uri": "http://web.archive.org/web/20160727201545/http://www.cnn.com:80/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-08-31T04:26:51Z",
+                "uri": "http://web.archive.org/web/20160831042651/http://www.cnn.com:80/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-11-11T12:41:33Z",
+                "uri": "http://web.archive.org/web/20161111124133/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-11-26T01:55:15Z",
+                "uri": "http://web.archive.org/web/20161126015515/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-11-30T23:57:05Z",
+                "uri": "http://web.archive.org/web/20161130235705/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-02T17:13:06Z",
+                "uri": "http://web.archive.org/web/20161202171306/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-04T17:42:11Z",
+                "uri": "http://web.archive.org/web/20161204174211/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-05T01:14:26Z",
+                "uri": "http://web.archive.org/web/20161205011426/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-05T19:34:49Z",
+                "uri": "http://web.archive.org/web/20161205193449/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-05T22:38:19Z",
+                "uri": "http://web.archive.org/web/20161205223819/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-07T21:35:54Z",
+                "uri": "http://web.archive.org/web/20161207213554/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-08T23:00:45Z",
+                "uri": "http://web.archive.org/web/20161208230045/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-09T01:38:19Z",
+                "uri": "http://web.archive.org/web/20161209013819/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-12T02:25:38Z",
+                "uri": "http://web.archive.org/web/20161212022538/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-14T10:05:28Z",
+                "uri": "http://web.archive.org/web/20161214100528/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-16T06:05:00Z",
+                "uri": "http://web.archive.org/web/20161216060500/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-17T11:38:36Z",
+                "uri": "http://web.archive.org/web/20161217113836/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-18T12:42:48Z",
+                "uri": "http://web.archive.org/web/20161218124248/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-19T14:18:02Z",
+                "uri": "http://web.archive.org/web/20161219141802/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-21T06:50:59Z",
+                "uri": "http://web.archive.org/web/20161221065059/http://cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html/"
+            },
+            {
+                "datetime": "2016-12-21T06:51:58Z",
+                "uri": "http://web.archive.org/web/20161221065158/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html/"
+            },
+            {
+                "datetime": "2016-12-26T10:59:55Z",
+                "uri": "http://web.archive.org/web/20161226105955/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-27T12:57:14Z",
+                "uri": "http://web.archive.org/web/20161227125714/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-27T19:15:14Z",
+                "uri": "http://web.archive.org/web/20161227191514/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-28T21:09:51Z",
+                "uri": "http://web.archive.org/web/20161228210951/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-28T21:18:40Z",
+                "uri": "http://web.archive.org/web/20161228211840/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-29T21:34:42Z",
+                "uri": "http://web.archive.org/web/20161229213442/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-30T00:10:11Z",
+                "uri": "http://web.archive.org/web/20161230001011/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-31T03:01:15Z",
+                "uri": "http://web.archive.org/web/20161231030115/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2016-12-31T08:55:50Z",
+                "uri": "http://web.archive.org/web/20161231085550/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-01-02T20:24:54Z",
+                "uri": "http://web.archive.org/web/20170102202454/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-01-03T03:55:30Z",
+                "uri": "http://wayback.archive-it.org/all/20170103035530/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-01-03T03:55:30Z",
+                "uri": "http://web.archive.org/web/20170103035530/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-01-05T09:03:25Z",
+                "uri": "http://web.archive.org/web/20170105090325/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-01-07T05:33:05Z",
+                "uri": "http://web.archive.org/web/20170107053305/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-01-09T10:54:46Z",
+                "uri": "http://web.archive.org/web/20170109105446/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-01-11T10:59:16Z",
+                "uri": "http://web.archive.org/web/20170111105916/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-01-16T14:08:10Z",
+                "uri": "http://web.archive.org/web/20170116140810/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-01-22T21:19:04Z",
+                "uri": "http://web.archive.org/web/20170122211904/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-01-23T23:24:53Z",
+                "uri": "http://web.archive.org/web/20170123232453/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-02-05T03:54:48Z",
+                "uri": "http://web.archive.org/web/20170205035448/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-02-05T23:49:42Z",
+                "uri": "http://web.archive.org/web/20170205234942/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-02-08T05:17:21Z",
+                "uri": "http://web.archive.org/web/20170208051721/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-02-10T10:01:37Z",
+                "uri": "http://web.archive.org/web/20170210100137/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-02-10T19:53:16Z",
+                "uri": "http://web.archive.org/web/20170210195316/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-02-10T22:41:30Z",
+                "uri": "http://web.archive.org/web/20170210224130/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-02-11T02:46:52Z",
+                "uri": "http://web.archive.org/web/20170211024652/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-02-11T17:02:55Z",
+                "uri": "http://web.archive.org/web/20170211170255/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-02-11T19:33:11Z",
+                "uri": "http://web.archive.org/web/20170211193311/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-02-12T03:15:13Z",
+                "uri": "http://web.archive.org/web/20170212031513/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-02-13T07:08:25Z",
+                "uri": "http://web.archive.org/web/20170213070825/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-02-13T23:00:52Z",
+                "uri": "http://web.archive.org/web/20170213230052/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-02-14T00:35:12Z",
+                "uri": "http://web.archive.org/web/20170214003512/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-02-14T13:51:12Z",
+                "uri": "http://web.archive.org/web/20170214135112/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-02-15T13:48:19Z",
+                "uri": "http://web.archive.org/web/20170215134819/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-03-04T01:12:34Z",
+                "uri": "http://web.archive.org/web/20170304011234/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-03-05T02:40:48Z",
+                "uri": "http://web.archive.org/web/20170305024048/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-03-06T05:33:21Z",
+                "uri": "http://web.archive.org/web/20170306053321/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-03-14T05:59:17Z",
+                "uri": "http://web.archive.org/web/20170314055917/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-03-27T17:01:55Z",
+                "uri": "http://web.archive.org/web/20170327170155/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-04-01T14:41:11Z",
+                "uri": "http://web.archive.org/web/20170401144111/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-04-05T20:45:35Z",
+                "uri": "http://web.archive.org/web/20170405204535/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-04-19T20:08:58Z",
+                "uri": "http://web.archive.org/web/20170419200858/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-04-21T08:22:41Z",
+                "uri": "http://web.archive.org/web/20170421082241/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-05-02T13:28:49Z",
+                "uri": "http://web.archive.org/web/20170502132849/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-05-02T19:38:09Z",
+                "uri": "http://web.archive.org/web/20170502193809/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html/"
+            },
+            {
+                "datetime": "2017-05-05T01:31:31Z",
+                "uri": "http://web.archive.org/web/20170505013131/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-05-06T01:47:14Z",
+                "uri": "http://web.archive.org/web/20170506014714/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-06-06T19:30:54Z",
+                "uri": "http://web.archive.org/web/20170606193054/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-09-15T04:36:04Z",
+                "uri": "http://web.archive.org/web/20170915043604/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2017-10-23T07:11:52Z",
+                "uri": "http://web.archive.org/web/20171023071152/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            },
+            {
+                "datetime": "2018-02-02T14:50:08Z",
+                "uri": "http://web.archive.org/web/20180202145008/http://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cnn.com/2016/02/08/politics/beyonce-super-bowl-black-lives-matter/index.html"
+    }
+}

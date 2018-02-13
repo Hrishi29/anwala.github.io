@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T06:31:45Z",
+            "uri": "http://web.archive.org/web/20180210063145/https://www.mediaite.com/online/david-frum-deletes-tweet-saying-trump-smacked-down-dem-memo-like-a-staffers-wife/"
+        },
+        "last": {
+            "datetime": "2018-02-10T14:06:58Z",
+            "uri": "http://web.archive.org/web/20180210140658/https://www.mediaite.com/online/david-frum-deletes-tweet-saying-trump-smacked-down-dem-memo-like-a-staffers-wife/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T06:31:45Z",
+                "uri": "http://web.archive.org/web/20180210063145/https://www.mediaite.com/online/david-frum-deletes-tweet-saying-trump-smacked-down-dem-memo-like-a-staffers-wife/"
+            },
+            {
+                "datetime": "2018-02-10T14:06:58Z",
+                "uri": "http://web.archive.org/web/20180210140658/https://www.mediaite.com/online/david-frum-deletes-tweet-saying-trump-smacked-down-dem-memo-like-a-staffers-wife/"
+            }
+        ]
+    },
+    "original_uri": "https://www.mediaite.com/online/david-frum-deletes-tweet-saying-trump-smacked-down-dem-memo-like-a-staffers-wife/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.mediaite.com/online/david-frum-deletes-tweet-saying-trump-smacked-down-dem-memo-like-a-staffers-wife/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.mediaite.com/online/david-frum-deletes-tweet-saying-trump-smacked-down-dem-memo-like-a-staffers-wife/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.mediaite.com/online/david-frum-deletes-tweet-saying-trump-smacked-down-dem-memo-like-a-staffers-wife/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.mediaite.com/online/david-frum-deletes-tweet-saying-trump-smacked-down-dem-memo-like-a-staffers-wife/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.mediaite.com/online/david-frum-deletes-tweet-saying-trump-smacked-down-dem-memo-like-a-staffers-wife/"
+    }
+}

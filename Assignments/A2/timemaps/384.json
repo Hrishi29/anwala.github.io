@@ -1,0 +1,86 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T08:31:13Z",
+            "uri": "http://web.archive.org/web/20180210083113/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+        },
+        "last": {
+            "datetime": "2018-02-10T16:06:20Z",
+            "uri": "http://web.archive.org/web/20180210160620/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T08:31:13Z",
+                "uri": "http://web.archive.org/web/20180210083113/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            },
+            {
+                "datetime": "2018-02-10T08:43:11Z",
+                "uri": "http://web.archive.org/web/20180210084311/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            },
+            {
+                "datetime": "2018-02-10T09:08:28Z",
+                "uri": "http://web.archive.org/web/20180210090828/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            },
+            {
+                "datetime": "2018-02-10T09:45:40Z",
+                "uri": "http://web.archive.org/web/20180210094540/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            },
+            {
+                "datetime": "2018-02-10T10:20:04Z",
+                "uri": "http://web.archive.org/web/20180210102004/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            },
+            {
+                "datetime": "2018-02-10T10:54:05Z",
+                "uri": "http://web.archive.org/web/20180210105405/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            },
+            {
+                "datetime": "2018-02-10T11:28:28Z",
+                "uri": "http://web.archive.org/web/20180210112828/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            },
+            {
+                "datetime": "2018-02-10T11:45:40Z",
+                "uri": "http://web.archive.org/web/20180210114540/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            },
+            {
+                "datetime": "2018-02-10T12:02:59Z",
+                "uri": "http://web.archive.org/web/20180210120259/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            },
+            {
+                "datetime": "2018-02-10T12:37:27Z",
+                "uri": "http://web.archive.org/web/20180210123727/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            },
+            {
+                "datetime": "2018-02-10T13:11:41Z",
+                "uri": "http://web.archive.org/web/20180210131141/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            },
+            {
+                "datetime": "2018-02-10T13:46:06Z",
+                "uri": "http://web.archive.org/web/20180210134606/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            },
+            {
+                "datetime": "2018-02-10T14:21:39Z",
+                "uri": "http://web.archive.org/web/20180210142139/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            },
+            {
+                "datetime": "2018-02-10T14:56:12Z",
+                "uri": "http://web.archive.org/web/20180210145612/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            },
+            {
+                "datetime": "2018-02-10T15:31:00Z",
+                "uri": "http://web.archive.org/web/20180210153100/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            },
+            {
+                "datetime": "2018-02-10T16:06:20Z",
+                "uri": "http://web.archive.org/web/20180210160620/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/homenews/house/373238-dems-respond-to-trump-by-telling-him-to-releasethememo"
+    }
+}

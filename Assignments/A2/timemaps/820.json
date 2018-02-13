@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T23:16:28Z",
+            "uri": "http://web.archive.org/web/20180208231628/https://www.fastcompany.com/40528581/obama-federal-it-fix-it-shop-18f-has-shrunk-by-more-than-half-under-trump"
+        },
+        "last": {
+            "datetime": "2018-02-09T05:22:30Z",
+            "uri": "http://web.archive.org/web/20180209052230/https://www.fastcompany.com/40528581/obama-federal-it-fix-it-shop-18f-has-shrunk-by-more-than-half-under-trump"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T23:16:28Z",
+                "uri": "http://web.archive.org/web/20180208231628/https://www.fastcompany.com/40528581/obama-federal-it-fix-it-shop-18f-has-shrunk-by-more-than-half-under-trump"
+            },
+            {
+                "datetime": "2018-02-08T23:31:40Z",
+                "uri": "http://web.archive.org/web/20180208233140/https://www.fastcompany.com/40528581/obama-federal-it-fix-it-shop-18f-has-shrunk-by-more-than-half-under-trump"
+            },
+            {
+                "datetime": "2018-02-08T23:46:54Z",
+                "uri": "http://web.archive.org/web/20180208234654/https://www.fastcompany.com/40528581/obama-federal-it-fix-it-shop-18f-has-shrunk-by-more-than-half-under-trump"
+            },
+            {
+                "datetime": "2018-02-09T00:41:50Z",
+                "uri": "http://wayback.archive-it.org/all/20180209004150/https://www.fastcompany.com/40528581/obama-federal-it-fix-it-shop-18f-has-shrunk-by-more-than-half-under-trump"
+            },
+            {
+                "datetime": "2018-02-09T00:41:50Z",
+                "uri": "http://web.archive.org/web/20180209004150/https://www.fastcompany.com/40528581/obama-federal-it-fix-it-shop-18f-has-shrunk-by-more-than-half-under-trump"
+            },
+            {
+                "datetime": "2018-02-09T01:25:34Z",
+                "uri": "http://web.archive.org/web/20180209012534/https://www.fastcompany.com/40528581/obama-federal-it-fix-it-shop-18f-has-shrunk-by-more-than-half-under-trump"
+            },
+            {
+                "datetime": "2018-02-09T05:22:30Z",
+                "uri": "http://web.archive.org/web/20180209052230/https://www.fastcompany.com/40528581/obama-federal-it-fix-it-shop-18f-has-shrunk-by-more-than-half-under-trump"
+            }
+        ]
+    },
+    "original_uri": "https://www.fastcompany.com/40528581/obama-federal-it-fix-it-shop-18f-has-shrunk-by-more-than-half-under-trump",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.fastcompany.com/40528581/obama-federal-it-fix-it-shop-18f-has-shrunk-by-more-than-half-under-trump",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.fastcompany.com/40528581/obama-federal-it-fix-it-shop-18f-has-shrunk-by-more-than-half-under-trump",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.fastcompany.com/40528581/obama-federal-it-fix-it-shop-18f-has-shrunk-by-more-than-half-under-trump",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.fastcompany.com/40528581/obama-federal-it-fix-it-shop-18f-has-shrunk-by-more-than-half-under-trump",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.fastcompany.com/40528581/obama-federal-it-fix-it-shop-18f-has-shrunk-by-more-than-half-under-trump"
+    }
+}

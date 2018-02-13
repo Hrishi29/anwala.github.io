@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T01:40:27Z",
+            "uri": "http://web.archive.org/web/20180210014027/http://www.foxnews.com/politics/2018/02/09/white-house-seeks-revisions-to-dems-fisa-rebuttal-memo-halting-release.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T10:23:36Z",
+            "uri": "http://web.archive.org/web/20180210102336/http://www.foxnews.com/politics/2018/02/09/white-house-seeks-revisions-to-dems-fisa-rebuttal-memo-halting-release.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T01:40:27Z",
+                "uri": "http://web.archive.org/web/20180210014027/http://www.foxnews.com/politics/2018/02/09/white-house-seeks-revisions-to-dems-fisa-rebuttal-memo-halting-release.html"
+            },
+            {
+                "datetime": "2018-02-10T02:31:31Z",
+                "uri": "http://web.archive.org/web/20180210023131/http://www.foxnews.com/politics/2018/02/09/white-house-seeks-revisions-to-dems-fisa-rebuttal-memo-halting-release.html"
+            },
+            {
+                "datetime": "2018-02-10T03:01:29Z",
+                "uri": "http://web.archive.org/web/20180210030129/http://www.foxnews.com/politics/2018/02/09/white-house-seeks-revisions-to-dems-fisa-rebuttal-memo-halting-release.html"
+            },
+            {
+                "datetime": "2018-02-10T03:36:18Z",
+                "uri": "http://web.archive.org/web/20180210033618/http://www.foxnews.com/politics/2018/02/09/white-house-seeks-revisions-to-dems-fisa-rebuttal-memo-halting-release.html"
+            },
+            {
+                "datetime": "2018-02-10T10:23:36Z",
+                "uri": "http://web.archive.org/web/20180210102336/http://www.foxnews.com/politics/2018/02/09/white-house-seeks-revisions-to-dems-fisa-rebuttal-memo-halting-release.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.foxnews.com/politics/2018/02/09/white-house-seeks-revisions-to-dems-fisa-rebuttal-memo-halting-release.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/02/09/white-house-seeks-revisions-to-dems-fisa-rebuttal-memo-halting-release.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.foxnews.com/politics/2018/02/09/white-house-seeks-revisions-to-dems-fisa-rebuttal-memo-halting-release.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.foxnews.com/politics/2018/02/09/white-house-seeks-revisions-to-dems-fisa-rebuttal-memo-halting-release.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/02/09/white-house-seeks-revisions-to-dems-fisa-rebuttal-memo-halting-release.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.foxnews.com/politics/2018/02/09/white-house-seeks-revisions-to-dems-fisa-rebuttal-memo-halting-release.html"
+    }
+}

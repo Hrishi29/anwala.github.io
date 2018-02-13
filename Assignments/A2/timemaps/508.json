@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T11:15:15Z",
+            "uri": "http://archive.is/20180209111515/https://www.politico.com/agenda/story/2018/02/09/trumps-plan-reissue-drug-testing-rule-000642"
+        },
+        "last": {
+            "datetime": "2018-02-09T13:58:03Z",
+            "uri": "http://web.archive.org/web/20180209135803/https://www.politico.com/agenda/story/2018/02/09/trumps-plan-reissue-drug-testing-rule-000642"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T11:15:15Z",
+                "uri": "http://archive.is/20180209111515/https://www.politico.com/agenda/story/2018/02/09/trumps-plan-reissue-drug-testing-rule-000642"
+            },
+            {
+                "datetime": "2018-02-09T13:58:03Z",
+                "uri": "http://web.archive.org/web/20180209135803/https://www.politico.com/agenda/story/2018/02/09/trumps-plan-reissue-drug-testing-rule-000642"
+            }
+        ]
+    },
+    "original_uri": "https://www.politico.com/agenda/story/2018/02/09/trumps-plan-reissue-drug-testing-rule-000642",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.politico.com/agenda/story/2018/02/09/trumps-plan-reissue-drug-testing-rule-000642",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.politico.com/agenda/story/2018/02/09/trumps-plan-reissue-drug-testing-rule-000642",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.politico.com/agenda/story/2018/02/09/trumps-plan-reissue-drug-testing-rule-000642",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.politico.com/agenda/story/2018/02/09/trumps-plan-reissue-drug-testing-rule-000642",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.politico.com/agenda/story/2018/02/09/trumps-plan-reissue-drug-testing-rule-000642"
+    }
+}

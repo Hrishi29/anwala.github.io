@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T04:19:33Z",
+            "uri": "http://web.archive.org/web/20180209041933/https://www.cbsnews.com/news/omarosa-manigault-newman-celebrity-big-brother-trump-vote-white-house/"
+        },
+        "last": {
+            "datetime": "2018-02-11T01:48:03Z",
+            "uri": "http://web.archive.org/web/20180211014803/https://www.cbsnews.com/news/omarosa-manigault-newman-celebrity-big-brother-trump-vote-white-house/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T04:19:33Z",
+                "uri": "http://web.archive.org/web/20180209041933/https://www.cbsnews.com/news/omarosa-manigault-newman-celebrity-big-brother-trump-vote-white-house/"
+            },
+            {
+                "datetime": "2018-02-09T04:20:08Z",
+                "uri": "http://archive.is/20180209042008/https://www.cbsnews.com/news/omarosa-manigault-newman-celebrity-big-brother-trump-vote-white-house/"
+            },
+            {
+                "datetime": "2018-02-09T06:19:47Z",
+                "uri": "http://web.archive.org/web/20180209061947/https://www.cbsnews.com/news/omarosa-manigault-newman-celebrity-big-brother-trump-vote-white-house/"
+            },
+            {
+                "datetime": "2018-02-09T08:09:56Z",
+                "uri": "http://web.archive.org/web/20180209080956/https://www.cbsnews.com/news/omarosa-manigault-newman-celebrity-big-brother-trump-vote-white-house/"
+            },
+            {
+                "datetime": "2018-02-11T01:48:03Z",
+                "uri": "http://web.archive.org/web/20180211014803/https://www.cbsnews.com/news/omarosa-manigault-newman-celebrity-big-brother-trump-vote-white-house/"
+            }
+        ]
+    },
+    "original_uri": "https://www.cbsnews.com/news/omarosa-manigault-newman-celebrity-big-brother-trump-vote-white-house/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cbsnews.com/news/omarosa-manigault-newman-celebrity-big-brother-trump-vote-white-house/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cbsnews.com/news/omarosa-manigault-newman-celebrity-big-brother-trump-vote-white-house/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cbsnews.com/news/omarosa-manigault-newman-celebrity-big-brother-trump-vote-white-house/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cbsnews.com/news/omarosa-manigault-newman-celebrity-big-brother-trump-vote-white-house/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cbsnews.com/news/omarosa-manigault-newman-celebrity-big-brother-trump-vote-white-house/"
+    }
+}

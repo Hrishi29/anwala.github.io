@@ -1,0 +1,66 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T22:34:24Z",
+            "uri": "http://web.archive.org/web/20180209223424/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T00:02:14Z",
+            "uri": "http://web.archive.org/web/20180211000214/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T22:34:24Z",
+                "uri": "http://web.archive.org/web/20180209223424/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html"
+            },
+            {
+                "datetime": "2018-02-09T23:44:14Z",
+                "uri": "http://web.archive.org/web/20180209234414/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html"
+            },
+            {
+                "datetime": "2018-02-09T23:44:25Z",
+                "uri": "http://web.archive.org/web/20180209234425/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html"
+            },
+            {
+                "datetime": "2018-02-09T23:44:53Z",
+                "uri": "http://web.archive.org/web/20180209234453/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html"
+            },
+            {
+                "datetime": "2018-02-09T23:58:39Z",
+                "uri": "http://web.archive.org/web/20180209235839/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html"
+            },
+            {
+                "datetime": "2018-02-10T02:27:55Z",
+                "uri": "http://web.archive.org/web/20180210022755/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html"
+            },
+            {
+                "datetime": "2018-02-10T06:55:07Z",
+                "uri": "http://web.archive.org/web/20180210065507/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html"
+            },
+            {
+                "datetime": "2018-02-10T06:55:20Z",
+                "uri": "http://archive.is/20180210065520/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html"
+            },
+            {
+                "datetime": "2018-02-10T09:51:59Z",
+                "uri": "http://web.archive.org/web/20180210095159/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html"
+            },
+            {
+                "datetime": "2018-02-10T18:07:44Z",
+                "uri": "http://web.archive.org/web/20180210180744/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html"
+            },
+            {
+                "datetime": "2018-02-11T00:02:14Z",
+                "uri": "http://web.archive.org/web/20180211000214/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.latimes.com/nation/la-na-military-marijuana-stress-20180207-story.html"
+    }
+}

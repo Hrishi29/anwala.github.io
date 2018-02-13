@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T01:16:54Z",
+            "uri": "http://web.archive.org/web/20180210011654/https://apnews.com/53138ee8ef35479cb92f9350a4e474cb?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP"
+        },
+        "last": {
+            "datetime": "2018-02-10T03:21:21Z",
+            "uri": "http://archive.is/20180210032121/https://apnews.com/53138ee8ef35479cb92f9350a4e474cb?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T01:16:54Z",
+                "uri": "http://web.archive.org/web/20180210011654/https://apnews.com/53138ee8ef35479cb92f9350a4e474cb?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP"
+            },
+            {
+                "datetime": "2018-02-10T03:21:21Z",
+                "uri": "http://archive.is/20180210032121/https://apnews.com/53138ee8ef35479cb92f9350a4e474cb?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP"
+            }
+        ]
+    },
+    "original_uri": "https://apnews.com/53138ee8ef35479cb92f9350a4e474cb?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://apnews.com/53138ee8ef35479cb92f9350a4e474cb?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://apnews.com/53138ee8ef35479cb92f9350a4e474cb?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://apnews.com/53138ee8ef35479cb92f9350a4e474cb?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://apnews.com/53138ee8ef35479cb92f9350a4e474cb?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://apnews.com/53138ee8ef35479cb92f9350a4e474cb?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP"
+    }
+}

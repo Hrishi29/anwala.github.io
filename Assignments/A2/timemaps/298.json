@@ -1,0 +1,58 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-07T23:36:57Z",
+            "uri": "http://web.archive.org/web/20180207233657/https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/"
+        },
+        "last": {
+            "datetime": "2018-02-09T23:33:46Z",
+            "uri": "http://web.archive.org/web/20180209233346/https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-07T23:36:57Z",
+                "uri": "http://web.archive.org/web/20180207233657/https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/"
+            },
+            {
+                "datetime": "2018-02-08T03:06:20Z",
+                "uri": "http://web.archive.org/web/20180208030620/https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/"
+            },
+            {
+                "datetime": "2018-02-08T03:18:49Z",
+                "uri": "http://web.archive.org/web/20180208031849/https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/"
+            },
+            {
+                "datetime": "2018-02-08T15:05:24Z",
+                "uri": "http://web.archive.org/web/20180208150524/https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/"
+            },
+            {
+                "datetime": "2018-02-08T22:11:07Z",
+                "uri": "http://web.archive.org/web/20180208221107/https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/"
+            },
+            {
+                "datetime": "2018-02-09T07:51:20Z",
+                "uri": "http://web.archive.org/web/20180209075120/https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/"
+            },
+            {
+                "datetime": "2018-02-09T16:20:30Z",
+                "uri": "http://web.archive.org/web/20180209162030/http://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/"
+            },
+            {
+                "datetime": "2018-02-09T22:32:45Z",
+                "uri": "http://web.archive.org/web/20180209223245/https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/"
+            },
+            {
+                "datetime": "2018-02-09T23:33:46Z",
+                "uri": "http://web.archive.org/web/20180209233346/https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/"
+            }
+        ]
+    },
+    "original_uri": "https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.salon.com/2018/02/07/trump-university-students-still-havent-been-paid-federal-court-upholds-25-million-settlement/"
+    }
+}

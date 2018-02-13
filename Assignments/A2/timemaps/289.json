@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T02:16:23Z",
+            "uri": "http://web.archive.org/web/20180210021623/http://www.nj.com/politics/index.ssf/2018/02/will_murphy_plan_to_get_around_federal_tax_law_wor.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T02:16:23Z",
+            "uri": "http://web.archive.org/web/20180210021623/http://www.nj.com/politics/index.ssf/2018/02/will_murphy_plan_to_get_around_federal_tax_law_wor.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T02:16:23Z",
+                "uri": "http://web.archive.org/web/20180210021623/http://www.nj.com/politics/index.ssf/2018/02/will_murphy_plan_to_get_around_federal_tax_law_wor.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.nj.com/politics/index.ssf/2018/02/will_murphy_plan_to_get_around_federal_tax_law_wor.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.nj.com/politics/index.ssf/2018/02/will_murphy_plan_to_get_around_federal_tax_law_wor.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.nj.com/politics/index.ssf/2018/02/will_murphy_plan_to_get_around_federal_tax_law_wor.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.nj.com/politics/index.ssf/2018/02/will_murphy_plan_to_get_around_federal_tax_law_wor.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.nj.com/politics/index.ssf/2018/02/will_murphy_plan_to_get_around_federal_tax_law_wor.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.nj.com/politics/index.ssf/2018/02/will_murphy_plan_to_get_around_federal_tax_law_wor.html"
+    }
+}

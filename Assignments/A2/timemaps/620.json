@@ -1,0 +1,422 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-12-06T11:05:12Z",
+            "uri": "http://web.archive.org/web/20161206110512/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+        },
+        "last": {
+            "datetime": "2018-02-07T08:24:52Z",
+            "uri": "http://web.archive.org/web/20180207082452/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+        },
+        "list": [
+            {
+                "datetime": "2016-12-06T11:05:12Z",
+                "uri": "http://web.archive.org/web/20161206110512/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-06T11:11:51Z",
+                "uri": "http://web.archive.org/web/20161206111151/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-06T13:34:24Z",
+                "uri": "http://web.archive.org/web/20161206133424/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-06T15:47:23Z",
+                "uri": "http://web.archive.org/web/20161206154723/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-06T17:21:22Z",
+                "uri": "http://web.archive.org/web/20161206172122/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-06T17:30:40Z",
+                "uri": "http://web.archive.org/web/20161206173040/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-06T19:31:59Z",
+                "uri": "http://web.archive.org/web/20161206193159/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-06T19:47:29Z",
+                "uri": "http://web.archive.org/web/20161206194729/http://www.foxnews.com:80/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-06T20:02:24Z",
+                "uri": "http://web.archive.org/web/20161206200224/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-06T21:39:17Z",
+                "uri": "http://web.archive.org/web/20161206213917/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-06T23:12:01Z",
+                "uri": "http://web.archive.org/web/20161206231201/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-07T01:23:53Z",
+                "uri": "http://web.archive.org/web/20161207012353/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-07T03:02:36Z",
+                "uri": "http://web.archive.org/web/20161207030236/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-07T05:38:03Z",
+                "uri": "http://web.archive.org/web/20161207053803/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-07T07:33:31Z",
+                "uri": "http://web.archive.org/web/20161207073331/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-07T10:10:55Z",
+                "uri": "http://web.archive.org/web/20161207101055/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-07T11:16:53Z",
+                "uri": "http://web.archive.org/web/20161207111653/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-07T11:50:17Z",
+                "uri": "http://web.archive.org/web/20161207115017/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-07T13:42:32Z",
+                "uri": "http://web.archive.org/web/20161207134232/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-07T14:34:49Z",
+                "uri": "http://web.archive.org/web/20161207143449/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-07T15:45:19Z",
+                "uri": "http://web.archive.org/web/20161207154519/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-07T17:29:38Z",
+                "uri": "http://web.archive.org/web/20161207172938/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-07T19:03:29Z",
+                "uri": "http://web.archive.org/web/20161207190329/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-07T19:15:14Z",
+                "uri": "http://web.archive.org/web/20161207191514/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-07T21:42:16Z",
+                "uri": "http://web.archive.org/web/20161207214216/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-07T23:21:31Z",
+                "uri": "http://web.archive.org/web/20161207232131/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-08T01:17:18Z",
+                "uri": "http://web.archive.org/web/20161208011718/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-08T10:18:51Z",
+                "uri": "http://web.archive.org/web/20161208101851/http://www.foxnews.com:80/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-08T11:33:31Z",
+                "uri": "http://web.archive.org/web/20161208113331/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-08T13:03:39Z",
+                "uri": "http://web.archive.org/web/20161208130339/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-08T14:19:56Z",
+                "uri": "http://web.archive.org/web/20161208141956/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-08T15:26:11Z",
+                "uri": "http://web.archive.org/web/20161208152611/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-08T17:16:08Z",
+                "uri": "http://web.archive.org/web/20161208171608/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-08T19:27:56Z",
+                "uri": "http://web.archive.org/web/20161208192756/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-08T21:51:51Z",
+                "uri": "http://web.archive.org/web/20161208215151/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-08T23:14:25Z",
+                "uri": "http://web.archive.org/web/20161208231425/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-09T01:25:26Z",
+                "uri": "http://web.archive.org/web/20161209012526/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-09T03:17:37Z",
+                "uri": "http://web.archive.org/web/20161209031737/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-09T05:11:40Z",
+                "uri": "http://web.archive.org/web/20161209051140/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-09T07:46:10Z",
+                "uri": "http://web.archive.org/web/20161209074610/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-09T09:03:59Z",
+                "uri": "http://web.archive.org/web/20161209090359/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-09T14:36:13Z",
+                "uri": "http://web.archive.org/web/20161209143613/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-10T14:55:11Z",
+                "uri": "http://web.archive.org/web/20161210145511/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-11T15:37:01Z",
+                "uri": "http://web.archive.org/web/20161211153701/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-12T16:36:09Z",
+                "uri": "http://web.archive.org/web/20161212163609/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-13T16:53:00Z",
+                "uri": "http://web.archive.org/web/20161213165300/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-14T16:54:47Z",
+                "uri": "http://web.archive.org/web/20161214165447/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-15T09:23:27Z",
+                "uri": "http://web.archive.org/web/20161215092327/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-15T17:29:51Z",
+                "uri": "http://web.archive.org/web/20161215172951/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-16T17:34:14Z",
+                "uri": "http://web.archive.org/web/20161216173414/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-17T18:21:45Z",
+                "uri": "http://web.archive.org/web/20161217182145/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-18T18:54:59Z",
+                "uri": "http://web.archive.org/web/20161218185459/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-19T19:36:17Z",
+                "uri": "http://web.archive.org/web/20161219193617/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-19T22:47:15Z",
+                "uri": "http://web.archive.org/web/20161219224715/http://www.foxnews.com:80/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html?"
+            },
+            {
+                "datetime": "2016-12-21T17:00:04Z",
+                "uri": "http://web.archive.org/web/20161221170004/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-22T06:47:09Z",
+                "uri": "http://web.archive.org/web/20161222064709/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-23T06:49:23Z",
+                "uri": "http://web.archive.org/web/20161223064923/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-24T07:34:35Z",
+                "uri": "http://web.archive.org/web/20161224073435/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-25T07:33:06Z",
+                "uri": "http://web.archive.org/web/20161225073306/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-26T08:13:46Z",
+                "uri": "http://web.archive.org/web/20161226081346/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-27T09:43:21Z",
+                "uri": "http://web.archive.org/web/20161227094321/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-28T10:26:47Z",
+                "uri": "http://web.archive.org/web/20161228102647/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-29T11:07:48Z",
+                "uri": "http://web.archive.org/web/20161229110748/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-30T11:53:00Z",
+                "uri": "http://web.archive.org/web/20161230115300/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2016-12-31T12:43:53Z",
+                "uri": "http://web.archive.org/web/20161231124353/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-01T13:04:22Z",
+                "uri": "http://web.archive.org/web/20170101130422/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-02T13:42:46Z",
+                "uri": "http://web.archive.org/web/20170102134246/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-03T00:56:14Z",
+                "uri": "http://archive.is/20170103005614/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-03T14:23:05Z",
+                "uri": "http://web.archive.org/web/20170103142305/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-04T14:54:34Z",
+                "uri": "http://web.archive.org/web/20170104145434/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-05T15:15:25Z",
+                "uri": "http://web.archive.org/web/20170105151525/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-06T16:13:44Z",
+                "uri": "http://web.archive.org/web/20170106161344/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-07T16:33:34Z",
+                "uri": "http://web.archive.org/web/20170107163334/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-08T17:32:11Z",
+                "uri": "http://web.archive.org/web/20170108173211/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-09T18:15:47Z",
+                "uri": "http://web.archive.org/web/20170109181547/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-10T19:10:14Z",
+                "uri": "http://web.archive.org/web/20170110191014/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-12T20:32:02Z",
+                "uri": "http://web.archive.org/web/20170112203202/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-13T20:50:20Z",
+                "uri": "http://web.archive.org/web/20170113205020/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-14T21:24:36Z",
+                "uri": "http://web.archive.org/web/20170114212436/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-15T21:40:53Z",
+                "uri": "http://web.archive.org/web/20170115214053/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-16T22:36:49Z",
+                "uri": "http://web.archive.org/web/20170116223649/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-17T23:30:40Z",
+                "uri": "http://web.archive.org/web/20170117233040/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-18T23:46:25Z",
+                "uri": "http://web.archive.org/web/20170118234625/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-20T00:16:17Z",
+                "uri": "http://web.archive.org/web/20170120001617/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-21T00:12:18Z",
+                "uri": "http://web.archive.org/web/20170121001218/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-22T01:07:03Z",
+                "uri": "http://web.archive.org/web/20170122010703/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-23T01:37:41Z",
+                "uri": "http://web.archive.org/web/20170123013741/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-24T02:37:01Z",
+                "uri": "http://web.archive.org/web/20170124023701/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-01-25T02:59:16Z",
+                "uri": "http://web.archive.org/web/20170125025916/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-02-05T13:01:57Z",
+                "uri": "http://web.archive.org/web/20170205130157/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-02-07T19:37:40Z",
+                "uri": "http://web.archive.org/web/20170207193740/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-02-18T16:38:27Z",
+                "uri": "http://web.archive.org/web/20170218163827/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-02-23T22:54:35Z",
+                "uri": "http://web.archive.org/web/20170223225435/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-04-01T07:22:21Z",
+                "uri": "http://web.archive.org/web/20170401072221/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-05-08T01:56:27Z",
+                "uri": "http://web.archive.org/web/20170508015627/http://www.foxnews.com:80/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-05-17T17:57:17Z",
+                "uri": "http://web.archive.org/web/20170517175717/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-06-09T10:07:51Z",
+                "uri": "http://web.archive.org/web/20170609100751/http://www.foxnews.com:80/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-07-12T00:13:40Z",
+                "uri": "http://web.archive.org/web/20170712001340/http://www.foxnews.com:80/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2017-08-01T21:53:07Z",
+                "uri": "http://web.archive.org/web/20170801215307/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            },
+            {
+                "datetime": "2018-02-07T08:24:52Z",
+                "uri": "http://web.archive.org/web/20180207082452/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.foxnews.com/politics/2016/12/06/pentagon-reportedly-buried-study-exposing-125-billion-in-waste.html"
+    }
+}

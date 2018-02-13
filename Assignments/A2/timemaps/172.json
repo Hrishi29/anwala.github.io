@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T06:40:16Z",
+            "uri": "http://web.archive.org/web/20180209064016/http://www.foxnews.com/politics/2018/02/09/calif-democrat-and-metoo-leader-accused-groping-male-staffer.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T08:47:33Z",
+            "uri": "http://web.archive.org/web/20180211084733/http://www.foxnews.com/politics/2018/02/09/calif-democrat-and-metoo-leader-accused-groping-male-staffer.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T06:40:16Z",
+                "uri": "http://web.archive.org/web/20180209064016/http://www.foxnews.com/politics/2018/02/09/calif-democrat-and-metoo-leader-accused-groping-male-staffer.html"
+            },
+            {
+                "datetime": "2018-02-09T08:47:24Z",
+                "uri": "http://web.archive.org/web/20180209084724/http://www.foxnews.com/politics/2018/02/09/calif-democrat-and-metoo-leader-accused-groping-male-staffer.html"
+            },
+            {
+                "datetime": "2018-02-09T13:47:30Z",
+                "uri": "http://archive.is/20180209134730/http://www.foxnews.com/politics/2018/02/09/calif-democrat-and-metoo-leader-accused-groping-male-staffer.html"
+            },
+            {
+                "datetime": "2018-02-09T13:56:28Z",
+                "uri": "http://web.archive.org/web/20180209135628/http://www.foxnews.com/politics/2018/02/09/calif-democrat-and-metoo-leader-accused-groping-male-staffer.html"
+            },
+            {
+                "datetime": "2018-02-09T14:41:26Z",
+                "uri": "http://web.archive.org/web/20180209144126/http://www.foxnews.com/politics/2018/02/09/calif-democrat-and-metoo-leader-accused-groping-male-staffer.html"
+            },
+            {
+                "datetime": "2018-02-10T16:11:36Z",
+                "uri": "http://web.archive.org/web/20180210161136/http://www.foxnews.com/politics/2018/02/09/calif-democrat-and-metoo-leader-accused-groping-male-staffer.html"
+            },
+            {
+                "datetime": "2018-02-11T08:47:33Z",
+                "uri": "http://web.archive.org/web/20180211084733/http://www.foxnews.com/politics/2018/02/09/calif-democrat-and-metoo-leader-accused-groping-male-staffer.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.foxnews.com/politics/2018/02/09/calif-democrat-and-metoo-leader-accused-groping-male-staffer.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/02/09/calif-democrat-and-metoo-leader-accused-groping-male-staffer.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.foxnews.com/politics/2018/02/09/calif-democrat-and-metoo-leader-accused-groping-male-staffer.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.foxnews.com/politics/2018/02/09/calif-democrat-and-metoo-leader-accused-groping-male-staffer.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/02/09/calif-democrat-and-metoo-leader-accused-groping-male-staffer.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.foxnews.com/politics/2018/02/09/calif-democrat-and-metoo-leader-accused-groping-male-staffer.html"
+    }
+}

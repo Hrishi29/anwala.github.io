@@ -1,0 +1,54 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T02:17:40Z",
+            "uri": "http://web.archive.org/web/20180210021740/http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:42:15Z",
+            "uri": "http://web.archive.org/web/20180211054215/http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T02:17:40Z",
+                "uri": "http://web.archive.org/web/20180210021740/http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777"
+            },
+            {
+                "datetime": "2018-02-10T15:26:03Z",
+                "uri": "http://web.archive.org/web/20180210152603/http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777"
+            },
+            {
+                "datetime": "2018-02-10T18:47:30Z",
+                "uri": "http://web.archive.org/web/20180210184730/http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777"
+            },
+            {
+                "datetime": "2018-02-10T21:15:37Z",
+                "uri": "http://wayback.archive-it.org/all/20180210211537/http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777"
+            },
+            {
+                "datetime": "2018-02-10T21:15:37Z",
+                "uri": "http://web.archive.org/web/20180210211537/http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777"
+            },
+            {
+                "datetime": "2018-02-10T23:34:44Z",
+                "uri": "http://web.archive.org/web/20180210233444/http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777"
+            },
+            {
+                "datetime": "2018-02-11T05:42:15Z",
+                "uri": "http://wayback.archive-it.org/all/20180211054215/http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777"
+            },
+            {
+                "datetime": "2018-02-11T05:42:15Z",
+                "uri": "http://web.archive.org/web/20180211054215/http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777"
+            }
+        ]
+    },
+    "original_uri": "http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://abcnews.go.com/Politics/democrats-slam-trumps-praise-staffer-accused-domestic-abuse/story?id=52971777"
+    }
+}

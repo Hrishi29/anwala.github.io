@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T07:42:38Z",
+            "uri": "http://web.archive.org/web/20180210074238/http://fox59.com/2018/02/09/trump-wont-declassify-democratic-memo-on-russia-probe/"
+        },
+        "last": {
+            "datetime": "2018-02-10T07:42:38Z",
+            "uri": "http://web.archive.org/web/20180210074238/http://fox59.com/2018/02/09/trump-wont-declassify-democratic-memo-on-russia-probe/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T07:42:38Z",
+                "uri": "http://web.archive.org/web/20180210074238/http://fox59.com/2018/02/09/trump-wont-declassify-democratic-memo-on-russia-probe/"
+            }
+        ]
+    },
+    "original_uri": "http://fox59.com/2018/02/09/trump-wont-declassify-democratic-memo-on-russia-probe/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://fox59.com/2018/02/09/trump-wont-declassify-democratic-memo-on-russia-probe/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://fox59.com/2018/02/09/trump-wont-declassify-democratic-memo-on-russia-probe/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://fox59.com/2018/02/09/trump-wont-declassify-democratic-memo-on-russia-probe/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://fox59.com/2018/02/09/trump-wont-declassify-democratic-memo-on-russia-probe/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://fox59.com/2018/02/09/trump-wont-declassify-democratic-memo-on-russia-probe/"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T05:21:01Z",
+            "uri": "http://web.archive.org/web/20180210052101/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:59:38Z",
+            "uri": "http://web.archive.org/web/20180211055938/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T05:21:01Z",
+                "uri": "http://web.archive.org/web/20180210052101/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551"
+            },
+            {
+                "datetime": "2018-02-10T06:24:48Z",
+                "uri": "http://web.archive.org/web/20180210062448/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551"
+            },
+            {
+                "datetime": "2018-02-10T08:24:20Z",
+                "uri": "http://web.archive.org/web/20180210082420/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551"
+            },
+            {
+                "datetime": "2018-02-10T08:53:21Z",
+                "uri": "http://web.archive.org/web/20180210085321/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551"
+            },
+            {
+                "datetime": "2018-02-10T15:17:27Z",
+                "uri": "http://web.archive.org/web/20180210151727/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551"
+            },
+            {
+                "datetime": "2018-02-10T18:07:53Z",
+                "uri": "http://web.archive.org/web/20180210180753/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551"
+            },
+            {
+                "datetime": "2018-02-10T22:12:26Z",
+                "uri": "http://web.archive.org/web/20180210221226/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551"
+            },
+            {
+                "datetime": "2018-02-11T02:11:03Z",
+                "uri": "http://web.archive.org/web/20180211021103/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551"
+            },
+            {
+                "datetime": "2018-02-11T05:13:01Z",
+                "uri": "http://web.archive.org/web/20180211051301/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551"
+            },
+            {
+                "datetime": "2018-02-11T05:59:38Z",
+                "uri": "http://web.archive.org/web/20180211055938/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551"
+            }
+        ]
+    },
+    "original_uri": "https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nbcnews.com/news/us-news/trump-won-t-declassify-democratic-memo-russia-probe-n846551"
+    }
+}

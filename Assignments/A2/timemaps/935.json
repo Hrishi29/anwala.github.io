@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T10:11:52Z",
+            "uri": "http://web.archive.org/web/20180209101152/https://rian.com.ua/politics/20180209/1032150801/sotsseti-vpechatlilis-chetoy-poroshenko-na-balu.html"
+        },
+        "last": {
+            "datetime": "2018-02-09T17:08:38Z",
+            "uri": "http://web.archive.org/web/20180209170838/https://rian.com.ua/politics/20180209/1032150801/sotsseti-vpechatlilis-chetoy-poroshenko-na-balu.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T10:11:52Z",
+                "uri": "http://web.archive.org/web/20180209101152/https://rian.com.ua/politics/20180209/1032150801/sotsseti-vpechatlilis-chetoy-poroshenko-na-balu.html"
+            },
+            {
+                "datetime": "2018-02-09T17:08:38Z",
+                "uri": "http://web.archive.org/web/20180209170838/https://rian.com.ua/politics/20180209/1032150801/sotsseti-vpechatlilis-chetoy-poroshenko-na-balu.html"
+            }
+        ]
+    },
+    "original_uri": "https://rian.com.ua/politics/20180209/1032150801/sotsseti-vpechatlilis-chetoy-poroshenko-na-balu.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://rian.com.ua/politics/20180209/1032150801/sotsseti-vpechatlilis-chetoy-poroshenko-na-balu.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://rian.com.ua/politics/20180209/1032150801/sotsseti-vpechatlilis-chetoy-poroshenko-na-balu.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://rian.com.ua/politics/20180209/1032150801/sotsseti-vpechatlilis-chetoy-poroshenko-na-balu.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://rian.com.ua/politics/20180209/1032150801/sotsseti-vpechatlilis-chetoy-poroshenko-na-balu.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://rian.com.ua/politics/20180209/1032150801/sotsseti-vpechatlilis-chetoy-poroshenko-na-balu.html"
+    }
+}

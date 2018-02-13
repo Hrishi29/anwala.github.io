@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T11:33:05Z",
+            "uri": "http://web.archive.org/web/20180209113305/http://www.euronews.com/2018/02/09/peaceful-pyeongchang-olympics-can-lead-to-lasting-korean-peace-view"
+        },
+        "last": {
+            "datetime": "2018-02-09T11:33:05Z",
+            "uri": "http://web.archive.org/web/20180209113305/http://www.euronews.com/2018/02/09/peaceful-pyeongchang-olympics-can-lead-to-lasting-korean-peace-view"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T11:33:05Z",
+                "uri": "http://web.archive.org/web/20180209113305/http://www.euronews.com/2018/02/09/peaceful-pyeongchang-olympics-can-lead-to-lasting-korean-peace-view"
+            }
+        ]
+    },
+    "original_uri": "http://www.euronews.com/2018/02/09/peaceful-pyeongchang-olympics-can-lead-to-lasting-korean-peace-view",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.euronews.com/2018/02/09/peaceful-pyeongchang-olympics-can-lead-to-lasting-korean-peace-view",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.euronews.com/2018/02/09/peaceful-pyeongchang-olympics-can-lead-to-lasting-korean-peace-view",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.euronews.com/2018/02/09/peaceful-pyeongchang-olympics-can-lead-to-lasting-korean-peace-view",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.euronews.com/2018/02/09/peaceful-pyeongchang-olympics-can-lead-to-lasting-korean-peace-view",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.euronews.com/2018/02/09/peaceful-pyeongchang-olympics-can-lead-to-lasting-korean-peace-view"
+    }
+}

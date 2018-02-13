@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T20:12:58Z",
+            "uri": "http://web.archive.org/web/20180209201258/https://www.businessinsider.com/2018-winter-olympics-the-best-photos-from-the-opening-ceremony-2018-2"
+        },
+        "last": {
+            "datetime": "2018-02-11T06:56:49Z",
+            "uri": "http://web.archive.org/web/20180211065649/http://www.businessinsider.com/2018-winter-olympics-the-best-photos-from-the-opening-ceremony-2018-2"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T20:12:58Z",
+                "uri": "http://web.archive.org/web/20180209201258/https://www.businessinsider.com/2018-winter-olympics-the-best-photos-from-the-opening-ceremony-2018-2"
+            },
+            {
+                "datetime": "2018-02-09T22:24:34Z",
+                "uri": "http://web.archive.org/web/20180209222434/http://www.businessinsider.com/2018-winter-olympics-the-best-photos-from-the-opening-ceremony-2018-2"
+            },
+            {
+                "datetime": "2018-02-10T03:35:16Z",
+                "uri": "http://archive.is/20180210033516/http://www.businessinsider.com/2018-winter-olympics-the-best-photos-from-the-opening-ceremony-2018-2"
+            },
+            {
+                "datetime": "2018-02-10T10:35:33Z",
+                "uri": "http://web.archive.org/web/20180210103533/http://www.businessinsider.com/2018-winter-olympics-the-best-photos-from-the-opening-ceremony-2018-2"
+            },
+            {
+                "datetime": "2018-02-10T12:00:16Z",
+                "uri": "http://web.archive.org/web/20180210120016/http://www.businessinsider.com/2018-winter-olympics-the-best-photos-from-the-opening-ceremony-2018-2"
+            },
+            {
+                "datetime": "2018-02-11T06:56:49Z",
+                "uri": "http://wayback.archive-it.org/all/20180211065649/http://www.businessinsider.com/2018-winter-olympics-the-best-photos-from-the-opening-ceremony-2018-2"
+            },
+            {
+                "datetime": "2018-02-11T06:56:49Z",
+                "uri": "http://web.archive.org/web/20180211065649/http://www.businessinsider.com/2018-winter-olympics-the-best-photos-from-the-opening-ceremony-2018-2"
+            }
+        ]
+    },
+    "original_uri": "http://www.businessinsider.com/2018-winter-olympics-the-best-photos-from-the-opening-ceremony-2018-2",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.businessinsider.com/2018-winter-olympics-the-best-photos-from-the-opening-ceremony-2018-2",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.businessinsider.com/2018-winter-olympics-the-best-photos-from-the-opening-ceremony-2018-2",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.businessinsider.com/2018-winter-olympics-the-best-photos-from-the-opening-ceremony-2018-2",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.businessinsider.com/2018-winter-olympics-the-best-photos-from-the-opening-ceremony-2018-2",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.businessinsider.com/2018-winter-olympics-the-best-photos-from-the-opening-ceremony-2018-2"
+    }
+}

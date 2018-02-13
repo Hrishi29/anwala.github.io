@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T04:12:01Z",
+            "uri": "http://web.archive.org/web/20180209041201/https://www.newyorker.com/news/our-columnists/does-the-economy-need-the-trump-gop-stimulus"
+        },
+        "last": {
+            "datetime": "2018-02-11T06:52:56Z",
+            "uri": "http://web.archive.org/web/20180211065256/https://www.newyorker.com/news/our-columnists/does-the-economy-need-the-trump-gop-stimulus"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T04:12:01Z",
+                "uri": "http://web.archive.org/web/20180209041201/https://www.newyorker.com/news/our-columnists/does-the-economy-need-the-trump-gop-stimulus"
+            },
+            {
+                "datetime": "2018-02-09T14:02:36Z",
+                "uri": "http://web.archive.org/web/20180209140236/https://www.newyorker.com/news/our-columnists/does-the-economy-need-the-trump-gop-stimulus"
+            },
+            {
+                "datetime": "2018-02-10T09:29:58Z",
+                "uri": "http://web.archive.org/web/20180210092958/https://www.newyorker.com/news/our-columnists/does-the-economy-need-the-trump-gop-stimulus"
+            },
+            {
+                "datetime": "2018-02-11T06:52:56Z",
+                "uri": "http://wayback.archive-it.org/all/20180211065256/https://www.newyorker.com/news/our-columnists/does-the-economy-need-the-trump-gop-stimulus"
+            },
+            {
+                "datetime": "2018-02-11T06:52:56Z",
+                "uri": "http://web.archive.org/web/20180211065256/https://www.newyorker.com/news/our-columnists/does-the-economy-need-the-trump-gop-stimulus"
+            }
+        ]
+    },
+    "original_uri": "https://www.newyorker.com/news/our-columnists/does-the-economy-need-the-trump-gop-stimulus",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.newyorker.com/news/our-columnists/does-the-economy-need-the-trump-gop-stimulus",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.newyorker.com/news/our-columnists/does-the-economy-need-the-trump-gop-stimulus",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.newyorker.com/news/our-columnists/does-the-economy-need-the-trump-gop-stimulus",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.newyorker.com/news/our-columnists/does-the-economy-need-the-trump-gop-stimulus",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.newyorker.com/news/our-columnists/does-the-economy-need-the-trump-gop-stimulus"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T14:19:48Z",
+            "uri": "http://web.archive.org/web/20180209141948/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+        },
+        "last": {
+            "datetime": "2018-02-12T00:06:14Z",
+            "uri": "http://web.archive.org/web/20180212000614/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T14:19:48Z",
+                "uri": "http://web.archive.org/web/20180209141948/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+            },
+            {
+                "datetime": "2018-02-09T16:20:58Z",
+                "uri": "http://web.archive.org/web/20180209162058/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+            },
+            {
+                "datetime": "2018-02-09T16:55:20Z",
+                "uri": "http://web.archive.org/web/20180209165520/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+            },
+            {
+                "datetime": "2018-02-09T17:29:13Z",
+                "uri": "http://web.archive.org/web/20180209172913/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+            },
+            {
+                "datetime": "2018-02-09T18:03:43Z",
+                "uri": "http://web.archive.org/web/20180209180343/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+            },
+            {
+                "datetime": "2018-02-09T18:39:30Z",
+                "uri": "http://web.archive.org/web/20180209183930/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+            },
+            {
+                "datetime": "2018-02-09T19:14:09Z",
+                "uri": "http://web.archive.org/web/20180209191409/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+            },
+            {
+                "datetime": "2018-02-09T19:49:03Z",
+                "uri": "http://web.archive.org/web/20180209194903/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+            },
+            {
+                "datetime": "2018-02-09T20:24:31Z",
+                "uri": "http://web.archive.org/web/20180209202431/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+            },
+            {
+                "datetime": "2018-02-09T20:57:31Z",
+                "uri": "http://web.archive.org/web/20180209205731/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+            },
+            {
+                "datetime": "2018-02-09T20:57:42Z",
+                "uri": "http://archive.is/20180209205742/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+            },
+            {
+                "datetime": "2018-02-11T05:29:00Z",
+                "uri": "http://wayback.archive-it.org/all/20180211052900/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+            },
+            {
+                "datetime": "2018-02-11T05:29:00Z",
+                "uri": "http://web.archive.org/web/20180211052900/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+            },
+            {
+                "datetime": "2018-02-12T00:06:14Z",
+                "uri": "http://web.archive.org/web/20180212000614/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+            }
+        ]
+    },
+    "original_uri": "https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.motherjones.com/politics/2018/02/this-democratic-prosecutor-is-making-the-case-for-unseating-devin-nunes/"
+    }
+}

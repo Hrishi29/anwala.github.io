@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T03:39:42Z",
+            "uri": "http://web.archive.org/web/20180210033942/http://abcnews.go.com/US/endangered-butterfly-threatened-trumps-wall-environmentalists/story?id=52973359"
+        },
+        "last": {
+            "datetime": "2018-02-10T23:31:21Z",
+            "uri": "http://web.archive.org/web/20180210233121/http://abcnews.go.com/US/endangered-butterfly-threatened-trumps-wall-environmentalists/story?id=52973359"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T03:39:42Z",
+                "uri": "http://web.archive.org/web/20180210033942/http://abcnews.go.com/US/endangered-butterfly-threatened-trumps-wall-environmentalists/story?id=52973359"
+            },
+            {
+                "datetime": "2018-02-10T18:47:12Z",
+                "uri": "http://web.archive.org/web/20180210184712/http://abcnews.go.com/US/endangered-butterfly-threatened-trumps-wall-environmentalists/story?id=52973359"
+            },
+            {
+                "datetime": "2018-02-10T21:11:35Z",
+                "uri": "http://wayback.archive-it.org/all/20180210211135/http://abcnews.go.com/US/endangered-butterfly-threatened-trumps-wall-environmentalists/story?id=52973359"
+            },
+            {
+                "datetime": "2018-02-10T21:11:35Z",
+                "uri": "http://web.archive.org/web/20180210211135/http://abcnews.go.com/US/endangered-butterfly-threatened-trumps-wall-environmentalists/story?id=52973359"
+            },
+            {
+                "datetime": "2018-02-10T23:31:21Z",
+                "uri": "http://web.archive.org/web/20180210233121/http://abcnews.go.com/US/endangered-butterfly-threatened-trumps-wall-environmentalists/story?id=52973359"
+            }
+        ]
+    },
+    "original_uri": "http://abcnews.go.com/US/endangered-butterfly-threatened-trumps-wall-environmentalists/story?id=52973359",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://abcnews.go.com/US/endangered-butterfly-threatened-trumps-wall-environmentalists/story?id=52973359",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://abcnews.go.com/US/endangered-butterfly-threatened-trumps-wall-environmentalists/story?id=52973359",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://abcnews.go.com/US/endangered-butterfly-threatened-trumps-wall-environmentalists/story?id=52973359",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://abcnews.go.com/US/endangered-butterfly-threatened-trumps-wall-environmentalists/story?id=52973359",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://abcnews.go.com/US/endangered-butterfly-threatened-trumps-wall-environmentalists/story?id=52973359"
+    }
+}

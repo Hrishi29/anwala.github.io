@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T07:01:27Z",
+            "uri": "http://web.archive.org/web/20180210070127/http://english.alarabiya.net/en/views/news/middle-east/2018/02/10/Getting-Sultan-Selim-out-of-Egypt-The-politics-of-renaming-streets.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T14:58:07Z",
+            "uri": "http://web.archive.org/web/20180210145807/http://english.alarabiya.net/en/views/news/middle-east/2018/02/10/Getting-Sultan-Selim-out-of-Egypt-The-politics-of-renaming-streets.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T07:01:27Z",
+                "uri": "http://web.archive.org/web/20180210070127/http://english.alarabiya.net/en/views/news/middle-east/2018/02/10/Getting-Sultan-Selim-out-of-Egypt-The-politics-of-renaming-streets.html"
+            },
+            {
+                "datetime": "2018-02-10T14:58:07Z",
+                "uri": "http://web.archive.org/web/20180210145807/http://english.alarabiya.net/en/views/news/middle-east/2018/02/10/Getting-Sultan-Selim-out-of-Egypt-The-politics-of-renaming-streets.html"
+            }
+        ]
+    },
+    "original_uri": "https://english.alarabiya.net/en/views/news/middle-east/2018/02/10/Getting-Sultan-Selim-out-of-Egypt-The-politics-of-renaming-streets.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://english.alarabiya.net/en/views/news/middle-east/2018/02/10/Getting-Sultan-Selim-out-of-Egypt-The-politics-of-renaming-streets.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://english.alarabiya.net/en/views/news/middle-east/2018/02/10/Getting-Sultan-Selim-out-of-Egypt-The-politics-of-renaming-streets.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://english.alarabiya.net/en/views/news/middle-east/2018/02/10/Getting-Sultan-Selim-out-of-Egypt-The-politics-of-renaming-streets.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://english.alarabiya.net/en/views/news/middle-east/2018/02/10/Getting-Sultan-Selim-out-of-Egypt-The-politics-of-renaming-streets.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://english.alarabiya.net/en/views/news/middle-east/2018/02/10/Getting-Sultan-Selim-out-of-Egypt-The-politics-of-renaming-streets.html"
+    }
+}

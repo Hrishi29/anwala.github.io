@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T17:52:07Z",
+            "uri": "http://archive.is/20180209175207/http://www.foxnews.com/politics/2018/02/08/informant-says-moscow-paid-millions-in-bid-to-influence-clinton.amp.html?__twitter_impression=true"
+        },
+        "last": {
+            "datetime": "2018-02-09T17:52:07Z",
+            "uri": "http://archive.is/20180209175207/http://www.foxnews.com/politics/2018/02/08/informant-says-moscow-paid-millions-in-bid-to-influence-clinton.amp.html?__twitter_impression=true"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T17:52:07Z",
+                "uri": "http://archive.is/20180209175207/http://www.foxnews.com/politics/2018/02/08/informant-says-moscow-paid-millions-in-bid-to-influence-clinton.amp.html?__twitter_impression=true"
+            }
+        ]
+    },
+    "original_uri": "http://www.foxnews.com/politics/2018/02/08/informant-says-moscow-paid-millions-in-bid-to-influence-clinton.amp.html?__twitter_impression=true",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/02/08/informant-says-moscow-paid-millions-in-bid-to-influence-clinton.amp.html?__twitter_impression=true",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.foxnews.com/politics/2018/02/08/informant-says-moscow-paid-millions-in-bid-to-influence-clinton.amp.html?__twitter_impression=true",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.foxnews.com/politics/2018/02/08/informant-says-moscow-paid-millions-in-bid-to-influence-clinton.amp.html?__twitter_impression=true",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/02/08/informant-says-moscow-paid-millions-in-bid-to-influence-clinton.amp.html?__twitter_impression=true",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.foxnews.com/politics/2018/02/08/informant-says-moscow-paid-millions-in-bid-to-influence-clinton.amp.html?__twitter_impression=true"
+    }
+}

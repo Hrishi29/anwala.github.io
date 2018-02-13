@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2014-03-15T00:24:13Z",
+            "uri": "http://web.archive.org/web/20140315002413/http://www.bookieoffers.co.uk:80/bookmakers/coral.html"
+        },
+        "last": {
+            "datetime": "2018-01-25T13:11:03Z",
+            "uri": "http://web.archive.org/web/20180125131103/http://www.bookieoffers.co.uk/bookmakers/coral.html"
+        },
+        "list": [
+            {
+                "datetime": "2014-03-15T00:24:13Z",
+                "uri": "http://web.archive.org/web/20140315002413/http://www.bookieoffers.co.uk:80/bookmakers/coral.html"
+            },
+            {
+                "datetime": "2017-09-11T04:41:46Z",
+                "uri": "http://web.archive.org/web/20170911044146/http://www.bookieoffers.co.uk/bookmakers/coral.html"
+            },
+            {
+                "datetime": "2017-11-18T08:23:15Z",
+                "uri": "http://web.archive.org/web/20171118082315/http://www.bookieoffers.co.uk/bookmakers/coral.html"
+            },
+            {
+                "datetime": "2018-01-25T13:11:03Z",
+                "uri": "http://web.archive.org/web/20180125131103/http://www.bookieoffers.co.uk/bookmakers/coral.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.bookieoffers.co.uk/bookmakers/coral.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.bookieoffers.co.uk/bookmakers/coral.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.bookieoffers.co.uk/bookmakers/coral.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.bookieoffers.co.uk/bookmakers/coral.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.bookieoffers.co.uk/bookmakers/coral.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.bookieoffers.co.uk/bookmakers/coral.html"
+    }
+}

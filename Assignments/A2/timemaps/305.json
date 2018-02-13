@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T05:04:50Z",
+            "uri": "http://web.archive.org/web/20180210050450/http://indianexpress.com/article/world/donald-trump-blocks-release-of-russia-memo-drafted-by-democrats-5058084/"
+        },
+        "last": {
+            "datetime": "2018-02-10T05:04:50Z",
+            "uri": "http://web.archive.org/web/20180210050450/http://indianexpress.com/article/world/donald-trump-blocks-release-of-russia-memo-drafted-by-democrats-5058084/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T05:04:50Z",
+                "uri": "http://web.archive.org/web/20180210050450/http://indianexpress.com/article/world/donald-trump-blocks-release-of-russia-memo-drafted-by-democrats-5058084/"
+            }
+        ]
+    },
+    "original_uri": "http://indianexpress.com/article/world/donald-trump-blocks-release-of-russia-memo-drafted-by-democrats-5058084/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://indianexpress.com/article/world/donald-trump-blocks-release-of-russia-memo-drafted-by-democrats-5058084/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://indianexpress.com/article/world/donald-trump-blocks-release-of-russia-memo-drafted-by-democrats-5058084/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://indianexpress.com/article/world/donald-trump-blocks-release-of-russia-memo-drafted-by-democrats-5058084/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://indianexpress.com/article/world/donald-trump-blocks-release-of-russia-memo-drafted-by-democrats-5058084/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://indianexpress.com/article/world/donald-trump-blocks-release-of-russia-memo-drafted-by-democrats-5058084/"
+    }
+}

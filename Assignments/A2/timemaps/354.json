@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T05:06:02Z",
+            "uri": "http://web.archive.org/web/20180210050602/http://indianexpress.com/article/world/chinas-top-diplomat-tells-donald-trump-hopes-to-increase-coordination-on-north-korea-5058096/"
+        },
+        "last": {
+            "datetime": "2018-02-10T05:06:02Z",
+            "uri": "http://web.archive.org/web/20180210050602/http://indianexpress.com/article/world/chinas-top-diplomat-tells-donald-trump-hopes-to-increase-coordination-on-north-korea-5058096/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T05:06:02Z",
+                "uri": "http://web.archive.org/web/20180210050602/http://indianexpress.com/article/world/chinas-top-diplomat-tells-donald-trump-hopes-to-increase-coordination-on-north-korea-5058096/"
+            }
+        ]
+    },
+    "original_uri": "http://indianexpress.com/article/world/chinas-top-diplomat-tells-donald-trump-hopes-to-increase-coordination-on-north-korea-5058096/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://indianexpress.com/article/world/chinas-top-diplomat-tells-donald-trump-hopes-to-increase-coordination-on-north-korea-5058096/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://indianexpress.com/article/world/chinas-top-diplomat-tells-donald-trump-hopes-to-increase-coordination-on-north-korea-5058096/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://indianexpress.com/article/world/chinas-top-diplomat-tells-donald-trump-hopes-to-increase-coordination-on-north-korea-5058096/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://indianexpress.com/article/world/chinas-top-diplomat-tells-donald-trump-hopes-to-increase-coordination-on-north-korea-5058096/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://indianexpress.com/article/world/chinas-top-diplomat-tells-donald-trump-hopes-to-increase-coordination-on-north-korea-5058096/"
+    }
+}

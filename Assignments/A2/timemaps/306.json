@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T05:42:29Z",
+            "uri": "http://web.archive.org/web/20180210054229/https://www.gq.com/story/trump-skips-daily-briefings"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:11:39Z",
+            "uri": "http://web.archive.org/web/20180211051139/https://www.gq.com/story/trump-skips-daily-briefings"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T05:42:29Z",
+                "uri": "http://web.archive.org/web/20180210054229/https://www.gq.com/story/trump-skips-daily-briefings"
+            },
+            {
+                "datetime": "2018-02-10T17:11:51Z",
+                "uri": "http://web.archive.org/web/20180210171151/https://www.gq.com/story/trump-skips-daily-briefings"
+            },
+            {
+                "datetime": "2018-02-11T02:10:21Z",
+                "uri": "http://web.archive.org/web/20180211021021/https://www.gq.com/story/trump-skips-daily-briefings"
+            },
+            {
+                "datetime": "2018-02-11T05:11:39Z",
+                "uri": "http://web.archive.org/web/20180211051139/https://www.gq.com/story/trump-skips-daily-briefings"
+            }
+        ]
+    },
+    "original_uri": "https://www.gq.com/story/trump-skips-daily-briefings",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gq.com/story/trump-skips-daily-briefings",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gq.com/story/trump-skips-daily-briefings",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gq.com/story/trump-skips-daily-briefings",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gq.com/story/trump-skips-daily-briefings",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gq.com/story/trump-skips-daily-briefings"
+    }
+}

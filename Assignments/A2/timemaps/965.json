@@ -1,0 +1,106 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T17:56:17Z",
+            "uri": "http://web.archive.org/web/20180208175617/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T12:19:59Z",
+            "uri": "http://web.archive.org/web/20180211121959/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T17:56:17Z",
+                "uri": "http://web.archive.org/web/20180208175617/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-08T18:21:32Z",
+                "uri": "http://web.archive.org/web/20180208182132/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-08T18:27:28Z",
+                "uri": "http://web.archive.org/web/20180208182728/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-08T19:23:21Z",
+                "uri": "http://archive.is/20180208192321/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-08T21:21:45Z",
+                "uri": "http://web.archive.org/web/20180208212145/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-08T23:51:51Z",
+                "uri": "http://web.archive.org/web/20180208235151/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-09T02:33:41Z",
+                "uri": "http://web.archive.org/web/20180209023341/http://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-09T04:15:55Z",
+                "uri": "http://archive.is/20180209041555/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-09T04:16:32Z",
+                "uri": "http://web.archive.org/web/20180209041632/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-09T06:43:50Z",
+                "uri": "http://web.archive.org/web/20180209064350/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-09T12:41:41Z",
+                "uri": "http://archive.is/20180209124141/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-09T16:29:17Z",
+                "uri": "http://web.archive.org/web/20180209162917/http://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-09T18:20:42Z",
+                "uri": "http://web.archive.org/web/20180209182042/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-09T18:58:56Z",
+                "uri": "http://web.archive.org/web/20180209185856/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-09T20:19:12Z",
+                "uri": "http://web.archive.org/web/20180209201912/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-09T22:29:52Z",
+                "uri": "http://web.archive.org/web/20180209222952/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-10T03:11:45Z",
+                "uri": "http://web.archive.org/web/20180210031145/http://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-11T04:16:05Z",
+                "uri": "http://web.archive.org/web/20180211041605/http://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-11T06:39:06Z",
+                "uri": "http://web.archive.org/web/20180211063906/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-11T10:32:48Z",
+                "uri": "http://web.archive.org/web/20180211103248/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            },
+            {
+                "datetime": "2018-02-11T12:19:59Z",
+                "uri": "http://web.archive.org/web/20180211121959/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html"
+    }
+}

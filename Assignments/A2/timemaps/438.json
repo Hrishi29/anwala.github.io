@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T01:01:57Z",
+            "uri": "http://web.archive.org/web/20180209010157/http://thehill.com/policy/defense/373021-mattis-vows-dreamers-serving-in-military-will-not-be-deported"
+        },
+        "last": {
+            "datetime": "2018-02-11T07:57:24Z",
+            "uri": "http://web.archive.org/web/20180211075724/http://thehill.com/policy/defense/373021-mattis-vows-dreamers-serving-in-military-will-not-be-deported"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T01:01:57Z",
+                "uri": "http://web.archive.org/web/20180209010157/http://thehill.com/policy/defense/373021-mattis-vows-dreamers-serving-in-military-will-not-be-deported"
+            },
+            {
+                "datetime": "2018-02-10T00:33:19Z",
+                "uri": "http://web.archive.org/web/20180210003319/http://thehill.com/policy/defense/373021-mattis-vows-dreamers-serving-in-military-will-not-be-deported"
+            },
+            {
+                "datetime": "2018-02-10T09:27:25Z",
+                "uri": "http://web.archive.org/web/20180210092725/http://thehill.com/policy/defense/373021-mattis-vows-dreamers-serving-in-military-will-not-be-deported"
+            },
+            {
+                "datetime": "2018-02-11T07:57:24Z",
+                "uri": "http://web.archive.org/web/20180211075724/http://thehill.com/policy/defense/373021-mattis-vows-dreamers-serving-in-military-will-not-be-deported"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/policy/defense/373021-mattis-vows-dreamers-serving-in-military-will-not-be-deported",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/policy/defense/373021-mattis-vows-dreamers-serving-in-military-will-not-be-deported",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/policy/defense/373021-mattis-vows-dreamers-serving-in-military-will-not-be-deported",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/policy/defense/373021-mattis-vows-dreamers-serving-in-military-will-not-be-deported",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/policy/defense/373021-mattis-vows-dreamers-serving-in-military-will-not-be-deported",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/policy/defense/373021-mattis-vows-dreamers-serving-in-military-will-not-be-deported"
+    }
+}

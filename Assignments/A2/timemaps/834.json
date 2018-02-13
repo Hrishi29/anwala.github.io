@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T07:04:25Z",
+            "uri": "http://wayback.archive-it.org/all/20180211070425/https://www.cbssports.com/college-football/news/ohio-state-football-recruiting-five-star-nicholas-petit-frere-commits-to-buckeyes/"
+        },
+        "last": {
+            "datetime": "2018-02-11T07:04:25Z",
+            "uri": "http://web.archive.org/web/20180211070425/https://www.cbssports.com/college-football/news/ohio-state-football-recruiting-five-star-nicholas-petit-frere-commits-to-buckeyes/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T07:04:25Z",
+                "uri": "http://wayback.archive-it.org/all/20180211070425/https://www.cbssports.com/college-football/news/ohio-state-football-recruiting-five-star-nicholas-petit-frere-commits-to-buckeyes/"
+            },
+            {
+                "datetime": "2018-02-11T07:04:25Z",
+                "uri": "http://web.archive.org/web/20180211070425/https://www.cbssports.com/college-football/news/ohio-state-football-recruiting-five-star-nicholas-petit-frere-commits-to-buckeyes/"
+            }
+        ]
+    },
+    "original_uri": "https://www.cbssports.com/college-football/news/ohio-state-football-recruiting-five-star-nicholas-petit-frere-commits-to-buckeyes/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cbssports.com/college-football/news/ohio-state-football-recruiting-five-star-nicholas-petit-frere-commits-to-buckeyes/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cbssports.com/college-football/news/ohio-state-football-recruiting-five-star-nicholas-petit-frere-commits-to-buckeyes/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cbssports.com/college-football/news/ohio-state-football-recruiting-five-star-nicholas-petit-frere-commits-to-buckeyes/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cbssports.com/college-football/news/ohio-state-football-recruiting-five-star-nicholas-petit-frere-commits-to-buckeyes/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cbssports.com/college-football/news/ohio-state-football-recruiting-five-star-nicholas-petit-frere-commits-to-buckeyes/"
+    }
+}

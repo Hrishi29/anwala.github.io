@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-11-18T23:53:33Z",
+            "uri": "http://web.archive.org/web/20171118235333/https://independentaustralia.net/politics/politics-display/exclusive-barnaby-joyce-peeling-back-the-rumours,10942"
+        },
+        "last": {
+            "datetime": "2017-11-23T11:30:55Z",
+            "uri": "http://web.archive.org/web/20171123113055/https://independentaustralia.net/politics/politics-display/exclusive-barnaby-joyce-peeling-back-the-rumours,10942"
+        },
+        "list": [
+            {
+                "datetime": "2017-11-18T23:53:33Z",
+                "uri": "http://web.archive.org/web/20171118235333/https://independentaustralia.net/politics/politics-display/exclusive-barnaby-joyce-peeling-back-the-rumours,10942"
+            },
+            {
+                "datetime": "2017-11-23T11:30:55Z",
+                "uri": "http://web.archive.org/web/20171123113055/https://independentaustralia.net/politics/politics-display/exclusive-barnaby-joyce-peeling-back-the-rumours,10942"
+            }
+        ]
+    },
+    "original_uri": "https://independentaustralia.net/politics/politics-display/exclusive-barnaby-joyce-peeling-back-the-rumours,10942",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://independentaustralia.net/politics/politics-display/exclusive-barnaby-joyce-peeling-back-the-rumours,10942",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://independentaustralia.net/politics/politics-display/exclusive-barnaby-joyce-peeling-back-the-rumours,10942",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://independentaustralia.net/politics/politics-display/exclusive-barnaby-joyce-peeling-back-the-rumours,10942",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://independentaustralia.net/politics/politics-display/exclusive-barnaby-joyce-peeling-back-the-rumours,10942",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://independentaustralia.net/politics/politics-display/exclusive-barnaby-joyce-peeling-back-the-rumours,10942"
+    }
+}

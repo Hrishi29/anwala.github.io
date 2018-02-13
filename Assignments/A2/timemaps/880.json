@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T22:59:32Z",
+            "uri": "http://web.archive.org/web/20180208225932/https://mashable.com/2018/02/08/mike-pence-gay-olympics-rippon/"
+        },
+        "last": {
+            "datetime": "2018-02-11T07:08:54Z",
+            "uri": "http://web.archive.org/web/20180211070854/https://mashable.com/2018/02/08/mike-pence-gay-olympics-rippon/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T22:59:32Z",
+                "uri": "http://web.archive.org/web/20180208225932/https://mashable.com/2018/02/08/mike-pence-gay-olympics-rippon/"
+            },
+            {
+                "datetime": "2018-02-10T01:28:49Z",
+                "uri": "http://web.archive.org/web/20180210012849/https://mashable.com/2018/02/08/mike-pence-gay-olympics-rippon/"
+            },
+            {
+                "datetime": "2018-02-11T07:08:54Z",
+                "uri": "http://wayback.archive-it.org/all/20180211070854/https://mashable.com/2018/02/08/mike-pence-gay-olympics-rippon/"
+            },
+            {
+                "datetime": "2018-02-11T07:08:54Z",
+                "uri": "http://web.archive.org/web/20180211070854/https://mashable.com/2018/02/08/mike-pence-gay-olympics-rippon/"
+            }
+        ]
+    },
+    "original_uri": "https://mashable.com/2018/02/08/mike-pence-gay-olympics-rippon/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://mashable.com/2018/02/08/mike-pence-gay-olympics-rippon/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://mashable.com/2018/02/08/mike-pence-gay-olympics-rippon/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://mashable.com/2018/02/08/mike-pence-gay-olympics-rippon/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://mashable.com/2018/02/08/mike-pence-gay-olympics-rippon/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://mashable.com/2018/02/08/mike-pence-gay-olympics-rippon/"
+    }
+}

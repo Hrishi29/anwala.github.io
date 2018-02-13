@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T14:32:59Z",
+            "uri": "http://web.archive.org/web/20180209143259/http://www.foxnews.com/politics/2018/02/09/oxford-study-saying-trump-supporters-share-more-fake-news-is-fake-news.html"
+        },
+        "last": {
+            "datetime": "2018-02-09T22:26:16Z",
+            "uri": "http://web.archive.org/web/20180209222616/http://www.foxnews.com/politics/2018/02/09/oxford-study-saying-trump-supporters-share-more-fake-news-is-fake-news.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T14:32:59Z",
+                "uri": "http://web.archive.org/web/20180209143259/http://www.foxnews.com/politics/2018/02/09/oxford-study-saying-trump-supporters-share-more-fake-news-is-fake-news.html"
+            },
+            {
+                "datetime": "2018-02-09T14:45:51Z",
+                "uri": "http://web.archive.org/web/20180209144551/http://www.foxnews.com/politics/2018/02/09/oxford-study-saying-trump-supporters-share-more-fake-news-is-fake-news.html"
+            },
+            {
+                "datetime": "2018-02-09T17:22:18Z",
+                "uri": "http://web.archive.org/web/20180209172218/http://www.foxnews.com/politics/2018/02/09/oxford-study-saying-trump-supporters-share-more-fake-news-is-fake-news.html"
+            },
+            {
+                "datetime": "2018-02-09T22:26:16Z",
+                "uri": "http://web.archive.org/web/20180209222616/http://www.foxnews.com/politics/2018/02/09/oxford-study-saying-trump-supporters-share-more-fake-news-is-fake-news.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.foxnews.com/politics/2018/02/09/oxford-study-saying-trump-supporters-share-more-fake-news-is-fake-news.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/02/09/oxford-study-saying-trump-supporters-share-more-fake-news-is-fake-news.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.foxnews.com/politics/2018/02/09/oxford-study-saying-trump-supporters-share-more-fake-news-is-fake-news.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.foxnews.com/politics/2018/02/09/oxford-study-saying-trump-supporters-share-more-fake-news-is-fake-news.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/02/09/oxford-study-saying-trump-supporters-share-more-fake-news-is-fake-news.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.foxnews.com/politics/2018/02/09/oxford-study-saying-trump-supporters-share-more-fake-news-is-fake-news.html"
+    }
+}

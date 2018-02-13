@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T17:23:01Z",
+            "uri": "http://web.archive.org/web/20180209172301/https://news.vice.com/en_us/article/zmwndj/kim-yo-jong-mike-pence-winter-olympics"
+        },
+        "last": {
+            "datetime": "2018-02-09T17:23:01Z",
+            "uri": "http://web.archive.org/web/20180209172301/https://news.vice.com/en_us/article/zmwndj/kim-yo-jong-mike-pence-winter-olympics"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T17:23:01Z",
+                "uri": "http://web.archive.org/web/20180209172301/https://news.vice.com/en_us/article/zmwndj/kim-yo-jong-mike-pence-winter-olympics"
+            }
+        ]
+    },
+    "original_uri": "https://news.vice.com/en_us/article/zmwndj/kim-yo-jong-mike-pence-winter-olympics",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://news.vice.com/en_us/article/zmwndj/kim-yo-jong-mike-pence-winter-olympics",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://news.vice.com/en_us/article/zmwndj/kim-yo-jong-mike-pence-winter-olympics",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://news.vice.com/en_us/article/zmwndj/kim-yo-jong-mike-pence-winter-olympics",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://news.vice.com/en_us/article/zmwndj/kim-yo-jong-mike-pence-winter-olympics",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://news.vice.com/en_us/article/zmwndj/kim-yo-jong-mike-pence-winter-olympics"
+    }
+}

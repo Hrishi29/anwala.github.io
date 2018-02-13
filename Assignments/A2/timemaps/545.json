@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T05:54:04Z",
+            "uri": "http://web.archive.org/web/20180210055404/http://www.cbc.ca/radio/thecurrent/the-current-for-february-9-2018-1.4527912/gay-at-the-games-how-canada-is-hosting-pride-house-a-safe-space-for-lgbt-athletes-at-the-olympics-1.4528002"
+        },
+        "last": {
+            "datetime": "2018-02-11T15:32:16Z",
+            "uri": "http://web.archive.org/web/20180211153216/http://www.cbc.ca/radio/thecurrent/the-current-for-february-9-2018-1.4527912/gay-at-the-games-how-canada-is-hosting-pride-house-a-safe-space-for-lgbt-athletes-at-the-olympics-1.4528002"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T05:54:04Z",
+                "uri": "http://web.archive.org/web/20180210055404/http://www.cbc.ca/radio/thecurrent/the-current-for-february-9-2018-1.4527912/gay-at-the-games-how-canada-is-hosting-pride-house-a-safe-space-for-lgbt-athletes-at-the-olympics-1.4528002"
+            },
+            {
+                "datetime": "2018-02-11T02:17:34Z",
+                "uri": "http://web.archive.org/web/20180211021734/http://www.cbc.ca/radio/thecurrent/the-current-for-february-9-2018-1.4527912/gay-at-the-games-how-canada-is-hosting-pride-house-a-safe-space-for-lgbt-athletes-at-the-olympics-1.4528002"
+            },
+            {
+                "datetime": "2018-02-11T15:32:16Z",
+                "uri": "http://web.archive.org/web/20180211153216/http://www.cbc.ca/radio/thecurrent/the-current-for-february-9-2018-1.4527912/gay-at-the-games-how-canada-is-hosting-pride-house-a-safe-space-for-lgbt-athletes-at-the-olympics-1.4528002"
+            },
+            {
+                "datetime": "2018-02-11T15:32:16Z",
+                "uri": "http://web.archive.org/web/20180211153216/http://www.cbc.ca/radio/thecurrent/the-current-for-february-9-2018-1.4527912/gay-at-the-games-how-canada-is-hosting-pride-house-a-safe-space-for-lgbt-athletes-at-the-olympics-1.4528002"
+            }
+        ]
+    },
+    "original_uri": "http://www.cbc.ca/radio/thecurrent/the-current-for-february-9-2018-1.4527912/gay-at-the-games-how-canada-is-hosting-pride-house-a-safe-space-for-lgbt-athletes-at-the-olympics-1.4528002",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.cbc.ca/radio/thecurrent/the-current-for-february-9-2018-1.4527912/gay-at-the-games-how-canada-is-hosting-pride-house-a-safe-space-for-lgbt-athletes-at-the-olympics-1.4528002",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.cbc.ca/radio/thecurrent/the-current-for-february-9-2018-1.4527912/gay-at-the-games-how-canada-is-hosting-pride-house-a-safe-space-for-lgbt-athletes-at-the-olympics-1.4528002",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.cbc.ca/radio/thecurrent/the-current-for-february-9-2018-1.4527912/gay-at-the-games-how-canada-is-hosting-pride-house-a-safe-space-for-lgbt-athletes-at-the-olympics-1.4528002",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.cbc.ca/radio/thecurrent/the-current-for-february-9-2018-1.4527912/gay-at-the-games-how-canada-is-hosting-pride-house-a-safe-space-for-lgbt-athletes-at-the-olympics-1.4528002",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.cbc.ca/radio/thecurrent/the-current-for-february-9-2018-1.4527912/gay-at-the-games-how-canada-is-hosting-pride-house-a-safe-space-for-lgbt-athletes-at-the-olympics-1.4528002"
+    }
+}

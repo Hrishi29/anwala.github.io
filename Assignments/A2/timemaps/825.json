@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T22:38:09Z",
+            "uri": "http://web.archive.org/web/20180209223809/https://qz.com/1203803/donald-trump-signed-a-landmark-bill-to-support-carbon-capture-and-nuclear-power/"
+        },
+        "last": {
+            "datetime": "2018-02-10T18:53:05Z",
+            "uri": "http://web.archive.org/web/20180210185305/https://qz.com/1203803/donald-trump-signed-a-landmark-bill-to-support-carbon-capture-and-nuclear-power/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T22:38:09Z",
+                "uri": "http://web.archive.org/web/20180209223809/https://qz.com/1203803/donald-trump-signed-a-landmark-bill-to-support-carbon-capture-and-nuclear-power/"
+            },
+            {
+                "datetime": "2018-02-10T03:22:53Z",
+                "uri": "http://archive.is/20180210032253/https://qz.com/1203803/donald-trump-signed-a-landmark-bill-to-support-carbon-capture-and-nuclear-power/"
+            },
+            {
+                "datetime": "2018-02-10T12:43:05Z",
+                "uri": "http://web.archive.org/web/20180210124305/https://qz.com/1203803/donald-trump-signed-a-landmark-bill-to-support-carbon-capture-and-nuclear-power/"
+            },
+            {
+                "datetime": "2018-02-10T18:53:05Z",
+                "uri": "http://web.archive.org/web/20180210185305/https://qz.com/1203803/donald-trump-signed-a-landmark-bill-to-support-carbon-capture-and-nuclear-power/"
+            }
+        ]
+    },
+    "original_uri": "https://qz.com/1203803/donald-trump-signed-a-landmark-bill-to-support-carbon-capture-and-nuclear-power/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://qz.com/1203803/donald-trump-signed-a-landmark-bill-to-support-carbon-capture-and-nuclear-power/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://qz.com/1203803/donald-trump-signed-a-landmark-bill-to-support-carbon-capture-and-nuclear-power/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://qz.com/1203803/donald-trump-signed-a-landmark-bill-to-support-carbon-capture-and-nuclear-power/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://qz.com/1203803/donald-trump-signed-a-landmark-bill-to-support-carbon-capture-and-nuclear-power/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://qz.com/1203803/donald-trump-signed-a-landmark-bill-to-support-carbon-capture-and-nuclear-power/"
+    }
+}
