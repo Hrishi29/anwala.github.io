@@ -106,6 +106,19 @@ python tweet_crawl.py > 1000ulinks.txt
 \lstinputlisting[frame=single,caption={Python script for twitter streaming},label=lst:q1tweepy,captionpos=b,numbers=left,showspaces=false,breakindent=0.5pt,showstringspaces=false,basicstyle=\footnotesize]{tweet_crawl.py}
 For my keywords I chose the ones which were currently trending on twitter. It first starts by listening to the stream of data from twitters streaming API, from which data is received in JSON format. The data was parsed using entities and urls object of a tweet and also filtered them for lengths and maximum characters \cite{streamref}. These links one by one were sent to getLinksFromTweet for further filtration.
 In the next step, HTTP head and get requests \cite{urllibref} were made for each of the links fetched from the previous step and checked if expandedUrl entity had any redirects or were shortened for status 200 as well as status 301. Next I used the tldextract \cite{tlderef} library for extracting the domain name as twitter since it had to be excluded. For checking the links to  be unique I maintained two lists where in List 1,  I stored all the URIs by formatting the query and parameters in links and List 2 where new links after comparing with List 1 , the links were again formed as original URIs. For this I used the urlparse and urljoin libraries \cite{parseref}.
+
+Here is the output with first 6 unique links extracted:
+\begin{lstlisting}[frame=single]
+https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/#.Wn5bN9f2_Rp.twitter
+http://mynbc15.com/news/nation-world/team-usa-arrives-at-winter-olympics-opening-ceremony?utm_content=bufferb5e59&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+https://www.cnn.com/2018/02/09/politics/david-sorensen-white-house-resign-domestic-abuse-allegation/index.html
+https://www.billboard.com/articles/columns/pop/8098906/winter-olympics-2018-opening-ceremony-psy-bts-skating-oasis-ed-sheeran?utm_source=twitter
+https://www.reuters.com/article/us-usa-budget-wall/trump-budget-to-include-3-billion-for-border-wall-official-idUSKBN1FT09M
+https://www.gq.com/story/adam-rippon-olympics-skater-pence-and-roasts
+
+
+\end{lstlisting}
+
 \clearpage
 % =================================
 % Second question
@@ -207,6 +220,8 @@ The following R \cite{scatref} program was used to create the scatterplot  for A
 
 
 \lstinputlisting[frame=single,caption={R Script to create scatterplot},label=lst:q2carbonDateR,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{age.R}
+Looking at the graph I noticed that the URIs with very few number of mementos are new whereas the URIs having more mementos are old. Also very few URIs are archived regularly.
+
 \begin{figure}[h]
 \centering
 \includegraphics[scale=1.0]{ageuri.pdf}
