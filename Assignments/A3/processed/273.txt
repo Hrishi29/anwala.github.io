@@ -1,0 +1,11 @@
+google+
+Like many of us, [Gustav Evertsson] was looking for an excuse to set stuff on fire and spin it around really fast to see what would happen. Luckily for him (and us) the Winter Olympics have started, which ended up being the perfect guise for this particular experiment. With some motors from eBay and some flaming steel wool, he created a particularly terrifying version of the Olympic’s iconic linked rings logo . Even if you won’t be tuning in for the
+commercials
+ Winter Games, you should at least set aside 6 minutes to watch this build video.
+The beginning of the build starts with some mounting brackets getting designed in Fusion 360, and you would be forgiven if you thought some 3D printed parts were coming up next. But [Gustav] actually loads the design up on a Carbide 3D CNC and cuts them out of wood.
+A metal hub is attached to each bracket, and then the two pieces are screwed onto a length of thin wood. This assembly is then mounted up to the spindle of a geared motor rated for 300 RPM. The end result looks like a large flat airplane propeller. Five of these “propellers” are created, one for each ring of the Olympic’s logo.
+Once the sun sets, [Gustav] takes his collection of spinners outside and lines them up like windmills. At the end of each arm is a small ball of fine-grade steel wool, which will emit sparks for a few seconds when lighted. All you’ve got to do is get the 10 pieces of steel wool alight at the same time, spin up the motors, and let persistence of vision do the rest. If you can manage the timing, you’ll be treated with a spinning and sparking version of the Olympic rings that wouldn’t look out of place in a new Mad Max movie.
+Generally speaking, we don’t see much overlap between the hacker community and the Olympics. You’d have to go all the way back to 2012 to find another project celebrating this particular display of athleticism. We would strongly caution you not to combine both of these Olympic hacks at the same time, incidentally.
+Tom Nardi
+www.big4all.org #news #info #photo #pictures #world #health #sport #business #gadgets #space #nature #social #follow
+Advertisements

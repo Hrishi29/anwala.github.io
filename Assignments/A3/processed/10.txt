@@ -1,0 +1,19 @@
+googletag.slots["infinite_scroll_separator"] = googletag.defineSlot("1107919/infiniteScroll_separator", [[970, 250], [300, 250], [728, 90], [1006, 500], [970, 90], [1340, 500], [1237, 500]], "dfp-ad-infinite_scroll_separator")
+American intelligence officials have been conducting a top-secret operation to recover stolen National Security Agency (NSA) documents through meetings with Russian intermediaries, according to The Intercept . 
+Top members of the intelligence community have met over the past year with a group of Russians trying to sell back highly classified NSA documents obtained by Russian intelligence. 
+American and Russian intermediaries began meeting in Germany in early 2017. One Russian operator with connections to individuals in the country's intelligence sphere with access to top-secret information told The Intercept he is seeking payment for the information. 
+The meetings began in early 2017 after a massive 2016 breach  of top-secret cyber weapons from the NSA. U.S. intelligence authorities believe the Russians obtained the documents through a mysterious hacker group called the Shadow Brokers, who gained access to many of the hacking tools used in foreign espionage by the U.S. 
+ADVERTISEMENT
+The NSA is now trying to contain the damage after vital information on America's espionage tools was outed. 
+Russians involved in the meetings have also begun offering to sell information on Trump campaign officials in connection with the concerted Russian government effort to influence the 2016 election. 
+According to a New York Times report published Friday, U.S. intelligence officials said that they told a Russian offering both NSA cyber weapons and material related to President Trump
+Donald John Trump Tillerson: Russia already looking to interfere in 2018 midterms Dems pick up deep-red legislative seat in Missouri Speier on Trump's desire for military parade: 'We have a Napoleon in the making' MORE that they did not want the information about the real estate mogul.
+U.S. spies agreed to a $1 million payout to obtain the NSA tools from the Russian, according to the report. They paid $100,000 as a first installment.
+But the Russian never gave U.S. agents the NSA tools, the Times reported. Instead, they were handed salacious and unverified information about Trump. After that, the U.S. officials ended their deal with the Russian due to concerns about possible political fallout and fears of a Russian plan to stir chaos within the U.S. government.
+The Russian operators' connections with the Russian government remain unclear. 
+U.S. intelligence officials reportedly first approached an American with connections to the Russians to help them regain the documents in December of 2016. 
+Russian operators worked to sway American voters in the election on social media through forged accounts and propaganda, and Russian hackers were behind a massive information breach at the Democratic National Committee that exposed the Hillary Clinton
+Law enforcement officials and several congressional committees are now investigating the extent of the Russian meddling, including whether Trump campaign officials were involved.
+Updated: 8:22 p.m. 
+The Hill 1625 K Street, NW Suite 900 Washington DC 20006 | 202-628-8500 tel | 202-628-8503 fax
+The contents of this site are ©2018 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc.

@@ -1,0 +1,30 @@
+'
+If you chose to have your posts visible to "Only Me", make sure you select at least "Friends" visibility when you reconnect.' +
+//Kill the ajax call - the php will still run in the background, but when it returns, it won't do anything to conflict with what we are doing now
+//Set it to 0 to start so everything disappears right away on page load. At the end of the function, set it to what we really want (a slower speed)
+//Checkboxes and radio buttons are unique as far as deciding when we've saved their data or not
+//Loop over them and store them in an array so we know not to show them for the next action
+//If its not checked, we want to present it to the user again so they can check it on the next screen :)
+//Don't forward to another action; instead, tell the advocate they are being connected, and show a call script
+//If advocateid is already set as a url param, this will result in duplicate URL params, but thats ok; the PHP will choose the latest one, which is the one we want it to look at.
+//The reason why email-preview might still be open is because we are showing the legs you just contacted
+formdata.sharetwitterbody = "President Trump is almost done with putting in place zero tolerance for criminal aliens. learn more here.[@campaign]";
+//Run the checked checkboxes; we'll remove them then if there is an error. But we've gotta store them while they are visible
+//Store the elements we are about to change to hidden, so we can show them if there is an error
+//Kill the ajax call - the php will still run in the background, but when it returns, it won't do anything to conflict with what we are doing now
+//Kill the ajax call - the php will still run in the background, but when it returns, it won't do anything to conflict with what we are doing now
+//var redirecturl = "http://p2a.co/ajax/actioncenter/twitter/authenticate?campaignid=18755&email=" + encodeURIComponent(formdata.email) + "&phone=" + encodeURIComponent(formdata.phone) + "&address1=" + encodeURIComponent(formdata.address1) + "&zip5=" + encodeURIComponent(formdata.zip5) + "&subscribeSms=" + encodeURIComponent(formdata.subscribeSms) + "&subscribeEmail=" + encodeURIComponent(formdata.subscribeEmail) + "&url=" + encodeURIComponent('2XxyMpX') + "&shorturl=" + encodeURIComponent('2XxyMpX') + "&vade=t";
+//The legislators page was shown and message was edited. The second step for twitter submission is completed.
+formdata.sharetwitterbody = "President Trump is almost done with putting in place zero tolerance for criminal aliens. learn more here.[@campaign]";
+//Kill the ajax call - the php will still run in the background, but when it returns, it won't do anything to conflict with what we are doing now
+//Kill the ajax call - the php will still run in the background, but when it returns, it won't do anything to conflict with what we are doing now
+//Run the checked checkboxes; we'll remove them then if there is an error. But we've gotta store them while they are visible
+//Store the elements we are about to change to hidden, so we can show them if there is an error
+//Kill the ajax call - the php will still run in the background, but when it returns, it won't do anything to conflict with what we are doing now
+formdata.sharefacebookbody = "President Trump is almost done with putting in place zero tolerance for criminal aliens. learn more here.";
+//Kill the ajax call - the php will still run in the background, but when it returns, it won't do anything to conflict with what we are doing now
+//Kill the ajax call - the php will still run in the background, but when it returns, it won't do anything to conflict with what we are doing now
+//Kill the ajax call - the php will still run in the background, but when it returns, it won't do anything to conflict with what we are doing now
+//Kill the ajax call - the php will still run in the background, but when it returns, it won't do anything to conflict with what we are doing now
+$('#actionexplanation').text( "Now, you can write a Facebook message supporting the Trump administration actions against catch and release." );
+Let's all work together to support President Trump's immigration promises. FAIR laid out our  immigration reform blueprint before the election and will monitor the Trump administration's progress.

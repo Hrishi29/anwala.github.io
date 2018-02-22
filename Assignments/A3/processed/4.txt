@@ -1,0 +1,21 @@
+!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t
+"description": "President Donald Trump's budget proposal to be unveiled on Monday will include a request for $3 billion as a down payment on building a wall along the U.S. border with Mexico, a senior administration official said on Thursday.",
+"keywords": ["US","USA","BUDGET","WALL","Crime / Law / Justice","Americas","Lawmaking","Government Finances","South America / Central America","Asylum / Immigration / Refugees","Picture available","Mexico","Economic Events","Video","National Government Debt","US House of Representatives","US Government News","Pictures","International / National Security","Conflicts / War / Peace","United States", "Article", "Politics","Election 2016","U.S."],
+.intro-deloitte{  margin-top: -250px;color: #0c8e98;font-family: knowledge-light, helvetica, arial, sans-serif;font-size: 26px;line-height: 36px;padding-bottom: 50px;margin-bottom:30px; padding-left: 0px;padding-top: 0px;border-bottom: 1px solid #0c8e98;}
+February 9, 2018 /  2:15 AM / in 8 days
+Trump budget to include $3 billion for border wall: official
+Steve Holland
+2 Min Read
+WASHINGTON (Reuters) - President Donald Trump’s budget proposal to be unveiled on Monday will include a request for $3 billion as a down payment on building a wall along the U.S. border with Mexico, a senior administration official said on Thursday.
+The official, who briefed a small group of reporters on condition of anonymity, said the money would go toward purchasing private land in the Rio Grande Valley in south Texas and advance purchases of steel.
+The administration hopes to build 60 miles (96 km) of new steel bollard fencing along the border with 2018 funding and an additional 64 miles (103 km) with 2019 funding.
+The $3 billion will be on top of this year’s $14 billion request for the U.S. Customs and Border Protection agency.
+Prototypes for U.S. President Donald Trump's border wall with Mexico are seen behind the current border fence in this picture taken from the Mexican side of the border in Tijuana, Mexico, January 27, 2018. REUTERS/Jorge Duenes
+The border wall was a signature issue for Trump in his 2016 presidential election campaign. He pledged that Mexico would pay for the wall, which the Mexican government has insisted it will not do.
+Democrats sharply oppose the wall, which Trump has said is aimed at keeping out illegal immigrants and drug smugglers.
+The new fencing would be constructed in areas known to be used by migrants crossing into the United States, the official said.
+Wall funding has been caught up in a debate over how to protect young “Dreamers,” people who were brought to the country illegally as children.
+Trump has offered to give the Dreamers protection from deportation and a pathway to citizenship over 10 to 12 years, in exchange for $25 billion in wall funding and tightened restrictions on legal immigration, but Democrats have balked at the terms.
+Reporting by Steve Holland; Editing by Peter Cooney
+C480.111,136.775,497.92,118.275,512.002,97.211z">
+All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.

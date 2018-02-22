@@ -1,0 +1,2919 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+
+
+
+
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8DVFJACgUCU1VQDgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(20),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{h?h-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(21),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",h=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(13),t(12),"addEventListener"in window&&t(6),s.xhrWrappable&&t(14),d=!0)}c.on("fn-start",function(t,e,n){d&&(h+=1)}),c.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&h>0&&(h-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,S=y.hash,this[u]=b.now()}function o(){M--,y.hash!==S&&i(0,!0);var t=b.now();this[l]=~~this[l]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=b.now()})}var c="-start",s="-end",f="-body",u="fn"+c,d="fn"+s,p="cb"+c,h="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,b=t("loader");if(w[v]&&b.xhrWrappable){var g=t(10),x=t(11),E=t(8),P=t(6),O=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),N=j.get("tracer");t(15),b.features.spa=!0;var S,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(h,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),P.buffer([u]),O.buffer(["setTimeout"+s,"clearTimeout"+c,u]),T.buffer([u,"new-xhr","send-xhr"+c]),R.buffer([m+c,m+"-done",m+f+c,m+f+s]),E.buffer(["newURL"]),g.buffer([u]),x.buffer(["propagate",p,h,"executor-err","resolve"+c]),N.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+c),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+c),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),c=t(12),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",h="-start",l="-end",m="fn"+h,v="fn"+l,w="bstTimer",y="pushState",b=t("loader");b.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=b.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,b.now()])}),a.on(m,function(t,e,n){this.bstStart=b.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),this.bstType])}),c.on(m,function(){this.bstStart=b.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),"requestAnimationFrame"])}),o.on(y+h,function(t){this.time=b.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(23)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(20);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,h="prototype";u&&d&&p&&(i(f,function(t,e){r(u[h],e,s),r(d[h],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(23)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){s.emit("jsonp-error",[],p),s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=c(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),s.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function c(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var s=t("ee").get("jsonp"),f=t(23)(s);if(e.exports=s,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,h=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,h,"dom-"),f.inPlace(HTMLHeadElement.prototype,h,"dom-"),f.inPlace(HTMLBodyElement.prototype,h,"dom-"),s.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(23)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(23),a=t("ee").get("promise"),c=i(a),s=t(20),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(23)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(23)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",c)}function i(t){b.push(t),l&&(x?x.then(a):v?v(a):(E=-E,P.data=E))}function a(){for(var t=0;t<b.length;t++)r([],b[t]);b.length&&(b=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(23)(u),p=NREUM.o,h=p.XHR,l=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],b=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(h,g),g.prototype=h.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var x=m&&m.resolve();if(!v&&!m){var E=1,P=document.createTextNode(E);new l(a).observe(P,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),h=t(19),l=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(20),c=t(21),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",h=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var l=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){l[e]=o(h+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],21:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],22:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],23:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(21),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),c=l(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([b,n,r,a]),a}}function h(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},b={on:h,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(20),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!x++){var t=g.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+g.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+g.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-g.offset}var c=(new Date).getTime(),s=t("handle"),f=t(20),u=t("ee"),d=window,p=d.document,h="addEventListener",l="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1071.min.js"},b=m&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:b};t(17),p[h]?(p[h]("DOMContentLoaded",i,!1),d[h]("load",r,!1)):(p[l]("onreadystatechange",o),d[l]("onload",r)),s("mark",["firstbyte",c],null,"api");var x=0,E=t(22)},{}]},{},["loader",2,15,5,3,4]);</script>
+<!-- SSL upgrade. -->
+<!-- begin upgrade_insecure_requests block --><!-- end upgrade_insecure_requests block -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+        
+    
+    
+<!-- begin meta block --><meta charset="UTF-8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	
+	
+	
+<!-- Show viewport when in mobile -->
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	
+	<meta name="apple-mobile-web-app-title"
+			content="walr-fm" />
+	<!-- end meta block --><!-- begin title_full_tag block --><title>Shani Davis rips coin flip to determine US flag bearer at Olympics  | Kiss 104.1</title>
+<!-- end title_full_tag block --><!-- begin meta_description block --><meta name="description" content="Four-time Olympian Erin Hamlin carried the flag for the United States at the Parade of Nations durin..." />
+	<!-- end meta_description block --><!-- begin meta_keywords block --><meta name="keywords" content="cox_shared, cox_stub , cox_irresistible, bd_stub, Olympics, ncd_video, video_added, olympics_video, olympics2018_video, Shani Davis, Erin Hamlin, 2018 Pyeongchang Games, 2018 WInter Olympics, Pyeongchang Winter Games, medalists, flag-bearer, U..S. flag" />
+		<meta name="news_keywords" content="cox_shared, cox_stub , cox_irresistible, bd_stub, Olympics, ncd_video, video_added, olympics_video, olympics2018_video, Shani Davis, Erin Hamlin, 2018 Pyeongchang Games, 2018 WInter Olympics, Pyeongchang Winter Games, medalists, flag-bearer, U..S. flag" />
+	<!-- end meta_keywords block --><!-- begin favicon block --><link rel="shortcut icon" href="//www.kiss104fm.com/rw/Pub/Web/Kiss104FM/Special%20Contents/Themes/KISS1041_Favicon.ico" />
+	
+	<link rel="apple-touch-icon"
+		href="//www.kiss104fm.com/rw/Pub/p8/Kiss104FM/2017/11/27/Images/New_Kiss_AppleTouchIcon_144x144.png" />
+<!-- end favicon block --><!-- begin image_src block --><link rel="image_src" href="//www.kiss104fm.com/rw/Pub/p8/Kiss104FM/2017/11/27/Images/New_Kiss_Desktop_Logo_193x94.png" />
+<!-- end image_src block --><!-- begin canonical block --><meta property="vr:canonical" content="http://www.kiss104fm.com/sports/shani-davis-rips-coin-flip-determine-flag-bearer-olympics/9DqoEvOzrTqNrmUQi2ik4H/" />
+	<link rel="canonical" href="http://www.kiss104fm.com/sports/shani-davis-rips-coin-flip-determine-flag-bearer-olympics/9DqoEvOzrTqNrmUQi2ik4H/" />
+<!-- end canonical block --><!-- begin og_tags block --><meta property="og:title" content="Shani Davis rips coin flip to determine US flag bearer at Olympics " />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://www.kiss104fm.com/sports/shani-davis-rips-coin-flip-determine-flag-bearer-olympics/9DqoEvOzrTqNrmUQi2ik4H/" />
+	<meta name="og:description" content="Four-time Olympian Erin Hamlin carried the flag for the United States at the Parade of Nations durin..." />
+
+	<meta property="og:image" content="http://www.kiss104fm.com/rf/image_lowres/Pub/p9/CmgSharedContent/2018/02/09/Videos/4316580.vpx" />
+			<meta property="og:image:width" content="1280" />
+				<meta property="og:image:height" content="720" />
+			<!-- end og_tags block --><!-- begin meta_twitter block --><meta name="twitter:card" content="summary" />
+	<meta name="twitter:url" content="http://www.kiss104fm.com/sports/shani-davis-rips-coin-flip-determine-flag-bearer-olympics/9DqoEvOzrTqNrmUQi2ik4H/" />
+<!-- end meta_twitter block --><!-- begin cmg_revpath block --><meta name="cmg_revpath" content="/" />
+<!-- end cmg_revpath block --><meta property="fb:pages" content="312207619163" />
+<meta name="web_type" content="story" />
+<!-- !!!!!! END GET SITE META !!!!!!!! -->
+<script
+	src="//www.kiss104fm.com/r/PortalConfig/common/assets/js/pubsubcutioner.min.js"></script>
+<script>localStorage.setItem("sdsat_debug", true);</script>
+
+<script src='//assets.adobedtm.com/20d5deb47c9e7fe47a9f969db01578a739d7179d/satelliteLib-d60f9d10de420c68ca2387b68df3c9f20e1c6022.js'></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- begin metrics_complete_override block -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- METRIC TAG -->
+
+
+
+
+
+
+
+
+
+
+<!-- Primary Category -->
+
+
+
+
+<!-- Setting originating site Start-->
+
+
+
+
+
+	
+	
+		
+	
+
+
+
+
+
+ 
+
+
+
+	
+
+<!-- Setting originating site End-->
+
+<!-- Setting Site Domain and Site ID Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Setting Site Domain and Site ID End-->
+
+<!-- Setting Provide Name -->
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+		
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+	
+
+
+<!-- Setting Radio NT flag-->
+
+
+
+<!-- Set contentType for UrlObject/Traffic to section front -->
+ 
+ 
+<!--Standalone -->
+
+
+
+
+<!-- Setting video proxy and video proxy play list vendor names -->
+
+
+<!-- Setting providername for NCD stories -->
+
+		
+
+
+ 
+<script>
+var DDO = DDO || {};
+
+/*<!-- begin metrics_dtm_library_override block -->
+	DDO.DTMLibraryURL = '//assets.adobedtm.com/20d5deb47c9e7fe47a9f969db01578a739d7179d/satelliteLib-d60f9d10de420c68ca2387b68df3c9f20e1c6022.js'; 
+<!-- end metrics_dtm_library_override block -->*/
+
+
+DDO.hasLocalStorage = function(){
+	return typeof(localStorage) != "undefined" && localStorage.setItem("test","test") &&
+		localStorage.getItem("test") && localStorage.removeItem("test");
+}
+</script>
+
+
+    
+    
+    
+<!-- Include assets-version.jpt dated as 12.13.2017.0-->
+	<script type="text/javascript" src="/r/PortalConfig/common/assets/js/metrics/dtm-ddo-utilities.js"></script>
+	 
+
+
+
+
+<script>
+DDO.init = function(pubsub, dependentEvents) {
+	// 	SITE DATA
+	
+	DDO.siteData = {
+		siteID: 'walr-fm',
+	    siteDomain: 'www.kiss104fm.com',
+	    siteVersion: 'non-mobile site',
+	    siteFormat: 'urban',
+	    siteMetro: 'ga: atlanta',
+	    siteMedium: 'radio',
+	    siteType: 'music',
+	    siteCMS: 'methode'
+	};
+    // PAGE DATA
+	var isDwp = false;
+	console.log("isDwp: ", isDwp);
+	var isHome = isDwp && false;
+	console.log("page Title:" + 'Shani Davis rips coin flip to determine US flag bearer at Olympics ');
+	var trimPageNameUrl = removeExtracharFromUrl('/sports/shani-davis-rips-coin-flip-determine-flag-bearer-olympics/9DqoEvOzrTqNrmUQi2ik4H/');
+	
+	DDO.pageData = {
+		pageFlow : "",
+		pageNumber : '1',
+		pageType : 'standalone page',
+		pageIsDwp: isDwp // Necessary for bookmarklet purposes.
+	};
+	if(isDwp) {
+	    DDO.pageData.pageContentType = (isHome) ? 'homepage' : 'section front';
+		DDO.pageData.pageMainSection = (isHome) ? '/'+'homepage' : '/sports/shani-davis-rips-coin-flip-determine-flag-bearer-olympics/9DqoEvOzrTqNrmUQi2ik4H/';
+		DDO.pageData.pageName = (isHome) ? '/' + 'homepage' + '/' : '/sports/shani-davis-rips-coin-flip-determine-flag-bearer-olympics/9DqoEvOzrTqNrmUQi2ik4H/';
+	} else {
+	    DDO.pageData.pageContentType = 'article';
+		DDO.pageData.pageMainSection ='/';
+		DDO.pageData.pageName = trimPageNameUrl;
+	}
+	
+	DDO.pageData.pageTitle = 'Shani Davis rips coin flip to determine US flag bearer at Olympics ';
+	DDO.pageData.pageSiteSection = (isHome) ? 'home' : 'sports';
+	 
+	if (DDO.pageData.pageContentType == '') {
+		var pageName = DDO.pageData.pageName;
+		var pageNameSplit = pageName.split('/');
+		DDO.pageData.pageContentType = pageNameSplit[1];
+	} 
+	
+	DDO.pageData.pageCategory = '';
+	if (DDO.pageData.pageCategory == 'Error') {
+		DDO.pageData.pageContentType = "Page not found";
+	}
+	DDO.pageData.pageSubCategory = '';
+	
+	// CONTENT DATA (contentViewType is set in access meter metrics)
+	DDO.contentData = DDO.contentData || {};
+	var contentTopics ='';
+	
+		contentTopics += false ? 'cox_shared' : 'cox_shared' + ',';
+	
+		contentTopics += false ? 'cox_stub ' : 'cox_stub ' + ',';
+	
+		contentTopics += false ? 'cox_irresistible' : 'cox_irresistible' + ',';
+	
+		contentTopics += false ? 'bd_stub' : 'bd_stub' + ',';
+	
+		contentTopics += false ? 'Olympics' : 'Olympics' + ',';
+	
+		contentTopics += false ? 'ncd_video' : 'ncd_video' + ',';
+	
+		contentTopics += false ? 'video_added' : 'video_added' + ',';
+	
+		contentTopics += false ? 'olympics_video' : 'olympics_video' + ',';
+	
+		contentTopics += true ? 'olympics2018_video' : 'olympics2018_video' + ',';
+	
+	DDO.contentData.contentTopics = contentTopics;
+	var contentByline = '';
+	
+		contentByline += true ? 'Bob D’Angelo, Cox Media Group National Content Desk' : 'Bob D’Angelo, Cox Media Group National Content Desk' + ',';
+	
+	DDO.contentData.contentByline = contentByline + " " + '';
+	
+	DDO.contentData.contentOriginatingSite =  'cmgsharedcontent';
+	DDO.contentData.contentID = '03fcd7fc-0d93-11e8-85e4-c2e0eef003bf';
+	DDO.contentData.contentVendor = 'ncd';
+	DDO.contentData.contentViewType = DDO.contentData.contentViewType || '';
+	DDO.contentData.contentPublishDate = '20180209132000';
+	DDO.contentData.blogName = '';
+	DDO.contentData.galleryName = '';
+	var pageSubContentType = '';
+	if(pageSubContentType == 'Post') {
+		DDO.contentData.blogName = 'Shani Davis rips coin flip to determine US flag bearer at Olympics ';
+	}else if(DDO.pageData.pageContentType == 'gallery') {
+		DDO.contentData.galleryName = 'Shani Davis rips coin flip to determine US flag bearer at Olympics ';
+	}
+	
+	//We need to set this one only for imported stories.
+	DDO.contentData.contentOriginatingCMS='Methode';
+	DDO.contentData.contentOriginatingID='03fcd7fc-0d93-11e8-85e4-c2e0eef003bf';
+	DDO.contentData.melvilID='';
+	
+	//SEARCH DATA PAGE CONTENT
+	
+		
+   
+  
+   DDO.pageData.pageNumber = location.search.split('page=')[1] ? location.search.split('page=')[1] : location.search.split('offset=')[1] ? location.search.split('offset=')[1] : '1';
+   
+<!-- begin metrics_elements_override block -->
+
+
+<!-- end metrics_elements_override block -->	
+	
+	// The following code defers loading the DTM library until after certain events have been fired,
+	// namely janrain, mg2, and access meter.
+	// Note: we need to add access meter to list of dependent events etc!
+	DDO.dependentEvents = dependentEvents;// e.g. ['authn', 'authz'];
+	  setTimeout(function(){
+		DDO.dependentEventCheck("TIMED OUT");
+	}, 10000); 
+	if(dependentEvents.length == 0){
+		DDO.utilities.triggerDTMPageView();//DDO.utilities.loadDTMLibrary();
+	}
+	
+	pubsub.publish("DDO-initialized");
+	console.log('DDO: ', DDO);
+
+}
+
+//Function to remove last alphanumeric chars from DDO.pageData.pageName url
+function removeExtracharFromUrl(urlPath){
+    var urlArr = urlPath.split('/');
+    if (urlArr.length > 3) {
+    	var urlArr_new = [];
+		for (var i=0; i<urlArr.length-2;i++) {
+			urlArr_new.push(urlArr[i]);
+		}
+		return urlArr_new.join('/') + '/';
+    } 
+    else {
+    	return urlPath;	
+    }
+}
+</script>
+
+<!-- end metrics_complete_override block -->
+
+
+
+
+
+
+
+
+
+<script>
+DDO.authn = {
+	init: function(pubsub, $){
+		var hasLocalStorage = DDO.hasLocalStorage();
+		DDO.userData = DDO.userData || {};
+		if(hasLocalStorage){
+			DDO.userData.userStatus = localStorage.getItem("metricsUserStatus")||"";
+			DDO.userData.userActive = localStorage.getItem("metricsUserActive")||"";
+			DDO.userData.userType = localStorage.getItem("metricsUserType")||"";
+			if(localStorage.getItem("janrainCaptureReturnExperienceData")){
+				DDO.userData.userProfileID = JSON.parse(localStorage.getItem("janrainCaptureReturnExperienceData"))["uuid"] ||"";
+			}
+		}
+		pubsub.subscribe("authn-login", function(event, data){
+			DDO.userData.userStatus = 'registered';
+			DDO.userData.userActive = 'logged-in';
+			DDO.userData.userType = 'standard';
+			if(hasLocalStorage){
+				localStorage.setItem("metricsUserStatus", DDO.userData.userStatus);
+				localStorage.setItem("metricsUserActive", DDO.userData.userActive);
+				localStorage.setItem("metricsUserType", DDO.userData.userType);
+			}
+			DDO.userData.userProfileID = data.uuid;
+			DDO.dependentEventCheck('authn');
+		});
+		pubsub.subscribe("authn-anonymous", function(event, data){
+			DDO.userData.userStatus = 'not registered';
+			DDO.userData.userActive = 'not logged-in';
+			DDO.userData.userType = 'anonymous';
+			delete DDO.userData.userProfileID;
+			if(hasLocalStorage){
+				localStorage.setItem("metricsUserStatus", DDO.userData.userStatus);
+				localStorage.setItem("metricsUserActive", DDO.userData.userActive);
+				localStorage.setItem("metricsUserType", DDO.userData.userType);
+			}
+			DDO.dependentEventCheck('authn');
+			DDO.dependentEventCheck('authz');
+		});
+		pubsub.subscribe("authn-modal-open", function(event, data){
+			if(typeof(window.janrainClickTracker)!="undefined"){
+				if(typeof(DDO.loginEventClickNumber)!="undefined"){
+					if(window.janrainClickTracker == DDO.loginEventClickNumber){
+						return;
+					}
+				}
+				DDO.loginEventClickNumber = window.janrainClickTracker;
+			}
+			DDO.action('loginEvent_start');
+		});
+ 		pubsub.subscribe("login-complete", function(event, data){
+			DDO.action('loginEvent_complete');
+		});
+		pubsub.subscribe("authn-logout", function(event, data){
+			DDO.userData.userStatus = 'not registered';
+			DDO.userData.userActive = 'not logged-in';
+			DDO.userData.userType = 'anonymous';
+			delete DDO.userData.userProfileID;
+			if(hasLocalStorage){
+				localStorage.setItem("metricsUserStatus", DDO.userData.userStatus);
+				localStorage.setItem("metricsUserActive", DDO.userData.userActive);
+				localStorage.setItem("metricsUserType", DDO.userData.userType);
+			}
+			DDO.action('loginEvent_logout');
+		});		
+		// When user is auto-logged in.
+		pubsub.subscribe("authn-login-return", function(event, data) {
+			 DDO.action('loginEvent_return-user');
+			 DDO.dependentEventCheck("authz");
+		});
+		pubsub.subscribe("registration-success", function(event, data) {
+			DDO.action('loginEvent_new-user-register');
+			
+		});
+		pubsub.subscribe("login-error", function(event, data) {
+			DDO.action('loginEvent_error');
+		});
+	}
+};
+</script>
+
+
+
+
+
+
+<script>
+DDO.comment = {
+	init: function(pubsub, $){
+		pubsub.subscribe('comment-submit', function(event, data){
+			DDO.action('commentSubmitted');
+			// data should be like: {element:"[widget clicked]",action:"click"}
+			DDO.action('interaction-click', data);
+		});
+		
+		pubsub.subscribe('additional-comments', function(event, data){
+			DDO.action('additionalComments', data);
+		});
+	}
+};
+</script>
+
+
+
+
+
+
+<script>
+DDO.gallery = {
+	init: function(pubsub, $){
+		pubsub.subscribe("gallery-secondary", function(event, data){
+			DDO.action('gallerySecondaryPhotoView');
+		});
+		pubsub.subscribe("gallery-opened", function(event, data){
+			DDO.action('galleryOpened');
+		});
+	}
+};
+</script>
+
+
+
+
+
+
+<script>
+DDO.interaction = {
+	init: function(pubsub, $){
+		// pubsubcutioner can use regex for event names, thus all interaction type events
+		// can be listened to assuming the data is correct.
+		pubsub.subscribe("site-interaction", function(event, data){
+			// data should be like: {element:"[widget clicked]",action: "[button clicked]"}
+			DDO.action(event, data);
+		});
+	}
+};
+</script>
+
+
+
+
+
+
+<script>
+DDO.breakingNews = {
+	init: function(pubsub, $){
+		pubsub.subscribe("breaking-news-banner", function(event, data){
+			DDO.action("breakingNews", {contentType:DDO.pageData.pageContentType});
+		});
+		
+		pubsub.subscribe("breaking-news-story", function(event, data){
+			DDO.action('breakingNewsStory');
+		});
+	}
+};
+</script>
+
+
+
+
+
+
+
+<script>
+DDO.socialShare = {
+	init: function(pubsub, $){
+		pubsub.subscribe("authn-social-share", function(event, data){
+			DDO.action("socialClick", data);			
+		});
+	}
+};
+</script>
+<script>
+DDO.video = {
+	init: function(pubsub, $){
+		pubsub.subscribe("video-start", function(event, data){
+			DDO.action('videoStart', data);
+		});
+		pubsub.subscribe("video-content-play", function(event, data){
+			DDO.action('videoContentPlay', data);
+		});
+		pubsub.subscribe("video-complete", function(event, data){
+			DDO.action('videoComplete', data);
+		});
+	}
+};
+</script><script>
+	var removeExtracharFromurl = removeExtracharFromurl || removeExtracharFromUrl;
+</script>
+
+<script>
+	//window.pubsub = window.pubsubcutioner || window.PubSub;
+	DDO.init(pubsubcutioner, [ 'authn', 'comment' ]);
+
+	var items = [ 'authn', 'interaction', 'breakingNews', 'socialShare',
+			'gallery', 'comment', 'video' ];
+	for (var i = 0; i < items.length; i++) {
+		DDO[items[i]].init(pubsubcutioner);
+	}
+</script>
+
+
+<meta name="eomportal-instanceid" content="231201"/>
+<meta name="eomportal-id" content="16264"/>
+<meta name="eomportal-loid" content="2.2.1247939439"/>
+<meta name="eomportal-uuid" content="03fcd7fc-0d93-11e8-85e4-c2e0eef003bf"/>
+<meta name="eomportal-lastUpdate" content="Sat Feb 17 00:57:13 EST 2018"/>
+<link rel="alternate" media="only screen and (max-width: 640px)"
+	href="http:///" />
+
+
+<script type="text/javascript">
+	// Global domain references from current environment used by libs on Wraps 
+	var current_env_domain = 'www.kiss104fm.com';
+</script>
+
+
+
+
+<!-- begin styles block --><!-- CSS and styling -->
+<!-- CSS -->
+<link
+	href="//www.kiss104fm.com/_css_core_wired/
+	core.css,
+	layout.css,
+	utility.css,
+	modules.css,
+	font-settings.css,
+	typography.css,
+	widgets.css,
+	font-awesome.min.css,
+	janrain.css,
+	weathersprite.css,
+	methode-text-styles.css,
+	weather.css,
+	jquery.oembed.css?last_updated=2018-02-05"
+	type="text/css" rel="stylesheet" media="screen" charset="utf-8" />
+
+<link href="//www.kiss104fm.com/_css_core_wired/
+	print.css"
+	type="text/css" rel="stylesheet" media="print" charset="utf-8" />
+
+
+<!--  Link to the active Theme using Methode Theme Tool -->
+<link href="//www.kiss104fm.com/kiss104-theme/UQ4j314mSWw1Hw1R0kT9xJ/" type="text/css"
+	rel="stylesheet" media="screen" charset="utf-8" />
+
+
+<style type="text/css">
+.cmHeaderWrap, .cmNavigation, .cmSubHeaderWrap, .cmBodyWrap,
+	.cmInnerFooterWrap, .cmOuterFooterWrap {
+	min-width: 970px
+}
+
+.cmContainer9 {
+	width: 970px
+}
+</style>
+
+<link
+	href="//www.kiss104fm.com/_css_music_wired/
+	sticky.css,
+	header.css,
+	musicsiterefresh.css?last_updated=2018-02-05"
+	type="text/css" rel="stylesheet" />
+
+<style type="text/css">
+.cmRadioHeaderNowPlayingCurveRect {
+	mask: url(/#np_curve);
+}
+
+.cmRadioHeaderSticky .cmRadioHeaderNowPlayingCurveRect {
+	mask: url(/#np_curve_sticky);
+}
+
+.cmRadioHeaderListenLiveCurveRect {
+	mask: url(/#ll_curve_sticky);
+}
+</style>
+
+<!-- Music Core CSS -->
+<link
+	href="//www.kiss104fm.com/_css_music_core/
+		rangeslider.css,
+		podcast_player.css,
+		closings.css,
+		slick.css,
+		slick-theme.css"
+	type="text/css" rel="stylesheet" media="screen" /><!-- end styles block --><!-- begin extended_styles block --><!-- extended_styles -->
+<!-- end extended_styles block --><!-- begin header_javascript block --><script>
+	var flipper = new Object();
+	flipper.active_flags = {
+		"active_flags" : [ "Jump2GoUrl", "GoogleAnalytics_Enable", "CMSTC-969",
+				"CMSAP-1119-visible", "CMSSAI-858", "twitter_card",
+				"disable_auth_recovery", "mobile_image_slider",
+				"radio-v3-mobile-header", "JANUS-141", "CMSTC-1011",
+				"new_event_urls", "B-09076", "MaxMapRadar_Enable",
+				"JANUS-1244", "CMSPD-415", "CMSSAI-1343", "Chartbeat_Enable",
+				"HYBRID_LISTS", "JANUS-4777", "CMSAM-408", "ComScore_Enable",
+				"image_slider", "CMSWTA-416", "CMSTSBC-169",
+				"qualtrics_enable", "Quantcast_Enable", "VisualRevenue_Enable",
+				"CMSIMPG-409", "JANUS-4778", "CMSTSBC-165", "JANUS-4779",
+				"CMSTSBC-163", "CMSTSBC-166",
+				"SchoolClosingsKeywordSearch_Disable", "B-08627", "jquery-2",
+				"B-10108", "AppMeasurement_Enable", "radio-redesign-mobile",
+				"radio-redesign-wired", "MaxMapRadarWired_Enable",
+				"Jump2GoMakesongs", "B-11042", "livefyre-global-auth",
+				"livefyre-comments", "music-site-refresh",
+				"radio-v2-mobile-body", "B-06796",
+				"janrain_socialshare_enable", "CMSWTA-417", "CMSWTA-443" ]
+	};
+	flipper.is_active = function(key) {
+		for (var i = 0; i < flipper.active_flags.length; i++) {
+			if (flipper.active_flags[i] == key)
+				return true;
+		}
+		return false;
+	}
+</script>
+
+<!-- Music Core JS -->
+<script type="text/javascript"
+	src="//www.kiss104fm.com/_js_music_core/
+	pii-scrubber.js,
+	jquery-1.7.1.js,
+	modernizr.js,
+	es5-shim.js,
+	json2.js,
+	lumberjack.min.js,
+	underscore.js,
+	v8-promise.js,
+	jquery-cmg-plugins.min.js,
+	jquery.cookie.js,
+	jquery-beacons.min.js,
+	jquery.truncate.js,
+	cmg.js,
+	cmg-utility.js,
+	ad-util.min.js,
+	slick.js,
+	anvato-playlist.js,
+	anvato-strategy.js,
+	anvato-metrics.js,
+	build-ad-config.js,
+	cmg-mobile-util.js,
+	jquery.oembed.js,
+	ttd2.js,
+	ttd-widget2.js?last_updated=2018-02-05"></script>
+
+<script type="text/javascript"
+	src="//www.kiss104fm.com/_js_radio_common/
+	image_slider.js,
+	cmtooltip.js
+	?last_updated=2018-02-05"></script>
+	
+<script>
+	cmg.mediaurl = '/assets/';
+	cmg.site_meta = {
+		domain : 'www.kiss104fm.com',
+		media_type : 'radio',
+		site_name : 'walr-fm',
+		premium_status : ''
+	};
+	var site_domain = 'www.kiss104fm.com';
+</script>
+
+<script type="text/javascript"
+	src="//www.kiss104fm.com/_js_radio_common/
+		jquery.cmfullwidth.js,
+		cmnav.js,
+		jquery.ui.core.min.js,
+		jquery.ui.widget.min.js,
+		jquery.ui.mouse.min.js,
+		jquery.ui.position.min.js,
+		jquery.ui.datepicker.min.js,
+		writeCapture.js,
+		jquery.writeCapture.js,
+		mustache.js?last_updated=2018-02-05"></script>
+
+<script>
+	cmg.query(document).ready(function() {
+		cmg.query(document).on('click', 'a.cmNeedsNext', function(e) {
+			e.preventDefault();
+			var new_url = url_with_next(cmg.query(this).attr('href'));
+			window.location = new_url;
+		});
+		cmg.query(document).on('submit', 'form.cmNeedsNext', function(e) {
+			add_next_params(cmg.query(this));
+		});
+	});
+
+	function add_next_params(el) {
+		var attr = el.attr('action') ? 'action' : 'href';
+		var existing_url = el.attr(attr);
+		el.attr(attr, url_with_next(existing_url));
+	}
+	function url_with_next(url) {
+		url = url.replace(/\\?next=?&/, '?').replace(/&next=?&/, '&').replace(
+				/[?&]next=?$/, '').replace(/[?&]next=?#/, '#');
+		var next_param = get_param('next', url);
+		if (next_param) // Johnny 5
+			return url;
+		var connector = (url.match(/\\?/)) ? "&" : "?";
+		var next_val = window.location.pathname + window.location.search
+				+ window.location.hash;
+		return url + connector + 'next=' + encodeURIComponent(next_val);
+	}
+	function get_param(name, url) {
+		var m = RegExp('[?&]' + name + '=([^&^#]*)').exec(url);
+		return m && decodeURIComponent(m[1].replace(/\\+/g, ' '));
+	}
+</script>
+<script>
+	cmg.query(function() {
+		var NUM_RETRIES = 3;
+		var URL_ATTR = 'data-href';
+		var REPLACE_SELECTOR = 'span.cmAjaxInclude';
+		var urls = [];
+		cmg.query(REPLACE_SELECTOR).each(function() {
+			url = cmg.query(this).attr(URL_ATTR);
+			if (url) {
+				urls.push(url);
+			}
+		});
+		if (urls.length > 0) {
+			var retriesLeft = NUM_RETRIES;
+			var settings = {
+				type : "GET",
+				url : cmg.ajax_include_url,
+				cache : false,
+				data : {
+					urls : JSON.stringify(urls)
+				},
+				dataType : 'json',
+				success : function(data, textStatus, xhr) {
+					errorUrls = [];
+					cmg.query.each(data, function(url, response) {
+						if (response.status === 200) {
+							var span = cmg.query(REPLACE_SELECTOR + '['
+									+ URL_ATTR + '="' + url + '"]');
+							span.replaceWith(response.content);
+						} else {
+							errorUrls.push(url);
+						}
+					});
+					if (errorUrls.length > 0) {
+						settings.data.urls = JSON.stringify(errorUrls);
+						settings.error();
+					}
+					if (errorUrls.length === 0 || retriesLeft === 0) {
+						cmg.query(document).trigger('ajax_includes');
+					}
+				},
+				error : function(xhr, textStatus, errorThrown) {
+					if (retriesLeft > 0) {
+						retriesLeft -= 1;
+						cmg.query.ajax(settings);
+					}
+				}
+			};
+			cmg.query.ajax(settings);
+		}
+	});
+</script>
+<script>
+	cmg.query(function () {
+       cmg.query('.oembed').each(function(){
+    	   cmg.query(this).oembed(); 
+        }) 
+	});
+</script>
+<script
+	src="//www.kiss104fm.com/assets/js/wired/common/ndn_script_injector.js"></script>
+
+
+<script type="text/javascript"
+	src="//www.kiss104fm.com/_js_radio_common/
+	rotator.js,
+	jquery.ui.dialog.min.js,
+	jquery.cmlightbox.js,
+	cmwidgets.js,
+	canvases.js,
+	browserfix.js,
+	cmg.video.js?last_updated=2018-02-05"></script>
+
+<script type="text/javascript"
+	src="//www.kiss104fm.com/_js_music_wired/
+	sticky.js,
+	menu.js,
+	main.js,
+	header-onair.js,
+	header-lsp.js?last_updated=2018-02-05"></script>
+
+
+<script>
+	var anvp = window.anvp || (window.anvp = {});
+	anvp.common = {};
+	anvp.common.config = {
+		accessKey: "Rawk5AajeB9YrIRGYpsOxCkGx0x40dnD",
+		token: " ",
+		autoplay: false,
+		plugins: {
+			dfp: {
+				clientSide: {
+					adTagUrl: "https://pubads.g.doubleclick.net/gampad/ads?sz=400x300&iu=/12523293/Atlanta_RA/walr_web_default&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]"
+				},
+			comscore: {
+					clientId: 6035944
+				}, 
+			}
+		},
+		profile: "cox"
+	};
+
+	// Configure Anvato Chartbeat strategy.
+	(function($) {
+		$(function() {
+			var _cbv_strategies = window._cbv_strategies || (window._cbv_strategies = []);
+			_cbv_strategies.push(AnvatoStrategy);
+		});
+	})(jQuery);
+</script><script src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script src="//www.kiss104fm.com/r/PortalConfig/common/assets/js/harmony-7.6.0.min.js"></script>
+
+<script src="//c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+<script style="display:none">
+try{amznads.getAds('3185');}catch(err){}</script>
+<script style="display:none">
+try{amznads.setTargetingForGPTAsync('amznslots');}catch(err){}</script>
+<script style="display:none">
+window.cmg=window.cmg||{};cmg.adconf={slotconf:[],targeting:{}};</script>
+<script style="display:none">
+cmg.adconf.adunit='12523293/atlanta_ra/walr_web_default/sports';</script>
+<script style="display:none">
+(function(){cmg.adconf.targeting.sky=''||'ERROR';cmg.adconf.targeting.weather='';cmg.adconf.targeting.temp_range='ERROR';}());</script>
+<script style="display:none">
+cmg.adconf.targeting.obj_type=location.pathname.indexOf('queryResult')>0?'List':'story';cmg.adconf.targeting.obj_id='2.2.1247939439';cmg.adconf.targeting.uuid='03fcd7fc-0d93-11e8-85e4-c2e0eef003bf';</script>
+<script style="display:none">
+(function(){function getQueryParam(name){var q=location.search.match(new RegExp('[?&]'+name+'=([^&#]*)'));return q&&q[1];}
+var env=location.host.split('.')[0];if(env.indexOf('-m')!==-1)
+env=env.replace('-m','');cmg.adconf.targeting.environ=location.search.indexOf('testads')>0?'debug':env;cmg.adconf.targeting.mediatype='';cmg.adconf.targeting.qa=getQueryParam('qa')||'';}());</script>
+<script style="display:none">
+cmg.adconf.breakpoints=[];cmg.adconf.targeting.topics=['cox_shared','cox_stub ','cox_irresistible','bd_stub','Olympics','ncd_video','video_added','olympics_video','olympics2018_video',];cmg.adconf.targeting.categories=['sports',];googletag.cmd.push(function(){var pubads=googletag.pubads();pubads.collapseEmptyDivs(true);pubads.enableSingleRequest();pubads.setCentering(true);});</script>
+<!-- delayed scripts -->
+<script type="text/javascript" src="//cdn-social.janrain.com/social/janrain-social.min.js"></script>
+<script type="text/javascript">
+
+
+// Initialise Janrain social-share
+
+	
+	
+		function janrainSocialInit(){
+		
+			janrain.settings.social = {
+			    providers: [
+			        "facebook",
+			        "twitter",
+			        "native-googleplus",
+			        "email-googleplus",
+			        "email-mailto"
+			    ],
+			    orientation: "horizontal",
+			    formFactor: "bar",
+			    shareCountMode: "none"
+			};
+		}
+
+if(!window.janrainSocialDeferInit){
+	janrainSocialInit();
+}
+
+// Idempotency, and we want to make sure this can be included in any order.
+// This is pure javascript, no dependencies (e.g. jQuery) necessary.
+// Get or initialize namespaces.
+window.janrain = window.janrain || {};
+janrain.settings = janrain.settings || {};
+janrain.settings.capture = janrain.settings.capture || {}; 
+janrain.settings.capture.stylesheets = janrain.settings.capture.stylesheets || [];
+janrain.settings.capture.stylesheets.push(
+	"//www.kiss104fm.com/r//PortalConfig/common/assets/css/janrain_social_share/socialshare.css"
+);
+
+var _janrainSocialOnLoadLoaded = false;
+function janrainSocialOnLoad() {
+	
+	if(!_janrainSocialOnLoadLoaded){
+		_janrainSocialOnLoadLoaded = true;
+		var janrainSocialShareDiv = document.getElementsByClassName('janrainSocialPlaceholder');
+		var janrainSocialShareUrl = "";
+		if (janrainSocialShareDiv.length > 0) 
+			janrainSocialShareUrl = janrainSocialShareDiv[0].getAttribute('data-janrain-url');
+	   
+	    // Janrain provided social-share hooks/event-handlers.	    
+		janrain.social.on({
+		
+			// Run script for UX improvements when tweet sharing.
+			// cmg.monitorTweetShares() is defined in: /janrain_social_share/js/socialshare.js
+			provider_select: function(data) {
+				if (data.provider == 'twitter') {
+					janrain.cmg.monitorTweetShares();	
+				}
+				console.log("Clicked on provider " + data.provider);
+				
+	 			var payload = {
+	 				shareEvent: "provider_select",
+	 				id: janrainSocialShareUrl,
+	 				provider: data.provider,
+	 				mode: data.mode,
+	 			};
+	 			pubsub.publish('authn-social-share', payload);
+				console.log('publish("authn-social-share")');
+			},
+			
+			// Fire social-share metric when share begins.
+			share_start:  function(data) {  
+				console.log("Janrain SocialShare share_start event fired - " + data.provider);
+	 			var pubsub = window.pubsub || window.pubsubcutioner;
+	 			var payload = {
+	 				shareEvent: "share_start",
+	 				id: janrainSocialShareUrl,
+	 				provider: data.provider,
+	 				mode: data.mode,
+	 			};
+	 			pubsub.publish('authn-social-share', payload);
+	 			console.log('publish("authn-social-share") 2');
+	  		},
+	  		
+	  		// Fire social-share metric when auth is successful.
+	  		auth_done:  function(data) {  
+	  		    console.log("Janrain SocialShare auth_done event fired - " + data.provider);
+	 			var pubsub = window.pubsub || window.pubsubcutioner;
+	 			var payload = {
+	 				shareEvent: "auth_done",
+	 				id: janrainSocialShareUrl,
+	 				provider: data.provider,
+	 				mode: data.mode,
+	 			};
+	 			pubsub.publish('authn-social-share', payload);
+	 			console.log('publish("authn-social-share") 2');
+	  		},
+	  		
+	  		//Fire social-share metric when auth fails.
+	  		auth_fail:  function(data) { 
+	  			console.log("Janrain SocialShare auth_fail event fired - " + data.provider); 
+	 			var pubsub = window.pubsub || window.pubsubcutioner;
+	 			var payload = {
+	 				shareEvent: "auth_fail",
+	 				id: janrainSocialShareUrl,
+	 				provider: data.provider,
+	 				mode: data.mode,
+	 			};
+	 			pubsub.publish('authn-social-share', payload);
+	 			console.log('publish("authn-social-share") 2');
+	  		},
+			
+			// Fire social-share metric when share is successful.
+	 		share_done:  function(data) {  
+	 			console.log("Janrain SocialShare share_done event fired - " + data.provider);
+	 			var pubsub = window.pubsub || window.pubsubcutioner;
+	 			var payload = {
+	 				shareEvent: "share_done",
+	 				id: janrainSocialShareUrl,
+	 				provider: data.provider,
+	 				mode: data.mode,
+	 			};
+	 			pubsub.publish('authn-social-share', payload);
+	 			console.log('publish("authn-social-share") 2');
+	  		},
+	  		
+	  		// Fire social-share metric when share fails.
+	  		share_fail:  function(data) { 
+	  			console.log("Janrain SocialShare share_fail event fired - " + data.provider);
+	 			var pubsub = window.pubsub || window.pubsubcutioner;
+	 			var payload = {
+	 				shareEvent: "share_fail",
+	 				id: janrainSocialShareUrl,
+	 				provider: data.provider,
+	 				mode: data.mode,
+	 			};
+	 			pubsub.publish('authn-social-share', payload);
+	 			console.log('publish("authn-social-share") 2');
+	  		}
+		});	
+		pubsub.publish('authn-social-load');
+	} 
+}
+
+</script>
+<!-- END delayed scripts -->
+<!-- end header_javascript block --></head>
+
+
+<!-- begin body_tag_begin block --><body id="cmBaseBody" class="cmBody theme-background-color theme-background-image" data-uuid="03fcd7fc-0d93-11e8-85e4-c2e0eef003bf" data-webtype="story">
+	<!-- header_include_override  -->
+    <!-- end body_tag_begin block --><!-- begin janrain_common block --><!-- Import Radio Janrain Configuration: DO NOT TOUCH THIS IMPORT !!!! -->
+			<script>
+	window.janrain = window.janrain || {};
+	window.janrain.settings = window.janrain.settings || {};
+	window.janrain.settings.capture = window.janrain.settings.capture || {};
+	janrain.settings.appUrl = 'https://login.cmgdigital.com';
+	janrain.settings.capture.appId = '6z4jnndkpe6dmfx7vdg4c7hkmz';
+	janrain.settings.capture.captureServer = 'https://cmg.janraincapture.com';
+	janrain.settings.capture.redirectUri = 'http://www.kiss104fm.com';
+	janrain.settings.capture.clientId = 'chhhnudnfcb6aqbjvhkx9y5wkpvgytqc';
+	janrain.settings.capture.federateServer = 'https://sso.cmgdigital.com';
+	janrain.settings.capture.federateXdReceiver = 'http://www.kiss104fm.com/auth/federate_xd';
+
+	janrain.settings.format = "one row";
+	janrain.settings.width = "147";
+
+	janrain.settings.capture.flowName = 'signIn';
+
+	// Backplane needed for LiveFyre commenting
+	janrain.settings.capture.backplane = true;
+	janrain.settings.capture.backplaneBusName = 'coxmediagroup.com';
+	
+	janrain.settings.social.shareCountMode = "combined";
+</script>
+
+
+<!-- Common Janrain Include -->
+
+
+
+
+
+
+
+
+
+	<script>
+var pubsub = window.pubsubcutioner || window.amplify || window.pubsub;
+if(typeof(pubsub)=="undefined"){
+	pubsub={
+			subscribe:function(){
+				if(window.pubsubcutioner || window.amplify){
+					var pubsubProxy = window.pubsubcutioner || window.amplify;
+					pubsubProxy.subscribe.apply(pubsubProxy, arguments);
+					return;
+				}
+				if(typeof(DDO.deferredSubscribe) == "undefined"){
+					DDO.deferredSubscribe = [];
+				}
+				DDO.deferredSubscribe.push(arguments);
+			},
+			publish:function(){
+				if(window.pubsubcutioner || window.amplify){
+					var pubsubProxy = window.pubsubcutioner || window.amplify;
+					pubsubProxy.publish.apply(pubsubProxy, arguments);
+					return;
+				}
+				if(typeof(DDO.deferredPublish) == "undefined"){
+					DDO.deferredPublish = [];
+				}
+				DDO.deferredPublish.push(arguments);
+			}
+	};
+	
+}
+</script>
+	
+
+
+
+    
+    
+    
+<!-- Include assets-version.jpt dated as 12.13.2017.0-->
+	<script type="text/javascript" src="/r/PortalConfig/common/assets/js/janrain/janrain-11534.js"></script>
+	 
+
+
+
+
+
+
+
+
+<!-- END Common Janrain Include -->
+
+
+<!-- Radio Janrain Modals -->
+<div style="display: none;" id="signIn">
+	<div class="capture_header">
+		<h1>Sign In / Register</h1>
+	</div>
+	<div class="capture_signin">
+		<h2>Sign in with your existing account</h2>
+		{* loginWidget *} <br />
+	</div>
+	<div class="capture_backgroundColor">
+		<div class="capture_signin">
+			<h2>Sign in with your email</h2>
+			{* #userInformationForm *}
+			<div>{* traditionalSignIn_emailAddress *}</div>
+			<div>{* traditionalSignIn_password *}</div>
+			<div class="capture_form_item">
+				{* traditionalSignIn_signInButton *} <a href="#"
+					data-capturescreen="forgotPassword" id="forgotPasswordLink">Forgot
+					your password?</a>
+			</div>
+			{* /userInformationForm *}
+		</div>
+	</div>
+	<div class="capture_newUser capture_signin">
+		<h2>New User?</h2>
+		<a href="#" class="capture_btn capture_primary"
+			data-capturescreen="traditionalRegistration">Create a New Account</a>
+	</div>
+</div>
+<div style="display: none;" id="returnSocial">
+	<div class="capture_header">
+		<h1>Sign In / Register</h1>
+	</div>
+	<div class="capture_signin">
+		<h2>Welcome Back {* welcomeName *}</h2>
+		{* loginWidget *}
+		<div class="capture_centerText switchLink">
+			<a href="#" data-cancelcapturereturnexperience="true">Use another
+				account</a>
+		</div>
+	</div>
+</div>
+<div style="display: none;" id="returnTraditional">
+	<div class="capture_header">
+		<h1>Sign In / Register</h1>
+	</div>
+	<div class="capture_backgroundColor">
+		<div class="capture_signin">
+			<h2>Welcome back. Please sign in</h2>
+			{* #userInformationForm *}
+			<div>{* traditionalSignIn_emailAddress *}</div>
+			<div>{* traditionalSignIn_password *}</div>
+			<div class="capture_form_item">
+				<div>{* traditionalSignIn_signInButton *}</div>
+				<a href="#" data-capturescreen="forgotPassword"
+					id="forgotPasswordLink">Forgot your password?</a>
+			</div>
+			<div class="capture_centerText switchLink">
+				<a href="#" data-cancelcapturereturnexperience="true">Use
+					another account</a>
+			</div>
+			{* /userInformationForm *}
+		</div>
+	</div>
+</div>
+<div style="display: none;" id="socialRegistration"
+	class="capture_lrg_footer">
+	<div class="capture_header">
+		<h1>You're Almost Done!</h1>
+	</div>
+	<div class="capture_signup">
+		<h2>Select a display name and password</h2>
+		{* #socialRegistrationForm *}
+		<div>{* socialRegistration_displayName *}</div>
+		<div>{* socialRegistration_emailAddress *}</div>
+		<div>{* traditionalRegistration_password *}</div>
+		<div>{* traditionalRegistration_passwordConfirm *}</div>
+		<h2>Tell us about yourself</h2>
+		<div>{* registration_firstName *}</div>
+		<div>{* registration_lastName *}</div>
+		<div>{* registration_postalZip *}</div>
+		<div>{* registration_birthday *}</div>
+		<div>{* registration_gender *}</div>
+		<div class="capture_form_item">
+			<label>*Indicates Required Field</label>
+		</div>
+		{* agreeToTerms *}
+		<div class="capture_footer">
+			<div class="capture_left">{* backButton *}</div>
+			<div class="capture_right">
+				<div>{* socialRegistration_signInButton *}</div>
+			</div>
+		</div>
+		{* /socialRegistrationForm *}
+	</div>
+</div>
+
+<div style="display: none;" id="traditionalRegistration">
+	<div class="capture_header">
+		<h1>Create a New Account</h1>
+	</div>
+	<div class="capture_signup">
+		<h2>Select a display name and password</h2>
+		<p>
+			Already have an account? <a href="#" data-capturescreen="signIn">Sign
+				In</a>
+		</p>
+		{* #registrationForm *}
+		<div>{* traditionalRegistration_displayName *}</div>
+		<div>{* traditionalRegistration_emailAddress *}</div>
+		<div>{* traditionalRegistration_password *}</div>
+		<div>{* traditionalRegistration_passwordConfirm *}</div>
+		<h2>Tell us about yourself</h2>
+		<div>{* registration_firstName *}</div>
+		<div>{* registration_lastName *}</div>
+		<div>{* registration_postalZip *}</div>
+		<div>{* registration_birthday *}</div>
+		<div>{* registration_gender *}</div>
+		<div class="capture_form_item">
+			<label>*Indicates Required Field</label>
+		</div>
+		{* agreeToTerms *}
+		<div class="capture_footer">
+			<div class="capture_left">{* createAccountButton *}</div>
+		</div>
+		{* /registrationForm *}
+	</div>
+</div>
+<div style="display: none;" id="traditionalRegistrationBlank">
+	<div class="capture_header">
+		<h1>Create a New Account</h1>
+	</div>
+	<div class="capture_signup">
+		<p>
+			Already have an account? <a href="#" data-capturescreen="signIn">Sign
+				In</a>
+		</p>
+		{* #registrationFormBlank *}
+		<div>{* registration_firstName *}</div>
+		<div>{* registration_lastName *}</div>
+		<div>{* traditionalRegistration_displayName *}</div>
+		<div>{* traditionalRegistration_emailAddressBlank *}</div>
+		<div>{* registration_birthday *}</div>
+		<div>{* registration_gender *}</div>
+		<div>{* registration_postalZip *}</div>
+		<div>{* traditionalRegistration_passwordBlank *}</div>
+		<div>{* traditionalRegistration_passwordConfirmBlank *}</div>
+		<div class="capture_form_item">
+			<label>*Indicates Required Field</label>
+		</div>
+		{* agreeToTerms *}
+		<div class="capture_footer">
+			<div class="capture_left">{* backButton *}</div>
+			<div class="capture_right">{* createAccountButton *}</div>
+		</div>
+		{* /registrationForm *}
+	</div>
+</div>
+
+<div style="display: none;" id="registrationSuccess">
+	<div class="capture_header">
+		<h1>Thank you for registering!</h1>
+	</div>
+	<div class="capture_success">
+		<p>We have sent you a confirmation email. Please check your email
+			and click on the link to activate your account.</p>
+		<div class="capture_footer">
+			<span onclick="janrain.capture.ui.modal.close()"
+				class="capture_btn capture_primary">Close</span>
+		</div>
+	</div>
+</div>
+
+<div style="display: none;" id="registrationSuccessConfirmed">
+	<div class="capture_header">
+		<h1>Thank you for registering!</h1>
+	</div>
+	<div class="capture_success">
+		<p>We look forward to seeing you frequently. Visit us and sign in
+			to update your profile, receive the latest news and keep up to date
+			with mobile alerts.</p>
+		<div class="capture_footer">
+			<span onclick="janrain.capture.ui.modal.close()"
+				class="capture_btn capture_primary">Close</span>
+		</div>
+	</div>
+</div>
+
+<div style="display: none;" id="forgotPassword">
+	<div class="capture_header">
+		<h1>Create a new password</h1>
+	</div>
+	<div class="retrieve_password">
+		<p>Don't worry, it happens. We'll send you a link to create a new
+			password.</p>
+		{* #forgotPasswordForm *}
+		<div>{* forgotPassword_emailAddress *}</div>
+		<div class="capture_footer">
+			<div class="capture_left">{* backButton *}</div>
+			<div class="capture_right">{* forgotPassword_sendButton *}</div>
+		</div>
+		{* /forgotPasswordForm *}
+	</div>
+</div>
+
+<div style="display: none;" id="forgotPasswordSuccess">
+	<div class="capture_header">
+		<h1>Email sent</h1>
+	</div>
+	<div class="retrieve_password">
+		<p>We have sent you an email with a link to change your password.</p>
+		<div class="capture_footer">
+			<a href="#" onclick="janrain.capture.ui.modal.close()"
+				class="capture_btn capture_primary">Close</a>
+		</div>
+	</div>
+</div>
+
+<div style="display: none;" id="forgotPasswordSuccess">
+	<div class="capture_header">
+		<h1>Create a new password</h1>
+	</div>
+	<div class="retrieve_password">
+		<p>We've sent an email with instructions to create a new password.
+			Your existing password has not been changed.</p>
+		<div class="capture_footer">
+			<a href="#" onclick="janrain.capture.ui.modal.close()"
+				class="capture_btn capture_primary">Close</a>
+		</div>
+	</div>
+</div>
+<div style="display: none;" id="mergeAccounts">{* mergeAccounts *}
+</div>
+<div style="display: none;" id="traditionalAuthenticateMerge">
+	<div class="capture_header">
+		<h1>Sign in to complete account merge</h1>
+	</div>
+	<div class="capture_signin">
+		{* #tradAuthenticateMergeForm *}
+		<div>{* traditionalSignIn_emailAddress *}</div>
+		<div>{* mergePassword *}</div>
+		<div class="capture_footer">
+			<div class="capture_left">{* backButton *}</div>
+			<div class="capture_right">{* traditionalSignIn_signInButton *}
+			</div>
+		</div>
+		{* /tradAuthenticateMergeForm *}
+	</div>
+</div>
+
+<div style="display: none;" id="resendVerification">
+	<div class="capture_header">
+		<h1>Resend Email Verification</h1>
+	</div>
+	<div class="retrieve_password">
+		<p>To sign in you must verify your email address. Fill out the
+			form below and we'll send you an email to verify.</p>
+		{* #resendVerificationForm *}
+		<div>{* traditionalSignIn_emailAddress *}</div>
+		<div class="capture_fox_buttoncol">{* newPasswordFormButton *}</div>
+		{* /resendVerificationForm *}
+	</div>
+</div>
+
+<div style="display: none;" id="resendVerificationSuccess">
+	<div class="capture_header">
+		<h1>Your Verification Email Has Been Sent</h1>
+	</div>
+	<div class="retrieve_password">
+		<p>Check your email for a link to verify your email address.</p>
+		<div class="capture_footer">
+			<a href="#" data-capturescreen="signIn"
+				class="capture_btn capture_primary">Sign in</a>
+		</div>
+	</div>
+</div>
+<!-- END Radio Janrain Modals -->
+
+<script>
+	// Event listeners for broadcasts from shared widget
+	pubsub.subscribe('authn-login', function(event, data) {
+		
+		// Testing found that 'authn-login' can be fired with data from cookies
+		// when there's no active sesssion. This followed Social Acct unlinking then
+		// sign-out, then click sign-in and the header updates behind the sign-in modal
+		if (janrain.capture.ui.hasActiveSession()) {
+			var welcome_msg = data.name ? "Hi, " + data.name : "Hello";
+			cmg.query('.cmUserAuthed > #cmHeaderUserRegistrationLink').text(
+					welcome_msg);
+	
+			cmg.query('#cmJanrainAuthLinks > .cmUserAnonymous').hide();
+			cmg.query('#cmJanrainAuthLinks > .cmUserAuthed').show();
+	
+			janrain.settings.capture.flowName = 'standard_radio';
+		}
+	});
+
+	// can be broadcast by local click listeners or shared common widget (ex: livefyre)
+	pubsub.subscribe('authn-logout', function(event, data) {
+
+		// C&P from Medley after session sticking past Social Unlinks in MC
+		var cookies = [ 'ur_name', 'ur_metrics', 'ur_views_total_count',
+				'medley_id', 'DDO_user_data', 'DDO_user_data', 'session_id',
+				'sessionid', 'welcome_info_name'];
+        for (var i = 0; i < cookies.length; i++) {
+            jQuery.cookie(cookies[i], '', {expires:-2, path:'/'});
+        }
+
+		radio_music_logout_dom_update();
+	});
+
+
+	//This is unneeded. Broadcasting happens from Janrain.
+	/*cmg.query(document).ready(function() {
+		cmg.query(".cmLogout").on("click", function(evt) {
+			evt.preventDefault();
+			pubsub.publish('authn-logout');
+		});
+	});*/
+
+	function radio_music_logout_dom_update() {
+		// For now this simply reloads the page, in the future we may want to 
+		// manipulate DOM elements instead
+		location.reload();
+	}
+</script><!-- end janrain_common block -->
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+<!-- Include assets-version.jpt dated as 12.13.2017.0-->
+	<script type="text/javascript" src="/r/PortalConfig/common/assets/js/janrain_social_share/socialshare.js"></script>
+	 
+
+
+
+
+
+<div class="cmBaseBodyOverflowFix">
+
+		<!-- begin outer_header_wrapper block --><div class="cmV2HeaderBackgroundImage"></div>
+		<div id="fb-root"></div>
+		<script type="text/javascript">
+			window.fbAsyncInit = function() {
+				cmg.query(document).ready(function() {
+					cmg.query(document).trigger("fb_loaded");
+				});
+			};
+			(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id))
+					return;
+				js = d.createElement(s);
+				js.id = id;
+				js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+
+		<!-- begin ad_rp06 block --><div id="cm-ad-RP06" class="RP06 cm-ad 0px-infinity"></div>
+
+	<script style="display:none">
+googletag.cmd.push(function(){var defaultSizes=[];defaultSizes.push([1,1]);var mapping=googletag.sizeMapping();var sizes=[];var conf={name:'RP06',id:'cm-ad-RP06',sizes:defaultSizes,group:'0px-infinity',adunit:cmg.adconf.adunit,outofpage:false,companion:false,mapping:mapping.build(),targeting:{ad_slot:'RP06'}};cmg.adconf.slotconf.push(conf);var slot=harmony.defineSlot(conf);harmony.enable.slot(slot.name);console.log("with breakpoints");});</script>
+<!-- end ad_rp06 block --><!-- begin ad_rp07 block --><div id="cm-ad-RP07" class="RP07 cm-ad 0px-infinity"></div>
+
+	<script style="display:none">
+googletag.cmd.push(function(){var defaultSizes=[];defaultSizes.push([1,1]);var mapping=googletag.sizeMapping();var sizes=[];var conf={name:'RP07',id:'cm-ad-RP07',sizes:defaultSizes,group:'0px-infinity',adunit:cmg.adconf.adunit,outofpage:false,companion:false,mapping:mapping.build(),targeting:{ad_slot:'RP07'}};cmg.adconf.slotconf.push(conf);var slot=harmony.defineSlot(conf);harmony.enable.slot(slot.name);console.log("with breakpoints");});</script>
+<!-- end ad_rp07 block --><script type="text/javascript">
+			var mobUserAgentPttn = new RegExp(
+					"iphone|ipod|android|blackberry|symbian|nokia|sonyericsson|sie-|opera\\ mini|portalmmm/|windows\ ce|windows\ phone|iemobile|up.browser|up.link|802sh|alcatel-|amoi-|attws|au-mic|audiovox|avantgo|benq|cdm-|ericsson|ericy-|gs308|hitachi-p300|htc-|i-2100|kwc-|lg-|lg/u|lge-|lge/u|lowestcd|mo0|mobilephone|mot-|motorola|n5-10|nec-|opwv|owg1|palm|panasonic|pg-c|philips|pls|pm-|pn-215|profile/midp|qci-|rl-|rpt-httpclient|sagem|samsung|sanyo|sch-a|sch-n|scp-|sec-|sendox|sgh|sharp|smartphone|spha|v60t|vi600|vk530|vm4050|vodafone|wapper|wildseed|winwap-pro"
+							.replace(/ /g, "\\s"), "i");
+			var mobBlacklistPttn = new RegExp(
+					"^/(ads|alerts|answers|audioclips|bands|categories|categories|events|documents|drinkspecials|events|features|forums|instruments|maps|mp3|lsp|onthestreet|places|playlists|podcasts|polls|pr|qa|questionnaires|recipes|restaurants|restaurants|specials|search|songs|special_coverage|staff|stories|traffic|tumble)"
+							.replace(/ /g, "\\\s"), "i");
+
+			console.log('USER AGENT MOBILE'
+					+ mobUserAgentPttn.test(navigator.userAgent));
+			console.log('PATH IN BLACKLIST'
+					+ mobBlacklistPttn.test(location.pathname));
+
+			if (mobUserAgentPttn.test(navigator.userAgent)
+					&& !mobBlacklistPttn.test(location.pathname)) {
+				document.getElementById('cmSiteSwitchHead').style.display = "block";
+			}
+		</script>
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	
+				
+	
+	
+
+
+
+<div id="cmSiteSwitchHead" class="cmSiteSwitch" style="display: none;">
+			<a href="//m.kiss104fm.com/sports/shani-davis-rips-coin-flip-determine-flag-bearer-olympics/9DqoEvOzrTqNrmUQi2ik4H/" class="cmMobileSiteLink">
+						<p>
+							<span>View mobile site</span>
+						</p>
+					</a>		
+				</div>
+
+		<script type="text/javascript">
+			(function($) {
+				$(function() {
+					// Read a page's GET URL variables and return them as an associative array.
+					function getUrlVars() {
+						var vars = [], hash;
+						var hashes = window.location.href.slice(
+								window.location.href.indexOf('?') + 1).split(
+								'&');
+						for (var i = 0; i < hashes.length; i++) {
+							hash = hashes[i].split('=');
+							vars.push(hash[0]);
+							vars[hash[0]] = hash[1];
+						}
+						return vars;
+					}
+
+					var came_from_mobile = getUrlVars()['nmredir'];
+					console.log('came_from_mobile: ' + came_from_mobile)
+					if (came_from_mobile == 'true') {
+						$('#cmSiteSwitchHead').show();
+					}
+
+				});
+			})(jQuery);
+		</script>
+
+		<!-- end outer_header_wrapper block --><div class="cmMainContainer music-site-refresh">
+			<div class="cmContainer9">
+			
+				<!-- begin inner_header_wrapper block --><!-- begin cmHeaderWraps block-->
+<div class="cmHeaderWrap cmCol9">
+	<!-- begin cmHeaderWrap block-->
+	<div class="cmRadioHeader">
+		<div class="cmRadioHeaderTopBar">
+			<ul class="cmRadioHeaderNavTwoTop">
+	<li>
+			<a href="http://www.kiss104fm.com/" target="_self" title=""> Home</a>
+				</li>
+	<li>
+			<a href="http://www.kiss104fm.com/lsp/" target="_self" title="">Last						Songs Played</a>
+				</li>
+	<li>
+			<a href="http://events.kiss104fm.com/" target="_self">Event Guide</a></li>
+	<li>
+						<a href="http://www.kiss104fm.com/entertainment/personalities/kiss-104-personalities-page/8DSMXV5qo8i87fVFCfiENP/" target="_self" title="">On-Air</a>
+				<svg height="7px" width="8px">
+							<polygon class="cmRadioHeaderNavDropdownCaret" points="0,0 8,0 4,7" />
+						</svg>
+						
+						<ul class="cmRadioHeaderNavTwoInner" style="display: none;">
+							<li><a href="http://www.kiss104fm.com/entertainment/personalities/kiss-104-personalities/8DSMXV5qo8i87fVFCfiENP/" class="hasChildren" target="_self" title="">Personalities</a>
+				<svg width="8px" height="7px">
+													<polygon class="cmRadioHeaderNavDropdownCaret"
+														points="0,0 8,0 4,7"></polygon></svg>
+												<ul class="cmRadioHeaderNavTwoInner">
+													<li><a href="http://www.kiss104fm.com/entertainment/personalities/condace-pressley/Qj5EFJUBhQRMEDC5kS77NM/" target="_self" title="">Condace Pressley</a>
+				</li>
+														<li><a href="http://www.kiss104fm.com/entertainment/personalities/sasha-the-diva/tvbIhLgdhpw3PKmfH4KaFN/" target="_self" title="">Sasha The Diva</a>
+				</li>
+														<li><a href="http://www.kiss104fm.com/entertainment/personalities/art-terrell/bfH0eLPfIHhtS4fiy0ALNN/" target="_self" title="">Art Terrell</a>
+				</li>
+														<li><a href="http://www.kiss104fm.com/entertainment/personalities/jennifer-keitt/Y2s9qbkAH7IwOMVyCX4y1M/" target="_self" title="">Jennifer Keitt</a>
+				</li>
+														<li><a href="http://www.kiss104fm.com/entertainment/personalities/slow-jamz-list-container/dg43rfzJnYPSMMgETC3kRI/" target="_self" title="">As Heard on Slow Jamz</a>
+				</li>
+														<li><a href="http://www.kiss104fm.com/entertainment/personalities/monica-pearson/fegSCtpqwgdRFifgffCf8N/" target="_self" title="">Monica Pearson</a>
+				</li>
+														<li><a href="http://www.kiss104fm.com/entertainment/personalities/twanda-black/4rU4SOWusEe6XTEnyejLOL/" target="_self" title="">Twanda Black</a>
+				</li>
+														<li><a href="http://www.kiss104fm.com/entertainment/personalities/niecey-shaw/UOf86d1pR1VpY1AGmdteRM/" target="_self" title="">Niecey Shaw</a>
+				</li>
+														<li><a href="http://www.kiss104fm.com/entertainment/personalities/checka/8MmjcgpwLsgw4gPXrwRxdM/" target="_self" title="">Checka</a>
+				</li>
+														<li><a href="http://www.kiss104fm.com/entertainment/personalities/youngblood/TeFxDiKp1hkp729yxrhyDL/" target="_self" title="">Youngblood</a>
+				</li>
+														</ul>
+										</li>
+				<li><a href="http://www.kiss104fm.com/online/home/QJQYfgDrWpMAvrQhtzvyMO/" class="hasChildren" target="_self" title="">Blogs</a>
+				<svg width="8px" height="7px">
+													<polygon class="cmRadioHeaderNavDropdownCaret"
+														points="0,0 8,0 4,7"></polygon></svg>
+												<ul class="cmRadioHeaderNavTwoInner">
+													<li><a href="http://artterrell.blog.kiss104fm.com/" target="_self">The Morning Groove</a></li>
+														<li><a href="http://sashathediva.blog.kiss104fm.com/" target="_self">Sasha The Diva's Blog</a></li>
+														<li><a href="http://monicapearson.blog.kiss104fm.com/" target="_self">Monica Pearson's Blog</a></li>
+														<li><a href="http://twandablack.blog.kiss104fm.com/" target="_self">Twanda Black's Blog</a></li>
+														<li><a href="http://www.kiss104fm.com/online/home/QJQYfgDrWpMAvrQhtzvyMO/" target="_self" title="">KISS News Now</a>
+				</li>
+														<li><a href="http://www.kiss104fm.com/behind-the-headlines/" target="_self">Behind the Headlines</a></li>
+														</ul>
+										</li>
+				<li><a href="http://www.kiss104fm.com/entertainment/personalities/kiss-104-podcasts-page/8A8NzfpJ4bWlpn7tjvd9lN/" target="_self" title="">Podcasts</a>
+				</li>
+				<li><a href="http://www.kiss104fm.com/entertainment/videos/live-lounge-video-vault/xTKLFX7rCPF8h2EX2tIbzK/" target="_self" title="">Live Lounge Video Vault</a>
+				</li>
+				<li><a href="http://www.kiss104fm.com/black-history-month/" target="_self" title="">This Week in Black History</a>
+				</li>
+				<li><a href="http://www.kiss104fm.com/entertainment/personalities/slow-jamz-list-container/dg43rfzJnYPSMMgETC3kRI/" target="_self" title="">As Heard on Slow Jams</a>
+				</li>
+				</ul>
+</li>
+<li>
+						<a href="http://www.kiss104fm.com/contact-us/" target="_self" title="">Inside</a>
+				<svg height="7px" width="8px">
+							<polygon class="cmRadioHeaderNavDropdownCaret" points="0,0 8,0 4,7" />
+						</svg>
+						
+						<ul class="cmRadioHeaderNavTwoInner" style="display: none;">
+							<li><a href="http://www.kiss104fm.com/contact-us/" target="_self" title="">Contact Us</a>
+				</li>
+				<li><a href="http://www.kiss104fm.com/ads/" target="_self" title="">Advertise on KISS 104</a>
+				</li>
+				<li><a href="http://www.kiss104fm.com/listen-online/" target="_self" title="">Where to Listen to KISS 104</a>
+				</li>
+				<li><a href="http://www.kiss104fm.com/kiss-mobile-app/" target="_self" title="">Get the KISS 104 App</a>
+				</li>
+				<li><a href="http://www.kiss104fm.com/eeoc2/" target="_self" title="">Jobs at KISS 104</a>
+				</li>
+				<li><a href="http://www.kiss104fm.com/online/contacts/directions-kiss-104/6sRX8O28HEwxuL4cKnBhUN/" target="_self" title="">Directions to KISS 104</a>
+				</li>
+				<li><a href="http://www.kiss104fm.com/newsletters/signup/" target="_self" title="">Newsletter Sign-Up</a>
+				</li>
+				<li><a href="http://www.kiss104fm.com/member-center/" target="_self" title="">Member Center</a>
+				</li>
+				<li><a href="http://www.kiss104fm.com/online/site-information/our-internship-program/nq7x135DGCH6jUmGbrcAhO/" target="_self" title="">Internships</a>
+				</li>
+				<li><a href="http://www.kiss104fm.com/classifieds/media-jobs/cox-media-group-day-the-life-program/GYOKIGGsy2SdCyjAgvivrM/" target="_self" title="">CMG ‘A Day in the Life Program’</a>
+				</li>
+				<li><a href="https://publicfiles.fcc.gov/fm-profile/walr-fm" target="_self">WALR FCC Public File</a></li>
+				</ul>
+</li>
+<li>Search <svg height="7px" width="8px">
+						<polygon class="cmRadioHeaderNavDropdownCaret"
+			points="0,0 8,0 4,7" />
+					</svg>
+	<div class="cmRadioHeaderSearchBox cmRadioHeaderNavTwoInner"
+		style="display: none;">
+		<div class="cmRadioHeaderSearchArea">
+			<form class="site-search" action="//www.kiss104fm.com/search" method="get">
+				<table>
+					<tr>
+						<td class="search-input">
+							<!-- <label for="site-search" class="accessibility-field-label">Search</label> -->
+							<input type="text" class="form-control" id="site-search"
+							name="search" placeholder="">
+						</td>
+						<td>
+							<button type="submit" name="submit"
+								class="form-control btn btn-search"></button>
+						</td>
+					</tr>
+				</table>
+			</form>
+		</div>
+	</div>
+</li>
+
+
+<!-- begin janrain_menu_links block --><li class="cmHeaderUserRegistration" id="cmHeaderUserRegistration" style="visibility: visible;">
+		<div id="cmJanrainAuthLinks">
+			<span class="cmUserAuthed" style="display: none;">
+				<a id="cmHeaderUserRegistrationLink" class="cmUserAuthed__welcome" href="//www.kiss104fm.com/member-center/"></a>
+	
+	            <ul class="cmRadioHeaderNavTwoInner" style="display: none;">
+	            	<li><a href="//www.kiss104fm.com/member-center/"><span>Member Center</span></a></li>
+	            	<li><a class="cmLogout" href="#"><span>Is this not you?</span></a></li>
+	            	<li><a class="cmLogout" href="#"><span>Sign Out</span></a></li>
+	            </ul>
+	         </span>
+	         <span class="cmUserAnonymous" style="display: inline;">
+	         	<a href="#" class="cmOpenJanrainModal capture_modal_open"><span>Sign In | Register</span></a>
+	         </span>
+	    </div>
+	</li>
+
+<!-- end janrain_menu_links block --></ul></div>
+		<div class="cmRadioHeaderLogoBar">
+			<a href="//www.kiss104fm.com/" title="http://www.kiss104fm.com"><img id="cmRadioHeaderLogo"
+				src="//www.kiss104fm.com/rw/Pub/p8/Kiss104FM/2017/11/27/Images/New_Kiss_Desktop_Logo_193x94.png"
+				name="cmHeaderLogo" alt="http://www.kiss104fm.com Logo"
+				class="cmRadioHeaderLogo" /></a>
+		</div>
+		<div class="cmRadioHeaderWidgetBar">
+	<div class="cmRadioHeaderSocial">
+			<ul>
+	<li class="cmRadioHeaderSocialItem"><a
+			href="https://www.facebook.com/kiss1041fm/" target="_blank"><div
+					class="cmRadioHeaderSocialIcon cmRadioHeaderSocialIconFacebook" 
+					onclick="DDO.action('socialClick',{site:'facebook',type:'www.kiss104fm.com_fb_homepage'})"></div></a></li>
+	<li class="cmRadioHeaderSocialItem"><a
+			href="https://twitter.com/Kiss1041fm" target="_blank"><div
+					class="cmRadioHeaderSocialIcon cmRadioHeaderSocialIconTwitter"
+					onclick="DDO.action('socialClick',{site:'twitter',type:'www.kiss104fm.com_tw_homepage'})"></div></a></li>
+	</ul></div>
+	<div class="cmRadioHeaderWidgets">
+		<ul>
+			<li id="cmRadioHeaderWeatherWidget"
+	class="cmRadioHeaderWidgetItem cmHeaderWeatherWidget"><a
+	href="//www.kiss104fm.com/weather/">
+		<div class="spriteWeatherRadio _22"></div>
+		<div class="cmHeaderWeatherWidgetTemperature">55&deg;</div>
+</a></li>
+
+
+
+
+
+<li class="cmRadioHeaderWidgetItem">
+				<a href="http://www.kiss104fm.com/entertainment/contests/kiss-104-contest-page/iOis63kJxW0rONNxvbOg3O/" target="_self" title="">Contests</a>
+				</li>
+		<li class="cmRadioHeaderWidgetItem">
+				<a href="http://www.kiss104fm.com/entertainment/personalities/kiss-104-personalities/8DSMXV5qo8i87fVFCfiENP/" target="_self" title="">On-Air</a>
+				</li>
+		</ul>
+	</div>
+</div><!-- DEFAULT NOW PLAYING HEADER  = false -->
+				<div class="cmRadioHeaderPlayingBar">
+	<canvas id="curve-desktop" width="242" height="48"></canvas>
+
+
+	<div class="cmRadioHeaderListenLive">
+		<script type="text/javascript">
+			cmg
+					.query(function() {
+						cmg
+								.query('.cmListenLiveButton')
+								.click(
+										function() {
+											window
+													.open(
+															this.href,
+															'playerlivepopup',
+															'width=974,height=450,location=0,menubar=0,resizable=0,scrollbars=0,status=0,toolbar=0');
+											return false;
+										});
+					});
+		</script>
+		<a href="//www.kiss104fm.com/stream/" class="cmListenLiveButton"></a>
+	</div>
+
+	<script>
+		// Poll LSP API and update DOM header with station history
+		cmg.query(document).ready(function() {
+			LSPHeader.init("https://lsp-prod.cmgdigital.com//api/v1/station/now-playing/?domain=kiss104fm.com");
+		});
+	</script>
+
+	<div class="cmRadioHeaderNowPlaying">
+		<a href="#"
+			class="cmRadioNowPlayingArtistImage cmRadioHeaderNowPlayingArtistLink deactivated"></a><a
+			href="#"
+			class="cmRadioHeaderNowPlayingSongLink cmRadioHeaderNowPlayingCarrot deactivated">
+			<svg class="cmRadioHeaderNowPlayingButton"> <polygon
+					points="0,0 9,5 0,10" class="cmRadioHeaderNowPlayingPlayButton"></polygon> </svg>
+		</a>
+		<div class="cmRadioHeaderNowPlayingInner">
+			<div class="cmRadioHeaderNowPlayingHeader header">Now Playing</div>
+			<a href="#"
+				data-default="KISS104 FM"
+				class="cmRadioHeaderNowPlayingSong cmRadioHeaderNowPlayingSongLink deactivated">KISS104 FM</a><a
+				href="#"
+				class="cmRadioHeaderNowPlayingArtist cmRadioHeaderNowPlayingArtistLink deactivated"></a><a
+				href="#"
+				class="cmRadioHeaderNowPlayingArrow cmRadioHeaderNowPlayingSongLink deactivated"></a>
+		</div>
+	</div>
+
+
+	<div class="cmRadioHeaderLSP">
+		<div class="cmRadioHeaderLSPInner">
+			<div class="cmRadioHeaderLSPHeader header">Last Song Played</div>
+			<a href="#"
+				data-default="Today's R&B and Throwbacks"
+				class="cmRadioHeaderLSPSong cmRadioHeaderLSPSongLink deactivated">Today's R&B and Throwbacks</a>
+			<a href="#"
+				class="cmRadioHeaderLSPArtist cmRadioHeaderLSPArtistLink deactivated"></a><a
+				href="#"
+				class="cmRadioHeaderLSPArrow cmRadioHeaderLSPSongLink deactivated"></a>
+		</div>
+	</div>
+
+
+
+	<script>
+			
+					OnAirHeader.init('//www.kiss104fm.com/api/primaryschedule/');
+				</script>
+	<div class="cmRadioHeaderOnAir">
+		<a href="#"
+					class="cmRadioHeaderOnAirImage deactivated radio_tower"></a>
+			<div class="cmRadioHeaderOnAirInner">
+			<div class="cmRadioHeaderOnAirHeader header">On Air</div>
+			<a href="#"
+				class="cmRadioHeaderOnAirShow cmRadioHeaderOnAirShowLink deactivated"
+				data-default="No Program">No Program</a><a href="#"
+				class="cmRadioHeaderOnAirArrow cmRadioHeaderOnAirShowLink deactivated"></a>
+		</div>
+	</div>
+</div>
+
+<div class="cmRadioHeaderSticky">
+	<canvas id="curve-sticky" width="970" height="48"></canvas>
+	<div class="cmRadioHeaderStickyLogoBar"></div>
+	<div class="cmRadioHeaderListenLive">
+		<script type="text/javascript">
+			cmg
+					.query(function() {
+						cmg
+								.query('.cmListenLiveButton')
+								.click(
+										function() {
+											window
+													.open(
+															this.href,
+															'playerlivepopup',
+															'width=974,height=450,location=0,menubar=0,resizable=0,scrollbars=0,status=0,toolbar=0');
+											return false;
+										});
+					});
+		</script>
+		<a href="//www.kiss104fm.com/stream/" class="cmListenLiveButton"></a>
+	</div>
+	<div class="cmRadioHeaderNowPlaying">
+		<a href="#"
+			class="cmRadioNowPlayingArtistImage cmRadioHeaderNowPlayingArtistLink deactivated"></a>
+		<a href="#"
+			class="cmRadioHeaderNowPlayingSongLink cmRadioHeaderNowPlayingCarrot deactivated">
+			<svg class="cmRadioHeaderNowPlayingButton">
+				<polygon points="0,0 9,5 0,10"
+					class="cmRadioHeaderNowPlayingPlayButton"></polygon></svg>
+		</a>
+		<div class="cmRadioHeaderNowPlayingInner">
+			<div class="cmRadioHeaderNowPlayingHeader header">Now Playing</div>
+			<a href="#"
+				data-default="KISS104 FM"
+				class="cmRadioHeaderNowPlayingSong cmRadioHeaderNowPlayingSongLink deactivated">KISS104 FM</a>
+			<a href="#"
+				class="cmRadioHeaderNowPlayingArrow cmRadioHeaderNowPlayingSongLink deactivated"></a>
+		</div>
+	</div>
+	<div class="cmRadioHeaderLSP">
+		<div class="cmRadioHeaderLSPInner">
+			<div class="cmRadioHeaderLSPHeader header">Last Song Played</div>
+			<a href="#"
+				data-default="Today's R&B and Throwbacks"
+				class="cmRadioHeaderLSPSong cmRadioHeaderLSPSongLink deactivated">Today's R&B and Throwbacks</a>
+			<a href="#"
+				class="cmRadioHeaderLSPArrow cmRadioHeaderLSPSongLink deactivated"></a>
+		</div>
+	</div>
+
+	<div class="cmRadioHeaderStickyWidgets">
+	<ul>
+		<li id="cmRadioHeaderWeatherWidget"
+	class="cmRadioHeaderWidgetItem cmHeaderWeatherWidget"><a
+	href="//www.kiss104fm.com/weather/">
+		<div class="spriteWeatherRadio _22"></div>
+		<div class="cmHeaderWeatherWidgetTemperature">55&deg;</div>
+</a></li>
+
+
+
+
+
+<li class="cmRadioHeaderWidgetItem"><a href="/entertainment/contests/kiss-104-contest-page/iOis63kJxW0rONNxvbOg3O/" target="_self">Contests</a></li>
+		<li class="cmRadioHeaderWidgetItem"><a href="/entertainment/personalities/kiss-104-personalities/8DSMXV5qo8i87fVFCfiENP/" target="_self">On-Air</a></li>
+		</ul>
+</div>
+
+<div class="cmRadioHeaderStickySocial">
+		<ul>
+	<li class="cmRadioHeaderSocialItem"><a
+			href="https://www.facebook.com/kiss1041fm/" target="_blank"><div
+					class="cmRadioHeaderSocialIcon cmRadioHeaderSocialIconFacebook" 
+					onclick="DDO.action('socialClick',{site:'facebook',type:'www.kiss104fm.com_fb_homepage'})"></div></a></li>
+	<li class="cmRadioHeaderSocialItem"><a
+			href="https://twitter.com/Kiss1041fm" target="_blank"><div
+					class="cmRadioHeaderSocialIcon cmRadioHeaderSocialIconTwitter"
+					onclick="DDO.action('socialClick',{site:'twitter',type:'www.kiss104fm.com_tw_homepage'})"></div></a></li>
+	</ul></div>
+</div><!-- end cmHeaderWrap block-->
+	</div>
+</div><!-- begin cmSubHeaderWrap block-->
+						<div class="cmSubHeaderWrap cmCol9">
+						
+							<!-- begin breaking_news_alert_box block --><!-- end breaking_news_alert_box block --><!-- begin ad_pb01 block --><div id="cm-ad-PB01" class="PB01 cm-ad 0px-infinity"></div>
+
+	<script style="display:none">
+googletag.cmd.push(function(){var defaultSizes=[];defaultSizes.push([970,90]);var mapping=googletag.sizeMapping();var sizes=[];var conf={name:'PB01',id:'cm-ad-PB01',sizes:defaultSizes,group:'0px-infinity',adunit:cmg.adconf.adunit,outofpage:false,companion:false,mapping:mapping.build(),targeting:{ad_slot:'PB01'}};cmg.adconf.slotconf.push(conf);var slot=harmony.defineSlot(conf);harmony.enable.slot(slot.name);console.log("with breakpoints");});</script>
+<!-- end ad_pb01 block --><div class="adgeletti-center_ad-table">
+								<div class="adgeletti-center_ad-table-column">
+									<!-- begin ad_hp01 block --><div id="cm-ad-HP01" class="HP01 cm-ad 0px-infinity"></div>
+
+	<script style="display:none">
+googletag.cmd.push(function(){var defaultSizes=[];defaultSizes.push([728,90]);defaultSizes.push([950,30]);defaultSizes.push([970,30]);var mapping=googletag.sizeMapping();var sizes=[];var conf={name:'HP01',id:'cm-ad-HP01',sizes:defaultSizes,group:'0px-infinity',adunit:cmg.adconf.adunit,outofpage:false,companion:false,mapping:mapping.build(),targeting:{ad_slot:'HP01'}};cmg.adconf.slotconf.push(conf);var slot=harmony.defineSlot(conf);harmony.enable.slot(slot.name);console.log("with breakpoints");});</script>
+<!-- end ad_hp01 block --></div>
+							</div>
+						</div>
+						<!-- end cmSubHeaderWrap block-->
+
+					<!-- end inner_header_wrapper block --><div class="cmBodyWrap cmCol9">
+
+					<!-- begin centerContent block --><div class="cmCol6">
+
+	<div class="cmBreadcrumb">
+
+	<!-- begin breadcrumbs block --><ul>
+			<li>
+				<a href="//www.kiss104fm.com/">Home</a>
+			</li>
+			<li>
+						<a href="//www.kiss104fm.com/categories/sports/">
+							sports</a>
+					</li>
+				</ul>
+	<!-- end breadcrumbs block --><!-- begin ad_hp00 block --><div id="cm-ad-PB00" class="PB00 cm-ad 0px-infinity"></div>
+
+	<!-- end ad_hp00 block --></div><!-- Loid: 2.2.1247939439 -->
+	<div class="cmTimeStamp">
+			<p>
+				
+					Posted: February 09, 2018</p>
+		</div>
+	<h1 class="cmLargerH1">Shani Davis rips coin flip to determine US flag bearer at Olympics
+</h1>
+	<h2 class="cmLargerH2">
+
+</h2>
+
+	<div class="cmToolBox">
+		<a href="#livefyre-comments" class="lfcomment_anchor lfcount">Comments</a>
+		
+
+
+
+
+
+
+
+
+	
+	
+		
+		<div class="janrainSocialPlaceholder" align="left"
+		    data-janrain-url="http://www.kiss104fm.com/sports/shani-davis-rips-coin-flip-determine-flag-bearer-olympics/9DqoEvOzrTqNrmUQi2ik4H/"
+		    data-janrain-title="Shani Davis rips coin flip to determine US flag bearer at Olympics "
+		    data-janrain-description=""></div>
+	
+	</div>
+
+	<div id="cmArticleWell">
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+	
+		
+	
+	
+
+
+
+
+
+	
+	
+		
+	
+
+
+
+
+	
+							
+<div class=" anvatoPlayer" style="width: 610;height: auto; margin: 0 auto;">
+			<div id="anvato_d7fdfb8bc57d45efa4c5367bcb3895f9"></div>
+<script>
+	var anvp = window.anvp || (window.anvp = {});
+	anvp.anvato_d7fdfb8bc57d45efa4c5367bcb3895f9 = {};
+	
+	anvp.anvato_d7fdfb8bc57d45efa4c5367bcb3895f9.onReady = function(playerInstance) {
+		var _cbv = window._cbv || (window._cbv = []);
+		_cbv.push(playerInstance);
+	};
+	
+	anvp.anvato_d7fdfb8bc57d45efa4c5367bcb3895f9.onBeforeVideoLoad = function(video) {
+		var keyValues = buildAdConfig(video, "anvato_d7fdfb8bc57d45efa4c5367bcb3895f9");
+		
+		return {
+			plugins: {
+				dfp: {
+					clientSide: {
+						adTagUrl: "https://pubads.g.doubleclick.net/gampad/ads?sz=400x300&iu=/12523293/Atlanta_RA/walr_web_default&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]",
+						keyValues: keyValues
+					}
+				}
+			}
+		};
+	};
+	
+	anvp.anvato_d7fdfb8bc57d45efa4c5367bcb3895f9.config = {
+		accessKey: "Rawk5AajeB9YrIRGYpsOxCkGx0x40dnD",
+		token: " ",
+		
+		autoplay: false,
+		volume: 1, // volume 1, 0 or decimal e.g. 0.5
+		recom: true, //recommendation end slate boolean
+		
+		plugins: {
+			dfp: {
+				clientSide: {
+					adTagUrl: "https://pubads.g.doubleclick.net/gampad/ads?sz=400x300&iu=/12523293/Atlanta_RA/walr_web_default&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]"
+				},
+			comscore: {
+					clientId: 6035944
+				}, 
+			}
+		},
+		profile: "cox"	,
+    };
+	//# sourceURL=anvatoSetup.js
+	
+	// DDO Setup.
+	if (typeof window.DDO !== 'undefined') {
+        anvp.anvato_d7fdfb8bc57d45efa4c5367bcb3895f9.config.customMetadata = {
+            video: {
+                pageName: window.DDO.pageData.pageName,
+                pageSiteSection: window.DDO.pageData.pageSiteSection,
+                pageCategory: window.DDO.pageData.pageCategory,
+                pageSubCategory: window.DDO.pageData.pageSubCategory,
+                pageContentType: window.DDO.pageData.pageContentType,
+                pageTitle: window.DDO.pageData.pageTitle,
+                siteVersion: window.DDO.siteData.siteVersion,
+                siteDomain: window.DDO.siteData.siteDomain,
+                siteFormat: window.DDO.siteData.siteFormat,
+                siteMetro: window.DDO.siteData.siteMetro,
+                siteMedium: window.DDO.siteData.siteMedium,
+                siteID: window.DDO.siteData.siteID,
+                siteType: window.DDO.siteData.siteType,
+                siteCMS: window.DDO.siteData.siteCMS,
+                contentTopics: window.DDO.contentData.contentTopics,
+                contentByline: window.DDO.contentData.contentByline,
+                contentID: window.DDO.contentData.contentID,
+                contentVendor: window.DDO.contentData.contentVendor
+            },
+            chapter: {
+                // for sending metadata with chapterMetadata - applies to the chapter tracking use-case-
+            },
+            ad: {
+                // for sending metadata with adMetadata
+            }
+        };
+    };
+</script>
+<script data-anvp='{"width": "100%" ,
+		"mcp":"998197", 
+		"video": "4316580", 
+		"pInstance":"anvato_d7fdfb8bc57d45efa4c5367bcb3895f9", "html5":"true", 
+		"title":"U.S. Flag Bearer Decision For Olympics Opening Ceremony Stirs Backlash"}' 
+		src="//w3.cdn.anvato.net/player/prod/v3/scripts/anvload.js">
+</script>
+		</div><div class="cmCredit">Stacy Revere/Getty Images</div>
+	<div class="cmCaption">U.S. Flag Bearer Decision For Olympics Opening Ceremony Stirs Backlash</div>
+	</br>
+<div class="cmRelated cmRelated-collapse">
+			<script id="cmRelatedPhotoData" type="text/javascript">
+				has_related_photos = false;</script>
+			
+			</div>
+		<p class="cm_mobCredit">
+				By
+				Bob D’Angelo, Cox Media Group National Content Desk</p>
+		<p class="cmDateline">PYEONGCHANG, South Korea
+&#8212;</p>
+		<div class="cmArticle cmOembedContainer">
+			<!-- Builds the markup image or css for a story -->
+<p>Four-time Olympian Erin Hamlin carried the flag for the United States at the Parade of Nations during Friday&rsquo;s opening ceremony at the Pyeongchang Winter Games.&nbsp;</p>
+<p>
+<a href="/list/news/national/more-news-headlines/aJz4/" target="_self"><span data-eom-type="bookmark" id="em_8_start" style="overflow:hidden;line-height:0px">﻿</span><b><i>&gt;&gt; Read more trending news</i></b></a><span data-eom-type="bookmark" id="em_8_end" style="overflow:hidden;line-height:0px">﻿</span>
+</p>
+<p>Hamlin, the first American female luger to medal at the Olympics, is leading a 244-member group of U.S. athletes, but at least one -- speedskater Shani Davis -- disagreed with the choice.</p>
+<p>
+<a href="http://www.ajc.com/news/national/photos-2018-pyeongchang-winter-olympics-opening-ceremonies/hXL6xD4GTixx4WVltGj9zJ/" target="_self"><i><b>&gt;&gt; Photos: 2018 Pyeongchang Winter Olympics Opening Ceremonies</b></i></a>
+</p>
+<p>Hamlin and Davis tied for the honor of carrying the flag, and a coin flip decided the winner,&nbsp;<a href="https://www.cbssports.com/olympics/news/shani-davis-slams-coin-flip-for-u-s-flag-bearer-at-olympics/">CBS Sports</a> reported. However, Davis tweeted the process was unfair and that &ldquo;Team USA dishonorably tossed a coin.&rdquo; He also used the hashtag #BlackHistoryMonth2018 and said he could wait until 2022 to carry the flag.</p>
+<center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I am an American and when I won the 1000m in 2010 I became the first American to 2-peat in that event. <a href="https://twitter.com/TeamUSA?ref_src=twsrc%5Etfw">@TeamUSA</a> dishonorably tossed a coin to decide its 2018 flag bearer. No problem.  I can wait until 2022. <a href="https://twitter.com/hashtag/BlackHistoryMonth2018?src=hash&amp;ref_src=twsrc%5Etfw">#BlackHistoryMonth2018</a> <a href="https://twitter.com/hashtag/PyeongChang2018?src=hash&amp;ref_src=twsrc%5Etfw">#PyeongChang2018</a> <a href="https://t.co/dsmTtNkhJs">pic.twitter.com/dsmTtNkhJs</a></p>&mdash; Shani Davis (@ShaniDavis) <a href="https://twitter.com/ShaniDavis/status/961534274586464256?ref_src=twsrc%5Etfw">February 8, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+<p>Hamlin and Davis were among eight nominees to carry the American flag, CBS Sports reported. The voting occurred Wednesday night.</p>
+<p>Davis, a four-time Olympic medalist, has won two gold medals and two silvers. He has appeared in five different Winter Olympics.</p>
+<p>&ldquo;It was a pretty big shock,&rdquo; Hamlin said of her selection,&nbsp;<a href="https://www.nbcolympics.com/news/erin-hamlin-named-team-usa-flag-bearer-pyeongchang-opening-cermony">NBC Olympics</a> reported. &ldquo;But it is an honor and a privilege to be recognized by all of Team USA.&rdquo;</p>
+<p></p>
+
+				<span class="xsm-blockstyle-align-center cmImage--native-landscape" id="U62600835338Wvm">
+				<img src="/rf/image_lowres/Pub/p9/CmgSharedContent/2018/02/09/Images/GettyImages-916119490_master-U62600835338Wvm-680x383.jpg"srcset="/rf/image_lowres/Pub/p9/CmgSharedContent/2018/02/09/Images/GettyImages-916119490_master-U62600835338Wvm-680x383.jpg 1000w,
+			   /rf/image_thumbnail/Pub/p9/CmgSharedContent/2018/02/09/Images/GettyImages-916119490_master-U62600835338Wvm-680x383.jpg 120w,
+			   /rf/image_compact/Pub/p9/CmgSharedContent/2018/02/09/Images/GettyImages-916119490_master-U62600835338Wvm-680x383.jpg 150w,
+			   /rf/image_md/Pub/p9/CmgSharedContent/2018/02/09/Images/GettyImages-916119490_master-U62600835338Wvm-680x383.jpg 400w,
+			   /rf/image_large/Pub/p9/CmgSharedContent/2018/02/09/Images/GettyImages-916119490_master-U62600835338Wvm-680x383.jpg 800w"
+				sizes="4646px"width="100%"/>
+			</span>
+			<!--TODO: Add caption once the servlet that applies metadata to images has been set up.-->
+<p></p></div>
+		<div class="cmInfoBox">
+			<hr/>
+			</div>
+		
+		</div>
+
+	<div class="cmClear"></div>
+
+	<script>
+		var pm_pgtp = "desktop-article";
+	</script>
+	<script type="text/javascript"
+		src="http://widget.perfectmarket.com/cox-network/load.js"></script>
+
+	<div class="cmClear"></div>
+
+	<div class="cmToolBox">
+		<a href="#livefyre-comments" class="lfcomment_anchor lfcount">Comments</a>
+		
+
+
+
+
+
+
+
+
+	
+	
+		
+		<div class="janrainSocialPlaceholder" align="left"
+		    data-janrain-url="http://www.kiss104fm.com/sports/shani-davis-rips-coin-flip-determine-flag-bearer-olympics/9DqoEvOzrTqNrmUQi2ik4H/"
+		    data-janrain-title="Shani Davis rips coin flip to determine US flag bearer at Olympics "
+		    data-janrain-description=""></div>
+	
+	</div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- This is the final comments enable flag -->
+
+
+
+
+    
+    
+		
+		   
+		   
+		   
+		   
+		   
+		
+		   
+		   
+		   
+		   
+		   
+		
+		
+		
+		    
+				
+    
+
+
+
+	
+
+
+
+
+
+<style>
+.fyre-mention {
+	pointer-events: none;
+   	cursor: default;
+   	text-decoration: none;
+}
+.fyre-modal {
+	/* Fixes bug with share comment modal incorrectly calculating center of page */
+	top: 50% !important;
+}
+</style>
+
+<!-- Basic comment widget markup: default no comments -->
+<div class="cm-lc-container">
+    <div class="cm-lc-widget-container">
+        <div class="cm-lc-view" id="livefyre-comments"></div>
+        <div class="cm-lc-nocontent">
+            <p>There are no comments yet.  Be the first to post your thoughts.
+            <span class="cm-lc-not-logged-in">
+            	<a href="#" class="cm-lc-login" title="Sign in">Sign in</a> or <a href="#" class="cm-lc-register">Register</a>.
+            </span>
+            </p>
+        </div>
+    </div>
+    <div class="cm-lc-footer"></div>
+</div>
+
+<script>
+    (function($) {
+        var janrain_timeout_int = 500,
+            livefyre_livecomments = null,
+            $comment_count_display = $('.lfcount'),
+            set_comment_count = function() {
+                var comment_count = $('.fyre-stream-stats .fyre-comment-count').text().replace(/[^0-9]+/g, '');
+                $comment_count_display.text('Comments');
+                cmg.query('.fyre-stream-stats .fyre-comment-count').css('visibility', 'visible');
+            },
+            update_comment_count = function(count) {
+                cmg.query('.fyre-stream-stats .fyre-comment-count').css('visibility', 'visible');
+            },
+            livefyre_commenting_init = function() {
+                var $ = $,
+                    lf_conv_config = [{
+                        siteId: '377215',
+                        collectionMeta: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcnRpY2xlSWQiOiIwM2ZjZDdmYy0wZDkzLTExZTgtODVlNC1jMmUwZWVmMDAzYmYiLCJpc3MiOiJ1cm46bGl2ZWZ5cmU6Y294cmFkaW8uZnlyZS5jbzpzaXRlXHUwMDNkMzc3MjE1IiwidGFncyI6InRhZ3MiLCJ0aXRsZSI6IlNoYW5pIERhdmlzIHJpcHMgY29pbiBmbGlwIHRvIGRldGVybWluZSBVUyBmbGFnIGJlYXJlciBhdCBPbHltcGljcyAiLCJ0eXBlIjoibGl2ZWNvbW1lbnRzIiwidXJsIjoiaHR0cDovL3d3dy5raXNzMTA0Zm0uY29tL3Nwb3J0cy9zaGFuaS1kYXZpcy1yaXBzLWNvaW4tZmxpcC1kZXRlcm1pbmUtZmxhZy1iZWFyZXItb2x5bXBpY3MvOURxb0V2T3pyVHFOcm1VUWkyaWs0SC8ifQ.7rao_NqF-Gk_hcw1L1800oBJgASSYKakSRpVVTkUBXU',
+                        checkSum: '730ded42203e5dc0c07fbff9fa280cf1',
+                        articleId: '03fcd7fc-0d93-11e8-85e4-c2e0eef003bf',
+                        el: 'livefyre-comments',
+                        initialNumVisible: 10,
+                        maxVisible: 10,
+                        browserType: 'web'
+                    }];
+                Livefyre.require(['fyre.conv#3', 'auth', 'backplane-auth-plugin#0'], function(Conv, auth, backplanePluginFactory){
+                    new Conv({
+                        "network": 'coxradio.fyre.co'
+                        },
+                        lf_conv_config,
+                        function (widget) {
+                            // Wideget change/event callbacks
+                            widget.on('commentCountUpdated', function(data){
+                                if (data > 0) {
+                                    cmg.query('.cm-lc-nocontent').hide();
+                                    update_comment_count(data);
+                                }
+                            });
+                            widget.on('initialRenderComplete', function() {
+                                set_comment_count($);
+                                $comment_count_display.attr("href", "#livefyre-comments");
+                                if (cmg.query('.fyre-auth .fyre-user-loggedin').length) {
+                                    cmg.query('.cm-lc-nocontent .cm-lc-not-logged-in').hide();
+                                }
+                                
+                                if(cmg.query('div.fyre-stream-more').length){
+                                    cmg.query('div.fyre-stream-more').find('*').on('click',function(e){
+                                    	cmg.query(document).trigger('analytics-additional-comments');                                        
+                                    });
+                                }
+                                
+                            });
+                            widget.on('userLoggedIn', function(data){
+                            	cmg.query('.cm-lc-not-logged-in').hide();
+                            });
+                            // Fire metrics
+                            widget.on('commentPosted', function(data){
+                            	pubsub.publish('comment-submit', {'element': 'div.fyre-post-button', 'action': 'click' });
+                            });
+                            // Fire metrics
+                            widget.on('showMore', function(data){
+                            	pubsub.publish('additional-comments', {'element': 'div', 'action': 'click'});
+                            });
+                        });
+                    });
+                };
+
+        $(document).ready(function(e) {
+
+            $(window).on('livefyre.load_failure', function() {
+                $('.cm-lc-container').hide();
+            });
+            $(window).on('livefyre.auth_initialized', function() {
+                livefyre_commenting_init();
+            });
+
+        });
+    })(cmg.query);
+</script>
+
+<div id="cm-ad-FP02" class="FP02 cm-ad 0px-infinity"></div>
+
+	<!-- comments enabled or frozen-->
+	<a id="cmCommentAnchor"></a>
+
+	<div id="medley_comments_341789" class="marimo class"></div>
+	<div class="cmClear">&nbsp;</div>
+	<div class="cmAd cmAdContextual"></div>
+	<div class="cmClear">&nbsp;</div>
+
+
+	<script id="cmRelatedPhotoData" type="text/javascript" charset="utf-8">
+
+		</script>
+	</div>
+
+<!-- Inserting a right rail -->
+
+
+
+
+
+
+
+<div class="cmCol3">
+	<div class="cmCol3 cmFirst cmRightRail">
+		
+			
+			
+				
+					
+						<!-- get the rightrail object from the homepage -->
+		
+						
+							
+								<!-- Inserting a right rail ads -->
+
+
+
+
+
+<div class="cmFeedUtilities cmModule">
+	<ul>
+		<li class="sprite iconEmail"><a href="//www.kiss104fm.com/newsletters/signup/">Newsletters</a></li>
+	</ul>
+</div>
+<!-- begin ad_rp01 block -->
+	<div id="cm-ad-RP01" class="RP01 cm-ad 0px-infinity"></div>
+
+	<script style="display:none">
+googletag.cmd.push(function(){var defaultSizes=[];defaultSizes.push([300,250]);defaultSizes.push([300,600]);defaultSizes.push([300,1050]);var mapping=googletag.sizeMapping();var sizes=[];var conf={name:'RP01',id:'cm-ad-RP01',sizes:defaultSizes,group:'0px-infinity',adunit:cmg.adconf.adunit,outofpage:false,companion:false,mapping:mapping.build(),targeting:{ad_slot:'RP01'}};cmg.adconf.slotconf.push(conf);var slot=harmony.defineSlot(conf);harmony.enable.slot(slot.name);console.log("with breakpoints");});</script>
+
+<!-- end ad_rp01 block -->
+
+<!-- begin ad_rp02 block -->
+	<div id="cm-ad-RP02" class="RP02 cm-ad 0px-infinity"></div>
+
+	<script style="display:none">
+googletag.cmd.push(function(){var defaultSizes=[];defaultSizes.push([300,100]);var mapping=googletag.sizeMapping();var sizes=[];var conf={name:'RP02',id:'cm-ad-RP02',sizes:defaultSizes,group:'0px-infinity',adunit:cmg.adconf.adunit,outofpage:false,companion:false,mapping:mapping.build(),targeting:{ad_slot:'RP02'}};cmg.adconf.slotconf.push(conf);var slot=harmony.defineSlot(conf);harmony.enable.slot(slot.name);console.log("with breakpoints");});</script>
+
+<!-- end ad_rp02 block -->
+
+<!-- begin ad_rp09 block -->
+	<div id="cm-ad-RP09" class="RP09 cm-ad 0px-infinity"></div>
+
+	
+<!-- end ad_rp09 block -->
+
+
+<!-- facebook friends widget right rail -->
+<div class="cmModule cmCenter">
+	<div class="fb-like-box"
+		data-href="https://www.facebook.com/kiss1041fm/" data-width="293"
+		data-height="255" data-show-faces="true" data-stream="false"
+		data-header="false"></div>
+</div>
+
+<!-- begin ad_rp03 block -->
+	<div id="cm-ad-RP03" class="RP03 cm-ad 0px-infinity"></div>
+
+	<script style="display:none">
+googletag.cmd.push(function(){var defaultSizes=[];defaultSizes.push([300,250]);var mapping=googletag.sizeMapping();var sizes=[];var conf={name:'RP03',id:'cm-ad-RP03',sizes:defaultSizes,group:'0px-infinity',adunit:cmg.adconf.adunit,outofpage:false,companion:false,mapping:mapping.build(),targeting:{ad_slot:'RP03'}};cmg.adconf.slotconf.push(conf);var slot=harmony.defineSlot(conf);harmony.enable.slot(slot.name);console.log("with breakpoints");});</script>
+
+<!-- end ad_rp03 block -->
+
+<!-- begin ad_rp04 block -->
+	<div id="cm-ad-RP04" class="RP04 cm-ad 0px-infinity"></div>
+
+	<script style="display:none">
+googletag.cmd.push(function(){var defaultSizes=[];defaultSizes.push([300,100]);var mapping=googletag.sizeMapping();var sizes=[];var conf={name:'RP04',id:'cm-ad-RP04',sizes:defaultSizes,group:'0px-infinity',adunit:cmg.adconf.adunit,outofpage:false,companion:false,mapping:mapping.build(),targeting:{ad_slot:'RP04'}};cmg.adconf.slotconf.push(conf);var slot=harmony.defineSlot(conf);harmony.enable.slot(slot.name);console.log("with breakpoints");});</script>
+
+<!-- end ad_rp04 block -->
+
+<!-- begin ad_rp05 block -->
+	<div id="cm-ad-RP05" class="RP05 cm-ad 0px-infinity"></div>
+
+	<script style="display:none">
+googletag.cmd.push(function(){var defaultSizes=[];defaultSizes.push([300,100]);var mapping=googletag.sizeMapping();var sizes=[];var conf={name:'RP05',id:'cm-ad-RP05',sizes:defaultSizes,group:'0px-infinity',adunit:cmg.adconf.adunit,outofpage:false,companion:false,mapping:mapping.build(),targeting:{ad_slot:'RP05'}};cmg.adconf.slotconf.push(conf);var slot=harmony.defineSlot(conf);harmony.enable.slot(slot.name);console.log("with breakpoints");});</script>
+
+<!-- end ad_rp05 block -->
+
+<!-- begin ad_rp08 block -->
+	<div id="cm-ad-RP08" class="RP08 cm-ad 0px-infinity"></div>
+
+	
+<!-- end ad_rp08 block -->
+							
+							
+						
+					
+					
+				
+			
+		
+	</div>
+</div>
+<div class="cmClear">&nbsp;</div><!-- end centerContent block --></div>
+				<div class="cmClear"></div>
+
+				<!-- begin inner_footer_wrapper_002 block --><div class="cmInnerFooterWrap cmCol9">
+		<div id="cmFooterContainer">
+			<div
+				class="cmOuterFooterWrap theme-footer-background theme-footer-color">
+				<div id="cmFooterSiteMap" class="cmClearFix">
+					<div class="cmSiteMapColumn cmLeftFloat cmFirst">
+						<h4>Audio</h4>
+									<ul class="cmSiteMapList">
+								<li><a href="http://www.kiss104fm.com/entertainment/personalities/kiss-104-podcasts-page/8A8NzfpJ4bWlpn7tjvd9lN/" target="_self" title="">On-Demand</a>
+				</li>
+										<li><a href="http://www.kiss104fm.com/kiss-mobile-app/" target="_self" title="">Get Our App</a>
+				</li>
+										<li><a href="http://www.kiss104fm.com/lsp/" target="_self" title="search recently played music">Last Songs Played</a>
+				</li>
+										<li><a href="http://events.kiss104fm.com/" target="_self" title="find local events">Events</a></li>
+										<li><a href="http://www.kiss104fm.com/listen-online/" target="_self" title="">How to Listen Online</a>
+				</li>
+										</ul>
+									</div>
+					<!-- /footer column1-->
+					<div class="cmSiteMapColumn cmLeftFloat">
+						<h4>About Us</h4>
+									<ul class="cmSiteMapList">
+								<li>
+												<a href="http://www.kiss104fm.com/contact-us/" target="_self" title="contact information">Contact Us</a>
+				</li>
+										<li>
+												<a href="http://www.kiss104fm.com/eeoc2/" target="_self" title="employment opportunities">Work With Us</a>
+				</li>
+										<li>
+												<a href="http://www.kiss104fm.com/online/eeo-documentation/KKVdEQ3oB377w5s2t4quFM/" target="_self" title="Equal Employment Opportunity Commission statement">EEO Statement</a>
+				</li>
+										<li>
+												<a href="https://publicfiles.fcc.gov/fm-profile/walr-fm" target="_self">WALR FCC Public File</a></li>
+										</ul>
+									</div>
+					<!-- /footer column2-->
+					<div class="cmSiteMapColumn cmLeftFloat">
+						<h4>Advertisers and Sponsors</h4>
+									<ul class="cmSiteMapList">
+								<li>
+												<a href="http://www.kiss104fm.com/ads/" target="_self" title="become a featured advertiser">How to Advertise</a>
+				</li>
+										<li>
+												<a href="http://www.autotrader.com" target="_self">Cars at Autotrader</a></li>
+										<li>
+												<a href="http://www.kudzu.com" target="_self">Local Services at Kudzu</a></li>
+										</ul>
+									</div>
+					<!-- /footer column3-->
+					<div class="cmSiteMapColumn cmLeftFloat">
+						<h4>Help</h4>
+									<ul class="cmSiteMapList">
+								<li>
+												<a href="http://www.kiss104fm.com/online/audio-help/" target="_self" title="audio help / FAQ">Audio Help</a>
+				</li>
+										<li>
+												<a href="http://www.kiss104fm.com/online/video-help/" target="_self" title="">Video Help</a>
+				</li>
+										<li>
+												<a href="http://www.kiss104fm.com/online/search-help/" target="_self" title="">Search Help</a>
+				</li>
+										</ul>
+									</div>
+					<!-- /footer column4-->
+				</div>
+				<!-- /cmFooterSiteMap-->
+				<div class="cmClear">
+					<br />
+				</div>
+				<div class="cmFooterTerms">
+					<p>
+						© 2017 <a href="http://www.coxmediagroup.com">Cox Media Group</a>.
+						By using this website, you accept the terms of our <a
+							href="/visitor_agreement/">Visitor Agreement</a> and <a
+							href="/privacy_policy/">Privacy Policy</a>, and understand your
+						options regarding <a href="/privacy_policy/#ad-choices">Ad
+							Choices</a><img border="0"
+							src="//media.cmgdigital.com/shared/img/photos/2012/02/29/d3/da/ad_choices_logo.png"
+							alt="AdChoices" style="margin: 0 0 -4px 4px;" />.<br />Learn
+						about <a href="http://www.coxmediagroup.com/careers/"
+							target="_blank">careers at Cox Media Group</a><br />
+					</p>
+					<p>
+						<img
+							src="//media.cmgdigital.com/shared/img/photos/2011/03/29/rovi_logo.jpg"
+							height="16" width="30" align="middle" alt="Rovi" /> Portions of
+						Content Provided by Rovi Corporation. © 2017 Rovi Corporation<br />
+					</p>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+<!-- end inner_footer_wrapper_002 block --><div class="cmClear"></div></div>
+		</div>
+
+		<!-- begin outer_footer_wrapper_001 block --><div id="cmSiteSwitchFoot" style="display: none" class="cmSiteSwitch">
+				
+				<a href="//m.kiss104fm.com/sports/shani-davis-rips-coin-flip-determine-flag-bearer-olympics/9DqoEvOzrTqNrmUQi2ik4H/" class="cmMobileSiteLink">
+							<p>
+								<span>View mobile site</span>
+							</p>
+						</a>		
+					</div>
+			
+			<noscript>				
+				<div id="cmSiteSwitchFootNS" class="cmSiteSwitch">
+					<a href="//m.kiss104fm.com/sports/shani-davis-rips-coin-flip-determine-flag-bearer-olympics/9DqoEvOzrTqNrmUQi2ik4H/" class="cmMobileSiteLink">
+								<p>
+									<span>View mobile site</span>
+								</p>
+							</a>		
+						</div>
+			</noscript>
+			<script type="text/javascript">
+				var mobUserAgentPttn = new RegExp(
+						"iphone|ipod|android|blackberry|symbian|nokia|sonyericsson|sie-|opera\\ mini|portalmmm/|windows\ ce|windows\ phone|iemobile|up.browser|up.link|802sh|alcatel-|amoi-|attws|au-mic|audiovox|avantgo|benq|cdm-|ericsson|ericy-|gs308|hitachi-p300|htc-|i-2100|kwc-|lg-|lg/u|lge-|lge/u|lowestcd|mo0|mobilephone|mot-|motorola|n5-10|nec-|opwv|owg1|palm|panasonic|pg-c|philips|pls|pm-|pn-215|profile/midp|qci-|rl-|rpt-httpclient|sagem|samsung|sanyo|sch-a|sch-n|scp-|sec-|sendox|sgh|sharp|smartphone|spha|v60t|vi600|vk530|vm4050|vodafone|wapper|wildseed|winwap-pro"
+								.replace(/ /g, "\\s"), "i");
+				var mobBlacklistPttn = new RegExp(
+						"^/(ads|alerts|answers|audioclips|bands|categories|categories|events|documents|drinkspecials|events|features|forums|instruments|maps|mp3|lsp|onthestreet|places|playlists|podcasts|polls|pr|qa|questionnaires|recipes|restaurants|restaurants|specials|search|songs|special_coverage|staff|stories|traffic|tumble)"
+								.replace(/ /g, "\\\s"), "i");
+				if (mobUserAgentPttn.test(navigator.userAgent)
+						&& !mobBlacklistPttn.test(location.pathname)) {
+					document.getElementById('cmSiteSwitchFoot').style.display = "block";
+					document.getElementById('cmSiteSwitchHead').style.display = "block";
+				}
+			</script>
+	
+			<!-- end body_wrap_outer block-->
+
+
+		<!-- end outer_footer_wrapper_001 block --></div>
+
+	<!-- begin livefyre_auth block -->
+<script type="text/javascript">
+    cmg.query(document).ready(function() {
+        var $ = cmg.query,        
+        	// Synchronises user data between Janrain and Livefyre
+            cmg_ping_to_pull = function() {
+                if (typeof janrain !== 'undefined' && localStorage && localStorage.getItem('janrainCaptureReturnExperienceData')) {
+                    var profileData = localStorage.getItem('janrainCaptureReturnExperienceData'),
+                        baseUrl = 'http://www.kiss104fm.com',
+                        syncEndpoint = baseUrl + '/eom/PortalConfig/common/widgets/livefyre/livefyreJanrainSync.jsp';
+                    profileData = typeof profileData == "string" ? JSON.parse(profileData) : profileData;
+                    if (profileData.uuid) {
+                        jQuery.get(syncEndpoint + '?uuid=' + profileData.uuid, function(data) {
+                            if (JSON.parse(data).code === 202) {
+                                // Do nothing; the request kicks off a sync on livefyre's side.
+                                console.log('Syncing Janrain and Livefyre...');
+                            } else {
+                                console.error(data);
+                            }
+                        });
+                    } else {
+                        console.error('Problem with uuid/profileData: ', profileData);
+                    }
+                }
+            },
+            // Livefyre auth functionality
+            clear_livefyre_creds = function() {
+                var yesterday = new Date();
+                yesterday.setTime(yesterday.getTime() + (-1 * 24 * 60 * 60 * 1000));
+                document.cookie = 'backplane-channel' + '=; expires=' + yesterday.toUTCString() + '; path=/';
+                localStorage.removeItem('fyre-auth');
+            },
+            check_janrain_loggedin_status = function() {
+                var cookie_ur_name = cmg.query.cookie('ur_name', {path: '/'});
+                if (!janrain.capture.ui.hasActiveSession() && typeof cookie_ur_name !== 'string') {
+                    // Not signed in but livefyre thinks we are
+                    // delete the backplane-channel cookie and
+                    // remove the fyre-auth entry from localstorage.
+                    clear_livefyre_creds();
+                }
+            },
+            initLivefyreAuth = function() {
+                if (typeof window.Backplane === 'function') {
+                    Livefyre.require(['auth', 'backplane-auth-plugin#0'], function(auth, backplanePluginFactory){          
+                        auth.plugin(backplanePluginFactory('coxradio.fyre.co'));
+                        auth.delegate({
+                            login: function(callback) {
+                                // Setup a login successful callback to attach to janrain events.
+                                var successCallback = function(e) {
+                                    janrain.events.onCaptureLoginSuccess.removeHandler(successCallback);
+                                    cmg_ping_to_pull(); // Synchronise Janrain and Livefyre
+                                    callback(e);
+                                };
+                                // Setup a modal close callback to attach to janrain events.
+                                var modalCloseCallback = function(e) {
+                                    janrain.events.onModalClose.removeHandler(modalCloseCallback);
+                                    janrain.events.onCaptureLoginSuccess.removeHandler(successCallback);
+                                    callback(e);
+                                };
+                                // Setup a logout callback to attach to janrain events.
+                                var logoutCallback = function(e) {
+                                    auth.logout();
+                                };
+                                // Attach callbacks to janrain event handlers.
+                                janrain.events.onCaptureLoginSuccess.addHandler(successCallback);
+                                janrain.events.onCaptureSessionEnded.addHandler(logoutCallback);
+                                cmg.query(document).on('click', '.janrain-close-modal', modalCloseCallback);
+                                janrain.capture.ui.modal.open();
+                                window.Backplane.expectMessages('identity/login');
+                                janrain.events.onCaptureLoginFailed.addHandler(check_janrain_loggedin_status);
+                            },
+                            editProfile: function(delegate, author) {
+                                location.href = '/member-center/';
+                            },
+                            viewProfile: function(delegate, author) {
+                                cmg_ping_to_pull(); // Synchronise Janrain and Livefyre
+                            },
+                            logout: function(delegate) {
+                                clear_livefyre_creds();
+                                delegate();
+                            }
+                        });
+                        window.livefyre_auth = auth;
+                        $(window).trigger('livefyre.auth_initialized');        
+                    });   
+                } else {
+                    setTimeout(initLivefyreAuth, 500);
+                }
+            };
+
+        $.getScript('//cdn.livefyre.com/Livefyre.js')
+            .done(initLivefyreAuth)
+            .fail(function() {
+                $(window).trigger('livefyre.load_failure');
+                if (typeof console !== 'undefined') {
+                    console.error('Fetch of //cdn.livefyre.com/Livefyre.js failed.  Hiding commenting.');
+                }
+            });
+
+        // make sure to logout out of livefyre AND janrain
+        $(document).on('click', '.cmLogout, .fyre-logout-link', function(event) {
+        	event.preventDefault();
+        	pubsub.publish('authn-logout');
+            window.livefyre_auth.logout();
+        });
+        // Bind livefyre `sign in` to janrain
+        $(document).on('click', 'a.fyre-user-loggedout, .cm-lc-login, .cm-lc-register', function(event) {
+        	event.preventDefault();
+        	janrain.capture.ui.modal.open();
+        });
+    });
+</script><!-- end livefyre_auth block --><script src="//www.kiss104fm.com/r/PortalConfig/radio-music-wired/assets/js/core/radio-analytics.js"></script>
+	<!-- Brightcove stuff -->
+<script>
+	(function(jQuery){
+		function loadPlaylists() {
+			jQuery.when(
+					jQuery.getScript( "/_js_brightcove_common/custom-playlist.js" ),
+					jQuery.Deferred( function(deferred) {
+						jQuery(deferred.resolve );
+					})
+				).done(function(){
+					window.brightcovePlaylists.forEach(function(item){
+						if(item.playlistType.localeCompare('brightcove-playlist') == 0) {
+							var videoWidth = jQuery('#'+item.id).parent().width();
+							videojs(item.id).customPlaylist({ 
+								width: videoWidth
+							});
+						}
+					});
+					setTimeout(function() {
+						jQuery('.brightcovePlaylist').each(function(index, item) {
+							var el = jQuery(this);
+							var newHeight = parseInt(el.css('width'), 10) * 6 / 11 + 10 + 130;
+							el.css('height', newHeight);
+						});
+					}, 1000);
+				});
+		};
+		
+		function resizeLegacyPlaylist(brightcoveManager) {
+			var contentWidth = document.getElementsByClassName('cm_mobBodyContent')[0] && document.getElementsByClassName('cm_mobBodyContent')[0].clientWidth;
+			var legacyInlinePlayers = document.getElementsByClassName('xsm-blockstyle-align-fullwidth legacyPlayer');
+			if(legacyInlinePlayers && contentWidth) {
+				[].forEach.call(legacyInlinePlayers, function(el) {
+					if(el.style && contentWidth) {
+						var width = contentWidth > 600 ? '600' : contentWidth;
+						el.style.width = width + 'px';
+						el.style.height = width + 'px';
+					}
+				});
+			}
+			var legacyPlayers = document.getElementsByClassName('provider-brightcove legacyPlayer');
+			if(legacyPlayers) {
+				[].forEach.call(legacyPlayers, function(el) {
+					var parentWidth = el.parentElement.clientWidth;
+					if(el.style && parentWidth) {
+						var width = parentWidth > 600 ? '600' : parentWidth;
+						el.style.width = width + 'px';
+						el.style.height = width + 'px';
+					}
+				});
+			}
+			brightcovevideos = window.brightcovevideos || [];
+			brightcoveManager.init(cmg, brightcovevideos);
+			cmg.query(brightcove.createExperiences);
+		}
+		
+		
+		jQuery(document).one('ready',function(){
+			if (jQuery('.brightcovePlaylist').length) 
+			{
+				loadPlaylists();
+			}
+			
+			if (jQuery('.BrightcoveExperience').length) 
+			{
+				jQuery.when(
+						jQuery.getScript( "http://admin.brightcove.com/js/BrightcoveExperiences.js" ),
+						jQuery.getScript( "/_js_brightcove_common/ExternalAd_BC_Prod.js,cmgPlayerModule.js" ),
+						jQuery.Deferred( function(deferred) {
+							jQuery(deferred.resolve );
+						})
+					).done(function(){
+						var brightcoveManager = new brightcovePlayerManager();
+						resizeLegacyPlaylist(brightcoveManager);
+					});
+			}
+		});
+	}(jQuery));
+	//# sourceURL=brightcove-dependencies-loading.js
+</script><!-- begin adcollector block --><script style="display:none">
+googletag.cmd.push(function(){harmony.one('ready',function(){harmony.show.group('0px-infinity');});});</script>
+<script style="display:none">
+googletag.cmd.push(function(){if(window.newrelic){newrelic.addPageAction('cmg_ads_pageview',{cmg_ads_page_type:cmg.adconf.targeting.obj_type,cmg_ads_environment:cmg.adconf.targeting.environ,cmg_ads_media_type:cmg.adconf.targeting.mediatype,cmg_ads_adunit:cmg.adconf.adunit,cmg_ads_adunit_level_one:'atlanta_ra',cmg_ads_adunit_level_two:'walr_web_default'});var then=Date.now();harmony.one('slotRenderEnded',function(){newrelic.addPageAction('cmg_ads_rendered',{cmg_ads_render_time:Date.now()-then,cmg_ads_page_type:cmg.adconf.targeting.obj_type,cmg_ads_environment:cmg.adconf.targeting.environ,cmg_ads_media_type:cmg.adconf.targeting.mediatype,cmg_ads_adunit:cmg.adconf.adunit,cmg_ads_adunit_level_one:'atlanta_ra',cmg_ads_adunit_level_two:'walr_web_default'});},true);}
+harmony.load.targeting(cmg.adconf.targeting);harmony.load.breakpoints(cmg.adconf.breakpoints);if(cmg.adconf.breakpoints.length){var currentBP=harmony.breakpoint();cmg.adconf.targeting.breakpoint=currentBP+'px';googletag.pubads().setTargeting('breakpoint',currentBP+'px');harmony.trigger('update/slots',currentBP);harmony.on('breakpoint/update',function(bp){googletag.pubads().clear();googletag.pubads().setTargeting('breakpoint',bp+'px');harmony.trigger('update/slots',bp);harmony.show.all();console.info('Ad System Update: Targeting key "breakpoint" changed to "'+bp+'px"');},true);}
+harmony.show.group('default');harmony.trigger('ready');});</script>
+<script style="display:none">
+harmony.one('ready',function(){function append(msg){msg=msg||'';log+=msg+'\n';}
+function title(name){log+='\n';log+=name;log+='\n-------------\n'}
+var log='/* -----===== Begin Ad Logs =====----- */\n';title('Ad Unit:');append(cmg.adconf.adunit||'ERROR: Ad unit could not be calculated!');if(cmg.adconf.adunitOverride){append('WARNING: Ad unit override is active.');}
+title('Breakpoints:');append(cmg.adconf.breakpoints.length?cmg.adconf.breakpoints:'None defined');title('System Targeting:');append(JSON.stringify(cmg.adconf.targeting,null,3)||'WARNING: None defined.');title('Slot Configurations:');if(!cmg.adconf.slotconf.length){append('WARNING: This page contains no ad slots.');}
+var slotList=[];cmg.adconf.slotconf.forEach(function(slot){if(slotList.indexOf(slot.name)==-1){slotList.push(slot.name);append(slot.name);append('. default sizes:');slot.sizes=slot.sizes||[];if(!slot.sizes.length){append('\tNone defined');}
+slot.sizes.forEach(function(size){append('\t'+size);});append('. group: '+slot.group);append('. companion? '+(slot.companion?'yes':'no'));append('. out-of-page? '+(slot.interstitial?'yes':'no'));append('. targeting: '+JSON.stringify(slot.targeting,null,3));append('. size mapping:');slot.mapping=slot.mapping||[];if(!slot.mapping.length){append('\tNone defined');}
+slot.mapping.forEach(function(breakpoint){append('\tat width '+breakpoint[0][0]+'px, use sizes:');if(!breakpoint[1].length){append('\t\tNone defined');}
+breakpoint[1].forEach(function(size){append('\t\t'+size);});});append();}});title('System Information:');append('Methode tags version 3.9.0');append('Harmony version '+harmony.version);log+='\n/* -----====== End Ad Logs ======----- */\n';console.info(log);});</script>
+<!-- end adcollector block --><!-- begin footer_scripts block --><!-- end footer_scripts block --><script>
+		_satellite.pageBottom();
+	</script>
+	
+	
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"26274291","applicationTime":72,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"aaf23b031f","transactionName":"MQYHNRZYCkZVBxcKVghMLzI0FgFaWUszDEsSAgkiC1cCXFNLEQJdDww6UVQLAFhBFwoAZlZTVwUTUBZQUEsJE01JBRcACVwXUEA7CRNN","agent":"","errorBeacon":"bam.nr-data.net"}</script>
+
+</body>
+</html>

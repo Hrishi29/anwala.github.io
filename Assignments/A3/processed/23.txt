@@ -1,0 +1,12 @@
+googletag.slots["infinite_scroll_separator"] = googletag.defineSlot("1107919/infiniteScroll_separator", [[970, 250], [300, 250], [728, 90], [1006, 500], [970, 90], [1340, 500], [1237, 500]], "dfp-ad-infinite_scroll_separator")
+The Democratic memo is intended to rebut a GOP document released last week alleging that the FBI and Department of Justice (DOJ) misused their authority to obtain a surveillance order on a former Trump campaign adviser.
+In a letter sent Friday to Intelligence Committee Chairman Devin Nunes
+Schiff blasted that decision, accusing Trump of harboring a double standard in blocking the Democratic memo after he approved the release of the GOP-drafted memo despite objections from the FBI and DOJ.
+Schiff said Intelligence Committee Democrats had submitted the memo to the DOJ and FBI for vetting before the panel voted to release the document, and that minority members of the committee would review redactions recommended by the agencies.
+"We will be reviewing the recommended redactions from DOJ and FBI, which these agencies shared with the White House, and look forward to conferring with the agencies to determine how we can properly inform the American people about the misleading attack on law enforcement by the GOP and address any concerns over sources and methods," he said in a statement.
+After ignoring urging of FBI & DOJ not to release misleading Nunes memo because it omits material facts, @POTUS now expresses concerns over sharing precisely those facts with public and seeks to send it back to the same Majority that produced the flawed Nunes memo to begin with: pic.twitter.com/qNVyS99eXs
+— Adam Schiff (@RepAdamSchiff) February 9, 2018
+Democrats fiercely criticized the Republican memo, which they said omitted key facts that would have put the information in the proper context. They have accused Republicans of seeking to undermine the investigation into Russian meddling in the 2016 election in order to protect Trump from scrutiny. 
+The Hill 1625 K Street, NW Suite 900 Washington DC 20006 | 202-628-8500 tel | 202-628-8503 fax
+The contents of this site are ©2018 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc.
+"keywords": "nunes memo, Democratic memo, Russia Investigation,Donald Trump, Devin Nunes, Adam Schiff,House Intelligence Committee, FBI, Justice Department"

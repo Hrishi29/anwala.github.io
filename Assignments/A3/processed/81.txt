@@ -1,0 +1,18 @@
+true:false},BlackBerry:function(){return navigator.userAgent.match(/BlackBerry/i)?true:false},iOS:function(){return navigator.userAgent.match(/iPhone|iPad|iPod/i)?true:false},iPhone:function(){return navigator.userAgent.match(/iPhone|iPod/i)?true:false},iPad:function(){return navigator.userAgent.match(/iPad/i)?true:false},Windows:function(){return navigator.userAgent.match(/IEMobile/i)?true:false},FirefoxOS:function(){return navigator.userAgent.match(/Mozilla/i)&&navigator.userAgent.match(/Mobile/i)?
+true:false},Retina:function(){return window.retina||window.devicePixelRatio>1?true:false},any:function(){return isMobile.Android()||isMobile.Kindle()||isMobile.KindleFire()||isMobile.Silk()||isMobile.BlackBerry()||isMobile.iOS()||isMobile.Windows()||isMobile.FirefoxOS()},all:function(){return navigator.userAgent},tablet:function(){return isMobile.AndroidTablet()||isMobile.iPad()||isMobile.Kindle()||isMobile.KindleFire()||isMobile.Silk()}};
+"Military Honor","Military Honor","Military Honor","Military Honor","Service Members of the Year","Service Members of the Year","Service Members of the Year","Service Members of the Year","Service Members of the Year"]);googletag.pubads().setTargeting("ID",["5USEZA2AB5E7BHUYH3JXDTF5V4"]);googletag.pubads().setTargeting("URL",["https://www.militarytimes.com/news/your-military/2018/02/09/soldiers-at-olympics-sean-spicer-and-12-year-old-on-list-of-100-most-influential/"]);googletag.pubads().setTargeting("page-type",
+By: Nicole Bauke February 9
+Sgt. First Class Nate Weber and Sgt. Justin Olsen of the U.S. Army World Class Athlete Program are competing at the 2018 Winter Olympics. They are on the list of 100 most influential members of the military community, HillVets announced.
+What do two Olympic bobsledders, former White House Press Secretary Sean Spicer and a 12-year-old from Northern California have in common? They are all on HillVets’ list of the top 100 most influential members of the military community for 2017.
+The full list, released by HillVets on Friday, includes military service members, veterans and advocates who strengthen the military community and address veterans’ issues around the country.
+This year’s list includes, for the first time, all five of the Military Times’ 2017 Service Members of the Year .
+It also includes Military Times’ award-winning journalist Leo Shane III , who is the only HillVets 100 recipient to receive the award in all four years of its existence.
+“Warrior athletes” who were honored include New England Patriots long snapper Joe Cardona , awaiting his first overseas assignment with the U.S. Navy in the Korean Peninsula, as well as Sgt. First Class Nate Weber and Sgt. Justin Olsen, members of the U.S. bobsledding team competing in Pyeongchang, South Korea, for the 2018 Winter Olympics.
+Sgt. Justin Olsen, a New York Army National Guard soldier and bobsledder who is participating in the 2018 Winter Olympics in South Korea, has been named a HillVets "Warrior Athlete." (New York National Guard)
+Sen. John McCain was honored with a Lifetime of Achievement Award, as was Brig. Gen. Anna Mae Hays, the first women to achieve the rank of general in the U.S. military. Hays died on Jan. 7 at the age of 97.
+Spicer, as well as Defense Secretary Jim Mattis, White House Chief of Staff John Kelly, and Veterans Affairs Secretary David Shulkin, were awarded for their work as government officials. Shulkin was also a recipient of the award in 2016.
+Get the Marine Corps Times Daily News Roundup
+Don't miss the top Marine Corps stories, delivered each afternoon
+Subscribe
+http://www.marinecorpstimes.com © 2018 Sightline Media Group
+Not A U.S. Government Publication

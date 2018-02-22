@@ -1,0 +1,8 @@
+Ligas
+La Liga
+Liga Athletic Bilbao Atlético Madrid C.D. Leganés Celta de Vigo Deportivo Alavés Deportivo La Coruña Espanyol FC Barcelona Getafe Girona Las Palmas Levante Málaga Real Betis Real Madrid Real Sociedad SD Eibar Sevilla FC Valencia Villarreal
+Liga MX
+Liga América Atlas Chivas de Guadalajara Club Necaxa Cruz Azul León Lobos Buap Monarcas Morelia Monterrey Pachuca Puebla Pumas U.N.A.M. Querétaro Santos Laguna Tiburones Rojos de Veracruz Tigres U.A.N.L. Tijuana Toluca
+Liga Argentina
+Liga Argentinos Juniors Arsenal de Sarandí Club Atlético Talleres de Córdoba Atlético Tucumán Banfield Belgrano Boca Juniors Rosario Central Chacarita Juniors Colón Defensa y Justicia Estudiantes de La Plata Gimnasia La Plata Godoy Cruz Huracán Independiente Lanús Newell's Old Boys Olimpo Patronato Racing Club River Plate San Lorenzo San Martín de San Juán Temperley Tigre Unión de Santa Fé Vélez Sarsfield
+MLS

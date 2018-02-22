@@ -1,0 +1,15 @@
+February 9, 2018 at 4:24 pm
+February 11, 2018 at 11:56 pm
+Early-bird tix on sale for the GeekWire Bash!
+The Intel drone light show team produces a performance for the PyeongChang Winter Olympics, featuring more than 1,200 Intel Shooting Star drones. (Intel Photo)
+The Winter Olympics’ first-ever drone light show has earned Intel the title from Guinness World Records for the “most unmanned aerial vehicles airborne simultaneously.”
+There might be an asterisk in the record book, however: The show didn’t actually take place at today’s opening ceremony for the PyeongChang Olympics in South Korea. Instead, it was pre-recorded last December for broadcast during the event, just to make sure that bad weather or a technical glitch didn’t spoil the view.
+The synchronized flight of 1,218 Intel Shooting Star drones broke Intel’s previous record of 500 drones, flown simultaneously in Germany in 2016. The performance also surpassed the 300-drone salute that was pre-recorded with Lady Gaga for Super Bowl LI last year.
+For the Olympic show, Intel’s drones were programmed to paint the sky with colorful imagery, including the 3-D outline of a snowboarder that morphed into the Olympic rings.
+Intel’s robotic fireflies are quadcopters that weigh 12 ounces, or as much as a can of soda, and are equipped with an array of LED lights. All the drones for the shows are controlled by one computer and one drone pilot.
+In addition to the drone show for the opening ceremony, Intel designed and developed custom animations keyed to different sports for the Olympics’ nightly victory ceremonies.
+“We are honored to have Intel drones playing several roles at the Olympic Games,” Anil Nanduri, vice president and general manager of Intel Drone Group, said in a news release . “Not unlike the athletes competing in the events, we continue to push to innovate and develop the drone technologies that inspire people all over the world.”
+Intel’s Shooting Star drones are designed to put on a synchronized show. (Intel Photo)
+Intel’s Shooting Star drones are designed specifically for entertainment purposes , providing an indoor-outdoor alternative to fireworks.
+But Intel makes other types of drones for more traditional applications such as aerial photography and inspections, as well as the software platforms to go with them.
+Intel Capital has also invested in ventures ranging from Yuneec for hobbyist drones, to PrecisionHawk for aerial surveys, to Volocopter for air taxis.

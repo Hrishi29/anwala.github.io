@@ -1,0 +1,13 @@
+googletag.slots["infinite_scroll_separator"] = googletag.defineSlot("1107919/infiniteScroll_separator", [[970, 250], [300, 250], [728, 90], [1006, 500], [970, 90], [1340, 500], [1237, 500]], "dfp-ad-infinite_scroll_separator")
+Trump is breaking with precedent set by seven past presidents in choosing to rarely read the President's Daily Brief (PDB), which includes what officials have deemed to be the most important U.S. intelligence from hot spots around the globe.
+Reading the report is not Trump’s chosen “style of learning,” one source told the Post.
+Administration officials told the Post that Trump still receives full briefings and that different presidents get the intelligence in different ways.
+ADVERTISEMENT
+Daniel (Dan) Ray Coats The danger of injecting politics into our American intelligence agencies Dan Coats met with Kelly to air concerns about memo release: report CIA head defends meeting with Russian spy chief MORE told the Post that “any notion that President Trump is not fully engaged in the PDB or does not read the briefing materials is pure fiction and is clearly not based on firsthand knowledge of the process.”
+He added that Trump "engages for significantly longer periods than I understand many previous presidents have done.”
+However, top experts — including former CIA Director Leon Panetta — said that Trump could be missing valuable context by not reading the full briefing, which could put himself and the U.S. in a more vulnerable position.
+“Something will be missed,” Panetta told the Post. “If for some reason his instincts on what should be done are not backed up by the intelligence because he hasn’t taken the time to read that intel, it increases the risk that he will make a mistake.”
+Trump’s intelligence briefings have been a point of interest since he took office. Intelligence analysts have been recommended to keep their daily briefings with Trump short, limiting them to three topics and keeping their findings to a single page.
+The briefings have also reportedly been structured in a way that won’t upset Trump, including having information about Russia only included in the written version of the briefing.
+The Hill 1625 K Street, NW Suite 900 Washington DC 20006 | 202-628-8500 tel | 202-628-8503 fax
+The contents of this site are ©2018 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc.

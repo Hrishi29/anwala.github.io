@@ -1,0 +1,1217 @@
+<!doctype html>
+<html class="" lang="">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcFV1RSGwAJUlhTBAY="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<title>Pyeongchang Olympics 2018 Opening Ceremony | Billboard</title>
+<meta name="title" property="title" content="Pyeongchang Olympics 2018 Opening Ceremony" />
+<meta name="description" property="description" content="The 2018 Winter Olympics in Pyeongchang, South Korea have officially kicked off with Friday’s (Feb. 9) luminous Opening Ceremony." />
+<meta name="og:title" property="og:title" content="Pyeongchang Olympics 2018 Opening Ceremony: USA Relives &#039;Gangnam Style,&#039; Themes of Peace, the Tonga Flag Bearer Returns &amp; More" />
+<meta name="og:description" property="og:description" content="The 2018 Winter Olympics in Pyeongchang, South Korea have officially kicked off with Friday’s (Feb. 9) luminous Opening Ceremony." />
+<meta name="og:image" property="og:image" content="https://www.billboard.com/files/media/16-Pyeongchang-2018-Winter-Olympic-Games-opening-ceremony-billboard-1548.jpg" />
+<meta name="og:image:width" property="og:image:width" content="1548" />
+<meta name="og:image:height" property="og:image:height" content="1024" />
+<meta name="og:image:type" property="og:image:type" content="image/jpeg" />
+<meta name="og:url" property="og:url" content="https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights" />
+<meta name="twitter:card" property="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" property="twitter:creator" content="" />
+<meta name="twitter:creator:id" property="twitter:creator:id" content="" />
+<meta name="twitter:url" property="twitter:url" content="https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights" />
+<meta name="twitter:title" property="twitter:title" content="Pyeongchang Olympics 2018 Opening Ceremony: USA Relives &#039;Gangnam Style,&#039; Themes of Peace, the Tonga Flag Bearer Returns &amp; More" />
+<meta name="twitter:description" property="twitter:description" content="The 2018 Winter Olympics in Pyeongchang, South Korea have officially kicked off with Friday’s (Feb. 9) luminous Opening Ceremony." />
+<meta name="twitter:image" property="twitter:image" content="https://www.billboard.com/files/media/16-Pyeongchang-2018-Winter-Olympic-Games-opening-ceremony-billboard-1548.jpg" />
+<meta name="twitter:site" content="@billboard">
+<meta property="og:site_name" content="Billboard" />
+<meta property="og:type" content="article" />
+<link rel="canonical" href="https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights">
+<link rel="amphtml" href="https://www.billboard.com/amp/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights">
+<link rel="shortcut icon" href="https://assets.billboard.com/assets/1517605814/images/favicon.ico?3af3b0f976f90a8fef05" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://assets.billboard.com/assets/1517605814/images/BB_favicon144.png?3af3b0f976f90a8fef05">
+<script type="text/javascript">
+    
+    var PGM = window.PGM || {};
+    PGM.config = PGM.config || {
+        contentHost: "http://www.billboard.com",
+    };
+    (function(PGM) {
+        var debug_queue = [];
+        PGM.debug = function() {debug_queue.push(arguments);};
+        PGM.debug.dump = function() {return debug_queue;}
+        PGM.debug.initialCategories = {
+                    };
+    })(PGM);
+
+    PGM.events = (function() {
+        var events_queue = [];
+        return {
+            trigger: function() {events_queue.push(arguments); },
+            get: function() { return events_queue; }
+        };
+    })();
+
+    PGM.createScript = (function() {
+        var q = [], cs = function createScript() { q.push(arguments) };
+        cs.dump = function() {return q;};
+        return cs;
+    })();
+
+    PGM.createScriptTag = (function() {
+        var q = [], cs = function createScriptTag() { q.push(arguments) };
+        cs.dump = function() {return q;};
+        return cs;
+    })();
+
+        PGM.tests = [];
+    PGM.ads = PGM.ads || {};
+    PGM.ads.adUnit = '/';
+    PGM.ads.slots = PGM.ads.slots || {};
+</script>
+<script src="https://ads.blbrd.co/advertisement.js"></script>
+
+<script>
+		    window.CLARITY_GPT_DELAY = 0.01 * 1000;
+	
+			clarityPageData = {"site_code":"billboard","zone":"","disable_initial_load":true,"single_request_mode":true};
+		
+</script>
+<script type="text/javascript">
+    (function(){
+        window.CLARITY = window.CLARITY || [];
+        var ns = document.createElement('script'), s = document.getElementsByTagName('script')[0];
+        ns.async = true; ns.type = 'text/javascript'; ns.src = '//lib.pgmcdn.com/clarity-1516305985117.min.js'; s.parentNode.insertBefore(ns, s);
+    })();
+</script>
+<script>
+	!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+	apstag.init({
+        pubID: 3125,
+        adServer: 'googletag',
+        videoAdServer: 'DFP',
+        bidTimeout: 600
+    });
+
+	// Tell Clarity not to load a9
+    CLARITY.push({
+        use: ['header'],
+        run: function(header) {
+            header.skipJsInject('a9');
+        }
+    });
+</script>
+<script>
+                CLARITY.push({
+                    use: ['header'],
+                    run: function(header) {
+                                                    var slotData = [
+                                                                    ["m1_1", "/6419/billboard/articles/news", [[300,250],[300,600]], "m1", {"1024":[[300,250],[300,600]],"768":[[300,250],[300,600]],"0":[[320,50],[300,250]]}, 0],,                                                                    ["m2_1", "/6419/billboard/articles/news", [[300,250]], "m2", {"1024":[[300,250]],"768":[[300,250]],"0":[[320,50],[300,250]]}, 0],,                                                                    ["t_1", "/6419/billboard/articles/news", [[970,250],[728,90],[970,90]], "t", {"1024":[[970,250],[728,90],[970,90]],"768":[[728,90]],"0":[[320,50]]}, 0],                                                            ];
+
+                            // Add header slots then run,
+                            // any slots added after initial run will be processed differently
+                            for(var i=0; i<slotData.length; i++) {
+                                header.addHeaderSlot.apply(header, slotData[i]);
+                            }
+                        
+                        header.run({"a9":{"account_id":3125}});
+                    }
+                });
+            </script>
+<script type="text/javascript">
+    
+    var PGM = window.PGM || {};
+    PGM.mediaQueries = {
+        medium: "only screen and (min-width: 768px)",
+        large: "only screen and (min-width: 1024px)"
+    };
+    PGM.ads = PGM.ads || {};
+
+</script>
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+var PGM = PGM || {};
+PGM.ads = PGM.ads || {};
+PGM.ads.data = {"ad_zone":"","targeting":{"tags_global":["fe-api","articles","news","8099061","pyeongchang-olympics-2018-opening-ceremony-highlights","[node:chart_primary_category]"],"page":"8099061","tags":["Olympics","bbnews","News","news","winter-olympics"],"env":"prod"},"slots":{"b4":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"b4","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[88,31],[120,60]],"768":[[88,31],[120,60]],"0":[[88,31],[120,60]]},"defaultSizes":[[88,31],[120,60]],"targetingParameters":[],"chartLine":null,"lazyLoad":false},"bbwatch1":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"bbwatch1","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[88,31],[120,60]],"768":[[88,31],[120,60]],"0":[[88,31],[120,60]]},"defaultSizes":[[88,31],[120,60]],"targetingParameters":{"pos":"bbwatch1"},"chartLine":null,"lazyLoad":false},"bbwatch2":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"bbwatch2","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,50]],"768":[[300,50]],"0":[[300,50]]},"defaultSizes":[[300,50]],"targetingParameters":{"pos":"bbwatch2"},"chartLine":null,"lazyLoad":false},"g1":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"g1","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250]],"768":[[300,250]],"0":[[300,250]]},"defaultSizes":[[300,250]],"targetingParameters":{"pos":"g1"},"chartLine":null,"lazyLoad":false},"t2":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"t2","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[644,380],[620,380]],"768":[[728,90],[644,380],[620,380]],"0":[[300,50],[320,50],[300,300]]},"defaultSizes":[[644,380],[620,380]],"targetingParameters":{"pos":"t2"},"chartLine":null,"lazyLoad":false},"lis":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"lis","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[92,28]],"768":[[92,28]],"0":[[92,28]]},"defaultSizes":[[92,28]],"targetingParameters":{"pos":"lis"},"chartLine":"0","lazyLoad":false},"longform_t2":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"longform_t2","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[728,90]],"768":[[728,90]],"0":[[300,300]]},"defaultSizes":[[728,90]],"targetingParameters":{"pos":"t2"},"chartLine":null,"lazyLoad":false},"m":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250]],"768":[[300,250]],"0":[[300,50],[320,50]]},"defaultSizes":[[300,250]],"targetingParameters":{"pos":"m"},"chartLine":null,"lazyLoad":false},"lightbox":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"lightbox","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600]],"768":[[728,90]],"0":[[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"lightbox"},"chartLine":null,"lazyLoad":false},"m_artists":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m_artists","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250]],"768":[[300,250]],"0":[[300,250],[300,50],[320,50]]},"defaultSizes":[[300,250]],"targetingParameters":{"pos":"m"},"chartLine":null,"lazyLoad":false},"t":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"t","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[990,350],[970,250],[728,90],[970,90],[970,66],[728,91],[980,50],[980,250]],"768":[[728,91],[728,90]],"0":[[300,50],[320,50],[320,170],[320,51]]},"defaultSizes":[[990,350],[970,250],[728,90],[970,90],[970,66],[728,91],[980,50],[980,250]],"targetingParameters":{"pos":"t"},"chartLine":null,"lazyLoad":false},"m2":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m2","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,252]],"768":[[300,250],[300,252]],"0":[[300,50],[320,50],[300,250]]},"defaultSizes":[[300,250],[300,252]],"targetingParameters":{"pos":"m2","dartlegolas":"segments","amazon":"1"},"chartLine":"7","lazyLoad":false},"a":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"a","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[728,90],[728,92],[728,66]],"768":[[728,90],[728,92],[728,66]],"0":[[300,50],[320,50]]},"defaultSizes":[[728,90],[728,92],[728,66]],"targetingParameters":{"pos":"a","dartlegolas":"segments","amazon":"1"},"chartLine":null,"lazyLoad":false},"b1":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"b1","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[88,31],[120,60]],"768":[[88,31],[120,60]],"0":[[88,31],[120,60]]},"defaultSizes":[[88,31],[120,60]],"targetingParameters":{"pos":"b1"},"chartLine":null,"lazyLoad":false},"b3":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"b3","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[88,31],[120,60]],"768":[[88,31],[120,60]],"0":[[88,31],[120,60]]},"defaultSizes":[[88,31],[120,60]],"targetingParameters":[],"chartLine":null,"lazyLoad":false},"bb":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"bb","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[970,90],[970,250],[980,250],[728,90]],"768":[[728,90]],"0":[[320,50],[300,50]]},"defaultSizes":[[970,90],[970,250],[980,250],[728,90]],"targetingParameters":{"pos":"bb"},"chartLine":null,"lazyLoad":false},"m1":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m1","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600],[300,251]],"768":[[300,250],[300,600],[300,251]],"0":[[300,50],[320,50],[300,250]]},"defaultSizes":[[300,250],[300,600],[300,251]],"targetingParameters":{"pos":"m1","amazon":"1"},"chartLine":"0","lazyLoad":false},"m10":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m10","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600]],"768":[[300,250],[300,600]],"0":[[300,250],[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"m10"},"chartLine":"77","lazyLoad":false},"m11":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m11","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600]],"768":[[300,250],[300,600]],"0":[[300,250],[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"m11"},"chartLine":"89","lazyLoad":false},"m12":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m12","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600]],"768":[[300,250],[300,600]],"0":[[300,250],[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"m12"},"chartLine":"94","lazyLoad":false},"m13":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m13","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600]],"768":[[300,250],[300,600]],"0":[[300,250],[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"m13"},"chartLine":"109","lazyLoad":false},"m14":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m14","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600],[300,1050]],"768":[[300,250],[300,600],[300,1050]],"0":[[300,250],[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600],[300,1050]],"targetingParameters":{"pos":"m14"},"chartLine":"119","lazyLoad":false},"m15":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m15","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600]],"768":[[300,250],[300,600]],"0":[[300,250],[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"m15","dartlegolas":"segments"},"chartLine":"129","lazyLoad":false},"m16":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m16","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600]],"768":[[300,250],[300,600]],"0":[[300,250],[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"m16"},"chartLine":"139","lazyLoad":false},"m17":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m17","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600]],"768":[[300,250],[300,600]],"0":[[300,250],[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"m17"},"chartLine":"159","lazyLoad":false},"m18":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m18","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600]],"768":[[300,250],[300,600]],"0":[[300,250],[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"m18"},"chartLine":"159","lazyLoad":false},"m1_iframe":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m1_iframe","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,251]],"768":[[300,250],[300,251]],"0":[[300,50],[320,50]]},"defaultSizes":[[300,250],[300,251]],"targetingParameters":{"pos":"m1","amazon":"1"},"chartLine":null,"lazyLoad":false},"m2_iframe":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m2_iframe","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,252]],"768":[[300,250],[300,252]],"0":null},"defaultSizes":[[300,250],[300,252]],"targetingParameters":{"pos":"m2"},"chartLine":null,"lazyLoad":false},"m3":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m3","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600]],"768":[[300,250],[300,600]],"0":[[300,50],[320,50],[300,250]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"m3"},"chartLine":"19","lazyLoad":false},"m4":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m4","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600]],"768":[[300,250],[300,600]],"0":[[320,50],[300,50],[200,250]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"m4"},"chartLine":"27","lazyLoad":false},"m5":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m5","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600]],"768":[[300,250],[300,600]],"0":[[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"m5"},"chartLine":"33","lazyLoad":false},"m6":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m6","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600]],"768":[[300,250],[300,600]],"0":[[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"m6"},"chartLine":"39","lazyLoad":false},"m7":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m7","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600]],"768":[[300,250],[300,600]],"0":[[300,250],[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"m7"},"chartLine":"47","lazyLoad":false},"m8":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m8","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600],[300,1050]],"768":[[300,250],[300,600]],"0":[[300,250],[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600],[300,1050]],"targetingParameters":{"pos":"m8"},"chartLine":"60","lazyLoad":false},"m9":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"m9","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[300,250],[300,600]],"768":[[300,250],[300,600]],"0":[[300,250],[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"m9"},"chartLine":"66","lazyLoad":false},"o1":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"o1","outOfBody":true,"responsive":true,"sizeMapping":{"1024":null,"768":null,"0":null},"defaultSizes":null,"targetingParameters":{"pos":"o1"},"chartLine":null,"lazyLoad":false},"top":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"top","outOfBody":false,"responsive":true,"sizeMapping":{"1024":[[990,350],[970,250],[970,90],[970,66],[728,91],[980,50],[980,250]],"768":[[728,91]],"0":null},"defaultSizes":[[990,350],[970,250],[970,90],[970,66],[728,91],[980,50],[980,250]],"targetingParameters":{"pos":"t"},"chartLine":null,"lazyLoad":false},"tout":{"adUnit":"\/6419\/billboard\/articles\/news","slotName":"tout","outOfBody":false,"responsive":true,"sizeMapping":{"1024":null,"768":null,"0":null},"defaultSizes":null,"targetingParameters":{"pos":"tout"},"chartLine":null,"lazyLoad":false}}};
+PGM.ads.slots = PGM.ads.slots || {};
+PGM.autoplayers = ["HynaCuMbg","S1endnWG9x","HyHqRqMw"];
+
+CLARITY = CLARITY || [];
+
+CLARITY.push({
+    use: ["ads", "jquery"],
+    run: function(Ads, $){
+        if( typeof Krux !== 'undefined' ) {
+            Ads.addKeyVal("all", "ksg", Krux.segments);
+            Ads.addKeyVal("all", "kuid", Krux.user);
+        }
+
+        var $embeddedVideos = $('.embedded-content[data-template="video"]');
+        if($embeddedVideos.length) {
+            // Wish we could do this in the module but it's too late by then
+            // for now all embedded videos are autoplay
+            Ads.addKeyVal("all", "video", "autoplay");
+        } else {
+            // Else check if it's one of our autoplay videos
+            $('video').each(function () {
+                var $vid = $(this),
+                    player = $vid.data('player'),
+                    account = $vid.data('account');
+
+                if (PGM.autoplayers.indexOf(player) >= 0) {
+                    // If there are any auto-play vids stop
+                    Ads.addKeyVal("all", "video", "autoplay");
+                    return false;
+                } else if (account) {
+                    Ads.addKeyVal("all", "video", "click-to-play");
+                    // if there are click-to-plays there could still be an auto-play somewhere, continue
+                }
+            });
+        }
+    }
+});
+</script>
+<script type='text/javascript'>
+PGM.ads.adUnit = '/6419/billboard/articles/news';
+
+CLARITY.push({
+    use: ["ads"],
+    run: function(Ads){
+            }
+});
+</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1266747-9']);
+    _gaq.push(['_setDomainName', 'billboard.com']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+
+            _gaq.push(["_setCustomVar", 1, "author", "Rania Aniftos"]);
+
+            _gaq.push(["_setCustomVar", 2, "pubDate", "2018020922"]);
+
+    
+</script>
+
+<script type="text/javascript">
+        var dataLayer = dataLayer || [];
+        dataLayer.push({
+            'fireGTM': 'on'
+                        , 'contentId': '8099061'
+
+                    , 'contentType': 'article'
+
+                    , 'author': 'Rania Aniftos'
+
+                    , 'category': 'News'
+
+                    , 'tags': 'Olympics, bbnews'
+
+                    , 'publishDate': '2018020922'
+
+            
+        });
+        dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+        PGM.createScript('//www.googletagmanager.com/gtm.js?id=GTM-MD3ZLS');
+    </script>
+
+
+<script>
+    var _comscore = _comscore || [];
+    var comscoreVars = {
+        c1: "2"
+        ,c2: "7395269"
+        ,c3: ""
+        };
+    _comscore.push(comscoreVars);
+    </script>
+<script type="text/javascript" data-src="https://sb.scorecardresearch.com/beacon.js"></script>
+<noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=7395269&cv=2.0&cj=1" />
+</noscript>
+
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+<link rel="stylesheet" type="text/css" href="https://assets.billboard.com/assets/1517605814/css/article.css?3af3b0f976f90a8fef05">
+<script type='text/javascript'>
+        var BB = BB || {};
+        BB.config = BB.config || {
+            contentHost: "http://www.billboard.com",
+            mediaHost: "http://www.billboard.com"
+        };
+    </script>
+</head>
+<body class="article-page" data-trackcategory="Article" data-twitter-handle="billboard">
+<div class="header-wrapper">
+<header id="site-header" class="site-header " role="banner">
+<div class="site-header__background">
+<div class="site-header__contents">
+<div class="site-header__bar">
+<button class="site-header__nav-toggle"><i class="fa fa-bars"></i></button>
+<h1 class="site-header__brand">
+<a class="site-header__brand-link" href="/">
+<img class="site-header__brand-logo" src="https://assets.billboard.com/assets/1517605814/images/Billboard-white.svg?3af3b0f976f90a8fef05" alt="Billboard">
+<span class="site-header__brand-name">Billboard</span>
+</a>
+</h1>
+<button class="site-header__search-toggle"><i class="fa fa-search"></i></button>
+</div>
+<nav class="site-header__nav">
+<div class="site-header__nav-inner">
+<div class="site-header__social-subscribe">
+<span class="site-header__nav-link site-header__nav-link--subscribe">
+Subscribe
+<div class="site-header__subscribe">
+<div class="site-header__subscribe-image-holder">
+<img src="https://www.billboard.com/files/styles/nav-cover-topcrop/public/media/charlie-puth-fm3j-bb4-2018-snxu3-cov-ay2-billboard-400.jpg">
+<a href="https://subscribe.billboard.com/sub/?p=BBL&amp;f=sale&amp;s=IB1404NS04" class="site-header__subscribe-button">
+Subscribe now
+</a>
+</div>
+<a href="/newsletters" class="site-header__subscribe-button--newsletter">
+Newsletter Sign Up
+</a>
+</div>
+</span>
+<a href="https://www.facebook.com/Billboard/" title="Facebook">
+ <i class="fa fa-facebook"></i>
+</a>
+<a href="https://twitter.com/billboard" title="Twitter">
+<i class="fa fa-twitter"></i>
+</a>
+</div>
+<ul class="site-header__nav-items">
+<li class="site-header__nav-item collapsed">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts class=site-header__nav-link>
+Charts
+</a>
+<span class="carat"></span><ul class="site-header__subnav-items">
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x2F;hot-100 class=site-header__subnav-link>
+Hot 100
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x2F;billboard-200 class=site-header__subnav-link>
+Billboard 200
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x2F;artist-100 class=site-header__subnav-link>
+Artist 100
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x23;id-chart-category-greatest-of-all-time class=site-header__subnav-link>
+Greatest of All Time
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x2F;year-end class=&#x20;link-external&#x20;site-header__subnav-link target=blank class=site-header__subnav-link>
+Year-End 2017
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x23;id-chart-category-holiday class=site-header__subnav-link>
+Holiday
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x23;id-chart-category-pop class=site-header__subnav-link>
+Pop
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x23;id-chart-category-rbhip-hop class=site-header__subnav-link>
+R&amp;B/Hip-Hop
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x23;id-chart-category-latin class=site-header__subnav-link>
+Latin
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x23;id-chart-category-danceelectronic class=site-header__subnav-link>
+Dance/Electronic
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x23;id-chart-category-country class=site-header__subnav-link>
+Country
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x23;id-chart-category-rock class=site-header__subnav-link>
+Rock
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x23;id-chart-category-web class=site-header__subnav-link>
+Web
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x23;id-chart-category-breaking-and-entering class=site-header__subnav-link>
+Breaking and Entering
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x23;id-chart-category-christiangospel class=site-header__subnav-link>
+Christian/Gospel
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x23;id-chart-category-international class=site-header__subnav-link>
+International
+</a>
+</li>
+</ul>
+</li>
+<li class="site-header__nav-item collapsed">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;news class=site-header__nav-link>
+News
+</a>
+<span class="carat"></span><ul class="site-header__subnav-items">
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;super-bowl class=site-header__subnav-link>
+Super Bowl LII
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;grammys class=site-header__subnav-link>
+Grammys 2018
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;festivals class=site-header__subnav-link>
+Festivals
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;hub&#x2F;pride class=site-header__subnav-link>
+Pride
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;hip-hop-rap-r-and-b class=site-header__subnav-link>
+R&amp;B/Hip-Hop
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;dance class=site-header__subnav-link>
+Dance
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;pop class=site-header__subnav-link>
+Pop
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;style class=site-header__subnav-link>
+Style
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;country class=site-header__subnav-link>
+Country
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;latin class=site-header__subnav-link>
+Latin
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;rock class=site-header__subnav-link>
+Rock
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;hub&#x2F;broadway class=site-header__subnav-link>
+Broadway
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;hub&#x2F;international class=site-header__subnav-link>
+International
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;k-pop class=site-header__subnav-link>
+K-Pop
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=http&#x3A;&#x2F;&#x2F;www.pretareporter.com class=&#x20;link-external&#x20;site-header__subnav-link target=blank class=site-header__subnav-link>
+Pret-a-Reporter
+</a>
+</li>
+</ul>
+</li>
+<li class="site-header__nav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;videos class=site-header__nav-link>
+Video
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;photos class=site-header__nav-link>
+Photos
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;biz class=site-header__nav-link>
+Business
+</a>
+</li>
+</ul>
+<ul class="site-header__nav-items site-header__nav-items--more">
+<li class="site-header__nav-item collapsed">
+<span class=site-header__nav-link--more&#x20;site-header__nav-link class=site-header__nav-link>
+More
+</span>
+<span class="carat"></span><ul class="site-header__subnav-items">
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts class=site-header__subnav-link>
+Charts
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;news class=site-header__subnav-link>
+News
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;videos class=site-header__subnav-link>
+Video
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;photos class=site-header__subnav-link>
+Photos
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;biz class=site-header__subnav-link>
+Business
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<span class="site-header__nav-item site-header__nav-item--mobile-subscribe">
+<a href="https://subscribe.billboard.com/sub/?p=BBL&amp;f=sale&amp;s=IB1404NS04" class="site-header__nav-link">
+Subscribe
+</a>
+</span>
+</div>
+</nav>
+<form class="site-header__search-form" method="get" accept-charset="UTF-8" action="/search/">
+<input class="site-header__search-input" placeholder="Search..." name="keys" maxlength="255">
+<button id="site-header__search-submit" class="site-header__search-submit"><i class="fa fa-times"></i></button>
+</form>
+</div>
+</div>
+</header>
+<div class="header-wrapper__secondary-header">
+<nav class="site-header-links">
+<div class="site-header-links__contents">
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;super-bowl class=site-header-links__link>
+Super Bowl LII
+</a>
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;festivals class=site-header-links__link>
+Festivals
+</a>
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x2F;hot-100 class=site-header-links__link>
+Hot 100
+</a>
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;charts&#x2F;billboard-200 class=site-header-links__link>
+Billboard 200
+</a>
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;podcasts class=site-header-links__link>
+Podcasts
+</a>
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;pop class=site-header-links__link>
+Pop
+</a>
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;hip-hop-rap-r-and-b class=site-header-links__link>
+R&amp;B/Hip-Hop
+</a>
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;chart-beat class=site-header-links__link>
+Chart Beat
+</a>
+<a href=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;artists&#x2F;top-100 class=site-header-links__link>
+Artists
+</a>
+</div>
+</nav>
+</div>
+</div>
+<div class="site-header__placeholder"></div>
+<div class="ad-container leaderboard leaderboard--top">
+<div class="leaderboard-wrapper">
+<div class="ad_desktop_placeholder">
+<div class="ad_desktop_wrapper">
+<div class='ad_desktop dfp-ad dfp-ad-t ' data-position='t' data-slot-name="t" data-sizes='[[990,350],[970,250],[728,90],[970,90],[970,66],[728,91],[980,50],[980,250]]' data-size-mapping='{"1024":[[990,350],[970,250],[728,90],[970,90],[970,66],[728,91],[980,50],[980,250]],"768":[[728,91],[728,90]],"0":[[300,50],[320,50],[320,170],[320,51]]}' data-lazy-load='' data-refresh='' data-refresh-timer='' data-targeting='{"pos":"t"}' data-ad-unit='/6419/billboard/articles/news' data-trackaction="Top Banner Ad" data-tracklabel="Ad Click">
+</div>
+
+<div class='ad_desktop dfp-ad dfp-ad-o1 ' data-position='o1' data-slot-name="o1" data-sizes="[[1,1]]" data-out-of-page="true" data-lazy-load='' data-refresh='' data-refresh-timer='' data-targeting='{"pos":"o1"}' data-ad-unit='/6419/billboard/articles/news' data-trackaction="" data-tracklabel="Ad Click">
+</div>
+</div>
+</div>
+</div>
+</div>
+<main id="main" class="page-content">
+<script>
+        window.ima_tags = "Olympics,bbnews";
+    </script>
+<main class="article">
+<section class="left-rail js-leftRail-container">
+<div class="left-rail__list js-leftRail"></div>
+<script type="application/json">
+{
+    "options": { "showActiveItem": true,
+"articleItemPageviewInterval": 1,
+"articleItemComscoreInterval": 2,
+"articleItemRailAdRefreshInterval" : 0
+ },
+    "title": "",
+    "initialItem": {
+        "id": 8099061,
+        "title": "Pyeongchang Olympics 2018 Opening Ceremony: USA Relives &#039;Gangnam Style,&#039; Themes of Peace, the Tonga Flag Bearer Returns &amp; More",
+        "path": "",
+        "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/16-Pyeongchang-2018-Winter-Olympic-Games-opening-ceremony-billboard-1548.jpg",
+        "mediaType": "image",
+        "categoryName": "",
+        "categoryPath": "",
+        "publishDate": "10:58 PM"
+    },
+    "mainList": [
+                    {
+                "id": 8099498,
+                "title": "Jon Stewart, Amy Schumer and The Lonely Island (In Their First Concert Appearance) to Headline 2018 Clusterfest",
+                "path": "/articles/news/8099498/the-lonely-island-jon-stewart-amy-schumer-trevor-noah-headline-2018-clusterfest",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/lonely-island-2016-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "12:59 PM"
+            }
+            ,                    {
+                "id": 8094407,
+                "title": "Chrissy Teigen Boldly Offers to Pay Olympic Gymnast McKayla Maroney&#039;s 100k Fine If She Speaks at Larry Nasser Hearing",
+                "path": "/articles/news/8094407/chrissy-teigen-mckayla-maroney-fine-olympic-trial",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/chrissy-teigen-feb-2017-billboard-1548_0.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "1/16/2018"
+            }
+            ,                    {
+                "id": 8098430,
+                "title": "U.S. Women&#039;s Hockey Player Haley Skarupa Shares Her 2018 Winter Olympics Playlist",
+                "path": "/articles/news/8098430/2018-winter-olympics-playlist-us-womens-hockey-team-haley-skarupa",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/Haley-Skaruta-2018-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "2/6/2018"
+            }
+            ,                    {
+                "id": 8097680,
+                "title": "Olympic Figure Skater Adam Rippon on How Martin Garrix, Coldplay &amp; Queen Helped Him Go For the Gold",
+                "path": "/articles/news/8097680/2018-winter-olympics-figure-skater-adam-rippon-martin-garrix-coldplay-queen",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/adam-rippon-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "2/8/2018"
+            }
+            ,                    {
+                "id": 8098810,
+                "title": "2018 Pyeongchang Winter Olympics Opening Ceremonies: How to Watch Live",
+                "path": "/articles/news/8098810/2018-pyeonchang-winter-olympics-opening-ceremony-watch-live-stream",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/PyeongChang-2018-Winter-Olympic-Games-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "2/8/2018"
+            }
+            ,                    {
+                "id": 8098921,
+                "title": "Google Doodle Celebrates Opening Ceremony of 2018 Winter Olympics in PyeongCheng",
+                "path": "/articles/news/8098921/google-doodle-winter-olympics-2018-pyeongcheng-south-korea",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/google-doodle-olympic-games-feb-9-2018-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "2/9/2018"
+            }
+            ,                    {
+                "id": 8099061,
+                "title": "Pyeongchang Olympics 2018 Opening Ceremony: USA Relives &#039;Gangnam Style,&#039; Themes of Peace, the Tonga Flag Bearer Returns &amp; More",
+                "path": "/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/16-Pyeongchang-2018-Winter-Olympic-Games-opening-ceremony-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "2/9/2018"
+            }
+            ,                    {
+                "id": 8099093,
+                "title": "Winter Olympics: NBC Sports Apologizes to Korean People for &#039;Incorrect and Insensitive&#039; Comment",
+                "path": "/articles/news/8099093/winter-olympics-nbc-sports-apologizes-to-korean-people-pyeongchang",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/07-Pyeongchang-2018-Winter-Olympic-Games-opening-ceremony-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "2/11/2018"
+            }
+            ,                    {
+                "id": 8099094,
+                "title": "Winter Olympics: All of Leslie Jones&#039; Best Reactions (So Far)",
+                "path": "/articles/news/8099094/winter-olympics-saturday-night-live-snl-leslie-jones-best-reactions-so-far",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/leslie-jones-june-2017-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "2/11/2018"
+            }
+            ,                    {
+                "id": 8099111,
+                "title": "Gershwin&#039;s &#039;Rhapsody in Blue&#039; Rings Out During Women&#039;s Olympics Skating Program",
+                "path": "/articles/news/8099111/gershwin-rhapsody-olympics-skating-program",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/Mirai-Nagasu-winter-olympics-2018-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "2/11/2018"
+            }
+            ,                    {
+                "id": 8099113,
+                "title": "The &#039;Shib Sibs&#039; Skate to Coldplay&#039;s &#039;Paradise&#039; During Olympics Free Dance",
+                "path": "/articles/news/8099113/shib-sibs-skate-coldplay-paradise-olympics-free-dance",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/Maia-Shibutani-and-Alex-Shibutani-winter-olympics-feb-11-2018-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "2/12/2018"
+            }
+            ,                    {
+                "id": 8099118,
+                "title": "Ryuichi Sakamoto Soundtracks Japan&#039;s Ice Dancing Event at 2018 Olympics",
+                "path": "/articles/news/8099118/ryuichi-sakamoto-japan-ice-dancing-team-skate-olympics",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/Japans-Kana-Muramoto-and-Japans-Chris-Reed-winter-olympics-2018-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "2/12/2018"
+            }
+            ,                    {
+                "id": 8099054,
+                "title": "Ed Sheeran, Coldplay &amp; More Pop Songs at the Olympics: See the Full List",
+                "path": "/articles/news/8099054/olympic-figure-skaters-ed-sheeran-wonderwall-pop-songs",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/figure-skating-winter-olympics-pyeongchang-2018-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "2/9/2018"
+            }
+            ,                    {
+                "id": 8099451,
+                "title": "Meek Mill Gets Message Of Support During Winter Olympics Men&#039;s Halfpipe",
+                "path": "/articles/news/8099451/free-meek-mill-message-winter-olympics-mens-halfpipe",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/meek-mill-V-103-Live-Pop-Up-Concert-2017-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "1:34 AM"
+            }
+            ,                    {
+                "id": 8099426,
+                "title": "Taylor Swift Offers a Glimpse of Her Reputation Tour &#039;Repu-Hearsals&#039;",
+                "path": "/articles/news/8099426/taylor-swift-reputation-tour-rehearsals-photo",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/taylor-swift-2017-dec-f-billboard-live-1548.jpg",
+                "mediaType": "video",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "2/12/2018"
+            }
+            ,                    {
+                "id": 8099456,
+                "title": "Chloe Kim Gets Some Serious Twitter Love After Gold Medal Halfpipe Win",
+                "path": "/articles/news/8099456/chloe-kim-gold-medal-leslie-jones-josh-gad-celebrate-tweets",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/02-Chloe-Kim-of-the-United-States-winter-olympics-2018-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "7:57 AM"
+            }
+            ,                    {
+                "id": 8099416,
+                "title": "Daryle Singletary Remembered by Brad Paisley, Jason Aldean &amp; More as the Country World Mourns",
+                "path": "/articles/news/8099416/daryle-singletary-death-twitter-reactions",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/daryle-singletary-bw-live-2013-a-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "2/12/2018"
+            }
+            ,                    {
+                "id": 8099444,
+                "title": "Paul McCartney Awarded Israel&#039;s Wolf Prize",
+                "path": "/articles/news/8099444/paul-mccartney-awarded-israel-wolf-prize",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/PAUL-MCCARTNEY-IN-CONCERT-TINLEY-PARK-july-2017-billboard-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "2/12/2018"
+            }
+            ,                    {
+                "id": 8099281,
+                "title": "Victoria Beckham Shoots Down Spice Girls Reunion Tour Reports as Group Sees a Streaming Bump",
+                "path": "/articles/news/8099281/victoria-beckham-spice-girls-reunion-tour-sales-bump",
+                "media": "https://www.billboard.com/files/styles/left_rail_110x110/public/media/victoria-beckham-2018-vogue-billboard-a-1548.jpg",
+                "mediaType": "image",
+                "categoryName": "News",
+                "categoryPath": "/tag/news-6",
+                "publishDate": "2/12/2018"
+            }
+                        ],
+    "topicBlock":
+        null
+    }
+</script>
+</section>
+<section class="main-well js-mainWell">
+<article class="article__content-well article__content-well--landscape js-revarticle url-breadcrumb is-active " data-id="8099061" data-url-breadcrumb="/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights" data-content-type="article" data-page-title="Pyeongchang&#x20;Olympics&#x20;2018&#x20;Opening&#x20;Ceremony" data-canonical="https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights" data-chartbeatSection="" data-analytics-category="News" data-analytics-tags="Olympics, bbnews">
+<div class="article__header">
+<h1 class="article__headline">Pyeongchang Olympics 2018 Opening Ceremony: USA Relives &#039;Gangnam Style,&#039; Themes of Peace, the Tonga Flag Bearer Returns &amp; More</h1>
+<p class="article__meta">
+<span class="js-publish-date" data-pubdate-value="2018020922">
+2/9/2018
+</span>
+by
+<span class="js-authors-list">
+<span class="author">
+<a href="/author/rania-aniftos-7662414" class="article__author-link">Rania Aniftos</a>
+</span> </span>
+</p>
+<ul class="social-share">
+<li class="social-share__item">
+<a class="js-pgm-social-share social-share__link social-share__link--facebook fa-facebook" data-pgm-share="facebook" data-pgm-title="Pyeongchang&#x20;Olympics&#x20;2018&#x20;Opening&#x20;Ceremony&#x3A;&#x20;USA&#x20;Relives&#x20;&#x27;Gangnam&#x20;Style,&#x27;&#x20;Themes&#x20;of&#x20;Peace,&#x20;the&#x20;Tonga&#x20;Flag&#x20;Bearer&#x20;Returns&#x20;&amp;&#x20;More" data-pgm-url="https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;articles&#x2F;news&#x2F;8099061&#x2F;pyeongchang-olympics-2018-opening-ceremony-highlights" href="javascript:void(0);">
+FACEBOOK
+</a>
+</li>
+<li class="social-share__item">
+<a class="js-pgm-social-share social-share__link social-share__link--twitter fa-twitter" data-pgm-share="twitter" data-pgm-title="Pyeongchang&#x20;Olympics&#x20;2018&#x20;Opening&#x20;Ceremony&#x3A;&#x20;USA&#x20;Relives&#x20;&#x27;Gangnam&#x20;Style,&#x27;&#x20;Themes&#x20;of&#x20;Peace,&#x20;the&#x20;Tonga&#x20;Flag&#x20;Bearer&#x20;Returns&#x20;&amp;&#x20;More" data-pgm-url="https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;articles&#x2F;news&#x2F;8099061&#x2F;pyeongchang-olympics-2018-opening-ceremony-highlights" href="javascript:void(0);">
+TWITTER
+</a>
+</li>
+<li class="social-share__item">
+<a class="social-share__link social-share__link--email fa-envelope" data-pgm-title="Pyeongchang&#x20;Olympics&#x20;2018&#x20;Opening&#x20;Ceremony&#x3A;&#x20;USA&#x20;Relives&#x20;&#x27;Gangnam&#x20;Style,&#x27;&#x20;Themes&#x20;of&#x20;Peace,&#x20;the&#x20;Tonga&#x20;Flag&#x20;Bearer&#x20;Returns&#x20;&amp;&#x20;More" href="mailto:?body=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;articles&#x2F;news&#x2F;8099061&#x2F;pyeongchang-olympics-2018-opening-ceremony-highlights&subject=Pyeongchang&#x20;Olympics&#x20;2018&#x20;Opening&#x20;Ceremony&#x3A;&#x20;USA&#x20;Relives&#x20;&#x27;Gangnam&#x20;Style,&#x27;&#x20;Themes&#x20;of&#x20;Peace,&#x20;the&#x20;Tonga&#x20;Flag&#x20;Bearer&#x20;Returns&#x20;&amp;&#x20;More">
+EMAIL ME
+</a>
+</li>
+<li class="social-share__item">
+<a class="social-share__link social-share__link--print fa-print" target="_blank" href="/print/8099061">
+PRINT
+</a>
+</li>
+<li class="social-share__item">
+<a class="social-share__link social-share__link--comments js-scroll-to-comments fa-comment" href="javascript:void(0);">
+COMMENTS
+</a>
+</li>
+</ul>
+</div>
+<figure class="main-media main-media--image " data-media-type="image" data-media-id="">
+<div class="ndn_embed" data-config-distributor-id="91574" data-config-height="9/16w" id="ndn-video-player-1" style="width:100%;">
+<img src="https://www.billboard.com/files/styles/article_main_image/public/media/16-Pyeongchang-2018-Winter-Olympic-Games-opening-ceremony-billboard-1548.jpg" class="main-media__image">
+<figcaption class="media__details-text">
+<div class="media__credit">David J. Philip/Getty Images</div>
+<div class="media__caption">Fireworks erupt as the cauldron is lit with the Olympic flame during the opening ceremony of the Pyeongchang 2018 Winter Olympic Games at the Pyeongchang Stadium on Feb. 9, 2018.</div>
+</figcaption>
+</div>
+</figure>
+<div class="article__body js-fitvids-content">
+<div class='ad_desktop dfp-ad dfp-ad-m2 ' data-position='m2' data-slot-name="m2" data-sizes='[[300,250],[300,252]]' data-size-mapping='{"1024":[[300,250],[300,252]],"768":[[300,250],[300,252]],"0":[[300,50],[320,50],[300,250]]}' data-lazy-load='' data-refresh='' data-refresh-timer='' data-targeting='{"pos":"m2","dartlegolas":"segments","amazon":"1"}' data-ad-unit='/6419/billboard/articles/news' data-trackaction="" data-tracklabel="Ad Click">
+</div>
+<p>The 2018 Winter Olympics in Pyeongchang, South Korea have officially kicked off with Friday’s (Feb. 9) luminous Opening Ceremony.</p><p>Full of intricately choreographed and technologically-advanced performances showcasing Korean tradition and culture, the night also symbolized a sense of peace and unity in a particularly tumultuous time in international relations. North and South Korea marched together in the stadium less than 50 miles from the border separating them. The two nations walked under a joint flag, a simple blue geographic outline of the combined country against a white background. The ceremony ended with a North Korean and a South Korean hockey player carrying the torch together to ultimately hand it off to South Korean figure skater Yuna Kim to light the Olympic cauldron.</p><p>Here are some more highlights from the big event.</p><p>
+<div class="embedded-content" data-nid="8098906" data-nodetype="article" data-template="readmore" data-amp-enabled="1">
+<script type="application/json">
+          {"path":"https:\/\/www.billboard.com\/articles\/columns\/pop\/8098906\/winter-olympics-2018-opening-ceremony-psy-bts-skating-oasis-ed-sheeran","title":"2018 Winter Olympics Kick Off With Korean Stars PSY & BTS During Opening Ceremonies","type":"article","id":"8098906","relative_path":"\/articles\/columns\/pop\/8098906\/winter-olympics-2018-opening-ceremony-psy-bts-skating-oasis-ed-sheeran","image":{"source":"Getty","title":null,"title_text":null,"path_original":"\/files\/media\/Olympic-flame-during-the-opening-ceremony-of-the-Pyeongchang-2018-Winter-Olympic-Games-billboard-1548.jpg","path":"\/files\/media\/Olympic-flame-during-the-opening-ceremony-of-the-Pyeongchang-2018-Winter-Olympic-Games-billboard-1548.jpg","image_path_original":"\/files\/media\/Olympic-flame-during-the-opening-ceremony-of-the-Pyeongchang-2018-Winter-Olympic-Games-billboard-1548.jpg","file_uri":"public:\/\/media\/Olympic-flame-during-the-opening-ceremony-of-the-Pyeongchang-2018-Winter-Olympic-Games-billboard-1548.jpg","extension":"jpg","type":"image","mime_type":"image\/jpeg","file_size":1057238,"width":1548,"height":1024,"orientation":"landscape","caption":"Fireworks erupt as the cauldron is lit with the Olympic flame during the opening ceremony of the Pyeongchang 2018 Winter Olympic Games at the Pyeongchang Stadium on Feb. 9, 2018.","caption_raw":"Fireworks erupt as the cauldron is lit with the Olympic flame during the opening ceremony of the Pyeongchang 2018 Winter Olympic Games at the Pyeongchang Stadium on Feb. 9, 2018.","credit":"Franck Fife\/AFP\/Getty Images","credit_raw":"<p>Franck Fife\/AFP\/Getty Images<\/p>","animated":false}}
+      </script>
+</div></p><p><strong>Drones light up the sky with Olympic rings </strong></p><p>In a pre-recorded clip, a record-setting 1,218 shooting star drones formed a snowboarder and then morphed into the Olympic rings in the sky, providing a gorgeous sight for viewers. Surprisingly, the rings shone in an icy blue instead of the traditional blue, yellow, black, green and red.</p><blockquote class="twitter-tweet" data-lang="en"><p dir="ltr" lang="en">1218 drones assemble into a snowboarder then morph into the Olympic rings. Amazing.<a href="https://twitter.com/hashtag/WinterOlympics?src=hash&ref_src=twsrc%5Etfw" target="_blank">#WinterOlympics</a><a href="https://twitter.com/hashtag/OpeningCeremony?src=hash&ref_src=twsrc%5Etfw" target="_blank">#OpeningCeremony</a> <a href="https://t.co/6LUwVHxaBM" target="_blank">pic.twitter.com/6LUwVHxaBM</a></p>— Greg Hogben (@MyDaughtersArmy) <a href="https://twitter.com/MyDaughtersArmy/status/961949109077921792?ref_src=twsrc%5Etfw" target="_blank">February 9, 2018</a></blockquote><script data-src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><p><strong>USA walks out to “Gangnam Style” – 242 athletes, the largest for winter Olympics</strong></p><p>As the United States team walked out into the arena with their 242 athletes—the largest number in any winter Olympics—viewers got a blast from the past, as <a href="/music/psy">PSY</a>&#39;s K-pop tune “Gangnam Style” blared through the speakers. The song dominated social media in the U.S. in 2012, so it was only right that the dance sensation represented the nation.</p><blockquote class="twitter-tweet" data-lang="en"><p dir="ltr" lang="en">U.S.A. walked in to Gangnam Style and they’re wearing horrible gloves that I want. ---- <a href="https://t.co/yi18kdXw9u" target="_blank">pic.twitter.com/yi18kdXw9u</a></p>— Dustin (@DustinGiebel) <a href="https://twitter.com/DustinGiebel/status/961931309823283201?ref_src=twsrc%5Etfw" target="_blank">February 9, 2018</a></blockquote><script data-src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><p><strong>North and South Korea leaders come together for a historic handshake</strong></p><p>Just minutes into the ceremony, South Korean President Moon Jae-in greeted and shook hands with Kim Yo Jong, the sister of North Korean leader Kim Jong Un. The unprecedented move was highlighted by Kim Yo Jung smiling as the first member of the North’s ruling family to visit its southern counterpart since 1953.</p><blockquote class="twitter-tweet" data-lang="en"><p dir="ltr" lang="en">I hope this moment will be the first step for progress between both countries on the Korean peninsula. <a href="https://twitter.com/hashtag/Handshake?src=hash&ref_src=twsrc%5Etfw" target="_blank">#Handshake</a> Moon Jae-in ---- and Kim Yo-jong ---- 9th of February 2018. Switzerland will support this process.<a href="https://twitter.com/hashtag/PyeongChang2018?src=hash&ref_src=twsrc%5Etfw" target="_blank">#PyeongChang2018</a> <a href="https://twitter.com/hashtag/Olympics?src=hash&ref_src=twsrc%5Etfw" target="_blank">#Olympics</a> <a href="https://t.co/j2MllAlqJS" target="_blank">pic.twitter.com/j2MllAlqJS</a></p>— Christian Wasserfallen (@cwasi) <a href="https://twitter.com/cwasi/status/961934102952890369?ref_src=twsrc%5Etfw" target="_blank">February 9, 2018</a></blockquote><script data-src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><p>
+<div class="embedded-content" data-nid="8099054" data-nodetype="article" data-template="readmore">
+<script type="application/json">
+          {"path":"https:\/\/www.billboard.com\/articles\/news\/8099054\/olympic-figure-skaters-ed-sheeran-wonderwall-pop-songs","title":"Ed Sheeran, Coldplay & More Pop Songs at the Olympics: See the Full List","type":"article","id":"8099054","relative_path":"\/articles\/news\/8099054\/olympic-figure-skaters-ed-sheeran-wonderwall-pop-songs","image":{"source":"Getty","title":null,"title_text":null,"path_original":"\/files\/media\/figure-skating-winter-olympics-pyeongchang-2018-billboard-1548.jpg","path":"\/files\/media\/figure-skating-winter-olympics-pyeongchang-2018-billboard-1548.jpg","image_path_original":"\/files\/media\/figure-skating-winter-olympics-pyeongchang-2018-billboard-1548.jpg","file_uri":"public:\/\/media\/figure-skating-winter-olympics-pyeongchang-2018-billboard-1548.jpg","extension":"jpg","type":"image","mime_type":"image\/jpeg","file_size":270105,"width":1548,"height":1024,"orientation":"landscape","caption":"Aljona Savchenko and Bruno Massot of Germany compete in the Figure Skating Team Event - Pair Skating Short Program during the PyeongChang 2018 Winter Olympic Games at Gangneung Ice Arena on Feb. 9, 2018 in Gangneung, South Korea.","caption_raw":"Aljona Savchenko and Bruno Massot of Germany compete in the Figure Skating Team Event - Pair Skating Short Program during the PyeongChang 2018 Winter Olympic Games at Gangneung Ice Arena on Feb. 9, 2018 in Gangneung, South Korea.","credit":"Ronald Martinez\/Getty Images","credit_raw":"<p>Ronald Martinez\/Getty Images<\/p>","animated":false}}
+      </script>
+</div></p><p><strong>Korean musical artists come together to perform John Lennon’s “Imagine”</strong></p><p>The theme of harmony continued deep into the ceremony, as four of Korea’s musicians performed Lennon’s classic song. Korean folk singer Jeon In-kwon, indie rock singer Ha Hyun-woo, Lee Eun Mi and K-pop star Ahn Ji Young. The group stood in a spotlight, surrounded by dancers standing in a shape of a dove holding lanterns. Images of doves, which symbolize peace, were projected on the walls of the stadium.</p><p><iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/eoAwgy8ReGQ" width="560"></iframe></p><p><strong>Tonga’s flag bearer who went viral at Rio Olympics shows up again—oily and shirtless in the coldest winter Olympics in more than 20 years</strong></p><p>Taekwondo practitioner Pita Taufatofua wasn’t at all shaken by the 28-degree weather in Pyeongchang. The athlete went viral in 2016 after carrying his country’s flag shirtless and oiled up. He picked up cross-country skiing just last year in an attempt to achieve his dream of attending the winter Olympics, even though he had never seen snow before in his life. “I won’t freeze. I am from Tonga,” he told the ABC news, “We sailed across the Pacific. This is nothing.”</p><blockquote class="twitter-tweet" data-lang="en"><p dir="ltr" lang="en">Tongan Flag Bearer, <a href="https://twitter.com/PitaTaufatofua?ref_src=twsrc%5Etfw" target="_blank">@PitaTaufatofua</a>, has returned!! <a href="https://twitter.com/hashtag/WinterOlympics?src=hash&ref_src=twsrc%5Etfw" target="_blank">#</a><a href="https://twitter.com/hashtag/WinterOlympics?src=hash&ref_src=twsrc%5Etfw" target="_blank">WinterOlympics</a><a href="https://t.co/jUEL5ejPMA" target="_blank">https</a><a href="https://t.co/jUEL5ejPMA" target="_blank">://t.co/jUEL5ejPMA</a> <a href="https://t.co/knQnPdVZ3r" target="_blank">pic.twitter.com/knQnPdVZ3r</a></p>— NBC Olympics (@NBCOlympics) <a href="https://twitter.com/NBCOlympics/status/961947152812531712?ref_src=twsrc%5Etfw" target="_blank">February 9, 2018</a></blockquote><script data-src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<div class="embedded-content hybrid-player hybrid-player--cpt" data-template="hybridPlayer">
+<script type="application/json">
+{"id":7841135,"type":"content_bottom","title":"Billboard Video","items":[{"id":8098776,"type":"brightcove","videoId":5729028445001,"title":"J Balvin on his Billboard Latin Award Nominations | Billboard Latin","deck":null,"media":{"nid":8098776,"type":"video","videoId":5729028445001,"playerId":null,"playerKey":null,"image":{"nid":null,"type":"image","orientation":"landscape","rawPath":"\/files\/video\/1125911414_5729079911001_5729028445001-vs.jpg","fullPath":"https:\/\/www.billboard.com\/files\/video\/1125911414_5729079911001_5729028445001-vs.jpg","width":1280,"height":720,"mimeType":"image\/jpeg","title":"","caption":"JBalvin_BBLatin_2018_react","caption_raw":"JBalvin_BBLatin_2018_react","credit":"","crop":{"article_main_image":"https:\/\/www.billboard.com\/files\/styles\/article_main_image\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","left_rail_110x110":"https:\/\/www.billboard.com\/files\/styles\/left_rail_110x110\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","review_main_image":"https:\/\/www.billboard.com\/files\/styles\/review_main_image\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","pushdown_327x216":"https:\/\/www.billboard.com\/files\/styles\/pushdown_327x216\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","1092x722":"https:\/\/www.billboard.com\/files\/styles\/1092x722\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","719x476":"https:\/\/www.billboard.com\/files\/styles\/719x476\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","528x349":"https:\/\/www.billboard.com\/files\/styles\/528x349\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","404x267":"https:\/\/www.billboard.com\/files\/styles\/404x267\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","300x114":"https:\/\/www.billboard.com\/files\/styles\/300x114\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","350x232":"https:\/\/www.billboard.com\/files\/styles\/350x232\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","224x148":"https:\/\/www.billboard.com\/files\/styles\/224x148\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","768x433":"https:\/\/www.billboard.com\/files\/styles\/768x433\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","1024x577":"https:\/\/www.billboard.com\/files\/styles\/1024x577\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","1500x845":"https:\/\/www.billboard.com\/files\/styles\/1500x845\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","320x416_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x416_gallery\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","768x998_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x998_gallery\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","900x1170_gallery":"https:\/\/www.billboard.com\/files\/styles\/900x1170_gallery\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","1024x1331_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x1331_gallery\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","320x212_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x212_gallery\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","768x508_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x508_gallery\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","1024x677_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x677_gallery\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","1296x857_gallery":"https:\/\/www.billboard.com\/files\/styles\/1296x857_gallery\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","1500x992_gallery":"https:\/\/www.billboard.com\/files\/styles\/1500x992_gallery\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","900_wide":"https:\/\/www.billboard.com\/files\/styles\/900_wide\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","320x320":"https:\/\/www.billboard.com\/files\/styles\/320x320\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","768x768":"https:\/\/www.billboard.com\/files\/styles\/768x768\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","1024x1024":"https:\/\/www.billboard.com\/files\/styles\/1024x1024\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","60x60":"https:\/\/www.billboard.com\/files\/styles\/60x60\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","210x118":"https:\/\/www.billboard.com\/files\/styles\/210x118\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","300x169":"https:\/\/www.billboard.com\/files\/styles\/300x169\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","394x221":"https:\/\/www.billboard.com\/files\/styles\/394x221\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","470x264":"https:\/\/www.billboard.com\/files\/styles\/470x264\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","620x348":"https:\/\/www.billboard.com\/files\/styles\/620x348\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","848x476":"https:\/\/www.billboard.com\/files\/styles\/848x476\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","120x120":"https:\/\/www.billboard.com\/files\/styles\/120x120\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","420x236":"https:\/\/www.billboard.com\/files\/styles\/420x236\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","480x270":"https:\/\/www.billboard.com\/files\/styles\/480x270\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","600x358":"https:\/\/www.billboard.com\/files\/styles\/600x358\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","788x442":"https:\/\/www.billboard.com\/files\/styles\/788x442\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","940x528":"https:\/\/www.billboard.com\/files\/styles\/940x528\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","1240x696":"https:\/\/www.billboard.com\/files\/styles\/1240x696\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg","1696x952":"https:\/\/www.billboard.com\/files\/styles\/1696x952\/public\/video\/1125911414_5729079911001_5729028445001-vs.jpg"}}}},{"id":8096614,"type":"brightcove","videoId":5721025270001,"title":"Dua Lipa Talks Next Album, New \u2018Soulful\u2019 Musical Direction at Clive Davis' Pre-Grammy Gala | Billboard","deck":null,"media":{"nid":8096614,"type":"video","videoId":5721025270001,"playerId":null,"playerKey":null,"image":{"nid":null,"type":"image","orientation":"landscape","rawPath":"\/files\/video\/1125911414_5721032907001_5721025270001-vs.jpg","fullPath":"https:\/\/www.billboard.com\/files\/video\/1125911414_5721032907001_5721025270001-vs.jpg","width":1280,"height":720,"mimeType":"image\/jpeg","title":"Dua Lipa discusses her next album and the new, more \u201csoulful\u201d musical direction it will go in, being a female in the music industry, which song by another artist she wishes she had written and dream musical collaborations.","caption":"Dua Lipa Talks Next Album, New \u2018Soulful\u2019 Musical Direction at Clive Davis' Pre-Grammy Gala | Billboard","caption_raw":"Dua Lipa Talks Next Album, New \u2018Soulful\u2019 Musical Direction at Clive Davis' Pre-Grammy Gala | Billboard","credit":"","crop":{"article_main_image":"https:\/\/www.billboard.com\/files\/styles\/article_main_image\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","left_rail_110x110":"https:\/\/www.billboard.com\/files\/styles\/left_rail_110x110\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","review_main_image":"https:\/\/www.billboard.com\/files\/styles\/review_main_image\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","pushdown_327x216":"https:\/\/www.billboard.com\/files\/styles\/pushdown_327x216\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","1092x722":"https:\/\/www.billboard.com\/files\/styles\/1092x722\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","719x476":"https:\/\/www.billboard.com\/files\/styles\/719x476\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","528x349":"https:\/\/www.billboard.com\/files\/styles\/528x349\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","404x267":"https:\/\/www.billboard.com\/files\/styles\/404x267\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","300x114":"https:\/\/www.billboard.com\/files\/styles\/300x114\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","350x232":"https:\/\/www.billboard.com\/files\/styles\/350x232\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","224x148":"https:\/\/www.billboard.com\/files\/styles\/224x148\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","768x433":"https:\/\/www.billboard.com\/files\/styles\/768x433\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","1024x577":"https:\/\/www.billboard.com\/files\/styles\/1024x577\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","1500x845":"https:\/\/www.billboard.com\/files\/styles\/1500x845\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","320x416_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x416_gallery\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","768x998_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x998_gallery\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","900x1170_gallery":"https:\/\/www.billboard.com\/files\/styles\/900x1170_gallery\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","1024x1331_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x1331_gallery\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","320x212_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x212_gallery\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","768x508_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x508_gallery\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","1024x677_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x677_gallery\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","1296x857_gallery":"https:\/\/www.billboard.com\/files\/styles\/1296x857_gallery\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","1500x992_gallery":"https:\/\/www.billboard.com\/files\/styles\/1500x992_gallery\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","900_wide":"https:\/\/www.billboard.com\/files\/styles\/900_wide\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","320x320":"https:\/\/www.billboard.com\/files\/styles\/320x320\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","768x768":"https:\/\/www.billboard.com\/files\/styles\/768x768\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","1024x1024":"https:\/\/www.billboard.com\/files\/styles\/1024x1024\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","60x60":"https:\/\/www.billboard.com\/files\/styles\/60x60\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","210x118":"https:\/\/www.billboard.com\/files\/styles\/210x118\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","300x169":"https:\/\/www.billboard.com\/files\/styles\/300x169\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","394x221":"https:\/\/www.billboard.com\/files\/styles\/394x221\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","470x264":"https:\/\/www.billboard.com\/files\/styles\/470x264\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","620x348":"https:\/\/www.billboard.com\/files\/styles\/620x348\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","848x476":"https:\/\/www.billboard.com\/files\/styles\/848x476\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","120x120":"https:\/\/www.billboard.com\/files\/styles\/120x120\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","420x236":"https:\/\/www.billboard.com\/files\/styles\/420x236\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","480x270":"https:\/\/www.billboard.com\/files\/styles\/480x270\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","600x358":"https:\/\/www.billboard.com\/files\/styles\/600x358\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","788x442":"https:\/\/www.billboard.com\/files\/styles\/788x442\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","940x528":"https:\/\/www.billboard.com\/files\/styles\/940x528\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","1240x696":"https:\/\/www.billboard.com\/files\/styles\/1240x696\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg","1696x952":"https:\/\/www.billboard.com\/files\/styles\/1696x952\/public\/video\/1125911414_5721032907001_5721025270001-vs.jpg"}}}},{"id":8096619,"type":"brightcove","videoId":5721036498001,"title":"Kareem \"Biggs\" Burke Talks JAY-Z & Biggie Smalls, Upcoming Documentary at Clive Davis' Pre-Grammy Gala | Billboard","deck":null,"media":{"nid":8096619,"type":"video","videoId":5721036498001,"playerId":null,"playerKey":null,"image":{"nid":null,"type":"image","orientation":"landscape","rawPath":"\/files\/video\/1125911414_5721041640001_5721036498001-vs.jpg","fullPath":"https:\/\/www.billboard.com\/files\/video\/1125911414_5721041640001_5721036498001-vs.jpg","width":1280,"height":720,"mimeType":"image\/jpeg","title":"Roc-A-Fella Records Founder Kareem \"Biggs\" Burke discusses JAY-Z being honored as an Industry Icon at Clive Davis' Pre-Grammy Gala, memories of JAY-Z and Biggie Smalls working together and his forthcoming documentary.","caption":"Kareem \"Biggs\" Burke Talks JAY-Z & Biggie Smalls, Upcoming Documentary at Clive Davis' Pre-Grammy Gala | Billboard","caption_raw":"Kareem \"Biggs\" Burke Talks JAY-Z & Biggie Smalls, Upcoming Documentary at Clive Davis' Pre-Grammy Gala | Billboard","credit":"","crop":{"article_main_image":"https:\/\/www.billboard.com\/files\/styles\/article_main_image\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","left_rail_110x110":"https:\/\/www.billboard.com\/files\/styles\/left_rail_110x110\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","review_main_image":"https:\/\/www.billboard.com\/files\/styles\/review_main_image\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","pushdown_327x216":"https:\/\/www.billboard.com\/files\/styles\/pushdown_327x216\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","1092x722":"https:\/\/www.billboard.com\/files\/styles\/1092x722\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","719x476":"https:\/\/www.billboard.com\/files\/styles\/719x476\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","528x349":"https:\/\/www.billboard.com\/files\/styles\/528x349\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","404x267":"https:\/\/www.billboard.com\/files\/styles\/404x267\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","300x114":"https:\/\/www.billboard.com\/files\/styles\/300x114\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","350x232":"https:\/\/www.billboard.com\/files\/styles\/350x232\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","224x148":"https:\/\/www.billboard.com\/files\/styles\/224x148\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","768x433":"https:\/\/www.billboard.com\/files\/styles\/768x433\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","1024x577":"https:\/\/www.billboard.com\/files\/styles\/1024x577\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","1500x845":"https:\/\/www.billboard.com\/files\/styles\/1500x845\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","320x416_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x416_gallery\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","768x998_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x998_gallery\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","900x1170_gallery":"https:\/\/www.billboard.com\/files\/styles\/900x1170_gallery\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","1024x1331_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x1331_gallery\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","320x212_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x212_gallery\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","768x508_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x508_gallery\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","1024x677_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x677_gallery\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","1296x857_gallery":"https:\/\/www.billboard.com\/files\/styles\/1296x857_gallery\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","1500x992_gallery":"https:\/\/www.billboard.com\/files\/styles\/1500x992_gallery\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","900_wide":"https:\/\/www.billboard.com\/files\/styles\/900_wide\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","320x320":"https:\/\/www.billboard.com\/files\/styles\/320x320\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","768x768":"https:\/\/www.billboard.com\/files\/styles\/768x768\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","1024x1024":"https:\/\/www.billboard.com\/files\/styles\/1024x1024\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","60x60":"https:\/\/www.billboard.com\/files\/styles\/60x60\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","210x118":"https:\/\/www.billboard.com\/files\/styles\/210x118\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","300x169":"https:\/\/www.billboard.com\/files\/styles\/300x169\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","394x221":"https:\/\/www.billboard.com\/files\/styles\/394x221\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","470x264":"https:\/\/www.billboard.com\/files\/styles\/470x264\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","620x348":"https:\/\/www.billboard.com\/files\/styles\/620x348\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","848x476":"https:\/\/www.billboard.com\/files\/styles\/848x476\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","120x120":"https:\/\/www.billboard.com\/files\/styles\/120x120\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","420x236":"https:\/\/www.billboard.com\/files\/styles\/420x236\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","480x270":"https:\/\/www.billboard.com\/files\/styles\/480x270\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","600x358":"https:\/\/www.billboard.com\/files\/styles\/600x358\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","788x442":"https:\/\/www.billboard.com\/files\/styles\/788x442\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","940x528":"https:\/\/www.billboard.com\/files\/styles\/940x528\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","1240x696":"https:\/\/www.billboard.com\/files\/styles\/1240x696\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg","1696x952":"https:\/\/www.billboard.com\/files\/styles\/1696x952\/public\/video\/1125911414_5721041640001_5721036498001-vs.jpg"}}}},{"id":8096618,"type":"brightcove","videoId":5721024694001,"title":"Maren Morris Talks \u2018Love Song\u2019 Chart Success, Grammys Vegas Tribute at Clive Davis' Pre-Grammy Gala | Billboard","deck":null,"media":{"nid":8096618,"type":"video","videoId":5721024694001,"playerId":null,"playerKey":null,"image":{"nid":null,"type":"image","orientation":"landscape","rawPath":"\/files\/video\/1125911414_5721041621001_5721024694001-vs.jpg","fullPath":"https:\/\/www.billboard.com\/files\/video\/1125911414_5721041621001_5721024694001-vs.jpg","width":1280,"height":720,"mimeType":"image\/jpeg","title":"Marren Morris discusses the chart success of \u201cI Could Use a Love Song,\u201d the tattoo she got to commemorate it, her Grammy nomination and the Vegas tribute she will be taking part in. ","caption":"Maren Morris Talks \u2018Love Song\u2019 Chart Success, Grammys Vegas Tribute at Clive Davis' Pre-Grammy Gala | Billboard","caption_raw":"Maren Morris Talks \u2018Love Song\u2019 Chart Success, Grammys Vegas Tribute at Clive Davis' Pre-Grammy Gala | Billboard","credit":"","crop":{"article_main_image":"https:\/\/www.billboard.com\/files\/styles\/article_main_image\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","left_rail_110x110":"https:\/\/www.billboard.com\/files\/styles\/left_rail_110x110\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","review_main_image":"https:\/\/www.billboard.com\/files\/styles\/review_main_image\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","pushdown_327x216":"https:\/\/www.billboard.com\/files\/styles\/pushdown_327x216\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","1092x722":"https:\/\/www.billboard.com\/files\/styles\/1092x722\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","719x476":"https:\/\/www.billboard.com\/files\/styles\/719x476\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","528x349":"https:\/\/www.billboard.com\/files\/styles\/528x349\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","404x267":"https:\/\/www.billboard.com\/files\/styles\/404x267\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","300x114":"https:\/\/www.billboard.com\/files\/styles\/300x114\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","350x232":"https:\/\/www.billboard.com\/files\/styles\/350x232\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","224x148":"https:\/\/www.billboard.com\/files\/styles\/224x148\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","768x433":"https:\/\/www.billboard.com\/files\/styles\/768x433\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","1024x577":"https:\/\/www.billboard.com\/files\/styles\/1024x577\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","1500x845":"https:\/\/www.billboard.com\/files\/styles\/1500x845\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","320x416_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x416_gallery\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","768x998_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x998_gallery\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","900x1170_gallery":"https:\/\/www.billboard.com\/files\/styles\/900x1170_gallery\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","1024x1331_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x1331_gallery\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","320x212_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x212_gallery\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","768x508_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x508_gallery\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","1024x677_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x677_gallery\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","1296x857_gallery":"https:\/\/www.billboard.com\/files\/styles\/1296x857_gallery\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","1500x992_gallery":"https:\/\/www.billboard.com\/files\/styles\/1500x992_gallery\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","900_wide":"https:\/\/www.billboard.com\/files\/styles\/900_wide\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","320x320":"https:\/\/www.billboard.com\/files\/styles\/320x320\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","768x768":"https:\/\/www.billboard.com\/files\/styles\/768x768\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","1024x1024":"https:\/\/www.billboard.com\/files\/styles\/1024x1024\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","60x60":"https:\/\/www.billboard.com\/files\/styles\/60x60\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","210x118":"https:\/\/www.billboard.com\/files\/styles\/210x118\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","300x169":"https:\/\/www.billboard.com\/files\/styles\/300x169\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","394x221":"https:\/\/www.billboard.com\/files\/styles\/394x221\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","470x264":"https:\/\/www.billboard.com\/files\/styles\/470x264\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","620x348":"https:\/\/www.billboard.com\/files\/styles\/620x348\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","848x476":"https:\/\/www.billboard.com\/files\/styles\/848x476\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","120x120":"https:\/\/www.billboard.com\/files\/styles\/120x120\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","420x236":"https:\/\/www.billboard.com\/files\/styles\/420x236\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","480x270":"https:\/\/www.billboard.com\/files\/styles\/480x270\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","600x358":"https:\/\/www.billboard.com\/files\/styles\/600x358\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","788x442":"https:\/\/www.billboard.com\/files\/styles\/788x442\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","940x528":"https:\/\/www.billboard.com\/files\/styles\/940x528\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","1240x696":"https:\/\/www.billboard.com\/files\/styles\/1240x696\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg","1696x952":"https:\/\/www.billboard.com\/files\/styles\/1696x952\/public\/video\/1125911414_5721041621001_5721024694001-vs.jpg"}}}},{"id":8096616,"type":"brightcove","videoId":5721027659001,"title":"Rita Ora Talks \u2018Fifty Shades Freed,\u2019 Collaborating With Liam Payne, New Music at Clive Davis' Pre-Grammy Gala | Billboard","deck":null,"media":{"nid":8096616,"type":"video","videoId":5721027659001,"playerId":null,"playerKey":null,"image":{"nid":null,"type":"image","orientation":"landscape","rawPath":"\/files\/video\/1125911414_5721036219001_5721027659001-vs.jpg","fullPath":"https:\/\/www.billboard.com\/files\/video\/1125911414_5721036219001_5721027659001-vs.jpg","width":1280,"height":720,"mimeType":"image\/jpeg","title":"Rita Ora discusses her admiration for JAY-Z, her new collaboration with Liam Payne, her appearance in the new \u2018Fifty Shades Freed\u2019 film and her new album.","caption":"Rita Ora Talks \u2018Fifty Shades Freed,\u2019 Collaborating With Liam Payne, New Music at Clive Davis' Pre-Grammy Gala | Billboard","caption_raw":"Rita Ora Talks \u2018Fifty Shades Freed,\u2019 Collaborating With Liam Payne, New Music at Clive Davis' Pre-Grammy Gala | Billboard","credit":"","crop":{"article_main_image":"https:\/\/www.billboard.com\/files\/styles\/article_main_image\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","left_rail_110x110":"https:\/\/www.billboard.com\/files\/styles\/left_rail_110x110\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","review_main_image":"https:\/\/www.billboard.com\/files\/styles\/review_main_image\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","pushdown_327x216":"https:\/\/www.billboard.com\/files\/styles\/pushdown_327x216\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","1092x722":"https:\/\/www.billboard.com\/files\/styles\/1092x722\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","719x476":"https:\/\/www.billboard.com\/files\/styles\/719x476\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","528x349":"https:\/\/www.billboard.com\/files\/styles\/528x349\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","404x267":"https:\/\/www.billboard.com\/files\/styles\/404x267\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","300x114":"https:\/\/www.billboard.com\/files\/styles\/300x114\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","350x232":"https:\/\/www.billboard.com\/files\/styles\/350x232\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","224x148":"https:\/\/www.billboard.com\/files\/styles\/224x148\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","768x433":"https:\/\/www.billboard.com\/files\/styles\/768x433\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","1024x577":"https:\/\/www.billboard.com\/files\/styles\/1024x577\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","1500x845":"https:\/\/www.billboard.com\/files\/styles\/1500x845\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","320x416_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x416_gallery\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","768x998_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x998_gallery\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","900x1170_gallery":"https:\/\/www.billboard.com\/files\/styles\/900x1170_gallery\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","1024x1331_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x1331_gallery\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","320x212_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x212_gallery\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","768x508_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x508_gallery\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","1024x677_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x677_gallery\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","1296x857_gallery":"https:\/\/www.billboard.com\/files\/styles\/1296x857_gallery\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","1500x992_gallery":"https:\/\/www.billboard.com\/files\/styles\/1500x992_gallery\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","900_wide":"https:\/\/www.billboard.com\/files\/styles\/900_wide\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","320x320":"https:\/\/www.billboard.com\/files\/styles\/320x320\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","768x768":"https:\/\/www.billboard.com\/files\/styles\/768x768\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","1024x1024":"https:\/\/www.billboard.com\/files\/styles\/1024x1024\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","60x60":"https:\/\/www.billboard.com\/files\/styles\/60x60\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","210x118":"https:\/\/www.billboard.com\/files\/styles\/210x118\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","300x169":"https:\/\/www.billboard.com\/files\/styles\/300x169\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","394x221":"https:\/\/www.billboard.com\/files\/styles\/394x221\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","470x264":"https:\/\/www.billboard.com\/files\/styles\/470x264\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","620x348":"https:\/\/www.billboard.com\/files\/styles\/620x348\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","848x476":"https:\/\/www.billboard.com\/files\/styles\/848x476\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","120x120":"https:\/\/www.billboard.com\/files\/styles\/120x120\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","420x236":"https:\/\/www.billboard.com\/files\/styles\/420x236\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","480x270":"https:\/\/www.billboard.com\/files\/styles\/480x270\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","600x358":"https:\/\/www.billboard.com\/files\/styles\/600x358\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","788x442":"https:\/\/www.billboard.com\/files\/styles\/788x442\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","940x528":"https:\/\/www.billboard.com\/files\/styles\/940x528\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","1240x696":"https:\/\/www.billboard.com\/files\/styles\/1240x696\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg","1696x952":"https:\/\/www.billboard.com\/files\/styles\/1696x952\/public\/video\/1125911414_5721036219001_5721027659001-vs.jpg"}}}},{"id":8098931,"type":"brightcove","videoId":5730032546001,"title":"Elvis Crespo Talks New Music | Billboard In-Studio","deck":null,"media":{"nid":8098931,"type":"video","videoId":5730032546001,"playerId":null,"playerKey":null,"image":{"nid":null,"type":"image","orientation":"landscape","rawPath":"\/files\/video\/1125911414_5730038426001_5730032546001-vs.jpg","fullPath":"https:\/\/www.billboard.com\/files\/video\/1125911414_5730038426001_5730032546001-vs.jpg","width":1280,"height":720,"mimeType":"image\/jpeg","title":"","caption":"Elvis Crespo Interview with L3S","caption_raw":"Elvis Crespo Interview with L3S","credit":"","crop":{"article_main_image":"https:\/\/www.billboard.com\/files\/styles\/article_main_image\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","left_rail_110x110":"https:\/\/www.billboard.com\/files\/styles\/left_rail_110x110\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","review_main_image":"https:\/\/www.billboard.com\/files\/styles\/review_main_image\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","pushdown_327x216":"https:\/\/www.billboard.com\/files\/styles\/pushdown_327x216\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","1092x722":"https:\/\/www.billboard.com\/files\/styles\/1092x722\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","719x476":"https:\/\/www.billboard.com\/files\/styles\/719x476\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","528x349":"https:\/\/www.billboard.com\/files\/styles\/528x349\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","404x267":"https:\/\/www.billboard.com\/files\/styles\/404x267\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","300x114":"https:\/\/www.billboard.com\/files\/styles\/300x114\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","350x232":"https:\/\/www.billboard.com\/files\/styles\/350x232\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","224x148":"https:\/\/www.billboard.com\/files\/styles\/224x148\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","768x433":"https:\/\/www.billboard.com\/files\/styles\/768x433\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","1024x577":"https:\/\/www.billboard.com\/files\/styles\/1024x577\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","1500x845":"https:\/\/www.billboard.com\/files\/styles\/1500x845\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","320x416_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x416_gallery\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","768x998_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x998_gallery\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","900x1170_gallery":"https:\/\/www.billboard.com\/files\/styles\/900x1170_gallery\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","1024x1331_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x1331_gallery\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","320x212_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x212_gallery\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","768x508_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x508_gallery\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","1024x677_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x677_gallery\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","1296x857_gallery":"https:\/\/www.billboard.com\/files\/styles\/1296x857_gallery\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","1500x992_gallery":"https:\/\/www.billboard.com\/files\/styles\/1500x992_gallery\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","900_wide":"https:\/\/www.billboard.com\/files\/styles\/900_wide\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","320x320":"https:\/\/www.billboard.com\/files\/styles\/320x320\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","768x768":"https:\/\/www.billboard.com\/files\/styles\/768x768\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","1024x1024":"https:\/\/www.billboard.com\/files\/styles\/1024x1024\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","60x60":"https:\/\/www.billboard.com\/files\/styles\/60x60\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","210x118":"https:\/\/www.billboard.com\/files\/styles\/210x118\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","300x169":"https:\/\/www.billboard.com\/files\/styles\/300x169\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","394x221":"https:\/\/www.billboard.com\/files\/styles\/394x221\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","470x264":"https:\/\/www.billboard.com\/files\/styles\/470x264\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","620x348":"https:\/\/www.billboard.com\/files\/styles\/620x348\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","848x476":"https:\/\/www.billboard.com\/files\/styles\/848x476\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","120x120":"https:\/\/www.billboard.com\/files\/styles\/120x120\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","420x236":"https:\/\/www.billboard.com\/files\/styles\/420x236\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","480x270":"https:\/\/www.billboard.com\/files\/styles\/480x270\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","600x358":"https:\/\/www.billboard.com\/files\/styles\/600x358\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","788x442":"https:\/\/www.billboard.com\/files\/styles\/788x442\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","940x528":"https:\/\/www.billboard.com\/files\/styles\/940x528\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","1240x696":"https:\/\/www.billboard.com\/files\/styles\/1240x696\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg","1696x952":"https:\/\/www.billboard.com\/files\/styles\/1696x952\/public\/video\/1125911414_5730038426001_5730032546001-vs.jpg"}}}},{"id":8093827,"type":"brightcove","videoId":5707212219001,"title":"First, Best, Last, Worst with the Cast of Portlandia","deck":null,"media":{"nid":8093827,"type":"video","videoId":5707212219001,"playerId":null,"playerKey":null,"image":{"nid":null,"type":"image","orientation":"landscape","rawPath":"\/files\/video\/1125911414_5707225669001_5707212219001-vs.jpg","fullPath":"https:\/\/www.billboard.com\/files\/video\/1125911414_5707225669001_5707212219001-vs.jpg","width":1280,"height":720,"mimeType":"image\/jpeg","title":"Carrie Bernstein and Fred Armisen play First, Best, Last, Worst and reveal the best advice given to them and their biggest fashion mistakes.","caption":"First, Best, Last, Worst with the cast of Portlandia","caption_raw":"First, Best, Last, Worst with the cast of Portlandia","credit":"","crop":{"article_main_image":"https:\/\/www.billboard.com\/files\/styles\/article_main_image\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","left_rail_110x110":"https:\/\/www.billboard.com\/files\/styles\/left_rail_110x110\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","review_main_image":"https:\/\/www.billboard.com\/files\/styles\/review_main_image\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","pushdown_327x216":"https:\/\/www.billboard.com\/files\/styles\/pushdown_327x216\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","1092x722":"https:\/\/www.billboard.com\/files\/styles\/1092x722\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","719x476":"https:\/\/www.billboard.com\/files\/styles\/719x476\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","528x349":"https:\/\/www.billboard.com\/files\/styles\/528x349\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","404x267":"https:\/\/www.billboard.com\/files\/styles\/404x267\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","300x114":"https:\/\/www.billboard.com\/files\/styles\/300x114\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","350x232":"https:\/\/www.billboard.com\/files\/styles\/350x232\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","224x148":"https:\/\/www.billboard.com\/files\/styles\/224x148\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","768x433":"https:\/\/www.billboard.com\/files\/styles\/768x433\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","1024x577":"https:\/\/www.billboard.com\/files\/styles\/1024x577\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","1500x845":"https:\/\/www.billboard.com\/files\/styles\/1500x845\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","320x416_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x416_gallery\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","768x998_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x998_gallery\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","900x1170_gallery":"https:\/\/www.billboard.com\/files\/styles\/900x1170_gallery\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","1024x1331_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x1331_gallery\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","320x212_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x212_gallery\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","768x508_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x508_gallery\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","1024x677_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x677_gallery\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","1296x857_gallery":"https:\/\/www.billboard.com\/files\/styles\/1296x857_gallery\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","1500x992_gallery":"https:\/\/www.billboard.com\/files\/styles\/1500x992_gallery\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","900_wide":"https:\/\/www.billboard.com\/files\/styles\/900_wide\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","320x320":"https:\/\/www.billboard.com\/files\/styles\/320x320\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","768x768":"https:\/\/www.billboard.com\/files\/styles\/768x768\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","1024x1024":"https:\/\/www.billboard.com\/files\/styles\/1024x1024\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","60x60":"https:\/\/www.billboard.com\/files\/styles\/60x60\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","210x118":"https:\/\/www.billboard.com\/files\/styles\/210x118\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","300x169":"https:\/\/www.billboard.com\/files\/styles\/300x169\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","394x221":"https:\/\/www.billboard.com\/files\/styles\/394x221\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","470x264":"https:\/\/www.billboard.com\/files\/styles\/470x264\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","620x348":"https:\/\/www.billboard.com\/files\/styles\/620x348\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","848x476":"https:\/\/www.billboard.com\/files\/styles\/848x476\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","120x120":"https:\/\/www.billboard.com\/files\/styles\/120x120\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","420x236":"https:\/\/www.billboard.com\/files\/styles\/420x236\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","480x270":"https:\/\/www.billboard.com\/files\/styles\/480x270\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","600x358":"https:\/\/www.billboard.com\/files\/styles\/600x358\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","788x442":"https:\/\/www.billboard.com\/files\/styles\/788x442\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","940x528":"https:\/\/www.billboard.com\/files\/styles\/940x528\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","1240x696":"https:\/\/www.billboard.com\/files\/styles\/1240x696\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg","1696x952":"https:\/\/www.billboard.com\/files\/styles\/1696x952\/public\/video\/1125911414_5707225669001_5707212219001-vs.jpg"}}}},{"id":8092868,"type":"brightcove","videoId":5703061549001,"title":"Behind the Scenes with Travis Scott","deck":null,"media":{"nid":8092868,"type":"video","videoId":5703061549001,"playerId":null,"playerKey":null,"image":{"nid":null,"type":"image","orientation":"landscape","rawPath":"\/files\/video\/1125911414_5703084044001_5703061549001-vs.jpg","fullPath":"https:\/\/www.billboard.com\/files\/video\/1125911414_5703084044001_5703061549001-vs.jpg","width":1280,"height":720,"mimeType":"image\/jpeg","title":null,"caption":"","caption_raw":"","credit":null,"crop":{"article_main_image":"https:\/\/www.billboard.com\/files\/styles\/article_main_image\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","left_rail_110x110":"https:\/\/www.billboard.com\/files\/styles\/left_rail_110x110\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","review_main_image":"https:\/\/www.billboard.com\/files\/styles\/review_main_image\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","pushdown_327x216":"https:\/\/www.billboard.com\/files\/styles\/pushdown_327x216\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","1092x722":"https:\/\/www.billboard.com\/files\/styles\/1092x722\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","719x476":"https:\/\/www.billboard.com\/files\/styles\/719x476\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","528x349":"https:\/\/www.billboard.com\/files\/styles\/528x349\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","404x267":"https:\/\/www.billboard.com\/files\/styles\/404x267\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","300x114":"https:\/\/www.billboard.com\/files\/styles\/300x114\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","350x232":"https:\/\/www.billboard.com\/files\/styles\/350x232\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","224x148":"https:\/\/www.billboard.com\/files\/styles\/224x148\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","768x433":"https:\/\/www.billboard.com\/files\/styles\/768x433\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","1024x577":"https:\/\/www.billboard.com\/files\/styles\/1024x577\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","1500x845":"https:\/\/www.billboard.com\/files\/styles\/1500x845\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","320x416_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x416_gallery\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","768x998_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x998_gallery\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","900x1170_gallery":"https:\/\/www.billboard.com\/files\/styles\/900x1170_gallery\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","1024x1331_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x1331_gallery\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","320x212_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x212_gallery\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","768x508_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x508_gallery\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","1024x677_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x677_gallery\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","1296x857_gallery":"https:\/\/www.billboard.com\/files\/styles\/1296x857_gallery\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","1500x992_gallery":"https:\/\/www.billboard.com\/files\/styles\/1500x992_gallery\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","900_wide":"https:\/\/www.billboard.com\/files\/styles\/900_wide\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","320x320":"https:\/\/www.billboard.com\/files\/styles\/320x320\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","768x768":"https:\/\/www.billboard.com\/files\/styles\/768x768\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","1024x1024":"https:\/\/www.billboard.com\/files\/styles\/1024x1024\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","60x60":"https:\/\/www.billboard.com\/files\/styles\/60x60\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","210x118":"https:\/\/www.billboard.com\/files\/styles\/210x118\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","300x169":"https:\/\/www.billboard.com\/files\/styles\/300x169\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","394x221":"https:\/\/www.billboard.com\/files\/styles\/394x221\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","470x264":"https:\/\/www.billboard.com\/files\/styles\/470x264\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","620x348":"https:\/\/www.billboard.com\/files\/styles\/620x348\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","848x476":"https:\/\/www.billboard.com\/files\/styles\/848x476\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","120x120":"https:\/\/www.billboard.com\/files\/styles\/120x120\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","420x236":"https:\/\/www.billboard.com\/files\/styles\/420x236\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","480x270":"https:\/\/www.billboard.com\/files\/styles\/480x270\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","600x358":"https:\/\/www.billboard.com\/files\/styles\/600x358\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","788x442":"https:\/\/www.billboard.com\/files\/styles\/788x442\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","940x528":"https:\/\/www.billboard.com\/files\/styles\/940x528\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","1240x696":"https:\/\/www.billboard.com\/files\/styles\/1240x696\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg","1696x952":"https:\/\/www.billboard.com\/files\/styles\/1696x952\/public\/video\/1125911414_5703084044001_5703061549001-vs.jpg"}}}},{"id":8085942,"type":"brightcove","videoId":5700629978001,"title":"Tomorrowland, Ultra, or Weekend Festival? Alesso Decides!  | 1 Has 2 Go","deck":null,"media":{"nid":8085942,"type":"video","videoId":5700629978001,"playerId":null,"playerKey":null,"image":{"nid":null,"type":"image","orientation":"landscape","rawPath":"\/files\/video\/1125911414_5700649260001_5700629978001-vs.jpg","fullPath":"https:\/\/www.billboard.com\/files\/video\/1125911414_5700649260001_5700629978001-vs.jpg","width":1280,"height":720,"mimeType":"image\/jpeg","title":null,"caption":"","caption_raw":"","credit":null,"crop":{"article_main_image":"https:\/\/www.billboard.com\/files\/styles\/article_main_image\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","left_rail_110x110":"https:\/\/www.billboard.com\/files\/styles\/left_rail_110x110\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","review_main_image":"https:\/\/www.billboard.com\/files\/styles\/review_main_image\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","pushdown_327x216":"https:\/\/www.billboard.com\/files\/styles\/pushdown_327x216\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","1092x722":"https:\/\/www.billboard.com\/files\/styles\/1092x722\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","719x476":"https:\/\/www.billboard.com\/files\/styles\/719x476\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","528x349":"https:\/\/www.billboard.com\/files\/styles\/528x349\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","404x267":"https:\/\/www.billboard.com\/files\/styles\/404x267\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","300x114":"https:\/\/www.billboard.com\/files\/styles\/300x114\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","350x232":"https:\/\/www.billboard.com\/files\/styles\/350x232\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","224x148":"https:\/\/www.billboard.com\/files\/styles\/224x148\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","768x433":"https:\/\/www.billboard.com\/files\/styles\/768x433\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","1024x577":"https:\/\/www.billboard.com\/files\/styles\/1024x577\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","1500x845":"https:\/\/www.billboard.com\/files\/styles\/1500x845\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","320x416_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x416_gallery\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","768x998_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x998_gallery\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","900x1170_gallery":"https:\/\/www.billboard.com\/files\/styles\/900x1170_gallery\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","1024x1331_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x1331_gallery\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","320x212_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x212_gallery\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","768x508_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x508_gallery\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","1024x677_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x677_gallery\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","1296x857_gallery":"https:\/\/www.billboard.com\/files\/styles\/1296x857_gallery\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","1500x992_gallery":"https:\/\/www.billboard.com\/files\/styles\/1500x992_gallery\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","900_wide":"https:\/\/www.billboard.com\/files\/styles\/900_wide\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","320x320":"https:\/\/www.billboard.com\/files\/styles\/320x320\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","768x768":"https:\/\/www.billboard.com\/files\/styles\/768x768\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","1024x1024":"https:\/\/www.billboard.com\/files\/styles\/1024x1024\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","60x60":"https:\/\/www.billboard.com\/files\/styles\/60x60\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","210x118":"https:\/\/www.billboard.com\/files\/styles\/210x118\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","300x169":"https:\/\/www.billboard.com\/files\/styles\/300x169\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","394x221":"https:\/\/www.billboard.com\/files\/styles\/394x221\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","470x264":"https:\/\/www.billboard.com\/files\/styles\/470x264\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","620x348":"https:\/\/www.billboard.com\/files\/styles\/620x348\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","848x476":"https:\/\/www.billboard.com\/files\/styles\/848x476\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","120x120":"https:\/\/www.billboard.com\/files\/styles\/120x120\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","420x236":"https:\/\/www.billboard.com\/files\/styles\/420x236\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","480x270":"https:\/\/www.billboard.com\/files\/styles\/480x270\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","600x358":"https:\/\/www.billboard.com\/files\/styles\/600x358\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","788x442":"https:\/\/www.billboard.com\/files\/styles\/788x442\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","940x528":"https:\/\/www.billboard.com\/files\/styles\/940x528\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","1240x696":"https:\/\/www.billboard.com\/files\/styles\/1240x696\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg","1696x952":"https:\/\/www.billboard.com\/files\/styles\/1696x952\/public\/video\/1125911414_5700649260001_5700629978001-vs.jpg"}}}},{"id":8078481,"type":"brightcove","videoId":5689242510001,"title":"Cardi B Celebrates Hitting No. 1","deck":null,"media":{"nid":8078481,"type":"video","videoId":5689242510001,"playerId":null,"playerKey":null,"image":{"nid":null,"type":"image","orientation":"landscape","rawPath":"\/files\/video\/1125911414_5689379589001_5689242510001-vs.jpg","fullPath":"https:\/\/www.billboard.com\/files\/video\/1125911414_5689379589001_5689242510001-vs.jpg","width":1280,"height":720,"mimeType":"image\/jpeg","title":null,"caption":"","caption_raw":"","credit":null,"crop":{"article_main_image":"https:\/\/www.billboard.com\/files\/styles\/article_main_image\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","left_rail_110x110":"https:\/\/www.billboard.com\/files\/styles\/left_rail_110x110\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","review_main_image":"https:\/\/www.billboard.com\/files\/styles\/review_main_image\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","pushdown_327x216":"https:\/\/www.billboard.com\/files\/styles\/pushdown_327x216\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","1092x722":"https:\/\/www.billboard.com\/files\/styles\/1092x722\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","719x476":"https:\/\/www.billboard.com\/files\/styles\/719x476\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","528x349":"https:\/\/www.billboard.com\/files\/styles\/528x349\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","404x267":"https:\/\/www.billboard.com\/files\/styles\/404x267\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","300x114":"https:\/\/www.billboard.com\/files\/styles\/300x114\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","350x232":"https:\/\/www.billboard.com\/files\/styles\/350x232\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","224x148":"https:\/\/www.billboard.com\/files\/styles\/224x148\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","768x433":"https:\/\/www.billboard.com\/files\/styles\/768x433\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","1024x577":"https:\/\/www.billboard.com\/files\/styles\/1024x577\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","1500x845":"https:\/\/www.billboard.com\/files\/styles\/1500x845\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","320x416_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x416_gallery\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","768x998_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x998_gallery\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","900x1170_gallery":"https:\/\/www.billboard.com\/files\/styles\/900x1170_gallery\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","1024x1331_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x1331_gallery\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","320x212_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x212_gallery\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","768x508_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x508_gallery\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","1024x677_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x677_gallery\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","1296x857_gallery":"https:\/\/www.billboard.com\/files\/styles\/1296x857_gallery\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","1500x992_gallery":"https:\/\/www.billboard.com\/files\/styles\/1500x992_gallery\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","900_wide":"https:\/\/www.billboard.com\/files\/styles\/900_wide\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","320x320":"https:\/\/www.billboard.com\/files\/styles\/320x320\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","768x768":"https:\/\/www.billboard.com\/files\/styles\/768x768\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","1024x1024":"https:\/\/www.billboard.com\/files\/styles\/1024x1024\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","60x60":"https:\/\/www.billboard.com\/files\/styles\/60x60\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","210x118":"https:\/\/www.billboard.com\/files\/styles\/210x118\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","300x169":"https:\/\/www.billboard.com\/files\/styles\/300x169\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","394x221":"https:\/\/www.billboard.com\/files\/styles\/394x221\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","470x264":"https:\/\/www.billboard.com\/files\/styles\/470x264\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","620x348":"https:\/\/www.billboard.com\/files\/styles\/620x348\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","848x476":"https:\/\/www.billboard.com\/files\/styles\/848x476\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","120x120":"https:\/\/www.billboard.com\/files\/styles\/120x120\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","420x236":"https:\/\/www.billboard.com\/files\/styles\/420x236\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","480x270":"https:\/\/www.billboard.com\/files\/styles\/480x270\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","600x358":"https:\/\/www.billboard.com\/files\/styles\/600x358\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","788x442":"https:\/\/www.billboard.com\/files\/styles\/788x442\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","940x528":"https:\/\/www.billboard.com\/files\/styles\/940x528\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","1240x696":"https:\/\/www.billboard.com\/files\/styles\/1240x696\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg","1696x952":"https:\/\/www.billboard.com\/files\/styles\/1696x952\/public\/video\/1125911414_5689379589001_5689242510001-vs.jpg"}}}},{"id":8078473,"type":"brightcove","videoId":5689257010001,"title":"Where Were You When You Found Out You Hit No. 1? | Logic","deck":null,"media":{"nid":8078473,"type":"video","videoId":5689257010001,"playerId":null,"playerKey":null,"image":{"nid":null,"type":"image","orientation":"landscape","rawPath":"\/files\/video\/1125911414_5689310947001_5689257010001-vs.jpg","fullPath":"https:\/\/www.billboard.com\/files\/video\/1125911414_5689310947001_5689257010001-vs.jpg","width":1280,"height":720,"mimeType":"image\/jpeg","title":null,"caption":"","caption_raw":"","credit":null,"crop":{"article_main_image":"https:\/\/www.billboard.com\/files\/styles\/article_main_image\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","left_rail_110x110":"https:\/\/www.billboard.com\/files\/styles\/left_rail_110x110\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","review_main_image":"https:\/\/www.billboard.com\/files\/styles\/review_main_image\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","pushdown_327x216":"https:\/\/www.billboard.com\/files\/styles\/pushdown_327x216\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","1092x722":"https:\/\/www.billboard.com\/files\/styles\/1092x722\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","719x476":"https:\/\/www.billboard.com\/files\/styles\/719x476\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","528x349":"https:\/\/www.billboard.com\/files\/styles\/528x349\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","404x267":"https:\/\/www.billboard.com\/files\/styles\/404x267\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","300x114":"https:\/\/www.billboard.com\/files\/styles\/300x114\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","350x232":"https:\/\/www.billboard.com\/files\/styles\/350x232\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","224x148":"https:\/\/www.billboard.com\/files\/styles\/224x148\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","768x433":"https:\/\/www.billboard.com\/files\/styles\/768x433\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","1024x577":"https:\/\/www.billboard.com\/files\/styles\/1024x577\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","1500x845":"https:\/\/www.billboard.com\/files\/styles\/1500x845\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","320x416_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x416_gallery\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","768x998_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x998_gallery\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","900x1170_gallery":"https:\/\/www.billboard.com\/files\/styles\/900x1170_gallery\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","1024x1331_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x1331_gallery\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","320x212_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x212_gallery\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","768x508_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x508_gallery\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","1024x677_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x677_gallery\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","1296x857_gallery":"https:\/\/www.billboard.com\/files\/styles\/1296x857_gallery\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","1500x992_gallery":"https:\/\/www.billboard.com\/files\/styles\/1500x992_gallery\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","900_wide":"https:\/\/www.billboard.com\/files\/styles\/900_wide\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","320x320":"https:\/\/www.billboard.com\/files\/styles\/320x320\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","768x768":"https:\/\/www.billboard.com\/files\/styles\/768x768\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","1024x1024":"https:\/\/www.billboard.com\/files\/styles\/1024x1024\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","60x60":"https:\/\/www.billboard.com\/files\/styles\/60x60\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","210x118":"https:\/\/www.billboard.com\/files\/styles\/210x118\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","300x169":"https:\/\/www.billboard.com\/files\/styles\/300x169\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","394x221":"https:\/\/www.billboard.com\/files\/styles\/394x221\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","470x264":"https:\/\/www.billboard.com\/files\/styles\/470x264\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","620x348":"https:\/\/www.billboard.com\/files\/styles\/620x348\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","848x476":"https:\/\/www.billboard.com\/files\/styles\/848x476\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","120x120":"https:\/\/www.billboard.com\/files\/styles\/120x120\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","420x236":"https:\/\/www.billboard.com\/files\/styles\/420x236\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","480x270":"https:\/\/www.billboard.com\/files\/styles\/480x270\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","600x358":"https:\/\/www.billboard.com\/files\/styles\/600x358\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","788x442":"https:\/\/www.billboard.com\/files\/styles\/788x442\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","940x528":"https:\/\/www.billboard.com\/files\/styles\/940x528\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","1240x696":"https:\/\/www.billboard.com\/files\/styles\/1240x696\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg","1696x952":"https:\/\/www.billboard.com\/files\/styles\/1696x952\/public\/video\/1125911414_5689310947001_5689257010001-vs.jpg"}}}},{"id":8078466,"type":"brightcove","videoId":5689249717001,"title":"Tyler the Creator Celebrates Hitting No. 1","deck":null,"media":{"nid":8078466,"type":"video","videoId":5689249717001,"playerId":null,"playerKey":null,"image":{"nid":null,"type":"image","orientation":"landscape","rawPath":"\/files\/video\/1125911414_5689329789001_5689249717001-vs.jpg","fullPath":"https:\/\/www.billboard.com\/files\/video\/1125911414_5689329789001_5689249717001-vs.jpg","width":1280,"height":720,"mimeType":"image\/jpeg","title":null,"caption":"","caption_raw":"","credit":null,"crop":{"article_main_image":"https:\/\/www.billboard.com\/files\/styles\/article_main_image\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","left_rail_110x110":"https:\/\/www.billboard.com\/files\/styles\/left_rail_110x110\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","review_main_image":"https:\/\/www.billboard.com\/files\/styles\/review_main_image\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","pushdown_327x216":"https:\/\/www.billboard.com\/files\/styles\/pushdown_327x216\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","1092x722":"https:\/\/www.billboard.com\/files\/styles\/1092x722\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","719x476":"https:\/\/www.billboard.com\/files\/styles\/719x476\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","528x349":"https:\/\/www.billboard.com\/files\/styles\/528x349\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","404x267":"https:\/\/www.billboard.com\/files\/styles\/404x267\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","300x114":"https:\/\/www.billboard.com\/files\/styles\/300x114\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","350x232":"https:\/\/www.billboard.com\/files\/styles\/350x232\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","224x148":"https:\/\/www.billboard.com\/files\/styles\/224x148\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","768x433":"https:\/\/www.billboard.com\/files\/styles\/768x433\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","1024x577":"https:\/\/www.billboard.com\/files\/styles\/1024x577\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","1500x845":"https:\/\/www.billboard.com\/files\/styles\/1500x845\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","320x416_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x416_gallery\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","768x998_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x998_gallery\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","900x1170_gallery":"https:\/\/www.billboard.com\/files\/styles\/900x1170_gallery\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","1024x1331_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x1331_gallery\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","320x212_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x212_gallery\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","768x508_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x508_gallery\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","1024x677_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x677_gallery\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","1296x857_gallery":"https:\/\/www.billboard.com\/files\/styles\/1296x857_gallery\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","1500x992_gallery":"https:\/\/www.billboard.com\/files\/styles\/1500x992_gallery\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","900_wide":"https:\/\/www.billboard.com\/files\/styles\/900_wide\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","320x320":"https:\/\/www.billboard.com\/files\/styles\/320x320\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","768x768":"https:\/\/www.billboard.com\/files\/styles\/768x768\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","1024x1024":"https:\/\/www.billboard.com\/files\/styles\/1024x1024\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","60x60":"https:\/\/www.billboard.com\/files\/styles\/60x60\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","210x118":"https:\/\/www.billboard.com\/files\/styles\/210x118\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","300x169":"https:\/\/www.billboard.com\/files\/styles\/300x169\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","394x221":"https:\/\/www.billboard.com\/files\/styles\/394x221\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","470x264":"https:\/\/www.billboard.com\/files\/styles\/470x264\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","620x348":"https:\/\/www.billboard.com\/files\/styles\/620x348\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","848x476":"https:\/\/www.billboard.com\/files\/styles\/848x476\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","120x120":"https:\/\/www.billboard.com\/files\/styles\/120x120\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","420x236":"https:\/\/www.billboard.com\/files\/styles\/420x236\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","480x270":"https:\/\/www.billboard.com\/files\/styles\/480x270\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","600x358":"https:\/\/www.billboard.com\/files\/styles\/600x358\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","788x442":"https:\/\/www.billboard.com\/files\/styles\/788x442\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","940x528":"https:\/\/www.billboard.com\/files\/styles\/940x528\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","1240x696":"https:\/\/www.billboard.com\/files\/styles\/1240x696\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg","1696x952":"https:\/\/www.billboard.com\/files\/styles\/1696x952\/public\/video\/1125911414_5689329789001_5689249717001-vs.jpg"}}}},{"id":8078467,"type":"brightcove","videoId":5689264553001,"title":"Lil Uzi Celebrates Hitting No. 1","deck":null,"media":{"nid":8078467,"type":"video","videoId":5689264553001,"playerId":null,"playerKey":null,"image":{"nid":null,"type":"image","orientation":"landscape","rawPath":"\/files\/video\/1125911414_5689329792001_5689264553001-vs.jpg","fullPath":"https:\/\/www.billboard.com\/files\/video\/1125911414_5689329792001_5689264553001-vs.jpg","width":1280,"height":720,"mimeType":"image\/jpeg","title":null,"caption":"","caption_raw":"","credit":null,"crop":{"article_main_image":"https:\/\/www.billboard.com\/files\/styles\/article_main_image\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","left_rail_110x110":"https:\/\/www.billboard.com\/files\/styles\/left_rail_110x110\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","review_main_image":"https:\/\/www.billboard.com\/files\/styles\/review_main_image\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","pushdown_327x216":"https:\/\/www.billboard.com\/files\/styles\/pushdown_327x216\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","1092x722":"https:\/\/www.billboard.com\/files\/styles\/1092x722\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","719x476":"https:\/\/www.billboard.com\/files\/styles\/719x476\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","528x349":"https:\/\/www.billboard.com\/files\/styles\/528x349\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","404x267":"https:\/\/www.billboard.com\/files\/styles\/404x267\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","300x114":"https:\/\/www.billboard.com\/files\/styles\/300x114\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","350x232":"https:\/\/www.billboard.com\/files\/styles\/350x232\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","224x148":"https:\/\/www.billboard.com\/files\/styles\/224x148\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","768x433":"https:\/\/www.billboard.com\/files\/styles\/768x433\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","1024x577":"https:\/\/www.billboard.com\/files\/styles\/1024x577\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","1500x845":"https:\/\/www.billboard.com\/files\/styles\/1500x845\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","320x416_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x416_gallery\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","768x998_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x998_gallery\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","900x1170_gallery":"https:\/\/www.billboard.com\/files\/styles\/900x1170_gallery\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","1024x1331_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x1331_gallery\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","320x212_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x212_gallery\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","768x508_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x508_gallery\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","1024x677_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x677_gallery\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","1296x857_gallery":"https:\/\/www.billboard.com\/files\/styles\/1296x857_gallery\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","1500x992_gallery":"https:\/\/www.billboard.com\/files\/styles\/1500x992_gallery\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","900_wide":"https:\/\/www.billboard.com\/files\/styles\/900_wide\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","320x320":"https:\/\/www.billboard.com\/files\/styles\/320x320\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","768x768":"https:\/\/www.billboard.com\/files\/styles\/768x768\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","1024x1024":"https:\/\/www.billboard.com\/files\/styles\/1024x1024\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","60x60":"https:\/\/www.billboard.com\/files\/styles\/60x60\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","210x118":"https:\/\/www.billboard.com\/files\/styles\/210x118\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","300x169":"https:\/\/www.billboard.com\/files\/styles\/300x169\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","394x221":"https:\/\/www.billboard.com\/files\/styles\/394x221\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","470x264":"https:\/\/www.billboard.com\/files\/styles\/470x264\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","620x348":"https:\/\/www.billboard.com\/files\/styles\/620x348\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","848x476":"https:\/\/www.billboard.com\/files\/styles\/848x476\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","120x120":"https:\/\/www.billboard.com\/files\/styles\/120x120\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","420x236":"https:\/\/www.billboard.com\/files\/styles\/420x236\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","480x270":"https:\/\/www.billboard.com\/files\/styles\/480x270\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","600x358":"https:\/\/www.billboard.com\/files\/styles\/600x358\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","788x442":"https:\/\/www.billboard.com\/files\/styles\/788x442\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","940x528":"https:\/\/www.billboard.com\/files\/styles\/940x528\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","1240x696":"https:\/\/www.billboard.com\/files\/styles\/1240x696\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg","1696x952":"https:\/\/www.billboard.com\/files\/styles\/1696x952\/public\/video\/1125911414_5689329792001_5689264553001-vs.jpg"}}}},{"id":8054714,"type":"brightcove","videoId":5663664233001,"title":"Behind the Scenes at Selena Gomez's \"Woman of the Year\" Cover Shoot | Women In Music 2017","deck":null,"media":{"nid":8054714,"type":"video","videoId":5663664233001,"playerId":null,"playerKey":null,"image":{"nid":null,"type":"image","orientation":"landscape","rawPath":"\/files\/video\/1125911414_5663673582001_5663664233001-vs.jpg","fullPath":"https:\/\/www.billboard.com\/files\/video\/1125911414_5663673582001_5663664233001-vs.jpg","width":1280,"height":720,"mimeType":"image\/jpeg","title":null,"caption":"","caption_raw":"","credit":null,"crop":{"article_main_image":"https:\/\/www.billboard.com\/files\/styles\/article_main_image\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","left_rail_110x110":"https:\/\/www.billboard.com\/files\/styles\/left_rail_110x110\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","review_main_image":"https:\/\/www.billboard.com\/files\/styles\/review_main_image\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","pushdown_327x216":"https:\/\/www.billboard.com\/files\/styles\/pushdown_327x216\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","1092x722":"https:\/\/www.billboard.com\/files\/styles\/1092x722\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","719x476":"https:\/\/www.billboard.com\/files\/styles\/719x476\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","528x349":"https:\/\/www.billboard.com\/files\/styles\/528x349\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","404x267":"https:\/\/www.billboard.com\/files\/styles\/404x267\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","300x114":"https:\/\/www.billboard.com\/files\/styles\/300x114\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","350x232":"https:\/\/www.billboard.com\/files\/styles\/350x232\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","224x148":"https:\/\/www.billboard.com\/files\/styles\/224x148\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","768x433":"https:\/\/www.billboard.com\/files\/styles\/768x433\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","1024x577":"https:\/\/www.billboard.com\/files\/styles\/1024x577\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","1500x845":"https:\/\/www.billboard.com\/files\/styles\/1500x845\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","320x416_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x416_gallery\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","768x998_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x998_gallery\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","900x1170_gallery":"https:\/\/www.billboard.com\/files\/styles\/900x1170_gallery\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","1024x1331_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x1331_gallery\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","320x212_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x212_gallery\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","768x508_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x508_gallery\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","1024x677_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x677_gallery\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","1296x857_gallery":"https:\/\/www.billboard.com\/files\/styles\/1296x857_gallery\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","1500x992_gallery":"https:\/\/www.billboard.com\/files\/styles\/1500x992_gallery\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","900_wide":"https:\/\/www.billboard.com\/files\/styles\/900_wide\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","320x320":"https:\/\/www.billboard.com\/files\/styles\/320x320\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","768x768":"https:\/\/www.billboard.com\/files\/styles\/768x768\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","1024x1024":"https:\/\/www.billboard.com\/files\/styles\/1024x1024\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","60x60":"https:\/\/www.billboard.com\/files\/styles\/60x60\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","210x118":"https:\/\/www.billboard.com\/files\/styles\/210x118\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","300x169":"https:\/\/www.billboard.com\/files\/styles\/300x169\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","394x221":"https:\/\/www.billboard.com\/files\/styles\/394x221\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","470x264":"https:\/\/www.billboard.com\/files\/styles\/470x264\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","620x348":"https:\/\/www.billboard.com\/files\/styles\/620x348\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","848x476":"https:\/\/www.billboard.com\/files\/styles\/848x476\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","120x120":"https:\/\/www.billboard.com\/files\/styles\/120x120\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","420x236":"https:\/\/www.billboard.com\/files\/styles\/420x236\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","480x270":"https:\/\/www.billboard.com\/files\/styles\/480x270\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","600x358":"https:\/\/www.billboard.com\/files\/styles\/600x358\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","788x442":"https:\/\/www.billboard.com\/files\/styles\/788x442\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","940x528":"https:\/\/www.billboard.com\/files\/styles\/940x528\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","1240x696":"https:\/\/www.billboard.com\/files\/styles\/1240x696\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg","1696x952":"https:\/\/www.billboard.com\/files\/styles\/1696x952\/public\/video\/1125911414_5663673582001_5663664233001-vs.jpg"}}}},{"id":8054794,"type":"brightcove","videoId":5663992723001,"title":"Kelly Clarkson Would Tell Her 'American Idol' Self to \"Relax\" | Women in Music 2017","deck":null,"media":{"nid":8054794,"type":"video","videoId":5663992723001,"playerId":null,"playerKey":null,"image":{"nid":null,"type":"image","orientation":"landscape","rawPath":"\/files\/video\/1125911414_5664056777001_5663992723001-vs.jpg","fullPath":"https:\/\/www.billboard.com\/files\/video\/1125911414_5664056777001_5663992723001-vs.jpg","width":1280,"height":720,"mimeType":"image\/jpeg","title":null,"caption":"","caption_raw":"","credit":null,"crop":{"article_main_image":"https:\/\/www.billboard.com\/files\/styles\/article_main_image\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","left_rail_110x110":"https:\/\/www.billboard.com\/files\/styles\/left_rail_110x110\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","review_main_image":"https:\/\/www.billboard.com\/files\/styles\/review_main_image\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","pushdown_327x216":"https:\/\/www.billboard.com\/files\/styles\/pushdown_327x216\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","1092x722":"https:\/\/www.billboard.com\/files\/styles\/1092x722\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","719x476":"https:\/\/www.billboard.com\/files\/styles\/719x476\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","528x349":"https:\/\/www.billboard.com\/files\/styles\/528x349\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","404x267":"https:\/\/www.billboard.com\/files\/styles\/404x267\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","300x114":"https:\/\/www.billboard.com\/files\/styles\/300x114\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","350x232":"https:\/\/www.billboard.com\/files\/styles\/350x232\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","224x148":"https:\/\/www.billboard.com\/files\/styles\/224x148\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","768x433":"https:\/\/www.billboard.com\/files\/styles\/768x433\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","1024x577":"https:\/\/www.billboard.com\/files\/styles\/1024x577\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","1500x845":"https:\/\/www.billboard.com\/files\/styles\/1500x845\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","320x416_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x416_gallery\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","768x998_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x998_gallery\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","900x1170_gallery":"https:\/\/www.billboard.com\/files\/styles\/900x1170_gallery\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","1024x1331_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x1331_gallery\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","320x212_gallery":"https:\/\/www.billboard.com\/files\/styles\/320x212_gallery\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","768x508_gallery":"https:\/\/www.billboard.com\/files\/styles\/768x508_gallery\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","1024x677_gallery":"https:\/\/www.billboard.com\/files\/styles\/1024x677_gallery\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","1296x857_gallery":"https:\/\/www.billboard.com\/files\/styles\/1296x857_gallery\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","1500x992_gallery":"https:\/\/www.billboard.com\/files\/styles\/1500x992_gallery\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","900_wide":"https:\/\/www.billboard.com\/files\/styles\/900_wide\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","320x320":"https:\/\/www.billboard.com\/files\/styles\/320x320\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","768x768":"https:\/\/www.billboard.com\/files\/styles\/768x768\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","1024x1024":"https:\/\/www.billboard.com\/files\/styles\/1024x1024\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","60x60":"https:\/\/www.billboard.com\/files\/styles\/60x60\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","210x118":"https:\/\/www.billboard.com\/files\/styles\/210x118\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","300x169":"https:\/\/www.billboard.com\/files\/styles\/300x169\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","394x221":"https:\/\/www.billboard.com\/files\/styles\/394x221\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","470x264":"https:\/\/www.billboard.com\/files\/styles\/470x264\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","620x348":"https:\/\/www.billboard.com\/files\/styles\/620x348\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","848x476":"https:\/\/www.billboard.com\/files\/styles\/848x476\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","120x120":"https:\/\/www.billboard.com\/files\/styles\/120x120\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","420x236":"https:\/\/www.billboard.com\/files\/styles\/420x236\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","480x270":"https:\/\/www.billboard.com\/files\/styles\/480x270\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","600x358":"https:\/\/www.billboard.com\/files\/styles\/600x358\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","788x442":"https:\/\/www.billboard.com\/files\/styles\/788x442\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","940x528":"https:\/\/www.billboard.com\/files\/styles\/940x528\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","1240x696":"https:\/\/www.billboard.com\/files\/styles\/1240x696\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg","1696x952":"https:\/\/www.billboard.com\/files\/styles\/1696x952\/public\/video\/1125911414_5664056777001_5663992723001-vs.jpg"}}}}],"accountId":1125911414,"playerId":"028db90d-2f01-4434-ac5f-8fb691bc970a","adSlot":"bbwatch1"}
+</script>
+</div>
+<div class="article-meta-bottom">
+<ul class="social-share social-share--bottom">
+<li class="social-share__item">
+<a class="js-pgm-social-share social-share__link social-share__link--facebook fa-facebook" data-pgm-share="facebook" data-pgm-title="Pyeongchang&#x20;Olympics&#x20;2018&#x20;Opening&#x20;Ceremony&#x3A;&#x20;USA&#x20;Relives&#x20;&#x27;Gangnam&#x20;Style,&#x27;&#x20;Themes&#x20;of&#x20;Peace,&#x20;the&#x20;Tonga&#x20;Flag&#x20;Bearer&#x20;Returns&#x20;&amp;&#x20;More" data-pgm-url="https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;articles&#x2F;news&#x2F;8099061&#x2F;pyeongchang-olympics-2018-opening-ceremony-highlights" href="javascript:void(0);">
+FACEBOOK
+</a>
+</li>
+<li class="social-share__item">
+<a class="js-pgm-social-share social-share__link social-share__link--twitter fa-twitter" data-pgm-share="twitter" data-pgm-title="Pyeongchang&#x20;Olympics&#x20;2018&#x20;Opening&#x20;Ceremony&#x3A;&#x20;USA&#x20;Relives&#x20;&#x27;Gangnam&#x20;Style,&#x27;&#x20;Themes&#x20;of&#x20;Peace,&#x20;the&#x20;Tonga&#x20;Flag&#x20;Bearer&#x20;Returns&#x20;&amp;&#x20;More" data-pgm-url="https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;articles&#x2F;news&#x2F;8099061&#x2F;pyeongchang-olympics-2018-opening-ceremony-highlights" href="javascript:void(0);">
+TWITTER
+</a>
+</li>
+<li class="social-share__item">
+<a class="social-share__link social-share__link--email fa-envelope" data-pgm-title="Pyeongchang&#x20;Olympics&#x20;2018&#x20;Opening&#x20;Ceremony&#x3A;&#x20;USA&#x20;Relives&#x20;&#x27;Gangnam&#x20;Style,&#x27;&#x20;Themes&#x20;of&#x20;Peace,&#x20;the&#x20;Tonga&#x20;Flag&#x20;Bearer&#x20;Returns&#x20;&amp;&#x20;More" href="mailto:?body=https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;articles&#x2F;news&#x2F;8099061&#x2F;pyeongchang-olympics-2018-opening-ceremony-highlights&subject=Pyeongchang&#x20;Olympics&#x20;2018&#x20;Opening&#x20;Ceremony&#x3A;&#x20;USA&#x20;Relives&#x20;&#x27;Gangnam&#x20;Style,&#x27;&#x20;Themes&#x20;of&#x20;Peace,&#x20;the&#x20;Tonga&#x20;Flag&#x20;Bearer&#x20;Returns&#x20;&amp;&#x20;More">
+EMAIL ME
+</a>
+</li>
+<li class="social-share__item">
+<a class="social-share__link social-share__link--print fa-print" target="_blank" href="/print/8099061">
+PRINT
+</a>
+</li>
+<li class="social-share__item">
+<a class="social-share__link social-share__link--comments js-scroll-to-comments fa-comment" href="javascript:void(0);">
+COMMENTS
+</a>
+</li>
+</ul>
+</div>
+<div class="zergnet-widget zergnet-widget-61945" data-zerg-widget-id="61945"></div><div class="zergnet-widget zergnet-widget-36521" data-zerg-widget-id="36521"></div>
+<div class="ad_desktop dfp-ad" data-position="zergnet" data-sizes="[[4,4]]" data-lazy-load="0" data-refresh="0" data-refresh-timer="0" data-swap="" data-load-order="" data-ad-unit="/6419/billboard/zergnet">
+</div> <button class="js-toggle-disqus-comments disqus-comments-toggle">Comments</button>
+<div id="disqus_thread" class="disqus-comments"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'billboardcom';
+    PGM.createScript('//billboardcom.disqus.com/embed.js');
+</script>
+<div class='js-leftRail-slot-m1' data-position='m1' data-slot-name="m1" data-sizes='[[300,250],[300,600],[300,251]]' data-size-mapping='{"1024":[[300,250],[300,600],[300,251]],"768":[[300,250],[300,600],[300,251]],"0":[[300,50],[320,50],[300,250]]}' data-lazy-load='' data-refresh='' data-refresh-timer='' data-targeting='{"pos":"m1","amazon":"1"}' data-ad-unit='/6419/billboard/articles/news' data-trackaction="" data-tracklabel="Ad Click">
+</div>
+<div class="js-ad-pageTargeting">
+<script type="application/json">
+        {
+                            "tags_global": ["fe-api","articles","news","8099061","pyeongchang-olympics-2018-opening-ceremony-highlights","[node:chart_primary_category]"],
+                            "page": "8099061",
+                            "tags": ["Olympics","bbnews","News","news","winter-olympics"],
+                            "env": "prod"
+                    }
+        </script>
+</div>
+</article>
+<div class="js-leftRail-loadNewContent" data-currentId="8099061" data-urlPrefix="/fe_data"></div>
+</section>
+</main>
+</main>
+<footer id="site-footer" class="site-footer">
+<div class="container footer-content">
+<div class="cover-image">
+<a href="https://subscribe.billboard.com/sub/?p=BBL&amp;f=sale&amp;s=IB1404NS04">
+<img src="https://www.billboard.com/files/styles/magazine_cover/public/media/charlie-puth-fm3j-bb4-2018-snxu3-cov-ay2-billboard-400.jpg" alt="Subscribe to Billboard">
+</a>
+</div>
+<div class="subscribe">
+<h2>Magazine</h2>
+<ul>
+<li><a class="site-footer__link" href="https://subscribe.billboard.com/sub/?p=BBL&f=landing" title="Customer Service">Customer Service</a></li>
+<li><a class="site-footer__link" href="https://subscribe.billboard.com/sub/?p=BBL&f=sale&s=IB1404NS03" title="Subscribe">Subscribe</a></li>
+<li><a class="site-footer__link" href="http://shop.billboard.com/" title="Buy this issue">Buy this issue</a></li>
+</ul>
+<h2>Billboard biz</h2>
+<p>The online extension of Billboard Magazine, billboard.biz is the essential online destination for the music business.</p>
+<p><a class="site-footer__link" href="/biz" title="Learn More">Learn More</a></p>
+</div>
+<nav class="footer-nav">
+<h2>Sharing Billboard</h2>
+<ul>
+<li><a class="site-footer__link" href="http&#x3A;&#x2F;&#x2F;www.facebook.com&#x2F;Billboard" class="&#x20;link-external" target="blank">Facebook</a></li>
+<li><a class="site-footer__link" href="https&#x3A;&#x2F;&#x2F;twitter.com&#x2F;billboard" class="&#x20;link-external" target="blank">Twitter</a></li>
+<li><a class="site-footer__link" href="https&#x3A;&#x2F;&#x2F;plus.google.com&#x2F;&#x2B;Billboard&#x2F;posts" class="&#x20;link-external" target="blank">Google+</a></li>
+<li><a class="site-footer__link" href="http&#x3A;&#x2F;&#x2F;youtube.com&#x2F;billboard" class="&#x20;link-external" target="blank">YouTube</a></li>
+<li><a class="site-footer__link" href="http&#x3A;&#x2F;&#x2F;instagram.com&#x2F;billboard" class="&#x20;link-external" target="blank">Instagram</a></li>
+<li><a class="site-footer__link" href="http&#x3A;&#x2F;&#x2F;billboard.tumblr.com&#x2F;" class="&#x20;link-external" target="blank">Tumblr</a></li>
+<li><a class="site-footer__link" href="http&#x3A;&#x2F;&#x2F;pinterest.com&#x2F;billboard" class="&#x20;link-external" target="blank">Pinterest</a></li>
+<li><a class="site-footer__link" href="http&#x3A;&#x2F;&#x2F;open.spotify.com&#x2F;app&#x2F;billboard" class="&#x20;link-external" target="blank">Spotify</a></li>
+<li><a class="site-footer__link" href="https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;newsletters">Newsletter</a></li>
+<li><a class="site-footer__link" href="https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;biz&#x2F;newsletters">Biz Newsletter</a></li>
+</ul>
+</nav>
+<nav class="footer-nav">
+<h2>Explore Billboard</h2>
+<ul>
+<li><a class="site-footer__link" href="http&#x3A;&#x2F;&#x2F;store.billboard.com&#x2F;" class="&#x20;link-external" target="blank">Shop</a></li>
+<li><a class="site-footer__link" href="https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;archive&#x2F;article">News Archive</a></li>
+<li><a class="site-footer__link" href="https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;photos">Photos Archive</a></li>
+<li><a class="site-footer__link" href="https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;archive&#x2F;video_item">Videos Archive</a></li>
+<li><a class="site-footer__link" href="http&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;magazine-archive" class="&#x20;link-external" target="blank">Magazine Archive</a></li>
+<li><a class="site-footer__link" href="https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;archive&#x2F;charts">Charts Archive</a></li>
+</ul>
+</nav>
+<nav class="footer-nav">
+<h2>Information</h2>
+<ul>
+<li><a class="site-footer__link" href="http&#x3A;&#x2F;&#x2F;prometheusglobalmedia.applytojob.com&#x2F;" class="&#x20;link-external" target="blank">Jobs</a></li>
+<li><a class="site-footer__link" href="http&#x3A;&#x2F;&#x2F;billboardlicensing.licensestream.com" class="&#x20;link-external" target="blank">Chart Licensing</a></li>
+<li><a class="site-footer__link" href="http&#x3A;&#x2F;&#x2F;www.billboardevents.com&#x2F;" class="&#x20;link-external" target="blank">Billboard Events</a></li>
+<li><a class="site-footer__link" href="https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;articles&#x2F;news&#x2F;468196&#x2F;contact-us">Contact Us</a></li>
+<li><a class="site-footer__link" href="https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;p&#x2F;sitemap">Sitemap</a></li>
+<li><a class="site-footer__link" href="https&#x3A;&#x2F;&#x2F;www.billboard.com&#x2F;p&#x2F;faq">FAQ</a></li>
+<li><a class="site-footer__link" href="https&#x3A;&#x2F;&#x2F;docs.google.com&#x2F;spreadsheet&#x2F;viewform&#x3F;formkey&#x3D;dDZ1RmJPWndBRmc0cThUOEMwMXhLMXc6MQ&#x23;gid&#x3D;0" class="&#x20;link-external" target="blank">Feedback</a></li>
+<li><a class="site-footer__link" href="http&#x3A;&#x2F;&#x2F;www.metrolyrics.com&#x2F;" class="&#x20;link-external" target="blank">Lyrics</a></li>
+</ul>
+</nav>
+<div class="footer-brand">
+<div class="billboard brand">
+<a class="site-footer__link" href="/">Billboard</a>
+</div>
+<div class="affiliates">
+<a href="http://www.hollywoodreporter.com/" title="The Hollywood Reporter" target="_blank" class="site-footer__link thr"></a>
+<a href="http://www.spin.com/" title="Spin.com" target="_blank" class="site-footer__link spin"></a>
+<a href="http://www.vibe.com/" title="Vibe.com" target="_blank" class="site-footer__link vibe"></a>
+<a href="http://www.stereogum.com/" title="Stereogum.com" target="_blank" class="site-footer__link stereogum"></a>
+<a href="http://www.deathandtaxesmag.com/" title="Deathandtaxesmag.com" target="_blank" class="site-footer__link deathandtaxesmag"></a>
+</div>
+</div>
+</div>
+<div class="container">
+<p class="copyright__paragraph">&copy; 2018 Billboard. All Rights Reserved.</p>
+<p class="copyright__paragraph">
+<a class="copyright__link" href="/terms-of-use">Terms of Use</a>
+<a class="copyright__link" href="/privacy-policy">Privacy Policy</a>
+<a class="copyright__link" href="/about-our-ads">About Our Ads</a>
+<a class="copyright__link copyright__link--contrast" href="https://www.billboard.com/advertising">Advertising</a>
+</p>
+</div>
+<div class="container">
+<p class="station-identification">
+Billboard.com is a member of Billboard Music, a division of Billboard-Hollywood Reporter Media Group
+</p>
+</div>
+</footer>
+<script>
+    window.CLARITY = window.CLARITY || [];
+</script>
+<div class="ad_clarity" data-out-of-page="true" style="display: none;"></div>
+<script>
+    CLARITY.push({
+        use: ['ads'],
+        run: function(Ads) {
+            Ads.site_code = "billboard";
+            Ads.zone = "";
+
+            var keywords = [];
+
+            // Keyword injection
+            if (typeof(global_keywords) !== "undefined") {
+                keywords = global_keywords;
+            }
+
+                            keywords.push({
+                    keywords: "",
+                    keyvalues: "tags_global=fe-api",
+                    paths: "",
+                    positions: "all"
+                });
+                            keywords.push({
+                    keywords: "",
+                    keyvalues: "tags_global=articles",
+                    paths: "",
+                    positions: "all"
+                });
+                            keywords.push({
+                    keywords: "",
+                    keyvalues: "tags_global=news",
+                    paths: "",
+                    positions: "all"
+                });
+                            keywords.push({
+                    keywords: "",
+                    keyvalues: "tags_global=8099061",
+                    paths: "",
+                    positions: "all"
+                });
+                            keywords.push({
+                    keywords: "",
+                    keyvalues: "tags_global=pyeongchang-olympics-2018-opening-ceremony-highlights",
+                    paths: "",
+                    positions: "all"
+                });
+                            keywords.push({
+                    keywords: "",
+                    keyvalues: "tags_global=[node:chart_primary_category]",
+                    paths: "",
+                    positions: "all"
+                });
+                            keywords.push({
+                    keywords: "",
+                    keyvalues: "page=8099061",
+                    paths: "",
+                    positions: "all"
+                });
+                            keywords.push({
+                    keywords: "",
+                    keyvalues: "tags=Olympics",
+                    paths: "",
+                    positions: "all"
+                });
+                            keywords.push({
+                    keywords: "",
+                    keyvalues: "tags=bbnews",
+                    paths: "",
+                    positions: "all"
+                });
+                            keywords.push({
+                    keywords: "",
+                    keyvalues: "tags=News",
+                    paths: "",
+                    positions: "all"
+                });
+                            keywords.push({
+                    keywords: "",
+                    keyvalues: "tags=news",
+                    paths: "",
+                    positions: "all"
+                });
+                            keywords.push({
+                    keywords: "",
+                    keyvalues: "tags=winter-olympics",
+                    paths: "",
+                    positions: "all"
+                });
+                            keywords.push({
+                    keywords: "",
+                    keyvalues: "env=prod",
+                    paths: "",
+                    positions: "all"
+                });
+                            keywords.push({
+                    keywords: "",
+                    keyvalues: "domain=www.billboard.com",
+                    paths: "",
+                    positions: "all"
+                });
+            
+            Ads.keywords = keywords;
+
+                            Ads.autoPopulate();
+                    }
+    });
+</script>
+<script type="text/javascript" src="https://assets.billboard.com/assets/1517605814/js/commons.bundle.js?3af3b0f976f90a8fef05"></script>
+<script type="text/javascript" src="https://assets.billboard.com/assets/1517605814/js/transition.bundle.js?3af3b0f976f90a8fef05"></script>
+<script type="text/javascript" src="https://assets.billboard.com/assets/1517605814/js/templates.js?3af3b0f976f90a8fef05"></script>
+<script type="text/javascript" src="https://assets.billboard.com/assets/1517605814/js/vendor.js?3af3b0f976f90a8fef05"></script>
+<script type="text/javascript" src="https://assets.billboard.com/assets/1517605814/js/home.bundle.js?3af3b0f976f90a8fef05"></script>
+<script type="text/javascript" src="https://assets.billboard.com/assets/1517605814/js/bb.js?3af3b0f976f90a8fef05"></script>
+
+<script type='text/javascript'>
+	var _sf_async_config={};
+	/** CONFIGURATION START **/
+	_sf_async_config.uid = 3388;
+	_sf_async_config.domain = 'billboard.com';
+	_sf_async_config.useCanonical = true;
+	/** CONFIGURATION END **/
+	PGM.createScript('//static.chartbeat.com/js/chartbeat.js');
+</script>
+
+
+
+<script class="kxct" data-id="JsVUOKRj" data-timing="async" data-version="1.9" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+    (function(){
+        var k=document.createElement('script');k.type='text/javascript';k.async=true;
+        k.src=(location.protocol==='https:'?'https:':'http:')+'//cdn.krxd.net/controltag/JsVUOKRj.js';
+        var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+    }());
+</script>
+
+<script class="kxint" type="text/javascript">
+window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+(function(){
+  function retrieve(n){
+    var k= 'kx'+''+n, ls=(function(){
+      try {
+        return window.localStorage;
+      } catch(e) {
+        return null;
+      }
+    })();
+    if (ls) {
+        return ls[k] || '';
+    } else if (navigator.cookieEnabled) {
+        var m = document.cookie.match(k+'=([^;]*)');
+        return (m && unescape(m[1])) || '';
+    } else {
+        return '';
+    }
+  }
+  Krux.user = retrieve('user');
+  var segs = retrieve('segs');
+  Krux.segments = segs ? segs.split(',') : [];
+})();
+</script>
+
+<script data-src="//platform.instagram.com/en_US/embeds.js"></script>
+<script data-src="//platform.twitter.com/widgets.js"></script>
+<div id="fb-root"></div>
+<script type="text/javascript">
+    PGM.createScriptTag("//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=303838389949803");
+</script>
+<script type="text/javascript">
+        PGM.createScript('//launch.newsinc.com/js/embed.js', function() {
+            if( _informq && typeof _informq.push === 'function' ) {
+                _informq.push(['embed']);
+            }
+        });
+    </script>
+
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1554285401541797'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1554285401541797&ev=PageView&noscript=1"
+/></noscript>
+
+
+
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 879509920;
+var google_conversion_label = "wh8cCLa922cQoIOxowM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/879509920/?value=1.00&currency_code=USD&label=wh8cCLa922cQoIOxowM&guid=ON&script=0"/>
+</div>
+</noscript>
+
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nw8g2', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nw8g2&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nw8g2&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+</noscript>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"645958bbf2","applicationID":"3969137","transactionName":"YAZRbEJXC0VUURFZV1lMZkpZGQxYUVcdHkhfEw==","queueTime":0,"applicationTime":1743,"atts":"TEFSGgpNGEs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,32 @@
+!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t
+"description": "A brief U.S. government shutdown ended on Friday after Congress passed and President Donald Trump signed into law a temporary spending deal expected to push budget deficits past $1 trillion annually with new military and domestic outlays.",
+"keywords": ["US","USA","CONGRESS","SHUTDOWN","Crime / Law / Justice","Lawmaking","Defense","Government Finances","Asylum / Immigration / Refugees","Picture available","Taxation","Government / Politics","Economic Events","Video","National Government Debt","US House of Representatives","Major News","Graphics","US Government News","Pictures","Economic News (3rd Party)","US Senate","United States", "Article", "Politics","Election 2016","U.S."],
+.intro-deloitte{  margin-top: -250px;color: #0c8e98;font-family: knowledge-light, helvetica, arial, sans-serif;font-size: 26px;line-height: 36px;padding-bottom: 50px;margin-bottom:30px; padding-left: 0px;padding-top: 0px;border-bottom: 1px solid #0c8e98;}
+February 8, 2018 /  1:31 PM / 7 days ago
+Trump signs deal to end brief agency shutdown, boost U.S. spending
+Steve Holland , David Morgan
+6 Min Read
+WASHINGTON (Reuters) - A brief U.S. government shutdown ended on Friday after Congress passed and President Donald Trump signed into law a temporary spending deal expected to push budget deficits past $1 trillion annually with new military and domestic outlays.
+But Trump is expected to unveil on Monday a fiscal 2019 budget plan that will be based on rosy assumptions, including economic growth of 3.2 percent next year, a White House official said.
+That level is well above the 2.5 percent growth achieved in 2017 and the 2.5 to 2.7 percent range of economists’ forecasts for this year. The White House’s plan also anticipates that the strong growth will go on for years, the official said, with 3 percent growth in 2021, only tapering to 2.8 percent in 2026.
+The growth assumptions in Trump’s budget were first reported by the Wall Street Journal.
+The Trump budget also assumes very low interest rates, with the benchmark 10-year Treasury yield averaging 2.6 percent this year. But the 10-year yield closed at 2.86 percent on Friday, and the Federal Reserve is expected to hike rates three times this year.
+Such optimistic assumptions would make deficits look smaller in Trump’s budget plan after Republicans in December approved massive tax cuts expected to add about $1.5 trillion in new debt over a decade. Republicans contend that the tax cuts will fuel a spike in economic growth.
+The White House also will amend the budget plan to take into account the higher spending levels in the budget deal passed just before dawn on Friday, a senior official in the Office of Management and Budget said.
+Friday’s spending measure, which ended an hours-long partial government shutdown, was approved by a wide margin in the Senate and survived a rebellion from conservative Republicans in the House of Representatives who objected to non-military spending increases.
+It was the second shutdown this year under the Republican-controlled Congress and Trump, who played little role in attempts by party leaders this week to end months of fiscal squabbling.
+In a Twitter post that acknowledged the misgivings of fiscal conservatives, the Republican president said after signing the measure, “Without more Republicans in Congress, we were forced to increase spending on things we do not like or want in order to finally, after many years of depletion, take care of our Military” with additional funding.
+Trump also wrote that negotiations will “start now!” on an immigration measure that he and Democrats have been battling over for months.
+U.S. President Donald Trump delivers remarks at the National Prayer Breakfast in Washington, U.S. February 8, 2018. REUTERS/Jonathan Ernst
+The deal, the fifth temporary funding measure for the fiscal year that began Oct. 1, replenishes federal coffers until March 23, giving lawmakers more time to write a full-year budget.
+It also extends the U.S. government’s borrowing authority until March 2019, sparing Washington politicians difficult votes on debt and deficits until after mid-term congressional elections in November.
+DEFICIT SPLURGE
+The Republican Party was once known for fiscal conservatism, but congressional Republicans and Trump are now quickly expanding the U.S. budget deficit and its $20 trillion national debt.
+Slideshow (11 Images)
+Nearly $300 billion in new spending included in the bill approved on Friday will mean the annual budget deficit will exceed $1 trillion in 2019, said the Committee for a Responsible Federal Budget, a private fiscal policy watchdog group.
+Friday’s deal allows for $165 billion in additional defense spending over two years, helping Trump deliver on his promise to boost the military. That won over many Republicans, but some were furious over the $131 billion extra allocated for non-military spending, including health and infrastructure.
+None of the added spending will be offset by budget savings elsewhere or revenue increases, relying instead on government borrowing. There also is no offset reduction for nearly $90 billion in new disaster aid for U.S. states and territories ravaged by hurricanes or wildfires last year.
+The brief shutdown came at a sensitive time for financial markets, with world stock markets diving in the past week. Markets barely flinched at the last shutdown in January, but that was before a selloff that started on Jan. 30 amid concerns about inflation and higher interest rates.
+Related Coverage
+C480.111,136.775,497.92,118.275,512.002,97.211z">
+All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.

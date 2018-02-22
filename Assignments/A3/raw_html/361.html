@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<HTML ⚡ lang="en">
+<head><meta charset="utf-8" /><style amp-custom="amp-custom"> p {
+   margin: 0 0 1em;
+   letter-spacing: .01em;
+ }
+ figure {
+   margin: 0;
+ }
+ @font-face {
+   font-family: 'TIActuBeta-Heavy_web';
+   src:url('assets/TIActuBeta-Heavy_web.woff') format('woff');
+   font-weight: 700;
+ }
+ @font-face {
+   font-family: 'SwiftNeueLTW01';
+   src:url('assets/SwiftNeueLTW01.woff') format('woff');
+ }
+ @font-face {
+   font-family: 'SwiftNeueLTW01-Bold';
+   src:url('assets/SwiftNeueLTW01-Bold.woff') format('woff');
+ }
+ @font-face {
+   font-family: 'SwiftNeueLTW01-Italic';
+   src:url('assets/SwiftNeueLTW01-Italic.woff') format('woff');
+ }
+ @font-face {
+   font-family: 'TIActuBeta-ExBold_web';
+   src:url('assets/TIActuBeta-ExBold_web.woff') format('woff');
+ }
+ @font-face {
+   font-family: 'TIActuBetaMono-Regular_web';
+   src:url('assets/TIActuBetaMono-Regular_web.woff') format('woff');
+ }
+ @font-face {
+   font-family: 'TI-Icons';
+   src:url('assets/TI-Icons.woff') format('woff');
+ }
+ .Post-header-block {
+   padding-left: 20px;
+   padding-right: 20px;
+ }
+ .header-image,.post-image {
+   background: white;
+ }
+ .post-image {
+   margin-bottom: 10px;
+ }
+ .header-image-caption,.header-image-credit,.post-image-caption,.post-image-credit {
+   font-family: 'TIActuBetaMono-Regular_web';
+   font-style: normal;
+   font-size: 0.6875em;
+   display: inline;
+   color: #aaa;
+ }
+ .header-image-credit {
+   display: block;
+   margin-bottom: 1em;
+ }
+ .post-image-block {
+   margin-bottom: 2em;
+   word-spacing: -.25em;
+   display: block;
+   line-height: 1;
+ }
+ .post-image-caption, .post-image-credit {
+   font-size: 0.72222em;
+ }
+ .post-image-caption {
+   color: #111;
+ }
+ a {
+  color: #6653ff;
+  text-decoration: none;
+ }
+ a.Post-title-link {
+   text-transform: uppercase;
+   color: #fff;
+ }
+ aside:before {
+   content: "";
+   display:block;
+   background: #111;
+   width: 2em;
+   height: .7em;
+   float: left;
+   margin-right: .3em;
+   position: relative;
+   bottom: -4px;
+ }
+ aside {
+   color: #111;
+   font-family: 'TIActuBeta-ExBold_web';
+   font-size: 1.44444em;
+   font-weight: bold;
+   margin-top: 2em;
+   margin-bottom: 2em;
+ }
+ b,strong {
+   font-family: 'SwiftNeueLTW01-Bold';
+ }
+ blockquote {
+   box-shadow:-6px 0 0 -5px #ccc;
+   margin-left: 0px;
+   padding-left: 1em;
+ }
+ em {
+   font-family: 'SwiftNeueLTW01-Italic';
+ }
+ h1,h2,h3,.headline {
+   font-size: 1.875em;
+   font-family: 'TIActuBeta-Heavy_web';
+   -webkit-font-smoothing: antialiased;
+ }
+ .headline {
+   margin: 0px;
+ }
+ h1,h2,h3 {
+   color: #111;
+   margin-top: 1em;
+   margin-bottom: 1em;
+ }
+ div.Post-headline {
+   position: relative;
+   padding-top:120px;
+   line-height: 1;
+ }
+ div.Post-logo {
+   position: absolute;
+   left: 16px;
+   top: 20px;
+ }
+ div.Post-title-block {
+   padding-left: 20px;
+   padding-right: 20px;
+ }
+ div.Post-header {
+   margin-bottom: 5px;
+   font-family: 'SwiftNeueLTW01';
+   background: black;
+   color: white;
+ }
+ div.PostByline-names {
+   color: #8280FF;
+   padding-top: 10px;
+   margin-bottom: 10px;
+   font-size: 0.875em;
+   font-family: 'TIActuBetaMono-Regular_web';
+   line-height: 1.28571;
+ }
+ div.PostByline-names a {
+   color: #8280FF;
+ }
+ div.PostByline-date {
+   color: #aaa;
+   font-size: 0.875em;
+   font-family: 'TIActuBetaMono-Regular_web';
+   -webkit-font-smoothing: antialiased;
+   line-height: 1.28571;
+ }
+ div.Post-social-block {
+   font-family: 'TI-Icons';
+   width: 320px;
+   height: 60px;
+ }
+ div.Post-social-link {
+   display: table;
+   width: 20%;
+   height: 100%;
+   float: left;
+ }
+ div.Post-social-link a {
+   line-height: 0.6;
+   color: white;
+   font-size: 1.125em;
+   text-align: center;
+   vertical-align: middle;
+   display: table-cell;
+ }
+ .Post-social-comment-text{
+   font-family:TIActuBetaMono-Regular_web,Consolas,Andale Mono,monospace;
+   font-style:normal;
+   font-weight:400;
+   font-size:.61111em;
+   color:#fff;
+   line-height:0
+ }
+ div.Post-content {
+   padding-left: 20px;
+   padding-right: 20px;
+   font-family: 'SwiftNeueLTW01';
+   font-size: 1.125em;
+   letter-spacing: 0.01em;
+   line-height: 27px;
+   color: #444;
+   -webkit-font-smoothing: subpixel-antialiased;
+ }
+ .Post-contact {
+   margin-bottom: 20px;
+ }
+ .Post-contact:before, .Post-contact:after {
+   content: "";
+   display: table;
+ }
+ .Post-contact:after {
+   clear: both;
+ }
+ .Post-contact-header {
+   letter-spacing: 0.05em;
+   font-family: 'TIActuBeta-ExBold_web';
+   font-weight: bold;
+   font-size: 1.25em;
+   display: block;
+   text-transform: uppercase;
+   padding-left: 20px;
+   padding-right: 20px;
+ }
+ .Post-contact-credits-header {
+   letter-spacing: 0.05em;
+   font-family: 'TIActuBeta-ExBold_web';
+   font-weight: bold;
+   font-size: 1.25em;
+   display: block;
+   text-transform: uppercase;
+ }
+ .Post-contact-details {
+   line-height: 1.5;
+   font-family: 'TIActuBetaMono-Regular_web';
+   font-size: 0.8125em;
+   padding-left: 80px;
+ }
+ .Post-contact-details .Icon {
+   font-size: 1.23077em;
+ }
+ .Post-contact-header:before {
+   display:block;
+   content: "";
+   width: 80px;
+   height: 12px;
+   margin-bottom: 20px;
+   background: #111;
+ }
+ .Post-contact-author {
+   box-sizing: border-box;
+   margin: .5em 0;
+   padding-left: 20px;
+   padding-right: 20px;
+   position: relative;
+   float: left;
+ }
+ .Post-contact-link {
+   display: block;
+   padding-left: 1.75em;
+   position: relative;
+   margin-bottom:.5em;
+ }
+ .Post-contact-link--name {
+   padding-left: 0;
+ }
+ .Icon {
+   font-family: 'TI-Icons';
+ }
+ .Post-contact-link .Icon {
+   position: absolute;
+   left: 0px;
+   top: 2px;
+ }
+ .Post-contact-author-image {
+   display: block;
+   width: 60px;
+   border-radius: 50%;
+   position: absolute;
+   left: 20px;
+   top: 0px;
+ }
+ .Post-contact-credits {
+   clear: both;
+   margin-bottom: 20px;
+   margin-top: 60px;
+   padding-left: 20px;
+   padding-right: 20px;
+ }
+ .Post-contact-credits-image-block {
+   display: block;
+ }
+ .Post-contact-credits-image-thumb {
+   float: left;
+ }
+ .Post-contact-credits-names {
+   font-family:  'TIActuBetaMono-Regular_web';
+   font-size: 0.875em;
+   color: #666;
+   line-height: 1.42857;
+   clear: both;
+ }
+ .Post-contact-credits-image {
+   margin-bottom: 15px;
+   margin-right: 10px;
+   width: 40px;
+   border-radius: 50%;
+ }
+ u,.lead-in {
+   color: #111;
+   letter-spacing: 0.1em;
+   font-family: 'TIActuBeta-ExBold_web';
+   box-shadow:0 1px 0 #fff,0 4px 0 #111;
+   text-decoration: none;
+   text-transform: uppercase;
+   font-weight: bold;
+ }
+ amp-iframe {
+   margin-bottom: 20px;
+ }
+</style><title>U.S. Secretly Negotiated With Russians to Buy Stolen NSA Documents — and the Russians Offered Trump-Related Material, Too</title><meta content="width=device-width,minimum-scale=1,initial-scale=1" name="viewport" /><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript><link href="https://theintercept.com/2018/02/09/donald-trump-russia-election-nsa/" rel="canonical" /><script async src="https://cdn.ampproject.org/v0.js"></script><script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script><script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script><script async custom-element="amp-jwplayer" src="https://cdn.ampproject.org/v0/amp-jwplayer-0.1.js"></script><script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script><meta name="parsely-link" content="https://theintercept.com/2018/02/09/donald-trump-russia-election-nsa/"/><script type="application/ld+json">{"@context":"http://schema.org","dateModified":"2018-02-09T21:32:17+00:00","image":{"@type":"ImageObject","url":"https://prod01-cdn04.cdn.firstlook.org/wp-uploads/sites/1/2018/02/shadow-trump-1518212438-promo-large.jpg","width":900,"height":450},"author":{"@type":"Person","name":"James Risen","image":"https://theintercept.com/wp-uploads/sites/1/2017/11/Risen-1510009207.jpg"},"mainEntityOfPage":"https://theintercept.com/2018/02/09/donald-trump-russia-election-nsa/","publisher":{"@type":"Organization","name":"The Intercept","logo":{"@type":"ImageObject","url":"https://static.theintercept.com/assets/TheIntercept_216x75.png","width":"216","height":"75"}},"datePublished":"2018-02-09T21:32:17+00:00","@type":"NewsArticle","headline":"U.S. Secretly Negotiated With Russians to Buy Stolen NSA Documents \u2014 and the Russians Offered Trump-Related Material, Too"}</script></head><body><amp-analytics type="parsely"><script type="application/json">{
+      "vars": {
+        "apikey": "theintercept.com"
+      }
+    }</script></amp-analytics><div class="Post-header"><div class="Post-title-block"><div class="Post-logo"><svg class="Logo-svg" version="1.1" width="140px" height="50px" viewBox="0 0 140 50">
+<g>
+<path class="Logo-path" fill="#fff" d="M51.731,30.458c1.246,0,2.264,1.425,2.264,3.206l-4.605,0.56C49.517,31.781,50.28,30.458,51.731,30.458 M40.789,8.601 c1.247,0,2.265,1.424,2.265,3.206l-4.606,0.559C38.575,9.924,39.339,8.601,40.789,8.601 M92.774,30.458 c1.247,0,2.264,1.425,2.264,3.206l-4.605,0.56C90.56,31.781,91.323,30.458,92.774,30.458 M128.295,46.463H140v-2.188h-11.705 V46.463z M106.642,31.679c0.279-0.101,0.61-0.178,1.272-0.178c2.544,0,4.275,1.68,4.275,5.42c0,3.104-1.705,5.216-4.173,5.216 c-0.408,0-0.891-0.076-1.374-0.229V31.679z M68.652,33.206h3.18v-4.097c-0.61-0.254-1.017-0.356-1.603-0.356 c-0.992,0-2.188,0.662-3.435,1.654l-0.916,0.713v-2.367h-0.661l-6.285,1.272v0.967l2.112,0.637v10l-2.112,0.763v0.865h9.313v-0.865 l-2.367-0.763v-9.39c0.611-0.229,1.68-0.407,1.934-0.407L68.652,33.206z M80.484,28.753c-3.995,0-8.372,2.494-8.372,8.066 c0,4.631,3.079,6.82,6.412,6.82c1.146,0,2.469-0.153,4.402-0.967l2.341-0.993l-0.33-0.916c-0.586,0.229-1.4,0.382-2.545,0.382 c-3.155,0-5.547-1.883-5.547-6.132c0-2.952,1.705-4.555,3.257-4.555c0.153,0,0.331,0.025,0.484,0.102l1.399,2.646h2.926v-3.613 C83.741,29.16,82.138,28.753,80.484,28.753 M123.792,26.489h-1.171l-5.521,3.18v1.069l1.857,0.178v10.076 c0,1.807,1.425,2.647,3.435,2.647c0.942,0,2.697-0.306,3.868-0.662l2.035-0.636l-0.178-0.941c-0.33,0.076-0.916,0.101-1.246,0.101 c-1.858,0-3.079-0.687-3.079-2.977v-7.455l4.351,0.229v-2.163h-4.351V26.489z M40.128,26.489h-1.171l-5.522,3.18v1.069l1.858,0.178 v10.076c0,1.807,1.425,2.647,3.435,2.647c0.942,0,2.697-0.306,3.868-0.662l2.035-0.636L44.453,41.4 c-0.331,0.076-0.916,0.101-1.247,0.101c-1.857,0-3.078-0.687-3.078-2.977v-7.455l4.351,0.229v-2.163h-4.351V26.489z M58.626,35.293 v-0.407c0-2.189-1.476-6.133-6.437-6.133c-3.766,0-7.558,2.494-7.558,8.066c0,4.555,3.334,6.82,6.972,6.82 c1.069,0,2.621-0.178,4.428-0.967l2.264-0.993l-0.33-0.916c-0.586,0.229-1.4,0.382-2.596,0.382c-2.799,0-5.878-1.628-6.005-5.852 H58.626z M99.67,35.293v-0.407c0-2.189-1.476-6.133-6.438-6.133c-3.766,0-7.557,2.494-7.557,8.066c0,4.555,3.333,6.82,6.972,6.82 c1.068,0,2.62-0.178,4.427-0.967l2.265-0.993l-0.331-0.916c-0.585,0.229-1.4,0.382-2.596,0.382c-2.798,0-5.877-1.628-6.005-5.852 H99.67z M47.685,13.435v-0.407c0-2.188-1.476-6.132-6.438-6.132c-3.766,0-7.557,2.493-7.557,8.066c0,4.555,3.333,6.819,6.972,6.819 c1.069,0,2.621-0.178,4.427-0.967l2.265-0.992l-0.331-0.916c-0.585,0.229-1.399,0.382-2.595,0.382 c-2.799,0-5.878-1.629-6.005-5.853H47.685z M6.438,25.598v15.725L3.97,42.265v0.992h10.865v-0.992l-2.468-0.942V25.598l2.468-0.942 v-0.992H3.97v0.992L6.438,25.598z M31.781,41.629V33.74c0-2.926-1.094-4.987-4.045-4.987c-1.222,0-2.138,0.382-3.334,0.916 l-2.163,0.942v-1.858h-0.661l-6.285,1.272v0.967l2.112,0.637v10l-2.112,0.763v0.865h8.804v-0.865l-1.858-0.763v-9.924 c0.458-0.127,1.247-0.204,1.833-0.204c1.577,0,2.875,0.865,2.875,3.461v6.667l-1.858,0.763v0.865h8.804v-0.865L31.781,41.629z M106.642,28.753h-0.662l-6.285,1.272v0.967l2.112,0.637v15.598l-2.112,0.763v0.865h9.567V47.99l-2.62-0.763v-3.588h0.992 c5.954,0,9.287-3.614,9.287-8.626c0-4.301-3.002-6.26-5.241-6.26c-0.891,0-2.443,0.535-3.868,1.247l-0.967,0.483h-0.203V28.753z M31.527,19.771v-7.888c0-2.926-1.094-4.987-4.046-4.987c-1.221,0-2.137,0.381-3.333,0.916l-2.163,0.941V0h-0.662l-4.911,1.807H0 v4.911h2.316L3.257,3.69h3.181v15.776L3.97,20.407V21.4h10.61v-0.993l-2.213-0.941V3.69h4.783v16.081l-1.857,0.763V21.4h8.55 v-0.866l-1.858-0.763V9.873c0.458-0.127,1.247-0.229,1.832-0.229c1.578,0,2.875,0.865,2.875,3.46v6.667l-1.857,0.763V21.4h8.804 v-0.866L31.527,19.771z">
+</path>
+</g>
+</svg>
+</div><div class="Post-headline"><h1 class="headline"><a class="Post-title-link" href="donald-trump-russia-election-nsa.html">U.S. Secretly Negotiated With Russians to Buy Stolen NSA Documents — and the Russians Offered Trump-Related Material, Too</a></h1><div class="PostByline-names"><a href="https://theintercept.com/staff/jimrisen/">James Risen</a></div><div class="PostByline-date">Feb. 09 2018, 9:32 PM</div></div></div><div class="Post-social-block"><div class="Post-social-link"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Finterc.pt%2F2CaFhR6">f</a></div><div class="Post-social-link"><a href="https://twitter.com/intent/tweet?text=Exclusive%3A%20U.S.%20secretly%20negotiated%20with%20Russians%20to%20buy%20stolen%20NSA%20documents%20%E2%80%94%20and%20the%20Russians%20offered%20Trump-related%20material%2C%20too%20%28by%20James%20Risen%29%20https%3A%2F%2Finterc.pt%2F2CaFhR6%20by%20">t</a></div><div class="Post-social-link"><a href="mailto:?subject=U.S.%20Secretly%20Negotiated%20With%20Russians%20to%20Buy%20Stolen%20NSA%20Documents%20%E2%80%94%20and%20the%20Russians%20Offered%20Trump-Related%20Material%2C%20Too&amp;body=https://interc.pt/2CaFhR6">✉</a></div><div class="Post-social-link"><a href="https://theintercept.com/2018/02/09/donald-trump-russia-election-nsa/?comments=1#comments"><span>⎕</span><br /><span class="Post-social-comment-text">0</span></a></div></div><div class="Post-image-block"><amp-img alt="The shadow of Republican presidential candidate Donald Trump is cast against the wall as he speaks to members of the City Club of Chicago, Monday, June 29, 2015, in Chicago." class="header-image" height="450" layout="responsive" src="https://prod01-cdn04.cdn.firstlook.org/wp-uploads/sites/1/2018/02/shadow-trump-1518212438-promo-large.jpg" width="900"></amp-img></div></div><div class="Post-header-block"><div class="header-image-credit">Photo: Charles Rex Arbogast/AP</div></div><div class="Post-content-block"><div class="Post-content"><p><u class="lead-in">The United States</u> intelligence community has been conducting a top-secret operation to recover stolen classified U.S. government documents from Russian operatives, according to sources familiar with the matter. The operation has also inadvertently yielded a cache of documents purporting to relate to Donald Trump and Russian meddling in the 2016 presidential election.</p><p>Over the past year, American intelligence officials have opened a secret communications channel with the Russian operatives, who have been seeking to sell both Trump-related materials and documents stolen from the National Security Agency and obtained by Russian intelligence, according to people involved with the matter and other documentary evidence. The channel started developing in early 2017, when American and Russian intermediaries began meeting in Germany. Eventually, a Russian intermediary, apparently representing some elements of the Russian intelligence community, agreed to a deal to sell stolen NSA documents back to the U.S. while also seeking to include Trump-related materials in the package.</p><p>The CIA declined to comment on the operation. The NSA did not immediately respond to a request for comment.</p><p>The secret U.S. intelligence channel with the Russians is separate from efforts by former British intelligence officer Christopher Steele to obtain information about Trump and his ties with Russia. Steele worked with Fusion GPS, an American private investigations firm that was first hired by Republican and later Democratic opponents of Trump to dig up information on him during the 2016 campaign.</p><p>By contrast, the more recent secret negotiations began after Trump’s election and have been conducted by U.S. intelligence officials working with intermediaries who mainly operate in Europe. When American intelligence officials initiated efforts to broker a communications channel in 2017, however, their primary objective was to recover stolen NSA documents, not to obtain material about Trump.</p><p>At the time, the NSA was desperate to recover documents that intelligence officials believed Russia had obtained through a mysterious group known as the Shadow Brokers. The group stole highly secret NSA hacking tools and <a href="https://theintercept.com/2016/08/19/the-nsa-was-hacked-snowden-documents-confirm/">began releasing them on the internet</a> in the summer of 2016. The Shadow Brokers theft of the hacking tools <a href="https://www.nytimes.com/2017/11/12/us/nsa-shadow-brokers.html">devastated morale at the NSA</a>, putting its custom-built offensive cyber weapons out in the open. It was as if a bioweapons laboratory had lost some of its most deadly and dangerous viruses. U.S. officials wanted to identify which NSA documents the Shadow Brokers had stolen, so they could determine how badly the agency had been damaged by the theft.</p><p>But once the communications channel opened, the Russians on the other side offered to sell documents related to Trump along with the stolen NSA documents.</p><p>A Russian who has been acting as a go-between for other Russians with access to Russian government materials has sought payment for the materials he is offering. In an extensive interview with The Intercept in Germany, the Russian intermediary provided detailed information about the channel.<strong> </strong>When contacted by The Intercept for this story, the American intermediary declined to comment.</p><p>Even many involved in the secret communications channel between U.S. intelligence and the Russians are said to be uncertain about what is really going on with the operation. Recently, the Russians have been seeking to provide documents said to be related to Trump officials and Russian meddling in the 2016 campaign, including some purloined FBI reports and banking records. It is not clear whether those documents are in possession of American officials. It is also unclear whether the secret channel has helped the U.S. recover significant amounts of data from the NSA documents believed to have been stolen by the Shadow Brokers.</p><p>Further, it is not known whether the Russians involved in the channel are acting on their own or have been authorized by the Russian government to try to sell the materials to the United States. As a result, the Americans are uncertain whether the Russians involved are part of a disinformation campaign orchestrated by Moscow, either to discredit Trump or to discredit efforts by American officials investigating Trump’s possible ties to Russia, including Special Counsel Robert Mueller.<br></br>
+</p><figure><amp-img class="post-image" height="675" layout="responsive" src="https://theintercept.com/wp-uploads/sites/1/2018/02/Dan-Coats-1518207282-1024x675.jpg" width="1024"></amp-img><span class="post-image-block"><p class="post-image-caption">Director of National Intelligence Dan Coats arrives in the Hart Senate Office Building to testify during the Senate Select Intelligence Committee hearing on Wednesday, June 7, 2017.</p><cite class="post-image-credit">Photo: Bill Clark/CQ Roll Call/Getty Images</cite></span></figure><p>
+The existence of the off-the-books communications channel, which has been a closely guarded secret within the U.S. intelligence community, has been highly controversial among those officials who know about it, and has begun to cause rifts between officials at the CIA and the NSA who have been involved with it at various times over the past year.</p><p>The CIA, which is now headed by a Trump loyalist, CIA Director Mike Pompeo, has at times been reluctant to stay involved in the operation, apparently for fear of obtaining the Trump-related material offered by the Russians, according to sources close to the negotiations. In the period in which the communications channel has been open, CIA officials are said to have repeatedly changed their views about it. They have sometimes expressed interest, only to later back away from any involvement with the channel and the intermediaries. At some points, the CIA has been serious enough about buying materials through the channel that agency officials said they had transported cash to the CIA’s station in Berlin to complete the transaction. But at other points, agency officials backed off and shut down their communications. Some people involved with the channel believe that the CIA has grown so heavily politicized under Pompeo that officials there have become fearful of taking possession of any materials that might be considered damaging to Trump.</p><p>The CIA’s wariness shows that the reality within the U.S. intelligence community is a far cry from the right-wing conspiracy theory that a “deep state” is working against Trump. Instead, the agency’s behavior seems to indicate that U.S. intelligence officials are torn about whether to conduct any operations at all that might aid Mueller’s ongoing investigation into whether Trump or his aides colluded with Russia to win the 2016 presidential election.</p><p>Many intelligence officials are reluctant to get involved with anything related to the Trump-Russia case for fear of blowback from Trump himself, who might seek revenge by firing senior officials and wreaking havoc on their agencies. For example, Dan Coats, the director of national intelligence and thus the man supposedly in charge of the entire U.S. intelligence community, has said he does not see it as his role to push for an aggressive Trump-Russia investigation, according to a source familiar with the matter.</p><p>Because of the CIA’s reluctance to take an aggressive role, officials at the NSA have taken the lead on the communications channel, with a primary focus on recovering their own stolen documents. They have viewed the Trump-related material as an annoying sidelight, even as they understand that it is potentially the most explosive material to have come through the channel.</p><p>The channel has been operating in the shadows even as Mueller’s investigation has been basking in the spotlight. Last year, three former Trump campaign officials faced charges as part of Mueller’s investigation, and the special counsel continues to investigate both possible collusion between the Trump campaign and Russia and evidence of efforts by Trump or others close to him to obstruct justice in the Mueller probe.</p><p><u class="lead-in">Over the past</u> year, those involved with the secret communications channel have experienced a series of dramatic highs and lows. Until recently, it wasn’t clear whether the conversations would produce any materials about Trump or lead to the recovery of any NSA documents.</p><p>It took months of meetings and negotiations between American and Russian intermediaries to try to determine what documents might be available from the Russians – and at what price. Inconsistent interest in the channel by U.S. intelligence officials, particularly at the CIA, complicated the negotiations.</p><p>According to documents obtained by The Intercept that summarize much of the channel’s history, a key American intermediary with the Russians was first approached by U.S. intelligence officials in late December 2016. The officials asked him to help them recover NSA documents believed to have been stolen by the Shadow Brokers.</p><p>The American was able to identify a hacker in Germany who claimed to have access to some of the stolen data believed to be held by the Shadow Brokers, and who accurately provided advance notice of several Shadow Broker data releases. The hacker’s cooperation with the U.S. intelligence community broke down over his demands for full immunity from U.S. prosecution for his hacking activities — negotiations that failed largely because the hacker refused to provide his full personal identification to the Americans.</p><p>Eventually, the relationship with the hacker in Germany led the Americans to begin talks with a Russian who became a key intermediary in the channel. The Russian is believed to have ties to officials in Russian intelligence.</p><p>In March 2017, the Russian met with the American intermediary and a U.S. official in Berlin and agreed to provide the stolen NSA data from the Shadow Brokers in exchange for payment. The U.S. government used “certain messaging techniques” that the Russian accepted as proof that the U.S. government was behind the negotiations and the proposed deal, according to the documents obtained by The Intercept.</p><p>Officials gave the Russians advance knowledge that on June 20, 2017, at 12:30 p.m., the official NSA Twitter account would tweet: “Samuel Morse patented the telegraph 177 years ago. Did you know you can still send telegrams? Faster than post & pay only if it’s delivered.”</p><p>That tweet, in exactly those words, was issued at that time.</p><p>The NSA used that messaging technique repeatedly over the following months, each time officials wanted to communicate with the Russians or reassure them that the U.S. was still supporting the channel. Each time, the Russians were told the text of the tweets in advance and the exact time they would be released. Each tweet looked completely benign but was in fact a message to the Russians.</p><p>On August 17, 2017, officials communicated with the Russians by having the NSA account issue a tweet saying:“The 1st telegraph communications exchange occurred between Queen Victoria and President Buchanan in 1858.”</p><p>In October, 2017, officials communicated again with the Russians when the NSA tweeted:“This week in history, Robert Lamphere began working on the Verona program in 1948.”</p><p>That same month, officials gave the Russians early notice that the NSA account would tweet:“Can you help Kandice the Kangaroo save her baby Jory in this month’s #PuzzlePeriodical?”</p><p>In early November, three NSA tweets were part of the communications channel. One said:“#NSA inducts 5 #CryptologicPioneers into the Cryptologic Hall of Honor. Learn more about their distinguished service.” Another stated: “People are our greatest assets. The #NSA workforce makes 65 years of service possible #NSA65.” And a third:“23,725 days, 31,164,000 min. 2,049,840,000 sec and counting…At #NSA the mission never sleeps. #NSA65.”</p><p>Later that month, a message was sent to the Russians when the NSA account tweeted:“The ADONIS cipher machine replaced WWI-era SIGABA machine. It was one of the first machines to print on-the-fly.”</p><p>And in December, the NSA gave advance warning to the Russians that its official account would tweet:“Section 702 is a law that can also be a lifesaver. Take a look at how #Section 702 protects troops and helps the nation.”</p><p>But the channel broke down several times, often over disagreements between the U.S. and the Russians about how money would be exchanged and what data was to be received. In May 2017, U.S. officials were upset that the first tranche of data they received contained files already known to have been stolen because they had already been released by the Shadow Brokers. But the Russian intermediary continued to insist that he could provide data held by the Shadow Brokers, as well as materials related to Trump officials and Russian activity in the 2016 campaign. Throughout 2017, the U.S. officials sought to limit the scope of their investigation to data stolen by the Shadow Brokers, leaving aside the materials related to Trump. U.S. officials also began to wonder whether the Russian intermediary was part of a so-called dangle operation involving Russian disinformation.</p><p>But by last fall, the Russian began passing information to the American intermediary that was unrelated to the Shadow Brokers, including the names of specific individuals and corporate entities allegedly tied to Russian interference in the 2016 U.S. election. The American intermediary turned the information over to U.S. intelligence for the purpose of determining the Russian’s credibility. U.S. intelligence officials continued to stress that they were only interested in recovering stolen U.S. data. Still, it was understood that if the Russian provided material related to Trump, the American intermediary would debrief U.S. officials on its content.</p><p>In December 2017, the Russian turned over documents and files, some of them in Russian. The documents appeared to include FBI investigative reports, financial records, and other materials related to Trump officials and the 2016 campaign.</p><p>“The information was vetted and ultimately determined that while a significant part of it was accurate and verifiable, other parts of the data were impossible to verify and could be controversial,” the documents obtained by The Intercept state. It is not clear who vetted the material.</p><p>At a meeting last month in Spain, the Russian told the American intermediary of his desire to move forward with the delivery of the Shadow Brokers data, as well as material related to the 2016 election. The American questioned him on the credibility of his data and told him the data he was providing on Trump officials and election activities was “unsolicited.” The Russian also expressed interest in giving the material to media outlets, which the American told the Russian he found “disconcerting.”</p><p>The Russian told the American that he had first become aware of Russian efforts targeting U.S. political activities in late 2014 or early 2015, according to the documents reviewed by The Intercept. The Russian stated that he had no knowledge of a “master plan” to cause major disruption to U.S. election activities, but the effort was generally understood as a “green light” from Russian security officials to enlist cyber-related groups in probing and harassing activities directed at U.S. targets.</p><p><strong>Update: February 9, 2018</strong></p><p><em>This story has been updated to include more details about the NSA’s use of its official Twitter account to communicate with Russian operatives.</em></p></div><div><div class="Post-contact"><h4><span class="Post-contact-header">Contact the author:</span></h4><div class="Post-contact-author"><a href="https://theintercept.com/staff/jimrisen/"><amp-img class="Post-contact-author-image" height="400" layout="responsive" src="https://theintercept.com/wp-uploads/sites/1/2017/11/Risen-1510009207.jpg" width="400"></amp-img></a><p class="Post-contact-details"><a class="Post-contact-link Post-contact-link--name" href="https://theintercept.com/staff/jimrisen/">James Risen</a><a class="Post-contact-link" href="mailto:jim.risen@firstlook.org"><span class="Icon">✉</span><span>jim.risen@&#8203;firstlook.org</span></a></p></div></div><div class="Post-contact-credits"></div></div></div></body></HTML>

@@ -1,0 +1,54 @@
+"cag[tags]"       : "Sophia Barnes|Donald Trump|finance experts|Saved My Life|White House|chemotherapy|President|Saved My|Don Bouvet|bladder cancer|Illinois|Chris Gordon|Shane Bouvet|Sophia Barnes Don Bouvet|Stonington|Cancer ",
+var mps=mps||{};mps._ext=mps._ext||{};mps._adsheld=[];mps._queue=mps._queue||{};mps._queue.mpsloaded=mps._queue.mpsloaded||[];mps._queue.mpsinit=mps._queue.mpsinit||[];mps._queue.gptloaded=mps._queue.gptloaded||[];mps._queue.adload=mps._queue.adload||[];mps._queue.adclone=mps._queue.adclone||[];mps._queue.adview=mps._queue.adview||[];mps._queue.refreshads=mps._queue.refreshads||[];mps.__timer=Date.now();mps.__intcode="v2";if(typeof mps.getAd!="function")mps.getAd=function(adunit){if(typeof adunit!="string")return false;var slotid="mps-getad-"+adunit.replace(/\W/g,"");if(!mps._ext||!mps._ext.loaded){mps._queue.gptloaded.push(function(){typeof mps._gptfirst=="function"&&mps._gptfirst(adunit,slotid);mps.insertAd("#"+slotid,adunit)});mps._adsheld.push(adunit)}return'
+'};(function(){head=document.head||document.getElementsByTagName("head")[0],mpsload=document.createElement("script");mpsload.src="//"+mpsopts.host+"/fetch/ext/load-"+mpscall.site+".js?nowrite=2";mpsload.id="mps-load";head.insertBefore(mpsload,head.firstChild)})();
+#fbSponsored a#msgLike {background: none repeat scroll 0 0 white;color: #666;font-family: Arial;font-size: 14px;height: 23px;padding-left: 4px;padding-top: 7px;width: 210px;float: left;}
+if (($("#fbSponsored").attr("class") == "sponFb out") && ($("#fbSponsored").css("display") != "none") && ($("#fbSponsored").attr('class') == "sponFb out") && ($("#sponsored").attr('class') == "out") && ($("#defaultSponsored").attr("class") == "spon out") && (target3 ==0) && (target2 ==1)) {
+.headerBanner {font-family:Helvetica,arial,sans-serif;height:25px;color:#FFFFFF;position:absolute;width:1008px !important;left:0 !important;z-index:998;text-align:left;margin:0;padding:1px 0;line-height:1em;background-color:#666666;background-image: linear-gradient(bottom, #555f54 25%, #777078 75%);background-image: -o-linear-gradient(bottom, #555f54 25%, #777078 75%);background-image: -moz-linear-gradient(bottom, #555f54 25%, #777078 75%);background-image: -webkit-linear-gradient(bottom, #555f54 25%, #777078 75%);background-image: -ms-linear-gradient(bottom, #555f54 25%, #777078 75%);background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0.25, #555f54}),color-stop(0.75, #777078));}
+'The President Saved My Life': Trump Meets Cancer Survivor Who He Gave $10K
+"I thank you from the bottom of my heart," Don Bouvet told President Donald Trump
+By
+"description": "Don Bouvet wore a suit for the second time in his life Friday, when he visited the White House to meet with the man he credits for saving his life: President Donald Trump.",
+Receive the latest local  updates in your inbox
+Email
+Close
+Embed this video
+<script type="text/javascript" charset="UTF-8" src="http://www.nbcwashington.com/portableplayer/?cmsID=473635333&videoID=2EiTs81UvWR3&origin=nbcwashington.com&sec=news&subsec=local&width=600&height=360"></script>
+More videos (1 of 9)
+«»
+Last year, President Trump donated $10,000 to a man who couldn't afford treatment for cancer. Friday, that cancer survivor went to the White House to meet the man he says saved his life. News4's Chris Gordon reports. (Published Friday, Feb. 9, 2018)
+Don Bouvet wore a suit for the second time in his life Friday, when he visited the White House to meet with the man he credits for saving his life: President Donald Trump.
+Last year, Bouvet said he couldn’t afford the chemotherapy he needed to treat his bladder cancer. But more than a year after Trump gave his family $10,000, Bouvet says he’s cancer-free.
+“The president saved my life,” Bouvet said during the emotional Oval Office meeting. “And I told him that.”
+Bouvet’s son, Shane Bouvet, worked with Trump’s presidential campaign in 2016 by day while holding down a job as a delivery man by night.
+Russians Indicted for Alleged Election Meddling Conspiracy
+Deputy Attorney General Rod Rosenstein announces indictments against 13 Russians and three Russian entities accused of meddling in the 2016 U.S. presidential election.
+(Published Friday, Feb. 16, 2018)
+The Republican reportedly met with president-elect Trump the night before the inauguration and shared his father’s health and financial struggles.
+“His father, Donald,” Trump said Friday about what Shane Bouvet told him, “was suffering and really on a pretty final path towards losing his life.”
+After his January meeting with Trump, Shane Bouvet returned to his hometown of Stonington, Illinois, with a population of about 930. Then, he got a check in the mail.
+Fairfax Co. Fire Chief Retiring Amid Harassment Controversy
+It was a personal check worth $10,000 from Trump, he said.
+“Shane — You are a great guy — thanks for all of your help,” Trump reportedly wrote on presidential stationery.
+Shane Bouvet told NBC4 he gave the entire sum to his father, who used it to pay the deductible on the treatment.
+North Korean 'Army of Beauties' Cheers on a Unified Team
+Maddie Meyer/Getty Images
+Now cancer-free, Don Bouvet got his own chance Friday to meet Trump, who was impressed that Shane gave all the money to his dad.
+“You didn’t have anything,” Trump said to Shane. “And you gave all of it. ... That's an incredible son.”
+"It's very emotional because ... one day I wanted to come here, or meet you somewhere, shake your hand, look you in the eye, and say, 'Thank you for saving my life,'" Don Bouvet told the president. "And I thank you from the bottom of my heart."
+Get Olympics Live Stream Alerts on the NBC Washington App
+Trump was apparently so impressed that he gave the Bouvets another check for $5,000, Shane told NBC4.
+The Bouvets also left with another, possibly priceless, souvenir: a plaque with a note personally signed by Trump that reads, “To Shane, Great Going!”
+The Bouvets said that Trump donated his personal money, which campaign finance experts told NBC4 complies with all relevant laws.
+Trump's 2019 Budget Boosts Defense, Slashes Safety Nets
+The White House has delivered its 2019 budget blueprint to Capitol Hill.
+It includes more money for the military, plus billions for a border wall and to fight the opioid crisis.
+(Published Tuesday, Feb. 13, 2018)
+Watch NBC4 and get the latest news anytime, anywhere. Check here for TV listings.
+Download the App
+Available for IOS and Android
+Follow NBC Washington
+var showMoreOutput = initialCopy + '' + ellipsesText+ ' ' + hiddenCopy + '
+' + showMoreText + '
+var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=473638753";_q+="&7=521042";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="https://s.clickability.com/s?"+_q;
+function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}//-->
+#home .stack-wrapper .adMicro .mps-slot {width:100%!important;} #home .stack-wrapper .adMicro .mps-slot > div > iframe {height:40px!important;} #home .stack-sponsorship iframe {height:50px!important;}#globalRightRail .sponsorshipCat iframe{height:50px;}

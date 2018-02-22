@@ -1,0 +1,1189 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+<meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcFV1RSGwACVVlVAQU="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<title>Donald Trump: Unearthed 1994 Interview on Family, Why Women Shouldn&#039;t Work (Q&amp;A) | Hollywood Reporter</title>
+<meta name="viewport" content="width=device-width" />
+<meta name="description" content="“Psychologists will tell you that some women want to be treated with respect,&quot; Donald Trump told Nancy Collins in a never-released 1994 transcript from ABC’s &#039;Primetime Live.&#039; " />
+<meta name="twitter:site" content="@THR" />
+<meta name="twitter:creator" content="@THR" />
+<meta name="twitter:url" content="https://www.hollywoodreporter.com/news/donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176" />
+<meta name="twitter:domain" content="https://www.hollywoodreporter.com/" />
+<meta name="twitter:title" content="Donald Trump Talks Family, Women in Unearthed Transcript: &quot;When I Come Home and Dinner&#039;s Not Ready, I Go Through the Roof&quot;" />
+<meta name="twitter:description" content="“Psychologists will tell you that some women want to be treated with respect,&quot; he told Nancy Collins in a never-released 1994 transcript from ABC’s &#039;Primetime Live.&#039; &quot;I tell friends who treat their wives magnificently, get treated like crap in return, &#039;Be rougher and you’ll see a different relationship.&#039;&quot;
+" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://cdn1.thr.com/sites/default/files/imagecache/NFE_Landscape/2016/10/gettyimages-115322042-h_2016.jpg" />
+<meta property="og:site_name" content="The Hollywood Reporter" />
+<meta property="og:title" content="Donald Trump Talks Family, Women in Unearthed Transcript: &quot;When I Come Home and Dinner&#039;s Not Ready, I Go Through the Roof&quot;" />
+<meta property="og:description" content="“Psychologists will tell you that some women want to be treated with respect,&quot; he told Nancy Collins in a never-released 1994 transcript from ABC’s &#039;Primetime Live.&#039; &quot;I tell friends who treat their wives magnificently, get treated like crap in return, &#039;Be rougher and you’ll see a different relationship.&#039;&quot;
+" />
+<meta property="og:url" content="https://www.hollywoodreporter.com/news/donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176" />
+<meta property="og:image" content="https://cdn1.thr.com/sites/default/files/2016/10/gettyimages-115322042-h_2016.jpg" />
+<meta property="og:image:width" content="1296" />
+<meta property="og:image:height" content="730" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:type" content="article" />
+<link rel="author" href="https://plus.google.com/+hollywoodreporter">
+<link rel="canonical" href="https://www.hollywoodreporter.com/news/donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176" />
+<link rel="amphtml" href="https://www.hollywoodreporter.com/amp/news/donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176" />
+<link rel="shortcut icon" href="/assets/1513797326//preta/favicon.ico?f5d9e384dee05465ca69" type="image/x-icon" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/1513797326//preta/apple-touch-icon.png?f5d9e384dee05465ca69">
+<script type="text/javascript">
+    
+    var PGM = window.PGM || {};
+    PGM.config = PGM.config || {
+        contentHost: "http://www.hollywoodreporter.com",
+    };
+    (function(PGM) {
+        var debug_queue = [];
+        PGM.debug = function() {debug_queue.push(arguments);};
+        PGM.debug.dump = function() {return debug_queue;}
+        PGM.debug.initialCategories = {
+                    };
+    })(PGM);
+
+    PGM.events = (function() {
+        var events_queue = [];
+        return {
+            trigger: function() {events_queue.push(arguments); },
+            get: function() { return events_queue; }
+        };
+    })();
+
+    PGM.createScript = (function() {
+        var q = [], cs = function createScript() { q.push(arguments) };
+        cs.dump = function() {return q;};
+        return cs;
+    })();
+
+    PGM.createScriptTag = (function() {
+        var q = [], cs = function createScriptTag() { q.push(arguments) };
+        cs.dump = function() {return q;};
+        return cs;
+    })();
+
+        PGM.tests = [];
+    PGM.ads = PGM.ads || {};
+    PGM.ads.adUnit = '/';
+    PGM.ads.slots = PGM.ads.slots || {};
+</script>
+<script src="https://ads.blbrd.co/advertisement.js"></script>
+
+<script>
+		    window.CLARITY_GPT_DELAY = 0.01 * 1000;
+	
+			clarityPageData = {"site_code":"thr","zone":"","disable_initial_load":true,"single_request_mode":true};
+		
+</script>
+<script type="text/javascript">
+    (function(){
+        window.CLARITY = window.CLARITY || [];
+        var ns = document.createElement('script'), s = document.getElementsByTagName('script')[0];
+        ns.async = true; ns.type = 'text/javascript'; ns.src = '//lib.pgmcdn.com/clarity-1510173566999.min.js'; s.parentNode.insertBefore(ns, s);
+    })();
+</script>
+<script>
+	!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+	apstag.init({
+        pubID: 3125,
+        adServer: 'googletag',
+        videoAdServer: 'DFP',
+        bidTimeout: 600
+    });
+
+	// Tell Clarity not to load a9
+    CLARITY.push({
+        use: ['header'],
+        run: function(header) {
+            header.skipJsInject('a9');
+        }
+    });
+</script>
+<script>
+                CLARITY.push({
+                    use: ['header'],
+                    run: function(header) {
+                                                    var slotData = [
+                                                                    ["m1_1", "6419/thr.com/culture.article", [[300,250],[300,600]], "m1", {"980":[[300,250],[300,600]],"767":[],"0":[]}, 0],,                                                                    ["m2_1", "6419/thr.com/culture.article", [[300,250]], "m2", {"980":[[300,250]],"767":[[300,250]],"0":[[300,250],[320,50]]}, 0],,                                                                    ["t_1", "6419/thr.com/culture.article", [[728,90],[970,90],[970,250]], "t", {"980":[[728,90],[970,90],[970,250]],"767":[[728,90]],"0":[[320,50]]}, 0],                                                            ];
+
+                            // Add header slots then run,
+                            // any slots added after initial run will be processed differently
+                            for(var i=0; i<slotData.length; i++) {
+                                header.addHeaderSlot.apply(header, slotData[i]);
+                            }
+                        
+                        header.run({"a9":{"account_id":3125}});
+                    }
+                });
+            </script>
+<script type="text/javascript">
+    
+    var PGM = window.PGM || {};
+    PGM.mediaQueries = {
+        medium: "only screen and (min-width: 768px)",
+        large: "only screen and (min-width: 1024px)"
+    };
+    PGM.ads = PGM.ads || {};
+</script>
+<script>
+var THR = THR || {};
+THR.config = THR.config || {
+    contentHost: "http://www.hollywoodreporter.com",
+    debug: "",
+    mediaHost: "//cdn1.thr.com"
+};
+</script>
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+var PGM = PGM || {};
+PGM.ads = PGM.ads || {};
+PGM.ads.adUnit = '/6419/thr.com/culture.article';
+PGM.ads.data = {"ad_zone":"culture.article","targeting":{"tags":["culture","donald trump"],"page":"938176","env":"prod"},"slots":{"t":{"adUnit":"6419\/thr.com\/culture.article","slotName":"t","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[728,90],[980,50],[970,90],[728,91],[980,250],[970,250],[970,66],[970,51],[970,251]],"767":[[728,90],[728,91]],"0":[[300,50],[300,51],[320,50],[320,51],[320,170]]},"defaultSizes":[[728,90],[980,50],[970,90],[728,91],[980,250],[970,250],[970,66],[970,51],[970,251]],"targetingParameters":{"pos":"t","tags":["culture","donald trump"],"page":"938176"},"chartLine":null,"lazyLoad":false},"t2":{"adUnit":"6419\/thr.com\/culture.article","slotName":"t2","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[644,380]],"767":[[644,380],[728,90],[728,91]],"0":[[300,50],[300,52],[300,300],[320,50],[320,52]]},"defaultSizes":[[644,380]],"targetingParameters":{"pos":"t2","tags":["culture","donald trump"],"page":"938176"},"chartLine":null,"lazyLoad":false},"b1":{"adUnit":"6419\/thr.com\/culture.article","slotName":"b1","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[88,31],[120,60]],"767":[[88,31],[120,60]],"0":[[88,31],[120,60]]},"defaultSizes":[[88,31],[120,60]],"targetingParameters":{"pos":"b1","tags":["culture","donald trump"],"page":"938176"},"chartLine":null,"lazyLoad":false},"o1":{"adUnit":"6419\/thr.com\/culture.article","slotName":"o1","outOfBody":true,"responsive":false,"sizeMapping":[[]],"defaultSizes":[],"targetingParameters":{"pos":"o1","tags":["culture","donald trump"],"page":"938176"},"chartLine":null,"lazyLoad":false},"lightbox":{"adUnit":"6419\/thr.com\/culture.article","slotName":"lightbox","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250],[300,600]],"767":[[728,90]],"0":[[320,50],[300,50]]},"defaultSizes":[[300,250],[300,600]],"targetingParameters":{"pos":"lightbox","tags":["culture","donald trump"],"page":"938176"},"chartLine":null,"lazyLoad":false},"m1":{"adUnit":"6419\/thr.com\/culture.article","slotName":"m1","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250],[300,251],[300,600]],"767":[],"0":[]},"defaultSizes":[[300,250],[300,251],[300,600]],"targetingParameters":{"pos":"m1","tags":["culture","donald trump"],"page":"938176"},"chartLine":null,"lazyLoad":false},"m2":{"adUnit":"6419\/thr.com\/culture.article","slotName":"m2","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250],[300,252]],"767":[[300,250],[300,252]],"0":[[300,250],[300,252],[300,50],[300,52],[320,50],[320,52]]},"defaultSizes":[[300,250],[300,252]],"targetingParameters":{"pos":"m2","tags":["culture","donald trump"],"page":"938176"},"chartLine":null,"lazyLoad":false}},"ima_tags":"culture,donald trump"};
+PGM.ads.slots = PGM.ads.slots || {};
+PGM.autoplayers = ["VkzEx53Fg","rJIWUc7eW","4kXvKxBFg","r1La1160g","ByDcA7lvg"];
+</script>
+<script type='text/javascript'>
+
+googletag.cmd.push(function() {
+
+            googletag.pubads().setTargeting('template', 'n');
+        PGM.debug('dfpauto', 'PAGE', 'template', 'n' );
+        
+    googletag.pubads().setTargeting('zone', 'culture.article');
+    PGM.debug('dfpauto', 'PAGE', 'zone', 'culture.article');
+            googletag.pubads().setTargeting('tags', ["culture","donald trump"]);
+        PGM.debug('dfpauto', 'PAGE', 'tags', ["culture","donald trump"]);
+            googletag.pubads().setTargeting('page', "938176");
+        PGM.debug('dfpauto', 'PAGE', 'page', "938176");
+            googletag.pubads().setTargeting('env', "prod");
+        PGM.debug('dfpauto', 'PAGE', 'env', "prod");
+    
+    $('video').each(function () {
+        let $vid = $(this),
+            player = $vid.data('player'),
+            account = $vid.data('account');
+
+        if (PGM.autoplayers.indexOf(player) >= 0) {
+            // If there are any auto-play vids stop
+            googletag.pubads().setTargeting('video', 'autoplay');
+            PGM.debug('dfpauto', 'PAGE', 'video', 'autoplay');
+            return false;
+        } else if (account) {
+            googletag.pubads().setTargeting('video', 'click-to-play');
+            PGM.debug('dfpauto', 'PAGE', 'video', 'click-to-play');
+            // if there are click-to-plays there could still be an auto-play somewhere, continue
+        }
+    });
+
+    if( typeof Krux !== 'undefined' ) {
+        googletag.pubads().setTargeting('ksg', Krux.segments);
+        PGM.debug('dfpauto', 'PAGE', 'ksg', Krux.segments);
+        googletag.pubads().setTargeting('kuid', Krux.user);
+        PGM.debug('dfpauto', 'PAGE', 'kuid', Krux.user);
+    }
+
+    });
+</script>
+
+
+<script>
+    var _comscore = _comscore || [];
+    var comscoreVars = {
+        c1: "2"
+        ,c2: "7395269"
+        ,c3: ""
+        };
+    _comscore.push(comscoreVars);
+    </script>
+<script type="text/javascript" data-src="https://sb.scorecardresearch.com/beacon.js"></script>
+<noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=7395269&cv=2.0&cj=1" />
+</noscript>
+
+
+<script type="text/javascript">
+        var dataLayer = dataLayer || [];
+        dataLayer.push({
+            'fireGTM': 'on'
+                        , 'contentId': '938176'
+
+                    , 'contentType': 'news'
+
+                    , 'author': 'Nancy Collins'
+
+                    , 'category': 'Culture'
+
+                    , 'tags': 'Culture, Donald Trump'
+
+                    , 'publishDate': '2016101317'
+
+            
+        });
+        dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+        PGM.createScript('//www.googletagmanager.com/gtm.js?id=GTM-WLF8ZZ');
+    </script>
+
+<script type="text/javascript">
+        window._taboola = window._taboola || [];
+        dataLayer.push({'taboolaType': 'article' });
+    </script>
+<link rel="stylesheet" type="text/css" href="/assets/1513797326//css/thr-lotr.css?f5d9e384dee05465ca69">
+</head>
+<body class="article-page" data-template="Article" data-adsitesection="Culture" data-twitter-handle="thr">
+<div class="header-wrapper">
+<header id="site-header" class="site-header " role="banner">
+<div class="site-header__background">
+<div class="site-header__contents">
+<div class="site-header__bar">
+<button class="site-header__nav-toggle"><i class="fa fa-bars"></i></button>
+<h1 class="site-header__brand">
+<a class="site-header__brand-link" href="/">
+<img class="site-header__brand-logo" src="/assets/1513797326//images/brand/thr-logo-white.svg?f5d9e384dee05465ca69" alt="The&#x20;Hollywood&#x20;Reporter">
+<span class="site-header__brand-name">The Hollywood Reporter</span>
+</a>
+</h1>
+<button class="site-header__search-toggle"><i class="fa fa-search"></i></button>
+</div>
+<nav class="site-header__nav">
+<div class="site-header__nav-inner">
+<ul class="site-header__nav-items">
+<li class="site-header__nav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;movies class=site-header__nav-link>
+Movies
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;node&#x2F;895551 class=site-header__nav-link>
+TV
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;business class=site-header__nav-link>
+Business
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;style class=site-header__nav-link>
+Style
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;node&#x2F;859190 class=site-header__nav-link>
+Politics
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;tech class=site-header__nav-link>
+Tech
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;culture class=site-header__nav-link>
+Culture
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;awards class=site-header__nav-link>
+Awards
+</a>
+</li>
+<li class="site-header__nav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;video class=site-header__nav-link>
+Video
+</a>
+</li>
+<li class="site-header__nav-item collapsed">
+<span class=site-header__nav-link>
+Sites
+</span>
+<span class="carat"></span><ul class="site-header__subnav-items">
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;blogs&#x2F;heat-vision class=site-header__subnav-link>
+Heat Vision
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;blogs&#x2F;live-feed class=site-header__subnav-link>
+Live Feed
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;node&#x2F;786127 class=site-header__subnav-link>
+Esq
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;blogs&#x2F;race class=site-header__subnav-link>
+The Race
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;blogs&#x2F;behind-screen class=site-header__subnav-link>
+Behind the Screen
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;blogs&#x2F;bastard-machine class=site-header__subnav-link>
+Bastard Machine
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;node&#x2F;832202 class=site-header__subnav-link>
+Rambling Reporter
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;node&#x2F;832198 class=site-header__subnav-link>
+The Fien Print
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<a href="https://subscribe.hollywoodreporter.com/sub/?p=THR&amp;f=saleb&amp;s=IH1402HR12" class="site-header__nav-link site-header__nav-link--subscribe">Subscribe</a>
+<a href="/newsletters/subscribe" class="site-header__nav-link site-header__nav-link--newsletter">Newsletters</a>
+<ul class="site-header__nav-items site-header__nav-items--site-tools">
+<li class="site-header__nav-item collapsed">
+<span class=site-header__nav-link--site-tools&#x20;site-header__nav-link class=site-header__nav-link>
+Site Tools
+</span>
+<span class="carat"></span><ul class="site-header__subnav-items">
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;user&#x2F;login class=site-header__subnav-link>
+Login
+</a>
+</li>
+<li class="site-header__subnav-item ">
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;daily&#x2F;archive class=site-header__subnav-link>
+Daily Edition
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+<form class="site-header__search-form" method="get" accept-charset="UTF-8" action="/search/">
+<input class="site-header__search-input" placeholder="Search..." name="keys" maxlength="255">
+<button id="site-header__search-submit" class="site-header__search-submit"><i class="fa fa-times"></i></button>
+</form>
+</div>
+</div>
+</header>
+<div class="header-wrapper__secondary-header">
+<nav class="site-header-links">
+<div class="site-header-links__contents">
+<a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;topic&#x2F;travel class=site-header-links__link>
+Travel
+</a>
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;node&#x2F;735692 class=site-header-links__link>
+Dining
+</a>
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;node&#x2F;826203 class=site-header-links__link>
+Theater
+</a>
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;node&#x2F;826193 class=site-header-links__link>
+Real Estate
+</a>
+<a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;blogs&#x2F;bookmark class=site-header-links__link>
+Books
+</a>
+<a href=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;node&#x2F;826208 class=site-header-links__link>
+Podcasts
+</a>
+</div>
+</nav>
+ <div class="breaking-news-bar"></div>
+</div>
+</div>
+<div class="site-header__placeholder"></div>
+<div class="ad-container leaderboard leaderboard--top">
+<div class="leaderboard-wrapper">
+<div class="ad_desktop_placeholder">
+<div class="ad_desktop_wrapper">
+<div class='ad_desktop dfp-ad dfp-ad-t ' data-position='t' data-slot-name="t" data-sizes='[[728,90],[980,50],[970,90],[728,91],[980,250],[970,250],[970,66],[970,51],[970,251]]' data-size-mapping='{"980":[[728,90],[980,50],[970,90],[728,91],[980,250],[970,250],[970,66],[970,51],[970,251]],"767":[[728,90],[728,91]],"0":[[300,50],[300,51],[320,50],[320,51],[320,170]]}' data-lazy-load='' data-refresh='' data-refresh-timer='' data-targeting='{"pos":"t","tags":["culture","donald trump"],"page":"938176"}' data-ad-unit='6419/thr.com/culture.article' data-trackaction="" data-tracklabel="Ad Click">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='ad_desktop dfp-ad dfp-ad-o1 ' data-position='o1' data-slot-name="o1" data-sizes="[[1,1]]" data-out-of-page="true" data-lazy-load='' data-refresh='' data-refresh-timer='' data-targeting='{"pos":"o1","tags":["culture","donald trump"],"page":"938176"}' data-ad-unit='6419/thr.com/culture.article' data-trackaction="" data-tracklabel="Ad Click">
+</div>
+<main class="article">
+<section class="left-rail js-leftRail-container">
+<div class="left-rail__list js-leftRail"></div>
+<script type="application/json">
+{
+    "options": { "apiBase": "/fe_data/p/fe-api/news_index/culture",
+"leftRailHighwater": true,
+"contentWellTaboolaMode": "thumbnails-f"
+ },
+    "title": "Latest Culture News",
+    "initialItem": {
+        "id": 938176,
+        "title": "Donald Trump Talks Family, Women in Unearthed Transcript: &quot;When I Come Home and Dinner&#039;s Not Ready, I Go Through the Roof&quot;",
+        "path": "/news/donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176",
+        "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2016/10/gettyimages-115322042-h_2016.jpg",
+        "mediaType": "image",
+        "categoryName": "",
+        "categoryPath": "",
+        "publishDate": "5:10 PM"
+    },
+    "mainList": [
+                    {
+                "id": 1073709,
+                "title": "Sundance Film Festival 2018: Guide to Events, Parties and More",
+                "path": "/news/sundance-film-festival-2018-guide-events-parties-more-1073709",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2017/01/sundance_film_fest_-_h_-_2017.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1074910,
+                "title": "Margaret Atwood Faces Backlash Over &quot;Bad Feminist&quot; Op-ed and #MeToo Comments",
+                "path": "/news/handmaids-tale-author-hits-back-at-critics-calling-her-a-bad-feminist-metoo-comments-1074910",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2017/04/margaret_atwood.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1074877,
+                "title": "HLN Host Ashleigh Banfield Slams Aziz Ansari Accuser: &quot;You Have Chipped Away at a Movement&quot;",
+                "path": "/news/hln-host-ashleigh-banfield-slams-aziz-ansari-accuser-you-have-chipped-away-at-a-movement-1074877",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2018/01/screen_shot_2018-01-15_at_5.20.03_pm_copy.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1074821,
+                "title": "Simone Biles Says She Was Sexually Abused by USA Gymnastics Doctor",
+                "path": "/news/simone-biles-says-she-was-sexually-abused-by-usa-gymnastics-doctor-1074821",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2016/08/biles.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1074731,
+                "title": "Google Honors Martin Luther King Jr. Day With Inspirational Doodle",
+                "path": "/news/google-honors-martin-luther-king-jr-day-inspirational-doodle-1074731",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2018/01/mlutherking_c1960-h_2018.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1073156,
+                "title": "Danny Glover on Creating a &quot;Culture of Sustainable Activism&quot;",
+                "path": "/news/danny-glover-creating-a-culture-sustainable-activism-1073156",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2018/01/danny_glover.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1074547,
+                "title": "Groupon Books Superfan Tiffany Haddish for Super Bowl Ad ",
+                "path": "/news/groupon-books-superfan-tiffany-haddish-super-bowl-ad-1074547",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2017/11/gettyimages-823615208_copy_-_h_2017.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1074685,
+                "title": "NAACP Image Awards: &#039;Handmaid&#039;s Tale&#039; Star Samira Wiley and Other Winners on Importance of Honor",
+                "path": "/news/naacp-image-awards-handmaids-tale-star-samira-wiley-winners-importance-honor-1074685",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2018/01/gettyimages-904978090.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1074658,
+                "title": "Aziz Ansari Responds to Allegation of Sexual Misconduct: &quot;I Took Her Words to Heart&quot;",
+                "path": "/news/aziz-ansari-responds-allegation-sexual-misconduct-i-took-her-words-heart-1074658",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2018/01/769341148_5712033906001_5712011528001-vs.jpg",
+                "mediaType": "video",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1074655,
+                "title": "Jamie Lee Curtis: Eliza Dushku&#039;s Sexual Assault Allegation &quot;Awakened Us&quot; to a &quot;Horrific Reality&quot;",
+                "path": "/news/jamie-lee-curtis-eliza-dushkus-sexual-assault-allegation-has-awakened-us-a-horrific-reality-1074655",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2018/01/eliza.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1074646,
+                "title": "Stunt Coordinator Accused by Eliza Dushku of Sexual Assault Dropped by Agent ",
+                "path": "/news/stunt-coordinator-accused-by-eliza-dushku-sexual-assault-dropped-by-agent-1074646",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2018/01/eliza.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1074579,
+                "title": "Hollywood Celebrates the Death of 2017 With Humorous Eulogies ",
+                "path": "/news/hollywood-celebrates-death-2017-humorous-eulogies-1074579",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2018/01/bess.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1074598,
+                "title": "Hawaiians, and &#039;Triple Frontier&#039; Production, Rattled by Ballistic Missile False Alarm",
+                "path": "/news/hawaiians-triple-frontier-production-rattled-by-ballistic-missile-false-alarm-1074598",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2018/01/hawaii.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1073209,
+                "title": "Hollywood Tour Bus Crackdown Aims to Put End to Celebrity Home Visits",
+                "path": "/news/hollywood-tour-bus-crackdown-aims-put-end-celebrity-home-visits-1073209",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2018/01/hollywood_hills_tourbus_and_guide_-_inset_-_one_time_use_only_-_newscom_-_h_2018.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1073218,
+                "title": "My Six Days of Silence: A Hollywood Agent Puts Down His Phone (for Once)",
+                "path": "/news/my-six-days-silence-a-hollywood-agent-puts-down-his-phone-once-1073218",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2018/01/uta_agent-h_2018.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1073393,
+                "title": "Men&#039;s Retreats Gain Popularity Among Hollywood A-Listers During Time of &quot;Heightened Anxiety&quot;",
+                "path": "/news/mens-retreats-gain-popularity-hollywood-a-listers-time-heightened-anxiety-1073393",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2018/01/8026885982_a5b2cd148e_o-h_2018.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1074572,
+                "title": "Sean Penn Pens Op-Ed on Trump&#039;s Crude Immigration Comments: &quot;An Enemy of Compassion&quot;",
+                "path": "/news/sean-penn-pens-op-ed-trumps-crude-immigration-comments-an-enemy-compassion-1074572",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2018/01/sean_penn_and_trump_split.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1074462,
+                "title": "&quot;Oprah for President&quot; Billboard Spotted in Downtown L.A.",
+                "path": "/news/oprah-president-billboard-spotted-downtown-la-1074462",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2018/01/screen_shot_2018-01-12_at_12.48.15_pm_1_-_h_2018.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1074453,
+                "title": "Trump Lawyer Arranged $130,000 Payout to Adult Film Actress in 2016 (Report)",
+                "path": "/news/trump-lawyer-arranged-130000-payout-adult-film-actress-2016-report-1074453",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2018/01/stormy_daniels_trump_split.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+            ,                    {
+                "id": 1074150,
+                "title": "LAPD Opens Sexual Assault Investigation Into Steven Seagal",
+                "path": "/news/lapd-opens-sexual-assault-investigation-steven-seagal-1074150",
+                "media": "https://cdn1.thr.com/sites/default/files/imagecache/NFE_square/2017/11/gettyimages-186107272_-_h_20178.jpg",
+                "mediaType": "image",
+                "categoryName": "",
+                "categoryPath": "",
+                "publishDate": "12/31/1969"
+            }
+                        ],
+    "topicBlock":
+        null
+    }
+</script>
+</section>
+<section class="main-well js-mainWell">
+<article class="article__content-well article__content-well--landscape js-revarticle url-breadcrumb is-active " data-id="938176" data-url-breadcrumb="/news/donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176" data-content-type="article" data-page-title="Donald&#x20;Trump&#x3A;&#x20;Unearthed&#x20;1994&#x20;Interview&#x20;on&#x20;Family,&#x20;Why&#x20;Women&#x20;Shouldn&#x27;t&#x20;Work&#x20;&#x28;Q&amp;A&#x29;" data-canonical="https://www.hollywoodreporter.com/news/donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176" data-chartbeatSection="culture" data-analytics-category="Culture" data-analytics-tags="Culture, Donald Trump">
+<div class="article__header">
+<h1 class="article__headline">Donald Trump Talks Family, Women in Unearthed Transcript: &quot;When I Come Home and Dinner&#039;s Not Ready, I Go Through the Roof&quot;</h1>
+<p class="article__meta">
+<span class="js-publish-date" data-pubdate-value="2016101317">
+5:10 PM PDT 10/13/2016
+</span>
+by
+<span class="js-authors-list">
+<span class="author">
+Nancy Collins
+</span> </span>
+</p>
+<ul class="social-share">
+<li class="social-share__item">
+<a class="js-pgm-social-share social-share__link social-share__link--facebook fa-facebook" data-pgm-share="facebook" data-pgm-title="Donald&#x20;Trump&#x20;Talks&#x20;Family,&#x20;Women&#x20;in&#x20;Unearthed&#x20;Transcript&#x3A;&#x20;&quot;When&#x20;I&#x20;Come&#x20;Home&#x20;and&#x20;Dinner&#x27;s&#x20;Not&#x20;Ready,&#x20;I&#x20;Go&#x20;Through&#x20;the&#x20;Roof&quot;" data-pgm-url="https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;news&#x2F;donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176" href="javascript:void(0);">
+FACEBOOK
+</a>
+</li>
+<li class="social-share__item">
+<a class="js-pgm-social-share social-share__link social-share__link--twitter fa-twitter" data-pgm-share="twitter" data-pgm-title="Donald&#x20;Trump&#x20;Talks&#x20;Family,&#x20;Women&#x20;in&#x20;Unearthed&#x20;Transcript&#x3A;&#x20;&quot;When&#x20;I&#x20;Come&#x20;Home&#x20;and&#x20;Dinner&#x27;s&#x20;Not&#x20;Ready,&#x20;I&#x20;Go&#x20;Through&#x20;the&#x20;Roof&quot;" data-pgm-url="https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;news&#x2F;donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176" href="javascript:void(0);">
+TWITTER
+</a>
+</li>
+<li class="social-share__item">
+<a class="social-share__link social-share__link--email fa-envelope" data-pgm-title="Donald&#x20;Trump&#x20;Talks&#x20;Family,&#x20;Women&#x20;in&#x20;Unearthed&#x20;Transcript&#x3A;&#x20;&quot;When&#x20;I&#x20;Come&#x20;Home&#x20;and&#x20;Dinner&#x27;s&#x20;Not&#x20;Ready,&#x20;I&#x20;Go&#x20;Through&#x20;the&#x20;Roof&quot;" href="mailto:?body=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;news&#x2F;donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176&subject=Donald&#x20;Trump&#x20;Talks&#x20;Family,&#x20;Women&#x20;in&#x20;Unearthed&#x20;Transcript&#x3A;&#x20;&quot;When&#x20;I&#x20;Come&#x20;Home&#x20;and&#x20;Dinner&#x27;s&#x20;Not&#x20;Ready,&#x20;I&#x20;Go&#x20;Through&#x20;the&#x20;Roof&quot;">
+EMAIL ME
+</a>
+</li>
+<li class="social-share__item">
+<a class="social-share__link social-share__link--print fa-print" target="_blank" href="/print/938176">
+PRINT
+</a>
+</li>
+<li class="social-share__item">
+<a class="social-share__link social-share__link--comments js-scroll-to-comments fa-comment" href="javascript:void(0);">
+COMMENTS
+</a>
+</li>
+</ul>
+</div>
+<figure class="main-media main-media--image " data-media-type="image" data-media-id="">
+<div class="ndn_embed" data-config-distributor-id="91574" data-config-height="9/16w" id="ndn-video-player-1" style="width:100%;">
+<img src="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2016/10/gettyimages-115322042-h_2016.jpg" class="main-media__image">
+<figcaption class="media__details-text">
+<div class="media__credit">Steve Eichner/WireImage/Getty Images</div>
+<div class="media__caption">Donald Trump in 1994</div>
+</figcaption>
+</div>
+</figure>
+<div class="article__body js-fitvids-content">
+<div class='ad_desktop dfp-ad dfp-ad-m2 ' data-position='m2' data-slot-name="m2" data-sizes='[[300,250],[300,252]]' data-size-mapping='{"980":[[300,250],[300,252]],"767":[[300,250],[300,252]],"0":[[300,250],[300,252],[300,50],[300,52],[320,50],[320,52]]}' data-lazy-load='' data-refresh='' data-refresh-timer='' data-targeting='{"pos":"m2","tags":["culture","donald trump"],"page":"938176"}' data-ad-unit='6419/thr.com/culture.article' data-trackaction="" data-tracklabel="Ad Click">
+</div>
+<h2 class="article__deck">
+“Psychologists will tell you that some women want to be treated with respect," he told Nancy Collins in a never-released 1994 transcript from ABC’s 'Primetime Live.' "I tell friends who treat their wives magnificently, get treated like crap in return, 'Be rougher and you’ll see a different relationship.'"
+</h2>
+<p>In 1994, I interviewed Donald and Marla Trump at Mar-a-Lago for ABC &lsquo;s <em>Primetime Live</em>, where I was a correspondent. I was down in Palm Beach to talk about Trump&rsquo;s self-touted comeback from near financial ruin. Though several quotes from my interview have appeared elsewhere (as has the 11-minute segment that aired in 1994), the majority of this interview has never been published before now. The highlights of our four-hour conversation, which are excerpted for length and clarity below, include his guilt about the death of his brother, frank admissions about the debt he was facing at the time and his feelings that a wife who works is a &ldquo;very dangerous thing.&rdquo;</p>
+<p>Back in 1994, rumors of Trump filing for personal bankruptcy abounded, but he adamantly declared that he hadn&rsquo;t. &ldquo;There was never a bankruptcy,&rdquo; he told me. &ldquo;I had in excess of $5 billion in personal debt, now $115 million, which I&rsquo;m going to pay in a very short period. Nobody&#39;s bailed me out, I&rsquo;ve done a really good job of getting myself out of trouble.&rdquo;</p>
+<p>In fairness, Trump was professional, cooperative, respectful &mdash; none of the grabs or touching that has been reported by other women. No, he did not hit on me &hellip; probably&nbsp;because I was always surrounded by two cameramen, two sound guys and a producer. With Trump, it&#39;s&nbsp;always a&nbsp;good idea to show up with your own SWAT team.</p>
+<p>
+<div class="embedded-content" data-nid="938434" data-nodetype="news" data-template="readmore" data-amp-enabled="1">
+<script type="application/json">
+        {
+          "nid": 938434,
+          "type": "news",
+          "title": "&#039;Apprentice&#039; Contestant Says Donald Trump Sexually Assaulted Her at the Beverly Hills Hotel",
+          "path": "https://www.hollywoodreporter.com/news/apprentice-contestant-says-donald-trump-938434","media": {"width":1296,"height":730,"extension":"jpg","file_size":145727,"mime_type":"image\/jpeg","type":"image","path":"sites\/default\/files\/2016\/10\/trump_accuser_-_screenshot_-_h_-_2016.jpg","orientation":"landscape","id":null,"caption":"Summer Zervos","credit":"http:\/\/www.cbsnews.com"},
+          "relative-path": "/news/apprentice-contestant-says-donald-trump-938434"
+        }
+      </script>
+</div></p>
+<p>Though happy to tout his successes, his was still a major ego-in-training. Deadly serious, he nonetheless still had irony about his actions, able to laugh at himself. Indeed, showing me around sumptuous Mar-a-Lago, originally built by heiress Marjorie Merriweather Post, he was like a kid, thrilled over his new toy, anxious that I marvel over his latest &ldquo;perfect deal&rdquo;&mdash; purchased for an astronomically low $10 million from the state of Florida, which lacked the funds to keep it going. Not in evidence was the bitterness that has marked his presidential candidacy.</p>
+<p>Trump&rsquo;s view of women, meanwhile, according to his high-school classmates at the strict New York Military Academy, was pure <em>Playboy</em>. &ldquo;His model of behavior toward women,&rdquo; one told me, &ldquo;was Hugh Hefner.&rdquo;&nbsp;</p>
+<p>The key to Trump&rsquo;s personality, explained another friend, lies in his fear of public embarrassment. &ldquo;Donald dreads humiliation and shame,&rdquo; one source told me during my reporting for the <em>Primetime</em> segment. &ldquo;If he feels that, he lashes out.&quot;</p>
+<p>
+<div class="embedded-content" data-template="image" data-nodetype="image" data-id="[NODEID]">
+<script type="application/json">
+		            {"width":928,"height":627,"extension":"jpg","file_size":89090,"mime_type":"image\/jpeg","type":"image","path":"sites\/default\/files\/2016\/10\/donald_trump_embed.jpg","orientation":"landscape","id":938246,"credit":"Courtesy of ABC News","caption":""}
+		        </script>
+</div></p>
+<p><strong>People find your ego oversized to say the least.</strong></p>
+<p>I wouldn&rsquo;t agree. I don&rsquo;t brag about my success.</p>
+<p><strong>Of course you do. And a huge ego usually masks a deep insecurity.</strong></p>
+<p>I don&rsquo;t feel insecure, but like everyone I probably am &mdash; I never met a successful person who wasn&rsquo;t. I don&rsquo;t work because I don&rsquo;t feel good about myself, I enjoy it. I see things very sarcastically. Life is what you do while you&rsquo;re waiting to die &mdash; for men, statistically, that is 73.2 years. Other than raising your kids to be your primary legacy, everything else seems futile. Doing a good or bad job doesn&rsquo;t matter. I do what I do because there&rsquo;s nothing else to fill the time. Should I sit home and watch TV? I&rsquo;d rather go to the office and play my game of chess because that&rsquo;s who I am. I love the game.</p>
+<p><strong>Will any deal, any victory ever be enough for you?</strong></p>
+<p>I&rsquo;m always after &quot;perfect.&quot; Cardinal O&rsquo;Connor once told me: &ldquo;You&rsquo;re always striving for something &hellip; when you get the biggest building, you want one bigger.&rdquo;</p>
+<p><strong>Your father was also hugely ambitious, described as a &quot;human machine.&quot; He must have had incredible expectations for everyone.</strong></p>
+<p>Only because his expectations for himself were so high. My father&rsquo;s a very strong, good guy &mdash; a diamond in the rough, an exterior tougher than the heart inside. We knew we were financially in good shape, but never felt a tremendous sense of wealth. The biggest thing my father did was have a Cadillac every two years.</p>
+<p><strong>How did your parents feel about your personal decisions?</strong></p>
+<p>Those worried them the most &mdash; dating all the models, the divorce. They&rsquo;re very traditional, married 57 years, &quot;divorce&quot; was not a word in their vocabulary. The concept that their son might get one, unthinkable. The hardest moment of my life was when I told my parents I was getting a divorce. They couldn&rsquo;t believe it.</p>
+<p><strong>How did you tell them?</strong></p>
+<p>I went to their house, took a deep breath and said, &ldquo;Hey folks, guess what? I&rsquo;m getting a divorce. It&rsquo;s just now working out blah, blah, blah.&rdquo; It was very, very tough. My father was furious: &ldquo;There&rsquo;s no such thing as divorce. You get married and that&rsquo;s the end of it.&rdquo; I agreed. I believe in marriage &mdash; one woman, one marriage. I like the image of a solid, faithfully married man. Those are the people I most respect.</p>
+<p><strong>It&rsquo;s a lot for traditional parents to handle, their son cheating on his wife, ultimately divorcing her.</strong></p>
+<p>I&rsquo;ve always had a great relationship with my mother and father, my two greatest influences. But the press wants something worse. Saying that I have a great relationship with my dad isn&rsquo;t a good enough story &mdash; it has to be that I wanted to dominate him. Or that my mother was a real bitch who pushed me, when it&rsquo;s just the opposite.&nbsp;I had a perfect childhood, two parents who loved me, two good sisters, two brothers, not much tragedy.</p>
+<p><strong>That came later, in 1984, when your older brother, Fred, died of alcoholism at 43. &nbsp;</strong></p>
+<p>My biggest tragedy, my greatest teacher &mdash; I learned more from him than anybody. Freddy was an incredible guy, handsome, fun, everybody loved him. But sadly he drank and smoked, four packs a day, as much as anybody could. The alcohol just ate him away and I lost him. Every day he lectured me, &ldquo;Look at the mess I&rsquo;m in. If I ever catch you smoking, you&rsquo;ll be sorry, drinking even a glass of booze because you&rsquo;ll like it too much.&rdquo; He knew I was excessive &mdash; if I smoked, four packs a day; if I drank, an alcoholic. Even now, I&rsquo;ve never had a drink nor cigarette. Freddy did a good job.</p>
+<p><strong>Considering your father&rsquo;s ethos, I&rsquo;m sure Freddy&rsquo;s childhood was not so blissful. Was your dad hard on him?</strong></p>
+<p>It wasn&rsquo;t easy for my brother. We&rsquo;re a competitive family &mdash; my sister&rsquo;s a federal judge. My father really pushed Freddy &hellip; so did I. &ldquo;Come on, what are you doing? Come into the business.&rdquo; I&rsquo;m still mad at myself for harassing him so much. My father did, too.</p>
+<p>Freddy was a wonderful pilot, loved flying, flew for TWA, but hated business, unlike me who went to Wharton when I really didn&rsquo;t let up. &ldquo;What are you doing with your life; you&rsquo;re going to be a loser. Get into business.&rdquo; Finally, he did, despised it, didn&rsquo;t do well. At the very least you have to like something. My brother did not. My father and I forced him to join us, stopping Freddy from doing what he loved.</p>
+<p><strong>Exacerbating his drinking, no doubt.</strong></p>
+<p>You have no idea. He was so miserable, unhappy, just drank and drank, smoked and smoked. A disaster.</p>
+<p><strong>When he died, your father must have felt hugely guilty, arguably having hastened his son&rsquo;s death.</strong></p>
+<p>My dad felt awful, really bad, He loves his children.</p>
+<p><strong>He clearly didn&rsquo;t have to convince you to join the family business.</strong></p>
+<p>He didn&rsquo;t pressure me. If I&rsquo;d done something else, it would&rsquo;ve been fine. At one point I wanted to be a movie producer &mdash; I loved Cecil B. DeMille, Louis B. Mayer. I applied to USC cinema school, before deciding that show business wasn&rsquo;t a good one, too much luck involved.</p>
+<p>Before college graduation, I was working with my father, did great for him. But I wanted to do buildings in Manhattan like Trump Tower where Steven Spielberg, Johnny Carson, Andrew Lloyd Webber lived. I&rsquo;ve always been drawn to beauty, not money, which it takes that to get them done. My buildings get great architectural reviews.</p>
+<p><iframe height="360" scrolling="no" src="https://abcnews.go.com/video/embed?id=39538139" style="border:none;" width="640"></iframe></p>
+<p><strong>Let&rsquo;s talk about women. Your feelings toward them seem conflicted, even chauvinistic, confusing since you adore and respect your mother so much.</strong></p>
+<p>I have great relationships with women, my mother, Ivana, Marla, my female executives are better than the men: tougher, smarter.</p>
+<p><strong>So why in 1992 did you tell a writer for<em> New York</em> magazine, Marie Brenner, that &lsquo;You have to treat women like shit&rdquo; &mdash; ultimately pouring a bottle of wine down her back?</strong></p>
+<p>I didn&rsquo;t say that. The woman&rsquo;s a liar, extremely unattractive, lots of problems because of her looks.</p>
+<p><strong>That statement is exactly why women think you&rsquo;re a chauvinist pig.</strong></p>
+<p>They&rsquo;re right &mdash; and not. People say, &quot;How can you say such a thing?&quot; but there&rsquo;s a truth in it, in a modified form. Psychologists will tell you that some women want to be treated with respect, others differently. I tell friends who treat their wives magnificently, get treated like crap in return, &ldquo;Be rougher and you&rsquo;ll see a different relationship.&rsquo; Unfortunately, with people in general, you get more with vinegar than honey.</p>
+<p><strong>Not with smart women. How did such a proponent of marriage get labeled a womanizer?</strong></p>
+<p>I&rsquo;d love to reframe that, never liked it. It&rsquo;s been perpetrated by the press probably because when I was single I had women friends on the good-looking side. But again, I think marriage is a great institution, doesn&rsquo;t always work, but I believe in it.</p>
+<p><strong>So what happened to your marriage with Ivana?</strong></p>
+<p>A great misconception is I left Ivana for Marla. Marla had nothing to do with it, but leaving my wife for another woman makes a better headline. Our marriage hadn&rsquo;t been working for three or four years.</p>
+<p><strong>Did you try to save it?</strong></p>
+<p>Unfortunately, I just let it meander. I&rsquo;m much more indecisive in my personal life than everything else I do. I should&rsquo;ve confronted the situation, sat down with Ivana, told her, &quot;Let&rsquo;s work it out or not. Do something.&rdquo; We didn&rsquo;t even see a marriage counselor, but I determined that marriage was over.</p>
+<p><strong>Ivana had not. She was shattered finding out about Marla, wanted you back, even getting a face-lift, wept telling Liz Smith you no longer wanted her sexually &mdash;&nbsp;all of which was played in worldwide media.</strong></p>
+<p>It was wild and woolly. Marla hated it, went into hiding and people started wearing &ldquo;Where&rsquo;s Marla&rdquo; T-shirts. She finally talked to ABC &mdash; a freebie when we&rsquo;d been offered millions.</p>
+<p><strong>With your money you actually wanted to be paid? No shame!</strong></p>
+<p>Why not? You&rsquo;re embarrassed for a day in the papers but have a million bucks in your pocket.</p>
+<p><strong>Back to your marriage with Ivana. What do you think went wrong?</strong></p>
+<p>My incredible success could have been a part of the problem. Everything I touched turned to gold. I&rsquo;m in my thirties and my whole thing is going through the roof. Our life was so big, so perfect, it put tremendous strain on our marriage. I thought, &quot;I don&rsquo;t have time for the marriage.&quot; I don&rsquo;t blame Ivana, she&rsquo;s beautiful, a great mother &mdash; I just started getting bored. Everything was just too ... easy. Maybe Ivana and I once had passion, maybe something, but it was really too much too soon.</p>
+<p>It was like the <em>Twilight Zone</em> episode where a man dies and someone says, &quot;You can have any wish you want.&rdquo; [He says], &ldquo;I want to win everything, never lose.&quot; He goes into business, every deal works; he plays golf, wins every time. Everything was perfect. So he tells the man, &quot;I want something else to happen. This can&rsquo;t be heaven.&quot; And he says, &quot;It&rsquo;s not. It&rsquo;s Hell.&rdquo;</p>
+<p><strong>Was there a precipitating event?</strong></p>
+<p>We had a great relationship for several years ... I was 100 percent faithful, loved Ivana ... then I asked her to take over Trump Castle. Putting your wife to work is a very dangerous thing &mdash; the single biggest reason my marriage stopped being good, my fault more than hers. I thought, &ldquo;Ivana&rsquo;s a great homemaker, mother, but I&rsquo;ll give her something really exciting to do&rdquo; &mdash; like raising kids wasn&rsquo;t the most important job in the world. &ldquo;Why don&rsquo;t you run Trump Castle?&rdquo; She knew nothing about casinos but she&rsquo;d been with me. If you&rsquo;re smart, you&rsquo;re smart. She jumped at it, did a nice job, but I can hire someone to do that.</p>
+<p>I don&rsquo;t want to sound like a chauvinist, but when I come home at night and dinner&rsquo;s not ready I go through the roof. But I got handed casino numbers. After 12 hours dealing with my companies, I didn&rsquo;t want to talk business. I can instantaneously shut it off, my survival mechanism. But she&rsquo;d be yelling into the phone with the casino; I didn&rsquo;t want my wife shouting like that. Ivana had a great softness that disappeared. She became an executive, not a wife.</p>
+<p>
+<div class="embedded-content" data-template="image" data-nodetype="image" data-id="[NODEID]">
+<script type="application/json">
+		            {"width":928,"height":523,"extension":"jpg","file_size":108377,"mime_type":"image\/jpeg","type":"image","path":"sites\/default\/files\/2016\/10\/donald_trump_interview_1994_screen_shot_-_h_2016_embed.jpg","orientation":"landscape","id":938241,"credit":"Courtesy of ABC News","caption":""}
+		        </script>
+</div></p>
+<p><strong>Presumably actress Marla Maples had that softness? In 1985 you literally met at church &mdash; Marble Collegiate on Fifth Avenue &mdash; fell in love and you moved her into an apartment. This went on for a couple years. Two women at your beck and call.</strong></p>
+<p>Not bad. Beautiful wife, beautiful girlfriend, everything beautiful. Life was a bowl of cherries.</p>
+<p><strong>For you maybe. No guilt about being unfaithful?</strong></p>
+<p>I felt guilt especially after I left Ivana, felt every lousy emotion possible.</p>
+<p><strong>Did Marla pressure you to leave?</strong></p>
+<p>Not really. She hated her position, this woman goes to church every Sunday, but Marla was happy. She just had the bad luck to fall in love with a married guy. Our chemistry just works. I&rsquo;m proud to say I&rsquo;ve been totally monogamous. Marla&rsquo;s easy to be with, cares about me, always there. Loyalty is everything to me. I&rsquo;m completely loyal, I don&rsquo;t understand disloyalty &mdash; why my father couldn&rsquo;t understand how I could leave Ivana.</p>
+<p>
+<div class="embedded-content" data-nid="937934" data-nodetype="news" data-template="readmore" data-amp-enabled="1">
+<script type="application/json">
+        {
+          "nid": 937934,
+          "type": "news",
+          "title": "Two Women Claim Donald Trump Groped Them: &quot;He Was Like an Octopus&quot;",
+          "path": "https://www.hollywoodreporter.com/news/two-women-claim-donald-trump-groped-new-york-times-937934","media": {"width":1296,"height":730,"extension":"jpg","file_size":102281,"mime_type":"image\/jpeg","type":"image","path":"sites\/default\/files\/2016\/10\/donald_j._trump_-_first_presidential_debate_-_getty_-_h_-_2016.jpg","orientation":"landscape","id":null,"caption":"Donald Trump","credit":"Drew Angerer\/Getty Images"},
+          "relative-path": "/news/two-women-claim-donald-trump-groped-new-york-times-937934"
+        }
+      </script>
+</div></p>
+<p>[<em>In December 1990, Ivana and Marla finally laid eyes on each other in Aspen over Christmas during a chance &mdash; or maybe not &mdash;&nbsp;meeting outside the chic, top-of-the-mountain restaurant Bonnie&rsquo;s. The Trumps, with their children, had lunch as did Maples at another table.</em></p>
+<p><em>After leaving Bonnie&rsquo;s, Maples and Ivana ended up standing next to each other. Depending on whose version you believed, Marla told Ivana she loved Donald or Ivana told Marla to stay away from her husband, a sizzling story covered in worldwide media.</em></p>
+<p><em>Shortly thereafter, the Trumps separated.</em>]</p>
+<p><strong>So what really happened outside Bonnie&rsquo;s that day?</strong></p>
+<p>The press made it into this big blow-up. It wasn&rsquo;t. It went from they met on the slopes, escalating over weeks, to screaming and pulling out each other&rsquo;s hair. You couldn&rsquo;t change it.</p>
+<p><strong>You started it, spiriting Marla to Aspen while you were with Ivana and the kids. The two had never met, right?</strong></p>
+<p>Right. Ivana and I were standing near the restaurant putting on our skis when Marla came out of Bonnie&rsquo;s and suddenly, the two women were standing next to each other. You could tell there was conflict, friction, but no hair pulling. I&rsquo;m standing there like an idiot and this not very attractive man, probably 300 pounds, says to me: &ldquo;It could be worse, Donald. I&rsquo;ve been in Aspen for 20 years and never had a date,&rdquo; which really gave me perspective.</p>
+<p><strong>I&rsquo;m sure you loved two women fighting over you.&nbsp;</strong><strong>Once you were free, it took the birth of your daughter, Tiffany &mdash; and two months after that &mdash; until you finally married Marla.</strong></p>
+<p>I don&rsquo;t believe in having babies out of wedlock, neither does she. We were both surprised.</p>
+<p><strong>Were you using birth control?</strong></p>
+<p>We broke up and Marla stopped the pill, still off the day we got back together, nice knowing she wasn&rsquo;t on it while we weren&rsquo;t. Two months later Marla came home and said, &quot;Guess what? I&rsquo;m pregnant&quot; &mdash; not her intention. Lo and behold a gorgeous baby girl, all happened beautifully.</p>
+<p><strong>Wouldn&rsquo;t that have been the moment to marry the mother of your impending child, instead of waiting until two months after Tiffany was born? Why didn&rsquo;t you?</strong></p>
+<p>Indecision. I wanted to be sure it was the right thing for me.</p>
+<p><strong>You seem to call all the shots in a relationship: when, if you&rsquo;ll marry, or divorce, whether your wife will work, or not &mdash; which Marla wants to do.</strong></p>
+<p>I don&rsquo;t see it that way. I&rsquo;m a great starmaker, which I&rsquo;ve done with&nbsp;Ivana&nbsp;and Marla. I liked that. But once they are a star, the fun is over for me. It&rsquo;s the creation process, like creating a building. It&rsquo;s sad.</p>
+<p><strong>Hardly encouraging for the women in your life.</strong></p>
+<p>It&rsquo;s complicated, I change from moment to moment. I&rsquo;m not saying anybody gets a joy ride in this deal. But it could be a lot worse. I&rsquo;m a very good husband.</p>
+<p>
+<div class="embedded-content" data-nid="938068" data-nodetype="blog" data-template="readmore" data-amp-enabled="0">
+<script type="application/json">
+        {
+          "nid": 938068,
+          "type": "blog",
+          "title": "Donald Trump&#039;s Media Threats Are Why a Free Speech Protection Law Is Needed",
+          "path": "https://www.hollywoodreporter.com/thr-esq/donald-trumps-media-threats-are-938068","media": {"width":1296,"height":730,"extension":"jpg","file_size":170865,"mime_type":"image\/jpeg","type":"image","path":"sites\/default\/files\/2016\/10\/gettyimages-613833574-h_2016.jpg","orientation":"landscape","id":null,"caption":null,"credit":"Jessica Kourkounis\/Getty Images"},
+          "relative-path": "/thr-esq/donald-trumps-media-threats-are-938068"
+        }
+      </script>
+</div></p>
+<p><strong>Once the bride signs the pre-nup. Marla didn&rsquo;t want to.</strong></p>
+<p>It&rsquo;s a lousy concept &mdash; &ldquo;When you get divorced, this is what you&rsquo;ll get&rdquo; &mdash; but a modern-day necessity. Marla doesn&rsquo;t want to sign but she has to from my standpoint. I understand, a pre-nup feels like you&rsquo;re giving up on the marriage before it starts.</p>
+<p>But my businesses are big and complex. If things don&rsquo;t work out, should a woman you happened to marry lay claim to Trump Tower? I don&rsquo;t want to go through five years of turmoil and lawyers&#39; fees.</p>
+<p><strong>Marla reportedly asked for $25 million, you negotiated her down to a million which looks a little &hellip;</strong></p>
+<p>Cheap?</p>
+<p><strong>Yeah, cheap.</strong></p>
+<p>Not so bad. You get married, doesn&rsquo;t work out, you get a million bucks. I&rsquo;m not the worst guy to be married to. I think a million dollars is a lot of money.</p>
+<p><strong>No, you don&rsquo;t.</strong></p>
+<p>No, I don&rsquo;t actually.</p>
+<p><strong>Especially for the mother of your child, loyal for six years, you&rsquo;ve got the dough, give her the 25 mil.</strong></p>
+<p>I look at everything like a deal. I built this empire myself, nobody did it for me. If someone married somebody who built something this large, should she end up like the Queen of Sheba? If our marriage doesn&rsquo;t work out, I don&rsquo;t want to go through five years of lawyers, legal fees. If I give more, I want to make the decision, not some court saying, &ldquo;You agreed to pay X &mdash; and will.&rdquo; Ivana challenged our pre-nup for three years, ending up with the original settlement.</p>
+<p><strong>What&rsquo;s your relationship with Ivana now?</strong></p>
+<p>Once the litigation stopped ... we&rsquo;re very friendly. We&rsquo;ll always love each other, share three wonderful children.</p>
+<p><strong>Speaking of whom, how did your children deal with this emotional chaos?</strong></p>
+<p>It was a very, very tough period for them. They understood that things weren&rsquo;t so great on the home front. But going to school every day, seeing your parents&rsquo; pictures on the front of every newspaper in the world, your schoolmates being gruesome in some cases. But Ivana and I did a good job. They didn&rsquo;t read newspapers, weren&rsquo;t allowed to watch TV, unless someone was with them. I learned how strong my children are, they came out magnificently, doing great in school, loved by both parents.</p>
+<p><strong>Still, there&rsquo;ll be scars &hellip;</strong></p>
+<p>They&rsquo;re so well-adjusted. Properly handled, you don&rsquo;t have scars. (Right, Sigmund Freud?)</p>
+<p><strong>Amid such personal turbulence, how did you manage to run your business?</strong></p>
+<p>Frankly, I was unfocused, not working as hard as I should. But I figured, &quot;What the hell? I&rsquo;m making so much money what difference does it make? If it doesn&rsquo;t work out, OK.&quot;</p>
+<p>At the beginning of 1990, I realized trouble was brewing; but in my business you can&rsquo;t just unload stocks. Selling hundreds of buildings takes years. I thought: &ldquo;I better get on the ball or else you&rsquo;ll be wiped out like everybody else.&rdquo;</p>
+<p><strong>Prodigal son returns &hellip;</strong></p>
+<p>Perversely, I was thrilled, had a challenge again. Everything&rsquo;s great; you&rsquo;re not happy. Deep trouble, you&rsquo;re dying to get back in the office. It was very hard but exciting, I thrilled at living on the edge in a very high way.</p>
+<p><strong>Were you embarrassed?</strong></p>
+<p>Doubly humiliated. Whatever I touched was always a home run. I was waging a contentious, nasty divorce from Ivana and suddenly the world collapses. A real estate law, passed in 1986, wiped out insurance companies, savings and loans, the banks were in terrible trouble. Developers were hurt badly. It wasn&rsquo;t just Trump getting beat up, but I was the most visible.</p>
+<p>I went from being the hottest in the country, on the highest of pedestals one day to getting it knocked out from under me the next. Suddenly I&rsquo;m getting horrendous front-page articles: &ldquo;Trump won&rsquo;t make it back&rdquo; &mdash; the guy who wrote <em>The Art of the Deal</em>. The media killed me &mdash; the most humbling experience of my life.</p>
+<p>
+<div class="embedded-content" data-nid="937082" data-nodetype="blog" data-template="readmore" data-amp-enabled="0">
+<script type="application/json">
+        {
+          "nid": 937082,
+          "type": "blog",
+          "title": "Is Donald Trump Libel-Proof? ",
+          "path": "https://www.hollywoodreporter.com/thr-esq/is-donald-trump-libel-proof-937082","media": {"width":1296,"height":730,"extension":"jpg","file_size":102281,"mime_type":"image\/jpeg","type":"image","path":"sites\/default\/files\/2016\/10\/donald_j._trump_-_first_presidential_debate_-_getty_-_h_-_2016.jpg","orientation":"landscape","id":null,"caption":"Donald Trump","credit":"Drew Angerer\/Getty Images"},
+          "relative-path": "/thr-esq/is-donald-trump-libel-proof-937082"
+        }
+      </script>
+</div></p>
+<p><strong>Ever thought you wouldn&rsquo;t dig yourself out?</strong></p>
+<p>Never. But I&rsquo;m happy to have gone through it; it taught me that I&rsquo;m smart enough, tough enough, I can take it. You never know until you&rsquo;re with the big boys.</p>
+<p><strong>How much personal debt do you owe?</strong></p>
+<p>I had in excess of $5 billion worth of personal debt ... it ended up at $975 million and now it&#39;s down to $115 million, which I&#39;m going to pay very quickly, in a short period of time.  </p>
+<p><strong>Daunting.</strong></p>
+<p>I always felt fine, my assets were substantially above that. But when the markets crashed the debt stayed the same, the assets went below the debt for the first time. At one point, I was worth minus $900 million. I thought, &ldquo;I&rsquo;ve worked a lifetime and this is it?&rdquo; Pretty bad. I was living off income, fighting, arguing, things weren&rsquo;t being paid.</p>
+<p><strong>Was your bankruptcy embarrassing?</strong></p>
+<p>I never went bankrupt; I&rsquo;m very proud of that. A small portion of my companies were put into a prepack, a quick way to solve a problem. I threw some of our companies into bankruptcy to solve problems within the companies, but I didn&rsquo;t have to revert to personal bankruptcy.</p>
+<p><strong>How did you avoid personal bankruptcy? The banks bailed you out?</strong></p>
+<p>Nobody&#39;s bailed me out, I bailed myself out; I&#39;ve done a really good job of getting out of trouble.To get a deal with a good bank you have to have three things: be professional, honest and they have to like you. I was all three. If they catch you with your fingers in the till, you&rsquo;ll never work out a deal again. The banks were wise and it worked out well for everybody.</p>
+<p><strong>How is your company doing?</strong></p>
+<p>1994 may be my best year ever. 1990 was the worst year of my life but because I worked so hard in &rsquo;91 and &rsquo;92, this is the culmination. The Taj Mahal is breaking every record in Atlantic City, no casino has ever done that, very few in the world. Trump Plaza and The Castle also doing great.</p>
+<p><strong>What sets you apart from other smart, ambitious businessmen?</strong></p>
+<p>I always knew that if I wanted it badly enough, I&#39;d be successful. Sports is a great indicator of life. Some people might have the physicality, but not the mental toughness to be a champion.</p>
+<p><strong>But you do?</strong></p>
+<p>I am a champion.</p>
+<p><em>The Taj Mahal closed its doors on Oct. 10 and the Trump Plaza ceased operation in September 2014. The Trump Castle was sold in 2011 and now operates as The Golden Nugget. For the first time in two decades, there are no Trump casinos in Atlantic City.</em></p>
+</div>
+<div class='ad_desktop dfp-ad dfp-ad-t2 ' data-position='t2' data-slot-name="t2" data-sizes='[[644,380]]' data-size-mapping='{"980":[[644,380]],"767":[[644,380],[728,90],[728,91]],"0":[[300,50],[300,52],[300,300],[320,50],[320,52]]}' data-lazy-load='' data-refresh='' data-refresh-timer='' data-targeting='{"pos":"t2","tags":["culture","donald trump"],"page":"938176"}' data-ad-unit='6419/thr.com/culture.article' data-trackaction="" data-tracklabel="Ad Click">
+</div>
+<div class="article-meta-bottom">
+<ul class="social-share social-share--bottom">
+<li class="social-share__item">
+<a class="js-pgm-social-share social-share__link social-share__link--facebook fa-facebook" data-pgm-share="facebook" data-pgm-title="Donald&#x20;Trump&#x20;Talks&#x20;Family,&#x20;Women&#x20;in&#x20;Unearthed&#x20;Transcript&#x3A;&#x20;&quot;When&#x20;I&#x20;Come&#x20;Home&#x20;and&#x20;Dinner&#x27;s&#x20;Not&#x20;Ready,&#x20;I&#x20;Go&#x20;Through&#x20;the&#x20;Roof&quot;" data-pgm-url="https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;news&#x2F;donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176" href="javascript:void(0);">
+FACEBOOK
+</a>
+</li>
+<li class="social-share__item">
+<a class="js-pgm-social-share social-share__link social-share__link--twitter fa-twitter" data-pgm-share="twitter" data-pgm-title="Donald&#x20;Trump&#x20;Talks&#x20;Family,&#x20;Women&#x20;in&#x20;Unearthed&#x20;Transcript&#x3A;&#x20;&quot;When&#x20;I&#x20;Come&#x20;Home&#x20;and&#x20;Dinner&#x27;s&#x20;Not&#x20;Ready,&#x20;I&#x20;Go&#x20;Through&#x20;the&#x20;Roof&quot;" data-pgm-url="https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;news&#x2F;donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176" href="javascript:void(0);">
+TWITTER
+</a>
+</li>
+<li class="social-share__item">
+<a class="social-share__link social-share__link--email fa-envelope" data-pgm-title="Donald&#x20;Trump&#x20;Talks&#x20;Family,&#x20;Women&#x20;in&#x20;Unearthed&#x20;Transcript&#x3A;&#x20;&quot;When&#x20;I&#x20;Come&#x20;Home&#x20;and&#x20;Dinner&#x27;s&#x20;Not&#x20;Ready,&#x20;I&#x20;Go&#x20;Through&#x20;the&#x20;Roof&quot;" href="mailto:?body=https&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;news&#x2F;donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176&subject=Donald&#x20;Trump&#x20;Talks&#x20;Family,&#x20;Women&#x20;in&#x20;Unearthed&#x20;Transcript&#x3A;&#x20;&quot;When&#x20;I&#x20;Come&#x20;Home&#x20;and&#x20;Dinner&#x27;s&#x20;Not&#x20;Ready,&#x20;I&#x20;Go&#x20;Through&#x20;the&#x20;Roof&quot;">
+EMAIL ME
+</a>
+</li>
+<li class="social-share__item">
+<a class="social-share__link social-share__link--print fa-print" target="_blank" href="/print/938176">
+PRINT
+</a>
+</li>
+ <li class="social-share__item">
+<a class="social-share__link social-share__link--comments js-scroll-to-comments fa-comment" href="javascript:void(0);">
+COMMENTS
+</a>
+</li>
+</ul>
+<ul class="article-meta__authors">
+<li class="author">
+<img src="https://cdn1.thr.com/sites/default/files/imagecache/nfe_square_383x383/2015/03/writerimage-thr.jpg" alt="Nancy Collins" class="author__image" />
+<div class="author__details">
+<p class="author__name">Nancy Collins</p>
+<a href="mailto:THRnews@thr.com" class="author-social__email fa-envelope" data-tracklabel="Story Well - Author Email">THRnews@thr.com</a>
+<a href="https://twitter.com/thr" class="author-social__twitter fa-twitter" data-tracklabel="Story Well - Author Twitter">@thr</a>
+</div>
+</li>
+</ul>
+</div>
+<div class="taboola-wrapper"></div>
+<div class="zergnet-widget"></div>
+<script language="javascript" type="text/javascript">
+        dataLayer.push({'zergnetID': '36523' });
+    </script>
+<button class="js-show-disqus-comments show-disqus-comments" data-tracklabel="Show Comments - Donald Trump Talks Family, Women in Unearthed Transcript: &quot;When I Come Home and Dinner&#039;s Not Ready, I Go Through the Roof&quot;">Comments</button>
+<div id="disqus-comments" class="disqus">
+<div id="disqus_thread" class="disqus-comments-wrapper"></div>
+<script type="text/javascript">
+        var disqus_shortname = 'hollywoodreporter';
+        var disqus_identifier = 'node/938176';
+        var disqus_title = 'Donald Trump: Unearthed 1994 Interview on Family, Why Women Shouldnt Work (Q&amp;A)';
+        var disqus_url = 'https://www.hollywoodreporter.com/news/donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176';
+    </script>
+<script data-src="//hollywoodreporter.disqus.com/embed.js"></script>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+<div class='js-leftRail-slot-m1' data-position='m1' data-slot-name="m1" data-sizes='[[300,250],[300,251],[300,600]]' data-size-mapping='{"980":[[300,250],[300,251],[300,600]],"767":[],"0":[]}' data-lazy-load='' data-refresh='' data-refresh-timer='' data-targeting='{"pos":"m1","tags":["culture","donald trump"],"page":"938176"}' data-ad-unit='6419/thr.com/culture.article' data-trackaction="" data-tracklabel="Ad Click">
+</div>
+<div class="js-ad-pageTargeting">
+<script type="application/json">
+        {
+                            "tags": ["culture","donald trump"],
+                            "page": "938176",
+                            "env": "prod"
+                    }
+        </script>
+</div>
+</article>
+<div class="js-leftRail-loadNewContent" data-currentId="938176" data-urlPrefix="/fe_data"></div>
+</section>
+</main>
+
+<footer id="site-footer" class="site-footer">
+<div class="container">
+<div class="branding column">
+<div class="brand">
+<a href="/" title="The Hollywood Reporter" rel="home" class="logo" data-tracklabel="Drip Pan Footer - THR Logo">The Hollywood Reporter</a>
+</div>
+<p class="copyright date">
+&copy; 2018 The Hollywood Reporter
+<br>
+All rights reserved.
+</p>
+<p class="copyright terms">
+<a href="/legal/terms">Terms of Use</a> |
+<a href="/legal/privacy">Privacy</a> |
+<a href="/sitemap">Sitemap</a> |
+<a href="/legal/about-our-ads">About Our Ads</a>
+</p>
+</div>
+<div class="affiliate column">
+<ul>
+<li>
+ <a href="/about/about" data-tracklabel="Drip Pan Footer - About Us">About Us</a>
+</li>
+<li>
+<a href="/user/login" data-tracklabel="Drip Pan Footer - Login">Login</a>
+</li>
+<li>
+<a href="/daily/archive" data-tracklabel="Drip Pan Footer - Daily Edition">Daily Edition</a>
+</li>
+<li>
+<a href="https://www.hollywoodreporter.com/subscribe3" data-tracklabel="Drip Pan Footer - Subscribe">Subscribe</a>
+</li>
+<li>
+<a href="/services" data-tracklabel="Drip Pan Footer - Subscriber Services">Subscriber Services</a>
+</li>
+<li>
+<a href="//shop.hollywoodreporter.com" data-tracklabel="Drip Pan Footer - Back Issues">Back Issues</a>
+</li>
+<li>
+<a href="/ad/contacts" data-tracklabel="Drip Pan Footer - Advertising">Advertising</a>
+</li>
+<li>
+<a href="/contact" data-tracklabel="Drip Pan Footer - Contact Us">Contact Us</a>
+</li>
+<li>
+<a href="http://prometheusglobalmedia.applytojob.com/" target="_blank" data-tracklabel="Drip Pan Footer - Careers">Careers</a>
+</li>
+<li>
+<a href="/industry-jobs" data-tracklabel="Drip Pan Footer - Industry Jobs">Industry Jobs</a>
+</li>
+</ul>
+</div>
+<div class="follow column">
+<ul>
+<li>
+Follow Us On
+<a href="https://twitter.com/thr" target="_blank" data-tracklabel="Drip Pan Footer - Twitter">Twitter</a>
+</li>
+<li>
+Find Us On
+<a href="https://www.facebook.com/HollywoodReporter" target="_blank" data-tracklabel="Drip Pan Footer - Facebook">Facebook</a>
+</li>
+<li>
+Watch Us On
+<a href="https://www.youtube.com/thrnetwork" target="_blank" data-tracklabel="Drip Pan Footer - YouTube">Youtube</a>
+</li>
+</ul>
+</div>
+<div class="partner column">
+<div class="publications">
+<p>Our affiliate publications</p>
+<ul>
+<li>
+<a href="http://www.billboard.com/" target="_blank" class="footer logo billboard" data-tracklabel="Drip Pan Footer - Billboard">Billboard</a>
+</li>
+<li>
+<a href="https://www.vibe.com/" target="_blank" class="foot logo vibe" data-tracklabel="Drip Pan Footer - Vibe">Vibe</a>
+</li>
+<li>
+<a href="https://www.spin.com/" target="_blank" class="foot logo spin" data-tracklabel="Drip Pan Footer - Spin">Spin</a>
+</li>
+<li>
+<a href="https://www.stereogum.com/" target="_blank" class="foot logo stereogum" data-tracklabel="Drip Pan Footer - Stereogum">Stereogum</a>
+</li>
+<li>
+<a href="https://www.deathandtaxesmag.com/" target="_blank" class="foot logo deathandtaxesmag" data-tracklabel="Drip Pan Footer - Death and Taxes">Death and Taxes</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "The Hollywood Reporter",
+    "url": "http://www.hollywoodreporter.com",
+    "logo": "http://www.hollywoodreporter.com/assets/images/brand/thr-logo.gif",
+    "sameAs" : [
+        "https://www.youtube.com/user/thrnetwork",
+        "https://twitter.com/thr",
+        "https://www.facebook.com/HollywoodReporter",
+        "https://instagram.com/hollywoodreporter/"
+    ]
+}
+</script>
+<script type="text/javascript" src="/assets/1513797326//js/commons.bundle.js?f5d9e384dee05465ca69"></script>
+<script type="text/javascript" src="/assets/1513797326//js/transition.bundle.js?f5d9e384dee05465ca69"></script>
+<script type="text/javascript" src="/assets/1513797326//js/templates.js?f5d9e384dee05465ca69"></script>
+<script type="text/javascript" src="/assets/1513797326//js/vendor.js?f5d9e384dee05465ca69"></script>
+<script type="text/javascript" src="/assets/1513797326//js/home.bundle.js?f5d9e384dee05465ca69"></script>
+<script type="text/javascript" src="/assets/1513797326//js/thr.js?f5d9e384dee05465ca69"></script>
+<div id="fb-root"></div>
+<script type="text/javascript">
+    PGM.createScriptTag("//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=303838389949803");
+</script>
+<script type="text/javascript">var __st_loadLate=true;</script>
+<meta name="sailthru.title" content="Donald Trump Talks Family, Women in Unearthed Transcript: &quot;When I Come Home and Dinner&#039;s Not Ready, I Go Through the Roof&quot;">
+<meta name="sailthru.description" content="“Psychologists will tell you that some women want to be treated with respect,&quot; he told Nancy Collins in a never-released 1994 transcript from ABC’s &#039;Primetime Live.&#039; &quot;I tell friends who treat their wives magnificently, get treated like crap in return, &#039;Be rougher and you’ll see a different relationship.&#039;&quot;
+">
+<meta name="sailthru.author" content="Nancy Collins">
+<meta name="sailthru.vertical" content="Culture">
+<meta name="sailthru.date" content="2016-10-13 17:10:44">
+<meta name="sailthru.tags" content="Culture,Donald Trump">
+<script type="text/javascript">
+    PGM.createScript("//ak.sail-horizon.com/horizon/v1.js", function() {
+        if (window.Sailthru) {
+            PGM.debug('sailthru', 'Running Sailthru.track for', 'https://www.hollywoodreporter.com/news/donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176');
+            Sailthru.track({
+                domain: 'horizon.hollywoodreporter.com',
+                spider: true,
+                track_url: true,
+                url: 'https://www.hollywoodreporter.com/news/donald-trump-women-unearthed-1994-primetime-interview-nancy-collins-938176'
+            });
+        }
+        else {
+            PGM.debug('sailthru', 'No window.Sailthru');
+        }
+    });
+    </script>
+<script type="text/javascript">
+    PGM.createScript("//dnn506yrbagrg.cloudfront.net/pages/scripts/0021/6696.js?"+Math.floor(new Date().getTime()/3600000));
+</script>
+
+<script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 3388;
+    _sf_async_config.domain = 'hollywoodreporter.com';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.authors = "Nancy Collins";
+    _sf_async_config.sections = "culture";
+    /** CONFIGURATION END **/
+    PGM.createScript('//static.chartbeat.com/js/chartbeat.js');
+</script>
+
+
+
+<script class="kxct" data-id="JtjzpxpZ" data-timing="async" data-version="1.9" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+    (function(){
+        var k=document.createElement('script');k.type='text/javascript';k.async=true;
+        k.src=(location.protocol==='https:'?'https:':'http:')+'//cdn.krxd.net/controltag/JtjzpxpZ.js';
+        var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+    }());
+</script>
+
+<script class="kxint" type="text/javascript">
+window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+(function(){
+  function retrieve(n){
+    var k= 'kx'+''+n, ls=(function(){
+      try {
+        return window.localStorage;
+      } catch(e) {
+        return null;
+      }
+    })();
+    if (ls) {
+        return ls[k] || '';
+    } else if (navigator.cookieEnabled) {
+        var m = document.cookie.match(k+'=([^;]*)');
+        return (m && unescape(m[1])) || '';
+    } else {
+        return '';
+    }
+  }
+  Krux.user = retrieve('user');
+  var segs = retrieve('segs');
+  Krux.segments = segs ? segs.split(',') : [];
+})();
+</script>
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+<script type="text/javascript">
+        PGM.createScript('//launch.newsinc.com/js/embed.js', function() {
+            if( _informq && typeof _informq.push === 'function' ) {
+                _informq.push(['embed']);
+            }
+        });
+    </script>
+<script>
+    window.CLARITY = window.CLARITY || [];
+</script>
+<div class="ad_clarity" data-out-of-page="true" style="display: none;"></div>
+<script>
+    CLARITY.push({
+        use: ['ads'],
+        run: function(Ads) {
+            Ads.site_code = "thr";
+            Ads.zone = "";
+
+            var keywords = [];
+
+            // Keyword injection
+            if (typeof(global_keywords) !== "undefined") {
+                keywords = global_keywords;
+            }
+
+            
+            Ads.keywords = keywords;
+
+                            Ads.autoPopulate();
+                    }
+    });
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"645958bbf2","applicationID":"3218764","transactionName":"YAZRbEJXC0VUURFZV1lMZkpZGQxYUVcdHkhfEw==","queueTime":0,"applicationTime":1435,"atts":"TEFSGgpNGEs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

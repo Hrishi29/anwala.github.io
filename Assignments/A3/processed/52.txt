@@ -1,0 +1,16 @@
+googletag.slots["infinite_scroll_separator"] = googletag.defineSlot("1107919/infiniteScroll_separator", [[970, 250], [300, 250], [728, 90], [1006, 500], [970, 90], [1340, 500], [1237, 500]], "dfp-ad-infinite_scroll_separator")
+Two-thirds of Americans say they would side with the FBI in a disagreement with President Trump
+Donald John Trump Tillerson: Russia already looking to interfere in 2018 midterms Dems pick up deep-red legislative seat in Missouri Speier on Trump's desire for military parade: 'We have a Napoleon in the making' MORE , according to a Marist poll released Friday.
+Sixty-six percent of Americans surveyed said they would take the side of the FBI if a schism were to arise between the bureau and Trump, while only 24 percent said they would side with the president.
+Seventy-one percent of respondents say they believe the FBI is trying to do its job and is not biased against the president, and 23 percent said they thought the bureau was biased against Trump. 
+ADVERTISEMENT
+Relations between the president and the FBI have declined over the past year amid the ongoing special counsel investigation into Russian election meddling. 
+Trump and some Republicans have attacked the FBI and the Justice Department in recent months for their handling of the Moscow probe and the now-closed investigation into former Secretary of State  Hillary Clinton 's private email server.
+The president has seized on on uncovered texts between FBI agent Peter Strzok and FBI attorney Lisa Page to depict the agency as prejudiced against him. 
+NEW FBI TEXTS ARE BOMBSHELLS!
+— Donald J. Trump (@realDonaldTrump) February 7, 2018
+Trump accused Strzok of "treason" in an interview  last month with The Wall Street Journal, saying he plotted to undermine his candidacy during the 2016 presidential race. 
+Late last year, the president said the FBI's reputation "is in tatters — worst in history." 
+The Marist poll was conducted from Feb. 5 to 7 among 1,012 adults with a margin of error of 3.7 percentage points. 
+The Hill 1625 K Street, NW Suite 900 Washington DC 20006 | 202-628-8500 tel | 202-628-8503 fax
+The contents of this site are ©2018 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc.

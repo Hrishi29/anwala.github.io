@@ -1,0 +1,1529 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+
+
+	<head>
+
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMGWFZaDhAGVlhXBAEBUQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(20),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{h?h-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(21),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",h=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(13),t(12),"addEventListener"in window&&t(6),s.xhrWrappable&&t(14),d=!0)}c.on("fn-start",function(t,e,n){d&&(h+=1)}),c.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&h>0&&(h-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,S=y.hash,this[u]=b.now()}function o(){M--,y.hash!==S&&i(0,!0);var t=b.now();this[l]=~~this[l]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=b.now()})}var c="-start",s="-end",f="-body",u="fn"+c,d="fn"+s,p="cb"+c,h="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,b=t("loader");if(w[v]&&b.xhrWrappable){var g=t(10),x=t(11),E=t(8),P=t(6),O=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),N=j.get("tracer");t(15),b.features.spa=!0;var S,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(h,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),P.buffer([u]),O.buffer(["setTimeout"+s,"clearTimeout"+c,u]),T.buffer([u,"new-xhr","send-xhr"+c]),R.buffer([m+c,m+"-done",m+f+c,m+f+s]),E.buffer(["newURL"]),g.buffer([u]),x.buffer(["propagate",p,h,"executor-err","resolve"+c]),N.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+c),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+c),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),c=t(12),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",h="-start",l="-end",m="fn"+h,v="fn"+l,w="bstTimer",y="pushState",b=t("loader");b.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=b.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,b.now()])}),a.on(m,function(t,e,n){this.bstStart=b.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),this.bstType])}),c.on(m,function(){this.bstStart=b.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),"requestAnimationFrame"])}),o.on(y+h,function(t){this.time=b.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(23)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(20);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,h="prototype";u&&d&&p&&(i(f,function(t,e){r(u[h],e,s),r(d[h],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(23)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){s.emit("jsonp-error",[],p),s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=c(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),s.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function c(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var s=t("ee").get("jsonp"),f=t(23)(s);if(e.exports=s,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,h=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,h,"dom-"),f.inPlace(HTMLHeadElement.prototype,h,"dom-"),f.inPlace(HTMLBodyElement.prototype,h,"dom-"),s.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(23)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(23),a=t("ee").get("promise"),c=i(a),s=t(20),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(23)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(23)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",c)}function i(t){b.push(t),l&&(x?x.then(a):v?v(a):(E=-E,P.data=E))}function a(){for(var t=0;t<b.length;t++)r([],b[t]);b.length&&(b=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(23)(u),p=NREUM.o,h=p.XHR,l=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],b=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(h,g),g.prototype=h.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var x=m&&m.resolve();if(!v&&!m){var E=1,P=document.createTextNode(E);new l(a).observe(P,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),h=t(19),l=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(20),c=t(21),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",h=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var l=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){l[e]=o(h+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],21:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],22:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],23:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(21),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),c=l(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([b,n,r,a]),a}}function h(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},b={on:h,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(20),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!x++){var t=g.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+g.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+g.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-g.offset}var c=(new Date).getTime(),s=t("handle"),f=t(20),u=t("ee"),d=window,p=d.document,h="addEventListener",l="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1071.min.js"},b=m&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:b};t(17),p[h]?(p[h]("DOMContentLoaded",i,!1),d[h]("load",r,!1)):(p[l]("onreadystatechange",o),d[l]("onload",r)),s("mark",["firstbyte",c],null,"api");var x=0,E=t(22)},{}]},{},["loader",2,15,5,3,4]);</script>
+
+
+
+
+		<meta name="viewport" content="width=640, user-scalable=no" id="viewport">
+
+
+
+		<title>What Scientologist Actually Believe - Video Clip | South Park Studios</title>
+		<meta name="description" content="The head of the Church of Scientology tells Stan about the creation myth. From Season 09 Episode 12, Trapped in the Closet." />
+
+		<link rel="canonical" href="http://southpark.cc.com/clips/104274/what-scientologist-actually-believe" />
+
+		
+		
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<link rel="image_src" href="http://1.images.southparkstudios.com/images/shows/south-park/clip-thumbnails/season-9/0912/south-park-s09e12c08-what-scientologist-actually-believe-16x9.jpg?quality=0.8" />
+	
+
+    	<meta property="fb:app_id" content="137822872980280" />
+		<meta property="og:type" content="video.other" />
+		<meta property="og:title" content="What Scientologist Actually Believe" />
+		<meta property="og:description" content="The head of the Church of Scientology tells Stan the creation myth that Scientologists believe." />
+		<meta property="og:url" content="http://southpark.cc.com/clips/104274/what-scientologist-actually-believe" />
+		<meta property="og:image" content="http://1.images.southparkstudios.com/images/shows/south-park/clip-thumbnails/season-9/0912/south-park-s09e12c08-what-scientologist-actually-believe-16x9.jpg?quality=0.8" />
+ 	
+
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:site" content="@SouthPark" />
+		<meta name="twitter:title" content="What Scientologist Actually Believe" />
+		<meta name="twitter:description" content="The head of the Church of Scientology tells Stan the creation myth that Scientologists believe." />
+		<meta name="twitter:image" content="http://1.images.southparkstudios.com/images/shows/south-park/clip-thumbnails/season-9/0912/south-park-s09e12c08-what-scientologist-actually-believe-16x9.jpg?quality=0.8" />
+
+    <meta property="sm4:type" content="Video"/>
+    <meta property="sm4:alias" content="Show"/>
+    <meta property="sm4:category" content="South Park" />
+
+<meta property="og:video" content="http://media.mtvnservices.com/a7745e56-ed00-11e0-aca6-0026b9414f30" />
+<meta property="og:video:type" content="application/x-shockwave-flash" />
+<meta property="sm4:type" content="Video"/>
+
+
+
+		<link id="sheet-normalize" rel="stylesheet" type="text/css" href="/sitewide/css/normalize.css">
+		<link id="sheet-fonts" rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+		
+
+		<!--[if lte IE 8]>
+		<link id="sheet-main-ie8" rel="stylesheet" type="text/css" href="/sitewide/css/main-ie8.css">
+		<![endif]-->
+		
+
+		<!--[if gte IE 9]><!-->
+		
+		
+		<link id="sheet-main" rel="stylesheet" type="text/css" href="/sitewide/css/main.css">
+		
+
+		<!--<![endif]-->
+
+
+
+
+
+
+
+		<script type="text/javascript">
+		var isIE = /*@cc_on!@*/!1;  // [Boolean]
+		if(!isIE)
+			document.domain = "southpark.cc.com";
+		</script>
+		<!--[if !IE]><!-->
+		<script type="text/javascript" src="/sitewide/js/mobileDetect.js"></script>
+		<script type="text/javascript">
+			// set the viewport as soon as possible to prevent device flickering
+			if (mobileDetect.isAndroidTablet() || mobileDetect.isIpad()){
+				//tablet style
+				document.write('<link id="sheet-breakpoint-tablet" rel="stylesheet" type="text/css" href="/sitewide/css/breakpoint-tablet.css">');
+				document.head.parentNode.className += ' tablet';
+
+				if (mobileDetect.isAndroidTablet()) {
+					document.head.parentNode.className += ' android';
+				}
+			} else if (mobileDetect.isAny()) {
+				//mobile style
+				document.write('<link id="sheet-breakpoint-desktop-mobile" rel="stylesheet" type="text/css" href="/sitewide/css/breakpoint-mobile.css">');
+			} else {
+				//desktop
+				document.write('<link id="sheet-breakpoint-desktop-mobile" rel="stylesheet" type="text/css" href="/sitewide/css/breakpoint-desktop.css">');
+			}
+		</script>
+		<!--<![endif]-->
+
+		<!--[if IE]>
+		<link id="sheet-breakpoint-desktop-mobile" rel="stylesheet" type="text/css" href="/sitewide/css/breakpoint-desktop-mobile.css">
+		<script type="text/javascript" src="/sitewide/js/mobileDetect.js"></script>
+		<![endif]-->
+
+		<!--[if lt IE 9]>
+		<script src="/sitewide/js/vendor/jquery-1.10.2.min.js"></script>
+		<![endif]-->
+		<!--[if gte IE 9]><!-->
+		<script src="/sitewide/js/vendor/jquery-2.0.3.min.js"></script>
+		<!--<![endif]-->
+
+
+
+		<!--[if gte IE 9]>
+		<style type="text/css">
+			.gradient {
+				filter: none !important;
+			}
+		</style>
+		<![endif]-->
+
+
+
+
+
+		<!--[if lt IE 9]>
+		<script type="text/javascript" src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+
+
+	<script type="text/javascript" src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=137822872980280"></script>
+
+	<script type="text/javascript">
+		window.rootUrl = '/sitewide/';
+
+		var CONFIG = {
+			base_url     : '/sitewide/',
+			
+			userIsAuthed : 
+false
+
+
+		};
+
+		var USER_QUEUE =
+
+
+
+[]
+
+
+;
+
+		if (window.self !== window.parent) {
+			window.parent.CONFIG.userIsAuthed = CONFIG.userIsAuthed;
+			window.parent.USER_QUEUE = USER_QUEUE;
+		}
+	</script>
+
+
+		<!-- gemius -->
+		
+        
+		
+
+        
+		<!-- end of gemius -->
+
+
+	</head>
+	<body
+					data-page="player"
+				class=""
+		data-collection-api-url="http://southpark.cc.com/feeds/"
+		data-queue-api-url="http://southpark.cc.com/feeds/"
+
+
+		data-now-playing="a7745e56-ed00-11e0-aca6-0026b9414f30"
+
+>
+		
+
+		<h1 style="display: none;">What Scientologist Actually Believe - Video Clip | South Park Studios</h1>
+
+
+		<div class="iframe-overlay">
+			<div class="loading-text">Loading...</div>
+		</div>
+
+
+
+		<div id="container">
+
+
+			
+			<div id="sidebar" class="iframe">
+								<iframe src="/iframes/sidebar" id="sidebar-iframe" frameborder="0" scrolling="no"></iframe>
+							</div>
+
+
+
+			<div id="main" class="iframe">
+
+
+
+				
+
+
+                
+        <!-- No leaderboard today, folks -->
+	
+
+
+
+
+
+
+				
+				<section id="main_content" class="content player">
+					
+
+
+					<div class="shadows"></div>
+
+
+
+					
+					<div class="loader">
+						<div class="container clearfix">
+							<div></div>
+							<div></div>
+							<div></div>
+							<div></div>
+							<div></div>
+							<div></div>
+							<div></div>
+							<div></div>
+						</div>
+					</div>
+
+					
+					<header id="main_header">
+
+<section class="nav 
+with-sub-nav
+                
+        
+ powered-by-hulu
+	
+" data-moduletracking="SPS_top-nav">
+	<div class="mobile-menu">
+		<a href="" id="menu-anchor">&nbsp;</a>
+	</div>
+	<!-- asdf -->
+<nav class="main-nav" id="header-main-nav">
+	<header>
+		<span class="logo beta" id="nav-logo-beta">
+			<a href="/"></a>
+
+                
+        
+			<div class="powered-by">
+				Powered by&nbsp;<a href="https://www.hulu.com/"><img src="/sitewide/img/hulu-logo.png"/></a>
+			</div>
+
+	
+
+		</span>
+
+	</header>
+
+	<ul>
+
+
+		<li class="episodes active">
+			<a href="/full-episodes">Full Episodes</a>
+		</li>
+
+
+		<li class="wiki">
+			<a href="/wiki">Wiki</a>
+		</li>
+
+
+		<li class="blog">
+			<a href="/blog">Blog</a>
+		</li>
+
+
+		<li class="avatars">
+			<a href="/avatar">Avatar</a>
+		</li>
+
+
+		<li class="games">
+			<a href="/games">Games</a>
+		</li>
+
+
+		<li class="forum">
+			<a href="/forum">Forum</a>
+		</li>
+
+
+		<li class="schedule">
+			<a href="/schedule">Schedule</a>
+		</li>
+		<li class="more">
+			<span>More &#x25BE;</span>
+			<ul>
+			</ul>
+		</li>
+	</ul>
+</nav>
+
+
+<nav class="main-sub-nav">
+	<div class="arrow"></div>
+	<div class="container clearfix Array">
+		<ul class="videos">
+
+			<li class="episodes">
+				<a href="/full-episodes">Episodes</a>
+			</li>
+
+			<li class="clips active">
+				<a href="/clips">Clips</a>
+			</li>
+
+			<li class="collections">
+				<a href="/collections">Collections</a>
+			</li>
+
+			<li class="episodios-en-espanol">
+				<a href="/episodios-en-espanol">Episodios en Español</a>
+			</li>
+		</ul>
+	</div>
+</nav>
+
+
+
+
+
+
+
+
+
+	<section class="greeting">
+		<nav class="main-nav">
+			<div>
+				<span class="welcome"><span>Stranger</span></span>
+				<span class="messages"><a class="login-auth" href="#login">Sign in, buddy.</a></span>
+			</div>
+			<a href="/profile/" class="sub-nav-arrow-target" data-view="profileCollections" data-sub-nav="profile"><img src="http://2.images.southparkstudios.com/default/expression_default.png?height=34&quality=0.8"/></a>
+		</nav>
+	</section>
+
+
+	<section class="menu" id="header-menu-nav">
+		<span class="search icon-search"></span>
+		<span class="queue">0</span>
+	</section>
+
+
+
+
+
+	<section class="search-container">
+		<form method="get" action="http://southpark.cc.com/search" id="search_form">
+			<input type="text" name="keywords" id="keywords" placeholder="Enter a keyword or search by your favorite South Park quote"/>
+			<button class="icon-search"></button>
+		</form>
+		<div class="arrow"></div>
+	</section>
+
+
+
+
+
+	<section class="queue-container offline scroll-area" data-allow-desktop-expand="true" data-collapse-on-window-click="true">
+ 		<div class="outer-area">
+			<!-- <div class="scrollbar">
+ 				<div class="scroll-thumb" draggable="true"></div>
+			</div> -->
+ 
+ 			<div class="inner-area">
+				<section class="">
+ 					<header class="content-header clearfix">
+						<h4>please login or register</h4>
+						<p>Our queue is available only to registered users.<br/>Please <a class="login-auth" href="#login">Login or Register</a> in order to use this feature.</p>
+ 					</header>
+ 				</section>
+ 			</div>
+ 		</div>
+	</section>
+
+
+
+</section>
+
+
+<!-- No callout -->
+
+
+
+					</header>
+
+
+
+					
+					<section class="page-content player ">
+						
+
+
+						
+
+<div class="player collections" data-view="player">
+
+
+                
+        
+	<script type="text/javascript">		
+		window.playerConfig = {
+			playerVars : {
+				flashVars : {
+
+				}
+			},
+			containerID : 'player_page_player'
+		};
+	</script>
+
+	<section class="featured">
+		<div class="video">
+			<span class="season hide" itemprop="partOfSeason" itemscope itemtype="http://schema.org/TVSeason">
+													<span itemprop="name" class="name">Season 9</span>
+							</span>
+			<div class="series" itemprop="partOfTVSeries" itemscope itemtype="http://schema.org/TVSeries">
+				<span class="episode hide" itemprop="episode" itemscope itemtype="http://schema.org/TVEpisode">
+			        <span itemprop="name">South Park</span> 
+		        							<span itemprop="episodeNumber">s09e12</span>
+								    </span>
+				<span class="name hide" itemprop="name">South Park</span>
+				<span class="author hide" itemprop="author">Trey Parker</span>
+				<span class="author hide" itemprop="author">Matt Stone</span>
+				<div id="player_page_player" data-url="/feeds/upnext/a7745e56-ed00-11e0-aca6-0026b9414f30" data-title="What Scientologist Actually Believe" data-itemid="a7745e56-ed00-11e0-aca6-0026b9414f30" data-mgid="mgid:arc:video:southparkstudios.com:a7745e56-ed00-11e0-aca6-0026b9414f30" data-huluid="40006403" data-duration="00:02:59.263" data-type="video" data-beacon-url="http://activities.niagara.comedycentral.com/register/southpark/clips/mgid:arc:video:comedycentral.com:a7745e56-ed00-11e0-aca6-0026b9414f30?additionalPayload=7h8hjn,1fot1a,tjfbfy,jaqqqd,lywbkr,u77f9f,j4kgyd,nlh1ie,67jxt2,"  itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+					
+					
+					
+	<meta itemprop="url" content="http://southpark.cc.com/"/>
+
+
+	<meta itemprop="name" content="What Scientologist Actually Believe"/>
+
+
+	<meta itemprop="thumbnailUrl" content="http://2.images.southparkstudios.com/images/shows/south-park/clip-thumbnails/season-9/0912/south-park-s09e12c08-what-scientologist-actually-believe-4x3.jpg?width=100%&height=100%&quality=0.8"/>
+
+
+        	<meta itemprop="description" content="The head of the Church of Scientology tells Stan the creation myth that Scientologists believe."/>
+
+
+	<meta itemprop="uploadDate" content=""/>
+
+
+	<meta itemprop="duration" content="T0H2M59S"/>
+
+
+    	<meta itemprop="transcript" content=""/>
+
+
+					
+					
+					
+					<div class="transcript">
+	<div class="act">
+                            <p>YES, BUT HE ALSOWAS A PROPHET</p>
+                            <p>WHO KNEW THE SECRET TRUTHABOUT THE NATURE OF LIFE.</p>
+                            <p>THIS IS JUSTTOO MUCH...</p>
+                            <p>WE WANT TOREVEAL TO STAN</p>
+                            <p>THE GREAT SECRET OF LIFEBEHIND OUR CHURCH.</p>
+                            <p>THE SAFELY GUARDEDSCIENTOLOGY DOCTRINE.</p>
+                            <p>PLEASE, YOUR SON DESERVESTO BE ENLIGHTENED.</p>
+                            <p>STAN, DO YOUWANT TO HEAR</p>
+                            <p>THE GREAT SECRET DOCTRINE OF LIFE BEHIND SCIENTOLOGY ?</p>
+                            <p>SURE.</p>
+                            <p>ALRIGHT, GO AHEADAND TELL HIM.</p>
+                            <p>WOULD YOUEXCUSE US, PLEASE.</p>
+                            <p>THIS IS HIGHLY CLASSIFIEDCHURCH INFORMATION.</p>
+                            <p>AW, RATS !</p>
+                            <p>USUALLY, TO HEARTHE SECRET DOCTRINE</p>
+                            <p>YOU HAVE TO BE IN THE CHURCHFOR SEVERAL YEARS, STAN.</p>
+                            <p>ARE YOU READYTO HEAR THE TRUTH ?</p>
+                            <p>I... I GUESS.</p>
+                            <p>YOU SEE, STAN.</p>
+                            <p>THERE IS A REASON FOR PEOPLEFEELING SAD AND DEPRESSED...</p>
+                            <p>AN ALIEN REASON.</p>
+                            <p>IT ALL BEGAN SEVENTY-FIVEMILLION YEARS AGO...</p>
+                            <p>BACK THEN, THERE WAS A GALACTICFEDERATION OF PLANETS,</p>
+                            <p>WHICH WAS RULED OVERBY THE EVIL LORD XENU !</p>
+                            <p>HA HA HA HAAA !</p>
+                            <p>XENU THOUGHT HIS GALAXYWAS OVERPOPULATED</p>
+                            <p>AND SO HE ROUNDED UPCOUNTLESS ALIENS</p>
+                            <p>FROM ALLDIFFERENT PLANETS...</p>
+                            <p>AND THEN HADTHOSE ALIENS FROZEN !</p>
+                            <p>ZBAATAAA !</p>
+                            <p>HA HA HA HAAAA !</p>
+                            <p>THE FROZEN ALIEN BODIES</p>
+                            <p>WERE LOADED ONTOXENU'S GALACTIC CRUISERS,</p>
+                            <p>WHICH LOOKED LIKE DC-8s,EXCEPT WITH ROCKET ENGINES.</p>
+                            <p>THE CRUISERS THEN TOOKTHE FROZEN ALIEN BODIES</p>
+                            <p>TO OUR PLANET... EARTH.</p>
+                            <p>AND DUMPED THEM INTOTHE VOLCANOES OF HAWAII.</p>
+                            <p>THE ALIENS WERENO LONGER FROZEN</p>
+                            <p>THEY WERE DEAD.</p>
+                            <p>THE SOULS OF THOSE ALIENSHOWEVER, LIVED ON</p>
+                            <p>AND ALL FLOATED UPTOWARDS THE SKY...</p>
+                            <p>BUT, THE EVIL LORD XENUHAD PREPARED FOR THIS !</p>
+                            <p>HA HA HA HAAAAA !</p>
+                            <p>XENU DIDN'T WANTTHEIR SOULS TO RETURN,</p>
+                            <p>AND SO HE HAD BUILT GIANTSOUL CATCHERS IN THE SKY !</p>
+                            <p>AAAAAGHGHGH !ZZZZZZBAAAAA !</p>
+                            <p>THE SOULS WERE TAKEN TO A HUGESOUL BRAINWASHING FACILITY</p>
+                            <p>WHICH XENU HAD ALSOBUILT ON EARTH !</p>
+                            <p>THERE THE SOULSWERE FORCED TO WATCH</p>
+                            <p>DAYS OF BRAINWASHING MATERIAL</p>
+                            <p>WHICH TRICKED THEM INTOBELIEVING A FALSE REALITY.</p>
+                            <p>XENU THEN RELEASEDTHE ALIEN SOULS,</p>
+                            <p>WHICH ROAMED THE EARTHAIMLESSLY IN A FOG OF CONFUSION.</p>
+                            <p>AT THE DAWN OF MAN,</p>
+                            <p>THE SOULS FINALLY FOUND BODIESWHICH THEY COULD GRAB ONTO.</p>
+                            <p>THEY ATTACHED THEMSELVESTO ALL MANKIND</p>
+                            <p>WHICH STILL TO THIS DAY,CAUSES ALL OF OUR FEARS,</p>
+                            <p>OUR CONFUSIONSAND OUR PROBLEMS.</p>
+                            <p>L. RON HUBBARDDID AN AMAZING THING,</p>
+                            <p>TELLING THE WORLDTHIS INCREDIBLE TRUTH.</p>
+                            <p>NOW ALL WE'REASKING YOU TO DO...</p>
+                            <p>IS PICK UPWHERE HE LEFT OFF.</p>
+                            <p>BUT I DON'T KNOWANY OF THIS STUFF !</p>
+                            <p>NEITHER DID L. RONWHEN HE STARTED.</p>
+                            <p>HE SAID HE JUSTCLOSED HIS EYES</p>
+                            <p>AND WROTE DOWNWHATEVER CAME TO MIND.</p>
+                            <p>YOU CAN DO THE SAME,JUST LET IT FLOW.</p>
+                            <p>OKAY, I'LL TRY.</p>
+                            <p>I JUST WISH I COULDWRITE IN MY ROOM,</p>
+                            <p>BUT TOM CRUISE WON'TCOME OUT OF THE CLOSET.</p>
+                            <p>I KNOW, WE'VE SENTNICOLE KIDMAN UP THERE</p>
+                            <p>TO SEE IF SHE CAN HELP.</p>
+                            <p>TOM...TOM IT'S NICOLE.</p>
+                            <p>HI NICOLE.</p>
+                            <p>TOM, DON'T YOU THINK THISHAS GONE ON LONG ENOUGH ?</p>
+                            <p>IT'S TIME FOR YOU TOCOME OUT OF THE CLOSET.</p>
+                    </div>
+
+					</div>
+					
+
+					
+					<div id="videoPlayerComponent"></div>
+				</div>
+			
+			</div>
+		</div>
+	</section>
+
+	<section id="endcap-container" class="hidden"></section>
+
+	<section class="actions clearfix" data-moduletracking="SPS_playerbar">
+		
+
+		<h5 class="title">What Scientologist Actually Believe</h5>
+		
+
+		<!-- <span data-toggle="More Info &nbsp;" class="icon-chevron-info open">Less Info &nbsp;</span> -->
+		<div class="buttons icons">
+	
+
+		<a class="button icon-black" href='#' title="Dim the lights" data-moduletracking="addto_dim">
+			<img style="width:21px;" src="/sitewide/img/icon-black.png"/>
+		</a>
+	
+
+
+	
+	
+	
+	<div id="share-button-container" title="Share this" data-moduletracking="addto_share">
+		<button class="icon-share" id="share-popover"></button>
+
+ 
+
+
+
+
+ 					<div class="social" id="share-buttons" data-itemid="a7745e56-ed00-11e0-aca6-0026b9414f30">
+ 						<a href="#" class="item facebook" data-title="What Scientologist Actually Believe" data-text="The head of the Church of Scientology tells Stan about the creation myth." data-image="http://1.images.southparkstudios.com/images/shows/south-park/clip-thumbnails/season-9/0912/south-park-s09e12c08-what-scientologist-actually-believe-16x9.jpg?quality=0.8" data-url="http://southpark.cc.com/clips/104274/what-scientologist-actually-believe"></a>
+ 						<a href="#" class="item twitter" data-title="What Scientologist Actually Believe" data-text="The head of the Church of Scientology tells Stan about the creation myth." data-image="http://1.images.southparkstudios.com/images/shows/south-park/clip-thumbnails/season-9/0912/south-park-s09e12c08-what-scientologist-actually-believe-16x9.jpg?quality=0.8" data-url="http://southpark.cc.com/clips/104274/what-scientologist-actually-believe"></a>
+						<a href="#" class="item email" data-title="South Park: What Scientologist Actually Believe" data-text="The head of the Church of Scientology tells Stan about the creation myth." data-image="http://1.images.southparkstudios.com/images/shows/south-park/clip-thumbnails/season-9/0912/south-park-s09e12c08-what-scientologist-actually-believe-16x9.jpg?quality=0.8" data-url="http://southpark.cc.com/clips/104274/what-scientologist-actually-believe"></a>
+						<a href="#" class="item googleplus" data-title="What Scientologist Actually Believe" data-text="The head of the Church of Scientology tells Stan about the creation myth." data-image="http://1.images.southparkstudios.com/images/shows/south-park/clip-thumbnails/season-9/0912/south-park-s09e12c08-what-scientologist-actually-believe-16x9.jpg?quality=0.8" data-url="http://southpark.cc.com/clips/104274/what-scientologist-actually-believe"></a>
+ 					</div>
+	</div>
+	<a class="button icon-comment desktop-only-inline" data-moduletracking="addto_comment" href="#fb-comments" title="Comment"></a>
+	
+	<a class="button icon-wiki" data-moduletracking="addto_wiki"  href="http://southpark.cc.com/wiki/Trapped_in_the_Closet" title="Read wiki"></a>
+	
+	<button class="icon-addto addto collection" data-href="#" data-moduletracking="addto_add" data-guid="a7745e56-ed00-11e0-aca6-0026b9414f30" title="Add To"></button>
+	
+</div>
+
+	</section>
+
+	
+	<section class="more-info shaded clearfix">
+		<article>
+			<header>
+				
+
+					<h6 class="additional">
+						<a class='season' href="http://southpark.cc.com/full-episodes/s09e12-trapped-in-the-closet">Trapped in the Closet</a>						<span class='air-date'>s09e12</span>
+					</h6>
+			</header>
+			<p class="">The head of the Church of Scientology tells Stan about the creation myth.</p>
+		</article>
+					<div id="adComponent"></div>
+			</section>
+	
+
+<div class="view-gradient"></div>
+ 	<section class="module shaded random-video clearfix" data-moduletracking="SPS_Randomcoll">
+	 	<a class="random-episode " href="/full-episodes/random"><img src="/sitewide/img/random-icon.png"/>&nbsp;&nbsp;&nbsp;Watch Random Episode</a>
+	</section>
+
+
+                
+        <div id="seasonData"></div>
+	
+
+
+	
+
+		<section class="grid-container">			<section class="grid  videos thumbnails module clearfix  "
+						data-url="/feeds/carousel/video/fba639b0-ae4d-49b0-9d5d-addb27823f4b/{resultsPerPage}/{currentPage}/json/%21airdate/{relatedItemId}"
+					     data-results-per-page="30"
+					     data-current-page="1"
+					     data-sort="!airdate"
+					     data-filter="season-9"
+					     	     			     						>
+									
+
+	<section class="filters clearfix" >
+		<h3 class="leader textGBook">Sort by Season</h3>
+		<nav>
+																										<a href="/full-episodes/promotion-0?sort=!airdate" class=" season-filter" data-value="promotion-0" data-title="Free">Free</a>
+																													<a href="/full-episodes/season-1?sort=!airdate" class=" season-filter" data-value="season-1" data-title="Season 1">1</a>
+																													<a href="/full-episodes/season-2?sort=!airdate" class=" season-filter" data-value="season-2" data-title="Season 2">2</a>
+																													<a href="/full-episodes/season-3?sort=!airdate" class=" season-filter" data-value="season-3" data-title="Season 3">3</a>
+																													<a href="/full-episodes/season-4?sort=!airdate" class=" season-filter" data-value="season-4" data-title="Season 4">4</a>
+																													<a href="/full-episodes/season-5?sort=!airdate" class=" season-filter" data-value="season-5" data-title="Season 5">5</a>
+																													<a href="/full-episodes/season-6?sort=!airdate" class=" season-filter" data-value="season-6" data-title="Season 6">6</a>
+																													<a href="/full-episodes/season-7?sort=!airdate" class=" season-filter" data-value="season-7" data-title="Season 7">7</a>
+																													<a href="/full-episodes/season-8?sort=!airdate" class=" season-filter" data-value="season-8" data-title="Season 8">8</a>
+																													<a href="/full-episodes/season-9?sort=!airdate" class="active season-filter" data-value="season-9" data-title="Season 9">9</a>
+																													<a href="/full-episodes/season-10?sort=!airdate" class=" season-filter" data-value="season-10" data-title="Season 10">10</a>
+																													<a href="/full-episodes/season-11?sort=!airdate" class=" season-filter" data-value="season-11" data-title="Season 11">11</a>
+																													<a href="/full-episodes/season-12?sort=!airdate" class=" season-filter" data-value="season-12" data-title="Season 12">12</a>
+																													<a href="/full-episodes/season-13?sort=!airdate" class=" season-filter" data-value="season-13" data-title="Season 13">13</a>
+																													<a href="/full-episodes/season-14?sort=!airdate" class=" season-filter" data-value="season-14" data-title="Season 14">14</a>
+																													<a href="/full-episodes/season-15?sort=!airdate" class=" season-filter" data-value="season-15" data-title="Season 15">15</a>
+																													<a href="/full-episodes/season-16?sort=!airdate" class=" season-filter" data-value="season-16" data-title="Season 16">16</a>
+																													<a href="/full-episodes/season-17?sort=!airdate" class=" season-filter" data-value="season-17" data-title="Season 17">17</a>
+																													<a href="/full-episodes/season-18?sort=!airdate" class=" season-filter" data-value="season-18" data-title="Season 18">18</a>
+																													<a href="/full-episodes/season-19?sort=!airdate" class=" season-filter" data-value="season-19" data-title="Season 19">19</a>
+																													<a href="/full-episodes/season-20?sort=!airdate" class=" season-filter" data-value="season-20" data-title="Season 20">20</a>
+																													<a href="/full-episodes/season-21?sort=!airdate" class=" season-filter" data-value="season-21" data-title="Season 21">21</a>
+							</nav>
+	</section>
+
+								<header>
+	<h2 class="">
+											<b>Season 9</b>
+						<b>Episodes</b>
+						<span class="hidden">
+				(<span id="number-of"></span> Episodes)
+			</span>
+			</h2>
+		<div class="dropdowns enabled">
+			<aside>
+				
+
+							</aside>
+		</div>
+</header>
+
+	<ul id="carouselMain">
+								<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s01e01-cartman-gets-an-anal-probe">Cartman Gets an Anal Probe</a>
+
+		
+								<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s01e03-volcano">Volcano</a>
+
+		
+								<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s01e02-weight-gain-4000">Weight Gain 4000</a>
+
+		
+								<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s01e04-big-gay-als-big-gay-boat-ride">Big Gay Al's Big Gay Boat Ride</a>
+
+		
+								<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s01e05-an-elephant-makes-love-to-a-pig">An Elephant Makes Love to a Pig</a>
+
+		
+								<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s01e06-death">Death</a>
+
+		
+								<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s01e07-pinkeye">Pinkeye</a>
+
+		
+								<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+								<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+								<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+			</ul>
+	<div class="paginator buttons clearfix">
+		<button class="load-more more center hidden">VIEW MORE</button>
+	</div>
+
+
+			</section>
+		</section>	
+	
+
+<div id="seasonData"></div>
+	
+
+
+	
+
+					<section class="carousel  videos thumbnails module clearfix  "
+						data-url="/feeds/carousel/video/473fef35-48a7-434c-afc6-207874c7f1a3/{resultsPerPage}/{currentPage}/json/playlist/a7745e56-ed00-11e0-aca6-0026b9414f30/{relatedItemId}"
+					     data-results-per-page="30"
+					     data-current-page="1"
+					     data-sort="playlist"
+					     data-filter="a7745e56-ed00-11e0-aca6-0026b9414f30"
+					     	     			     						>
+									<header>
+	<h2 class="with-item-title">
+					Related Clips 
+from <b>Trapped in the Closet</b>
+
+			</h2>
+		<div class="dropdowns enabled">
+			<aside>
+				
+
+							</aside>
+		</div>
+</header>
+
+	<div class="carousel-wrapper">
+		<ul id="carouselMain" class="carouselGroup">
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/clips/104271/free-personality-test">Free Personality Test</a>
+
+		
+								
+					<a class="carouselseo" href="http://southpark.cc.com/clips/104273/fax-these-results-to-los-angeles">Fax These Results to Los Angeles</a>
+
+		
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/clips/104274/what-scientologist-actually-believe">What Scientologist Actually Believe</a>
+
+		
+								
+					<a class="carouselseo" href="http://southpark.cc.com/clips/155080/a-bike-or-not-being-depressed">A Bike or Not Being Depressed</a>
+
+		
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/clips/155086/ot-9">OT 9</a>
+
+		
+								
+					<a class="carouselseo" href="http://southpark.cc.com/clips/155088/thank-you-for-returning">Thank You For Returning</a>
+
+		
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/clips/155090/tom-cruise-wont-come-out-of-the-closet">Tom Cruise Won't Come Out of The Closet</a>
+
+		
+								
+					<a href="">
+				
+			</a>
+		
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+								
+					<a href="">
+				
+			</a>
+		
+					</ul>
+	</div>
+
+			</section>
+			<div id="seasonData"></div>
+	
+
+
+	
+
+					<section class="carousel  videos related-media module clearfix  "
+						data-url="/feeds/carousel/video/f4333751-0169-48e5-add8-e2f37131886a/{resultsPerPage}/{currentPage}/json/monthly/{relatedItemId}"
+					     data-results-per-page="30"
+					     data-current-page="1"
+					     data-sort="monthly"
+					     data-filter="5ff7dccc-ecfd-11e0-aca6-0026b9414f30"
+					     	     			     						>
+								<header>
+	<h2 class="">
+					Related Media
+			</h2>
+		<div class="dropdowns enabled">
+			<aside>
+				
+
+							</aside>
+		</div>
+</header>
+
+	<div class="carousel-wrapper">
+		<ul id="carouselMain" class="carouselGroup">
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/wiki/Fat_Camp">Fat Camp</a>
+
+		
+								
+					<a class="carouselseo" href="http://southpark.cc.com/wiki/Marvin_Marsh">Marvin Marsh</a>
+
+		
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/wiki/Leonardo_DiCaprio">Leonardo DiCaprio</a>
+
+		
+								
+					<a class="carouselseo" href="http://southpark.cc.com/wiki/Nicole_Kidman">Nicole Kidman</a>
+
+		
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/wiki/R_Kelly">R Kelly</a>
+
+		
+								
+					<a class="carouselseo" href="http://southpark.cc.com/wiki/Xenu">Xenu</a>
+
+		
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/wiki/Marklar">Marklar</a>
+
+		
+					</ul>
+	</div>
+
+			</section>
+			<a name="fb-comments" class="anchor"></a>
+<section style="background:#FFF;" class="comments">
+	<header>
+		<h2>Post a Comment<span style="font-size:10pt;font-weight:normal;text-transform:none;">&nbsp;&nbsp;or report a problem with this video <a style="color:#2ac4e0;" href="mailto:info@spdigitalstudios.com">here</a></span></h2>
+		
+		<h4><a href="#">Back to Top</a></h4>
+	</header>
+	<div class="fb-comments" data-href="http://southpark.cc.com/clips/104274/what-scientologist-actually-believe" data-width="100%"></div>
+</section>
+</div>
+
+
+						
+
+
+					</section>
+
+					
+					<footer data-moduletracking="SPS_Footer">
+<section class="footer module links clearfix">
+	<div class="row clearfix clearfix">
+		<div class="column legal">
+			<section>
+				<header>
+					<span class="logo"><img src="/sitewide/img/logo.png"></span>
+				</header>
+
+				<article>
+					<p>&copy;2015 South Park Digital Studios LLC.</p>
+					<p>All Rights Reserved.</p>
+				</article>
+				
+				<article>
+					<p>South Park &copy;2015 Comedy Partners.</p>
+					<p>All Rights Reserved. Comedy Central.</p>
+				</article>
+				
+				<article>
+					<p>South Park and all related titles, logos and characters are trademarks of Comedy Partners.</p>
+				</article>
+			</section>
+			<div class="tos-links low">
+				<nav>
+					<a href="/about/web-credits">Web Credits</a>
+					<a href="/about/legal/privacy-policy">Privacy Policy /<br/>Your Privacy Rights</a>
+					<a href="/about/show-disclaimer">Show Disclaimer</a>
+					<a href="/about/legal/copyright-compliance-policy">Copyright Policy</a>
+					<a href="/about/legal/terms-of-use">Terms of Use</a>
+					<a href="/about/legal/video-privacy-terms">Video Privacy Terms</a>
+					<a href="mailto:info@spdigitalstudios.com">Tech Support</a>
+					<a href="http://media.viacom.com/accessibility/">Closed Captioning</a>
+					<a href="mailto:info@spdigitalstudios.com">Feedback</a>
+					<a href="/about/legal/ad-choices">Ad Choices <img src="/sitewide/img/ad-choices.png" /></a>
+				</nav>
+			</div>
+		</div>
+		<div class="column-wrap">
+		<div class="column video">
+			<nav>
+				<header>
+					<h3>Video</h3>
+				</header>
+				<ul>
+					<li><a href="http://southpark.cc.com/full-episodes/s21e10-splatty-tomato">Splatty Tomato</a></li>
+					<li><a href="http://southpark.cc.com/full-episodes/s21e09-super-hard-pcness">SUPER HARD PCness</a></li>
+					<li><a href="http://southpark.cc.com/full-episodes/s14e14-creme-fraiche">Creme Fraiche</a></li>
+					<li><a href="http://southpark.cc.com/full-episodes/s07e12-all-about-mormons">All About Mormons</a></li>
+					<li><a href="http://southpark.cc.com/full-episodes/s21e06-sons-a-witches">Sons A Witches</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="column blog">
+			<nav>
+				<header>
+					<h3>Blog</h3>
+				</header>
+				<ul>
+					<li><a href="http://southpark.cc.com/blog/2018/01/25/last-chance-to-get-stick-of-truth-free">Last Chance To Get Stick Of Truth FREE!</a></li>
+					<li><a href="http://southpark.cc.com/blog/2017/12/08/see-splatty-tomato-uncensored">See “Splatty Tomato” Uncensored</a></li>
+					<li><a href="http://southpark.cc.com/blog/2017/12/07/watch-season-21s-finale-splatty-tomato-now">Watch Season 21’s Finale “Splatty Tomato” Now!</a></li>
+					<li><a href="http://southpark.cc.com/blog/2017/12/06/super-hard-pcness-live-tweet-wednesday-126">“SUPER HARD PCness” Live Tweet Wednesday 12/6!!</a></li>
+					<li><a href="http://southpark.cc.com/blog/2017/12/04/episode-2110-splatty-tomato-press-release">Episode 2110 “Splatty Tomato” Press Release</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="column wiki">
+			<nav>
+				<header>
+					<h3>Wiki</h3>
+				</header>
+				<ul>
+					<li><a href="http://southpark.cc.com/wiki/List_of_Characters">List of Characters</a></li>
+					<li><a href="http://southpark.cc.com/wiki/Kevin_Stoley">Kevin Stoley</a></li>
+					<li><a href="http://southpark.cc.com/wiki/Dog_Poo_Petuski">Dog Poo Petuski</a></li>
+					<li><a href="http://southpark.cc.com/wiki/Tweek">Tweek</a></li>
+					<li><a href="http://southpark.cc.com/wiki/Ike_Broflovski">Ike Broflovski</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="column general">
+			<nav>
+				<header>
+					<h3>General</h3>
+				</header>
+				<ul>
+					<li><a href="/about/creator-bios">Creator Bios</a></li>
+					<li><a href="/about/cast-and-crew">Cast & Crew Credits</a></li>
+				</ul>
+			</nav>
+		</div>
+			<div class="column viacom low">
+				
+				<article>&nbsp;</article>
+				
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="footer module tos clearfix">
+	<div class="row clearfix">
+		<div class="tos-links high">
+			<nav>
+				<ul>
+
+					<li><a href="/about/web-credits">Web Credits</a></li>
+					<li><a href="/about/legal/privacy-policy">Privacy Policy /<br/>Your Privacy Rights</a></li>
+					<li><a href="/about/show-disclaimer">Show Disclaimer</a></li>
+					<li><a href="/about/legal/copyright-compliance-policy">Copyright Policy</a></li>
+					<li><a href="/about/legal/terms-of-use">Terms of Use</a></li>
+					<li><a href="/about/legal/video-privacy-terms">Video Privacy Terms</a></li>
+					<li><a href="mailto:info@spdigitalstudios.com">Tech Support</a></li>
+					<li><a href="http://media.viacom.com/accessibility/">Closed Captioning</a></li>
+					<li><a href="mailto:info@spdigitalstudios.com">Feedback</a></li>
+					<li><a href="/about/legal/ad-choices">Ad Choices <img src="/sitewide/img/ad-choices.png" /></a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="viacom high">
+		
+			<article>&nbsp;</article>
+		
+		</div>
+	</div>
+</section>
+<section class="footer module social clearfix" data-normal-anchors="true">
+	<hr/>
+	<div class="row clearfix">
+		<div>
+			<nav>
+				<div>
+
+					<a href="http://www.facebook.com/SouthPark"><span class="item facebook"></span></a>
+					<a href="http://www.twitter.com/SouthPark"><span class="item twitter"></span></a>
+					<a href="http://instagram.com/southpark"><span class="item instagram"></span></a>
+					<a href="https://plus.google.com/u/0/b/110774087608778002908/"><span class="item googleplus"></span></a>
+				</div>
+			</nav>
+		</div>
+	</div>
+</section>
+
+					</footer>
+				</section>
+
+				
+
+
+
+				
+
+				
+
+
+                
+        
+				<script type="text/javascript">VideoPlayerType = "Hulu";</script>
+				<style type="text/css">.with-hulu { display: block; } .without-hulu { display: none; }</style>
+
+	
+
+
+		
+	
+
+
+
+
+        	    
+
+			
+				
+			
+		
+				<script type="text/javascript" src="//btg.mtvnservices.com/aria/bentojs.js?site=southpark.cc.com&v=1.11.4"></script>
+			
+		
+
+	<script type="text/javascript" data-main="/sitewide/js/app/main-packaged.js" src="/sitewide/js/require.js"></script>
+			</div><!-- /#main -->
+		</div>
+
+		<!-- iframe site manager -->
+		<div class="creator-overlay" id="skeleton-modal" style="display:none" data-url="/" data-collection-detail-url="/collections/{collectionId}">
+		<div class="modal-container">
+			<div class="modal">
+				<div class="header">
+					<button class="close">
+						<span class="icon-close-circle"></span>
+					</button>
+				</div>
+				<div class="content"></div>
+			</div>
+		</div>
+		</div>
+
+<!-- fullscreen iframe  -->
+<div class="creator-overlay-fullscreen" id="skeleton-modal-fullscreen" style="display:none" data-url="/" data-collection-detail-url="/collections/{collectionId}">
+		<div class="modal-container-fullscreen">
+			<div class="modal-fullscreen">
+				<div class="header-fullscreen">
+					<button class="close">
+						<span class="icon-close-circle"></span>
+					</button>
+				</div>
+				<div class="content-fullscreen"></div>
+			</div>
+		</div>
+		</div>
+
+
+		<!-- reporting -->
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+		<script type="text/javascript">
+
+var codaCallUrl = "//btg.mtvnservices.com/aria/coda.html?site=southpark.cc.com"; 
+var repoCallUrl = "//repo.cc.com/feeds/websites/southpark.cc.com/pages?url=%2Fclips%2F104274%2Fwhat-scientologist-actually-believe&lang=eng&pageType=video_clip_player&cmsPageId=758cdbf9-d143-463e-8070-ccac55cae429&itemId=a7745e56-ed00-11e0-aca6-0026b9414f30&uuid=a7745e56-ed00-11e0-aca6-0026b9414f30";
+		</script>
+		<script src="/sitewide/js/vendor-marklar_a-v2.js"></script>
+		<script type="text/javascript">	
+			//dfpp ads support
+			$Crabapple.repo.init(codaCallUrl, repoCallUrl, false);
+			//fire off the on coda loaded event to auto load the ads and send out the page tracking
+			$Crabapple.repo.doFullPageLoadWithCustomAdFunc(function(){
+				// New code
+				var post_process = null;
+				btg.Events.GPT_SLOT_RENDER_ENDED.subscribe( function( id, isEmpty, event ) {
+					console.log( "GPT_SLOT_RENDER_ENDED was fired. id: " + id + ", isEmpty: " + isEmpty + ", size: " + event.size );
+
+
+                    // #NKF-445
+                    // Get the ad slot element from the event object.
+                    var contentEl = $("#" + (event.slot.getSlotElementId()));
+                    // The event indicates whether a slot is empty.
+                      if (!event.isEmpty) {
+                        try {
+                            console.log("NKF");
+                          // When the slot is not empty, check if the content is a blocker ad.
+                          // For this, we first enter the iframe that contains the ad content.
+                          // Inside the iframe, check if there is an element with the blocker ad class `gpt_collapse`.
+                          var isBlockerAd = contentEl.find('iframe').contents().find('.gpt_collapse').length > 0;
+
+                          if (isBlockerAd) {
+                            // Blocker ad detected, treat the ad slot as if it was empty.
+                            event.isEmpty = true;
+                            isEmpty = true;
+							  contentEl.parent().before().before().hide();
+                          }
+                        } catch (e) { }
+                      }
+                    // end of NKF-445
+
+
+					if (!isEmpty) {
+				    	console.log('isEmpty');
+				    	$('#'+id).parent().parent().addClass('active');
+					}
+
+					// race condition issue for ads issue #SPSMIG-2227
+					$(window).trigger('resize');
+
+					//if (event.size == "970,250" && isEmpty == true) {
+					//	$Crabapple.repo.loadSingleAd(post_process);
+					//}
+				});
+			
+				/* self.placeAds(); */
+				console.log("DEBUG: place ads");
+				$('[data-adsize]').each(function() {
+					console.log("DEBUG: place ad");
+					/* self.placeAd($(this)); */
+					var elm = $(this);
+
+					elm.empty();
+					if (elm.css('display') == 'none') return;
+					
+					//set the ad size
+					if(elm.attr('data-adsize') == 0){
+						//ignore bad ads
+						return;
+					}
+					var ad_size = elm.attr('data-adsize');
+					elm.attr('data-ad-sizes',elm.attr('data-adsize'));
+			
+					//setup the keyvalues
+					var keyValues = elm.attr('data-keys');
+					var campaignValue = elm.attr('data-campaign');
+					if(campaignValue){
+	    				//sponsor=
+						if(keyValues){
+	    					keyValues += ",sponsor="+campaignValue;
+						} else {
+	    					keyValues = "sponsor="+campaignValue
+						}
+					}
+				
+					if(keyValues) {
+	    				elm.attr('data-ad-keyvalues', keyValues);
+					}
+	    	
+					//place ad (convert back to domElement)
+					console.log("DEBUG: Loading ad...");
+					// going to load 970x90 only after 970x250 is determined to be empty
+					//if (ad_size != "970x90") {
+						$Crabapple.repo.loadSingleAd(elm[0]);
+					//} else {
+					//	post_process = elm[0];
+					//}
+
+				});
+			});
+		</script>
+		<style type="text/css">#balaMainContainer { display: none; }</style>
+
+
+		<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-22979310-3', 'auto');
+  ga('send', 'pageview');
+		</script>
+
+
+
+		<div class="ad pointofentryad" data-adsize="6x6"></div>
+
+
+<!--BEGIN QUALTRICS SITE INTERCEPT-->
+<script type='text/javascript'>
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+try{(new g(100,"r","QSI_S_ZN_6DnRwlbWIJljmAJ","//zn6dnrwlbwijljmaj-viacom.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_6DnRwlbWIJljmAJ&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();
+</script><div id='ZN_6DnRwlbWIJljmAJ'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END SITE INTERCEPT—>
+
+	
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '331289063738687');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=331289063738687&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script language='JavaScript1.1' src='//pixel.mathtag.com/event/js?mt_id=1064540&mt_adid=138838&v1=&v2=&v3=&s1=&s2=&s3='></script>
+
+<img width="1" height="1" src="https://pixel.tapad.com/tap/pxl.png?ta_property_id=2954&ta_action_id=South_Park_S20_Conversion" />
+
+<!-- Google Code for South Park S20 Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 950987251;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "FShUCOLpiGoQ89O7xQM";
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/950987251/?label=FShUCOLpiGoQ89O7xQM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: CC_South_Park_S20
+URL of the webpage where the tag is expected to be placed: http://www.ct.com
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 09/07/2016
+-->
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="https://5327830.fls.doubleclick.net/activityi;src=5327830;type=invmedia;cat=8xad6hd3;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+<noscript>
+<iframe src="https://5327830.fls.doubleclick.net/activityi;src=5327830;type=invmedia;cat=8xad6hd3;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+
+
+
+
+		<script src="http://activities.niagara.comedycentral.com/register/southpark/clips/a7745e56-ed00-11e0-aca6-0026b9414f30" type="text/javascript"></script>
+
+
+		<!-- geoblock -->
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	
+	
+	<div id="geoblockmsg" onclick="closePopupMessage()">
+		<div data-moduletracking="SPS_Terms">
+			<h1>Welcome to the all new southpark.cc.com!</h1>
+			<h2>We've Updated Our Terms</h2>
+
+	<p>By clicking outside of this box or X, you agree to the Site's updated <a target="_new" href="/about/legal/terms-of-use">Terms of Use</a> and consent to the collection, use, disclosure and transfer of information as described in this Site's updated <a target="_new" href="/about/legal/privacy-policy">Privacy Policy</a> and to third parties receiving information about the videos you watch as described in this Site’s <a target="_new" href="/about/legal/video-privacy-terms">Video Privacy Terms</a>. Before you do, please read them and check out some of these changes (such as arbitration for disputes - <a target="_new" href="http://btg.mtvnservices.com/legal/FAQs/">see our FAQs</a>). Please also note that you are accessing a site which is designed for and targeted to U.S. audiences and is governed by and operated in accordance with U.S. laws.</p>
+
+			<a class="xbtn" onclick="closePopupMessage()"></a>
+		</div>
+
+		<style type="text/css">
+#geoblockmsg {
+	background: url('/sitewide/img/messages/cookies/background-intl.png') 0 0 repeat;
+	position: fixed;
+	top: 0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	z-index:10010;
+}
+
+#geoblockmsg > div {
+	position: relative;
+	background: url('/sitewide/img/messages/cookies/background.png') 0 0 no-repeat;
+	padding: 10px;
+	width: 464px;
+	height: 272px;
+	margin: 100px auto 0 auto;
+}
+
+#geoblockmsg > div.double {
+	background: url('/sitewide/img/messages/cookies/background2.png') 0 0 no-repeat;
+	height: 492px;
+}
+
+#geoblockmsg > div h1 {
+	font-family: 'Arial Black';
+	font-size: 36px;
+	line-height: 36px;
+	letter-spacing: -2px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+#geoblockmsg > div h2 {
+	font-family: 'Arial Black';
+	font-size: 20px;
+	margin: 5px 0;
+	letter-spacing: -1px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+#geoblockmsg > div p {
+	font-size: 12px;
+	text-align: center;
+	color: #ccc;
+}
+
+#geoblockmsg > div p a {
+	font-weight: bold;
+	text-decoration: underline;
+	color: #fc0;
+}
+
+#geoblockmsg > div > a {
+	background: url('/sitewide/img/messages/cookies/button2.png');
+	display: block;
+	margin: 0 auto;
+	width: 369px;
+	height: 42px;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+	line-height: 42px;
+	text-align: center;
+	color: #ffcc00;
+}
+
+#geoblockmsg > div > a.xbtn {
+	background: url('/sitewide/img/messages/cookies/buttonX.png');
+	position: absolute;
+	top: -20px;
+	right: -20px;
+	width: 40px;
+	height: 40px;
+	color: white;
+	font-size: 1px;
+}
+		</style>
+		
+		<script type="text/javascript">
+function closePopupMessage()
+{
+	// Set cookie
+	var CookieDate = new Date;
+	CookieDate.setFullYear(CookieDate.getFullYear()+2);
+	document.cookie = 'SPS_legal_acknowledged=true; expires=' + CookieDate.toGMTString( ) + '; path=/; domain=southpark.cc.com';
+
+	// Hide popup
+	var elem = document.getElementById("geoblockmsg");
+	elem.parentNode.removeChild(elem);
+}
+		</script>
+	</div>
+
+	
+
+
+
+		<!-- experimental -->
+
+
+
+
+
+
+
+		<!-- PAGEOK -->
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1ac7d5dd09","applicationID":"62953067","transactionName":"YwcHNxdSDxdVAEBQXlpNMBEMHAgKUAZMF0FcEg==","queueTime":0,"applicationTime":278,"atts":"T0AQQV9IHEgWAhYDSkkf","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

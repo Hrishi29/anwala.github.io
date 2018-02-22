@@ -1,0 +1,15 @@
+googletag.slots["infinite_scroll_separator"] = googletag.defineSlot("1107919/infiniteScroll_separator", [[970, 250], [300, 250], [728, 90], [1006, 500], [970, 90], [1340, 500], [1237, 500]], "dfp-ad-infinite_scroll_separator")
+Donald John Trump Tillerson: Russia already looking to interfere in 2018 midterms Dems pick up deep-red legislative seat in Missouri Speier on Trump's desire for military parade: 'We have a Napoleon in the making' MORE ’s decision on Friday not to declassify the Democratic response to the GOP surveillance memo.
+Trump said he would not declassify the memo, blocking it from publication after the House Intelligence Committee voted earlier this week to make the document public.
+“Both the Republican and Democratic [Foreign Intelligence Surveillance Act] memos should be released,” tweeted Amash, a libertarian-leaning lawmaker who has been critical of Trump.
+“I’ve read both memos. Neither one endangers national security. The American people deserve the opportunity to read both memos," he added.
+Both the Republican and Democratic #FISA memos should be released. I’ve read both memos. Neither one endangers national security. The American people deserve the opportunity to read both memos.
+— Justin Amash (@justinamash) February 9, 2018
+The GOP memo, which accuses FBI and Justice Department officials of surveillance abuse targeting the Trump campaign, was made public last week after Trump decided to declassify it, ignoring a strong FBI recommendation not to publish it.
+ADVERTISEMENT
+The House Intelligence Committee voted unanimously on Monday to make the Democrats’ response to the memo public, a move supported by numerous lawmakers.
+White House counsel Don McGahn announced Friday that Trump would not approve the release of the memo at this time because it “contains numerous properly classified and especially sensitive passages.”
+Trump has already prompted major backlash from Democrats, who are accusing him of having a “double standard” in regards to transparency since he supported the release of the GOP memo.
+Trump claimed that the GOP memo released last week “totally vindicates” him in the investigations into whether his campaign colluded with Russia to win the election.
+The Hill 1625 K Street, NW Suite 900 Washington DC 20006 | 202-628-8500 tel | 202-628-8503 fax
+The contents of this site are ©2018 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc.

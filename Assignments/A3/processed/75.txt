@@ -1,0 +1,21 @@
+!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t
+"description": "A Russian who offered stolen National Security Agency cyberweapons and compromising information on President Donald Trump bilked U.S. spies out of $100,000 last year, the New York Times reported on Friday, citing U.S. and European security officials.",
+"keywords": ["US","USA","TRUMP","RUSSIA","SPIES","Crime / Law / Justice","Computer Crime / Hacking / Cybercrime","Germany","Russia","Picture available","Diplomacy / Foreign Policy","Crime","Government / Politics","Central / Eastern Europe","Major News","Europe","US Government News","Science","International / National Security","Conflicts / War / Peace","United States", "Article", "Politics","Election 2016","U.S.","Russia"],
+.intro-deloitte{  margin-top: -250px;color: #0c8e98;font-family: knowledge-light, helvetica, arial, sans-serif;font-size: 26px;line-height: 36px;padding-bottom: 50px;margin-bottom:30px; padding-left: 0px;padding-top: 0px;border-bottom: 1px solid #0c8e98;}
+February 10, 2018 /  2:29 AM / in 7 days
+Russian offering info on Trump bilked U.S. spies out of money: NY Times
+Reuters Staff
+3 Min Read
+WASHINGTON (Reuters) - A Russian who offered stolen National Security Agency cyberweapons and compromising information on President Donald Trump bilked U.S. spies out of $100,000 last year, the New York Times reported on Friday, citing U.S. and European security officials.
+The money was delivered to a Berlin hotel room in September and was intended as the first installment of a $1 million reward, according to U.S. officials, the Russian and communications reviewed by the Times, the newspaper reported.
+CIA spokesman Dean Boyd denied the story on Saturday, saying,” “The fictional story that CIA was bilked out of $100,000 is patently false.”
+The theft of the secret hacking tools was very damaging to the NSA, which was trying to determine exactly what was missing, the Times said.
+Several U.S. intelligence officials told the newspaper they said they did not want the Trump information from the Russian, who was suspected of having ties to Russian intelligence and Eastern European cybercriminals.
+He claimed it would link the president and his associates to Russia, the Times said, citing the officials. But instead of providing the hacking tools, the Russian produced unverified and possibly fabricated material involving Trump and others, including bank records, emails and purported Russian intelligence data, the paper cited the officials as saying.
+The U.S. intelligence officials halted the deal out of concern it could entangle them in a Russian operation to create discord inside the U.S. government and potential fallout in Washington from the perception that they were trying to buy compromising material on Trump, the Times reported.
+The Central Intelligence Agency declined to comment on the negotiations with the Russian seller, the Times said.
+The NSA, which produced the bulk of the hacking tools that the Americans sought to recover, said only that “all N.S.A. employees have a lifetime obligation to protect classified information,” the Times reported.
+NSA officials were not available out of regular business hours for comment.
+Additional reporting by Jonathan Landay; Reporting by Eric Walsh; Editing by Leslie Adler and Bill Trott
+C480.111,136.775,497.92,118.275,512.002,97.211z">
+All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.

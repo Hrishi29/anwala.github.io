@@ -1,0 +1,15 @@
+googletag.slots["infinite_scroll_separator"] = googletag.defineSlot("1107919/infiniteScroll_separator", [[970, 250], [300, 250], [728, 90], [1006, 500], [970, 90], [1340, 500], [1237, 500]], "dfp-ad-infinite_scroll_separator")
+CNN host Don Lemon broke into a fit of laughter on Thursday over former White House aide Omarosa Manigault-Newman's recent comments on "Celebrity Big Brother," in which she slammed the Trump administration.
+"Don, it’s Black History Month. We gotta talk about Omarosa?” CNN political commentator Symone Sanders said  on "CNN Tonight," as Lemon began to laugh. 
+ADVERTISEMENT
+"Carter G. Woodson did not go to the mat to get Negro History Week that eventually turned into Black History Month for us to talk about Omarosa on her apology tour and her attempt to salvage her reputation on a reality television show. Not during Black History Month, Don," she continued while smiling, as Lemon laughed.
+"All right, sorry the guys in the studio are going to kill me," Lemon said, composing himself.
+Manigault-Newman, who resigned from her White House post in December, told her roommate on the reality television show, Ross Matthews, that she was "haunted" by President Trump
+Donald John Trump Tillerson: Russia already looking to interfere in 2018 midterms Dems pick up deep-red legislative seat in Missouri Speier on Trump's desire for military parade: 'We have a Napoleon in the making' MORE 's tweets and that the U.S. would not be OK under Trump's leadership.
+"I was haunted by tweets every day,” she said. “Like, what is he going to tweet next?”
+“It’s going to not be OK, it’s not,” she said when asked if Americans should be worried about Trump. “It’s so bad.”
+The White House fired back at her comments on Thursday in a press briefing, saying she no longer has contact with Trump.
+“Omarosa was fired three times on ‘The Apprentice,’ and this was the fourth time we let her go,” deputy press secretary Raj Shah said.
+“She had limited contact with the president while here. She has no contact now.” 
+The Hill 1625 K Street, NW Suite 900 Washington DC 20006 | 202-628-8500 tel | 202-628-8503 fax
+The contents of this site are ©2018 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc.

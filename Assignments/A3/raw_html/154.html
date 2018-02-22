@@ -1,0 +1,951 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<!--<![endif]-->
+<head><meta charset="UTF-8" />
+<script data-cfasync='false' data-pagespeed-no-defer>var __ez=__ez||{};__ez.evt={};__ez.ck={};__ez.dot={};__ez.template={};__ez.template.isOrig=true;__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.ck.get=function(n,e){null!==e&&(n=n+"_"+e);for(var t=n+"=",r=decodeURIComponent(document.cookie),o=r.split(";"),i=0;i<o.length;i++){for(var u=o[i];" "===u.charAt(0);)u=u.substring(1);if(0===u.indexOf(t))return u.substring(t.length,u.length)}return""};__ez.queue=function(){function g(a,b,g,h,j,k,l,m){var n=new f.file(a,b,g,h,j,k,l);!0===m?d[a]=n:e[a]=n,c[a]=n,i(n)}function h(a,g,h,j,k,l,m,n,o){!0===l&&(a=a+"_"+b++);var p=new f.func(a,g,h,j,k,m,n);!0===o?d[a]=p:e[a]=p,c[a]=p,i(p)}function i(a){!0!==j(a)&&a.process()}function j(a){if(a.blockedBy instanceof Array)for(var b=0;b<a.blockedBy.length;b++){var d=a.blockedBy[b];if(!1===c.hasOwnProperty(d))return k(a.name+" blocked = "+d),!0;if(!0===a.proceedIfError&&!0===c[d].isError)return!1;if(!1===c[d].isComplete)return k(a.name+" blocked = "+d),!0}return!1}function k(a){var b=window.location.href,c=new RegExp("[?&]ezq=([^&#]*)","i"),d=c.exec(b);"1"===(d?d[1]:null)&&console.debug(a)}function l(){++a>20||(k("let's go"),m(d),m(e))}function m(a){for(var b in a)if(!1!==a.hasOwnProperty(b)){var c=a[b];!0===c.isComplete||j(c)||!0===c.isInitialized||!0===c.isError?!0===c.isError?k(c.name+": error"):!0===c.isComplete?k(c.name+": complete already"):!0===c.isInitialized&&k(c.name+": initialized already"):c.process()}}var a=0,b=0,c=[],d=[],e=[],f={func:function(a,b,d,e,f,g,h){var i=this;this.name=a,this.funcName=b,this.parameters=null===d?null:d instanceof Array?d:[d],this.isBlock=e,this.blockedBy=f,this.deleteWhenComplete=g,this.isError=!1,this.isComplete=!1,this.isInitialized=!1,this.proceedIfError=h,this.process=function(){k("... func = "+a),i.isInitialized=!0,i.isComplete=!0;var b=i.funcName.split(".");b.length>3||(3===b.length?window[b[0]][b[1]][b[2]].apply(null,this.parameters):2===b.length?window[b[0]][b[1]].apply(null,this.parameters):window[i.funcName].apply(null,this.parameters)),!0===i.deleteWhenComplete&&delete c[a],!0===i.isBlock&&(k("----- F'D: "+i.name),l())}},file:function(a,b,c,d,e,f,g){var h=this;this.name=a,this.path=b,this.async=e,this.defer=f,this.isBlock=c,this.blockedBy=d,this.isInitialized=!1,this.isError=!1,this.isComplete=!1,this.proceedIfError=g,this.process=function(){h.isInitialized=!0,k("... file = "+a);var c=document.createElement("script");c.src=b,!0===e?c.async=!0:!0===f&&(c.defer=!0),c.onerror=function(){k("----- ERR'D: "+h.name),h.isError=!0,!0===h.isBlock&&l()},c.onreadystatechange=c.onload=function(){var a=c.readyState;k("----- F'D: "+h.name),a&&!/loaded|complete/.test(a)||(h.isComplete=!0,!0===h.isBlock&&l())},document.getElementsByTagName("head")[0].appendChild(c)}}};return{addFile:g,addFunc:h,items:c}}();var __ezDotData=function(a,b){this.name=a,this.val=b};__ez.dot.b64={_keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",encode:function(a){var c,d,e,f,g,h,i,b="",j=0;for(a=Base64._utf8_encode(a);j<a.length;)c=a.charCodeAt(j++),d=a.charCodeAt(j++),e=a.charCodeAt(j++),f=c>>2,g=(3&c)<<4|d>>4,h=(15&d)<<2|e>>6,i=63&e,isNaN(d)?h=i=64:isNaN(e)&&(i=64),b=b+this._keyStr.charAt(f)+this._keyStr.charAt(g)+this._keyStr.charAt(h)+this._keyStr.charAt(i);return b},decode:function(a){var c,d,e,f,g,h,i,b="",j=0;for(a=a.replace(/[^A-Za-z0-9+\/=]/g,"");j<a.length;)f=this._keyStr.indexOf(a.charAt(j++)),g=this._keyStr.indexOf(a.charAt(j++)),h=this._keyStr.indexOf(a.charAt(j++)),i=this._keyStr.indexOf(a.charAt(j++)),c=f<<2|g>>4,d=(15&g)<<4|h>>2,e=(3&h)<<6|i,b+=String.fromCharCode(c),64!=h&&(b+=String.fromCharCode(d)),64!=i&&(b+=String.fromCharCode(e));return b=Base64._utf8_decode(b)},_utf8_encode:function(a){a=a.replace(/rn/g,"n");for(var b="",c=0;c<a.length;c++){var d=a.charCodeAt(c);d<128?b+=String.fromCharCode(d):d>127&&d<2048?(b+=String.fromCharCode(d>>6|192),b+=String.fromCharCode(63&d|128)):(b+=String.fromCharCode(d>>12|224),b+=String.fromCharCode(d>>6&63|128),b+=String.fromCharCode(63&d|128))}return b},_utf8_decode:function(a){for(var b="",c=0,d=c1=c2=0;c<a.length;)d=a.charCodeAt(c),d<128?(b+=String.fromCharCode(d),c++):d>191&&d<224?(c2=a.charCodeAt(c+1),b+=String.fromCharCode((31&d)<<6|63&c2),c+=2):(c2=a.charCodeAt(c+1),c3=a.charCodeAt(c+2),b+=String.fromCharCode((15&d)<<12|(63&c2)<<6|63&c3),c+=3);return b}},__ez.dot.dataToStr=function(a){if(void 0===a)return[];try{for(var b in a)a[b].val=a[b].val+""}catch(a){}return a},__ez.dot.getCC=function(){var a="XX";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(a=_ezaq.country),a},__ez.dot.getDID=function(){var a="0";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(a=_ezaq.domain_id.toString()),a},__ez.dot.getEpoch=function(a){return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(a=_ezaq.t_epoch),a},__ez.dot.getURL=function(a){return("undefined"!=typeof ezJsu&&1==ezJsu||"undefined"!=typeof _ez_sa&&1==_ez_sa||"undefined"!=typeof isAmp&&!0===isAmp)&&(a="//g.ezoic.net"+a),a},__ez.dot.isValid=function(a){for(var b=0;b<a.length;b++)if(a[b]instanceof __ezDotData==!1)return console.error("Invalid data. ",a[b]),!1;return!0},__ez.dot.isDefined=function(){for(var a=0;a<arguments.length;a++)if(void 0===arguments[a]||null===arguments[a])return console.error("Argument not defined. ",arguments),!1;return!0};__ez.bit=function(){function c(a,b){d(a,b),e()}function d(b,c){__ez.dot.isDefined(b)&&__ez.dot.isValid(c)&&a.push({type:"pageview",pageview_id:b,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(c)})}function e(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(a)&&a.length>0&&((new Image).src=__ez.dot.getURL(b)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&ds="+btoa(JSON.stringify(a))),a=[])}var a=[],b="/detroitchicago/greenoaks.gif";return{Add:d,AddAndFire:c,Fire:e}}();</script><script data-cfasync='false' data-pagespeed-no-defer>__ez.pel=function(){function c(a,b){d(a,b,0,0,0,0,0),f()}function d(b,c,d,e,f,h,i){if(__ez.dot.isDefined(b,b.getSlotElementId)){var j=parseInt(b.getTargeting("ap")[0]),k=b.getSizes()[0],l=k.l.toString()+"x"+k.j.toString(),m=g(b),n=b.getSlotElementId();__ez.dot.isDefined(m,n)&&__ez.dot.isValid(c)&&a.push({type:"impression",impression_id:m,domain_id:__ez.dot.getDID(),unit:n,t_epoch:__ez.dot.getEpoch(0),revenue:d,est_revenue:e,ad_position:j,ad_size:l,bid_floor_filled:f,bid_floor_prev:h,stat_source_id:i,country_code:__ez.dot.getCC(),data:__ez.dot.dataToStr(c)})}}function e(b,c){var d=b.split("/");if(__ez.dot.isDefined(b)&&3===d.length&&__ez.dot.isValid(c)){var e=d[0],f=d[2];a.push({type:"impression",impression_id:f,domain_id:__ez.dot.getDID(),unit:e,t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(c)})}}function f(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(a)&&a.length>0&&((new Image).src=__ez.dot.getURL(b)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&sts="+btoa(JSON.stringify(a))),a=[])}function g(a){var b=0;try{var c=a.getTargetingMap();if(-1===a.getSlotElementId().indexOf("div-gpt-ad"))return b;if(void 0!==c)for(var e in c)if(-1!==e.indexOf("iid")&&void 0!==c[e][0]){b=c[e][0];break}}catch(a){}return b}var a=[],b="/porpoiseant/army.gif";return{Add:d,AddAndFire:c,AddById:e,Fire:f}}();var EzoicPixel=function(){this.pixels=[],this.pixelUrl="/ezoic/e.gif",("undefined"!=typeof ezJsu&&ezJsu===!0||"undefined"!=typeof _ez_sa&&_ez_sa===!0||"undefined"!=typeof window.isAmp&&isAmp===!0)&&(this.pixelUrl="//g.ezoic.net"+this.pixelUrl),this.tEpoch=0,"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(this.tEpoch=_ezaq.t_epoch)},EzoicPixelData=function(a,b){this.name=a,this.val=b};EzoicPixel.prototype={constructor:EzoicPixel,AddAndFireImpPixel:function(a,b){this.AddImpPixel(a,b,0,0,0,0,0),this.FirePixels()},AddAndFirePVPixel:function(a,b){this.AddPVPixel(a,b),this.FirePixels()},AddImpPixel:function(a,b,c,d,e,f,g){if(this.isDefined(a,a.getSlotElementId)){var h=parseInt(a.getTargeting("ap")[0]),i=a.getSizes()[0],j=i.l.toString()+"x"+i.j.toString(),k="0",l="XX";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(k=_ezaq.domain_id.toString()),"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(l=_ezaq.country);var m=this.getSlotIID(a),n=a.getSlotElementId();this.isDefined(m,n)&&this.validateData(b)&&(b=this.convertDataToStr(b),this.pixels.push({type:"impression",impression_id:m,domain_id:k,unit:n,t_epoch:this.tEpoch,revenue:c,est_revenue:d,ad_position:h,ad_size:j,bid_floor_filled:e,bid_floor_prev:f,stat_source_id:g,country_code:l,data:b}))}},AddImpPixelById:function(a,b){var c="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(c=_ezaq.domain_id.toString());var d=a.split("/");if(this.isDefined(a)&&3===d.length&&this.validateData(b)){var e=d[0],f=d[2];b=this.convertDataToStr(b),this.pixels.push({type:"impression",impression_id:f,domain_id:c,unit:e,t_epoch:this.tEpoch,data:b})}},AddPVPixel:function(a,b){var c="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(c=_ezaq.domain_id.toString()),this.isDefined(a)&&this.validateData(b)&&(b=this.convertDataToStr(b),this.pixels.push({type:"pageview",pageview_id:a,domain_id:c,t_epoch:this.tEpoch,data:b}))},FirePixels:function(){"undefined"!=typeof document.visibilityState&&"prerender"===document.visibilityState||(this.isDefined(this.pixels)&&this.pixels.length>0&&((new Image).src=this.pixelUrl+"?orig="+(__ez.template.isOrig===!0?1:0)+"&pixels="+encodeURIComponent(JSON.stringify(this.pixels))),this.pixels=[])},NewData:function(a,b){return new EzoicPixelData(a,b)},convertDataToStr:function(a){if("undefined"==typeof a)return[];try{for(var b in a)a[b].val=a[b].val+""}catch(a){}return a},getSlotIID:function(a){var b=0;try{var c=a.getTargetingMap(),d=a.getSlotElementId();if(d.indexOf("div-gpt-ad")===-1)return b;if("undefined"!=typeof c)for(var e in c)if(e.indexOf("iid")!==-1&&"undefined"!=typeof c[e][0]){b=c[e][0];break}}catch(a){}return b},isDefined:function(){for(var a=0;a<arguments.length;a++)if("undefined"==typeof arguments[a]||null===arguments[a])return console.error("Argument not defined. ",arguments),!1;return!0},validateData:function(a){for(var b=0;b<a.length;b++)if(a[b]instanceof EzoicPixelData==!1)return console.error("Invalid pixelData. ",a[b]),!1;return!0}};</script>
+
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.politicususa.com/xmlrpc.php">
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://www.politicususa.com/feed" />	
+	<link rel="pingback" href="https://www.politicususa.com/xmlrpc.php" />	
+	
+	<!--[if lt IE 9]>
+	<script src="https://www.politicususa.com/wp-content/themes/advanced-newspaper/inc/js/html5.js"></script>
+	<![endif]-->	
+	
+	
+<!-- This site is optimized with the Yoast SEO Premium plugin v6.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Trump&#039;s House of Predators is Crashing Down Around Him</title>
+<meta name="description" content="Yet another Trump White House team member has abruptly resigned amid accusations of abuse of his wife."/>
+<link rel="canonical" href="https://www.politicususa.com/2018/02/09/trumps-house-of-predators-is-crashing-down.html" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Trump&#039;s House of Predators is Crashing Down Around Him" />
+<meta property="og:description" content="Yet another Trump White House team member has abruptly resigned amid accusations of abuse of his wife." />
+<meta property="og:url" content="https://www.politicususa.com/2018/02/09/trumps-house-of-predators-is-crashing-down.html" />
+<meta property="og:site_name" content="Politicus USA" />
+<meta property="article:publisher" content="https://www.facebook.com/PoliticusUSA/" />
+<meta property="article:author" content="https://www.facebook.com/SarahReeseJones" />
+<meta property="article:section" content="Featured News" />
+<meta property="article:published_time" content="2018-02-09T21:07:59-05:00" />
+<meta property="article:modified_time" content="2018-02-09T21:18:34-05:00" />
+<meta property="og:updated_time" content="2018-02-09T21:18:34-05:00" />
+<meta property="fb:app_id" content="517456268424921" />
+<meta property="og:image" content="https://www.politicususa.com/wp-content/uploads/2018/02/soenson.jpg" />
+<meta property="og:image:secure_url" content="https://www.politicususa.com/wp-content/uploads/2018/02/soenson.jpg" />
+<meta property="og:image:width" content="722" />
+<meta property="og:image:height" content="460" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Yet another Trump White House team member has abruptly resigned amid accusations of abuse of his wife." />
+<meta name="twitter:title" content="Trump&#039;s House of Predators is Crashing Down Around Him" />
+<meta name="twitter:site" content="@politicususa" />
+<meta name="twitter:image" content="https://www.politicususa.com/wp-content/uploads/2018/02/soenson.jpg" />
+<meta name="twitter:creator" content="@PoliticusSarah" />
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Politicus USA &raquo; Feed" href="https://www.politicususa.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Politicus USA &raquo; Comments Feed" href="https://www.politicususa.com/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.politicususa.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fancybox-css'  href='https://www.politicususa.com/wp-content/plugins/fancybox-gallery/fancybox/jquery.fancybox.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-override-css'  href='https://www.politicususa.com/wp-content/plugins/fancybox-gallery/fbg-override.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='unipress-api-css'  href='https://www.politicususa.com/wp-content/plugins/unipress-api//css/unipress.css?ver=1.17.5' type='text/css' media='all' />
+<link rel='stylesheet' id='polusa-style-css'  href='https://www.politicususa.com/wp-content/themes/advanced-newspaper/core/css/polusa-custom.css?ver=1.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='slicknav-style-css'  href='https://www.politicususa.com/wp-content/themes/advanced-newspaper/core/js/slicknav.min.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='polusa-fancy-style-css'  href='https://www.politicususa.com/wp-content/themes/advanced-newspaper/core/js/fancybox/jquery.fancybox.css?ver=2.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://www.politicususa.com/wp-content/themes/advanced-newspaper/framework/bootstrap/css/bootstrap.min.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.politicususa.com/wp-content/themes/advanced-newspaper/framework/font-awesome/css/font-awesome.min.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://www.politicususa.com/wp-content/themes/advanced-newspaper/css/owl.carousel.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='gabfire-style-css'  href='https://www.politicususa.com/wp-content/themes/advanced-newspaper/style.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-social-css'  href='https://www.politicususa.com/wp-content/themes/advanced-newspaper/css/bootstrap-social.css?ver=4.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.politicususa.com/wp-content/plugins/fancybox-gallery/fancybox/jquery.fancybox-1.2.1.js?ver=1.2.1'></script>
+<script type='text/javascript' src='https://www.politicususa.com/wp-content/plugins/fancybox-gallery/fancybox/jquery.easing.1.3.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"https:\/\/www.politicususa.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.politicususa.com/wp-content/plugins/unipress-api//js/unipress.js?ver=1.17.5'></script>
+<link rel='https://api.w.org/' href='https://www.politicususa.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.politicususa.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.politicususa.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.2" />
+<link rel='shortlink' href='https://www.politicususa.com/?p=286580' />
+<link rel="alternate" type="application/json+oembed" href="https://www.politicususa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.politicususa.com%2F2018%2F02%2F09%2Ftrumps-house-of-predators-is-crashing-down.html" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.politicususa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.politicususa.com%2F2018%2F02%2F09%2Ftrumps-house-of-predators-is-crashing-down.html&#038;format=xml" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9948568-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-9948568-5');
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-5888795797467128",
+          enable_page_level_ads: true
+     });
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-5888795797467128",
+          enable_page_level_ads: true
+     });
+</script>
+
+		<script type="text/javascript">
+			var _statcounter = _statcounter || [];
+			_statcounter.push({"tags": {"author": "Sarah Jones"}});
+		</script>
+		
+
+<!-- This site is optimized with the Schema plugin v1.6.9.8.1 - https://schema.press -->
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.politicususa.com\/2018\/02\/09\/trumps-house-of-predators-is-crashing-down.html"},"url":"https:\/\/www.politicususa.com\/2018\/02\/09\/trumps-house-of-predators-is-crashing-down.html","headline":"Trump's House of Predators is Crashing Down Around Him As David Sorensen Resigns","datePublished":"2018-02-09T21:07:59+00:00","dateModified":"2018-02-09T21:18:34+00:00","publisher":{"@type":"Organization","@id":"https:\/\/www.politicususa.com\/#organization","name":"Politicus USA","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/www.politicususa.com\/wp-content\/uploads\/2018\/02\/soenson.jpg","width":722,"height":460},"articleSection":"Editors' Picks","description":"Yet another Trump White House team member has abruptly resigned amid accusations of abuse of his wife. David Sorensen, a White House speechwriter, resigned Friday after his former wife told the Washington Post , which was reporting on a story about her claims, details about his violence that she","author":{"@type":"Person","name":"Sarah Jones","url":"https:\/\/www.politicususa.com\/author\/sarah-jones-2-2-2-2-2-2-2-2-2","description":"Ms. Jones is a Senior White House correspondent for PoliticusUSA and a Huffington Post contributor. Sarah co-hosts Politicus Radio and her analysis has been featured on several national radio, television news programs and talk shows, and print outlets including regular appearances on The Ann Walker Show With Scott Nevins for UBN Radio and KPTR 1450’s California Woman 411, The Washington Post, The Atlantic Wire, CNN, MSNBC, The Week, The Hollywood Reporter, The Richard Dawkins Foundation and more.","image":{"@type":"ImageObject","url":"http:\/\/0.gravatar.com\/avatar\/c244bbdfa21e7f3b703f76491ac6b6dd?s=96&d=mm&r=pg","height":96,"width":96},"sameAs":["https:\/\/www.politicususa.com\/","https:\/\/plus.google.com\/u\/0\/107583917023806019934","https:\/\/www.facebook.com\/SarahReeseJones","PoliticusSarah"]}}</script>
+
+<link rel="shortcut icon" href="/wp-content/uploads/2016/01/favicon.png"/>
+<!-- Custom Styling -->
+<style type="text/css">
+.footercats {display:none;}
+
+div.entry-content p{text-align: justify;}
+
+p.qas {text-align: center !important;}
+
+#featured-slider .entry-title a {font-size: 75%}
+
+#featured-slider p.p-summary{max-height: 20px; overflow: hidden;}
+
+.widget ul li, .widget ol li {
+  list-style: none !important;
+  background: none !important;
+  padding-left: 0;
+}
+.single-post-title {
+  font-size: 200%;
+  line-height: 120%;
+  font-weight: bold;
+}
+
+blockquote::before {
+  content: "";
+  display: inline-block;
+  width: 100%;
+  height: 16px;
+  background-image: url("/wp-content/themes/advanced-newspaper/images/blockquote_gray_wht_sm.jpg");
+  background-repeat: no-repeat;
+  position: relative;
+  left: -42px;
+  top: -10px;
+}
+
+blockquote p {
+  font-style: inherit;
+  font-size: 15px;
+  line-height: 21px;
+  color: #666;
+  margin-top: -3%;
+}
+blockquote { margin: 2% 5% !important;}
+
+#primary-right .adspot_link {
+  font-size: 12px;
+  color: #1D4792;
+  text-align: center;
+}
+.single-post-title {
+  font-size: 166% !important;
+}
+.gabfire-comments li &gt; div {
+  margin-left: 10px !important;
+}</style>
+			<script type='text/javascript'>
+			(function($) {
+				$(document).ready(function() { 
+					$(".children").parent("li").addClass("has-child-menu");
+					$(".sub-menu").parent("li").addClass("has-child-menu");
+					$(".drop").parent("li").addClass("has-child-menu");
+					
+					$('.fadeimage').hover(
+						function() {$(this).stop().animate({ opacity: 0.5 }, 800);},
+						function() {$(this).stop().animate({ opacity: 1.0 }, 800);}
+					);
+					
+					$('.mastheadnav li ul,.mainnav li ul,.subnav li ul,.mastheadnav li ul,.mainnav li ul').hide().removeClass('fallback');
+					$('.mastheadnav > li,.mainnav > li,.subnav > li,.mainnav > li').hover(
+						function () {
+							$('ul', this).stop().slideDown(250);
+						},
+						function () {
+							$('ul', this).stop().slideUp(250);
+						}
+					);
+
+					$('[data-toggle="tooltip"]').tooltip({
+						'placement': 'top'
+					});					
+					
+					/* Slide to ID & remove 80px as top offset (for navigation) when sliding down */
+					$('a[href*=#respond]:not([href=#])').click(function() {
+						if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+
+							var target = $(this.hash);
+							target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+							if (target.length) {
+								$('html,body').animate({
+									scrollTop: target.offset().top - 65
+								}, 1000);
+								return false;
+							}
+						}
+					});						
+					
+					/* InnerPage Slider */
+					var innerslider = $(".carousel-gallery");
+					innerslider.owlCarousel({
+					  autoPlay: 999999,
+					  pagination:true,
+					  singleItem : true,
+					  autoHeight : true,
+					  mouseDrag: false,
+					  touchDrag: false					  
+					});	
+					$(".carousel-gallery-next").click(function(){
+						innerslider.trigger('owl.next');
+					});
+					$(".carousel-gallery-prev").click(function(){
+						innerslider.trigger('owl.prev');
+					});
+					
+					/* InnerPage Slider */
+					var owl4 = $(".carousel-four");
+					owl4.owlCarousel({
+					  autoPlay: 999999,
+					  pagination:true,
+					  singleItem : true,
+					  autoHeight : true,
+					  mouseDrag: false,
+					  touchDrag: false					  
+					});	
+					$(".carousel-four-next").click(function(){
+						owl4.trigger('owl.next');
+					});
+					$(".carousel-four-prev").click(function(){
+						owl4.trigger('owl.prev');
+					});						
+					
+										
+					
+					//Clone both menus to keep them intact
+					var combinedMenu = $('.main-navigation .mainnav').clone();
+					var secondMenu = $('.secondary-navigation .subnav').clone();
+					
+					secondMenu.children('li').appendTo(combinedMenu);
+					
+					combinedMenu.slicknav({
+					    duplicate:false
+					});
+					
+					
+					$('a[href=#top]').click(function(){
+						$('html, body').animate({scrollTop:0}, 'slow');
+						return false;
+					});
+				});
+			})(jQuery);
+			</script>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f1f1f1; }
+</style>
+<link rel="amphtml" href="https://www.politicususa.com/2018/02/09/trumps-house-of-predators-is-crashing-down.html/amp"><style type="text/css" media="screen">
+		nav.main-navigation {background-image:url( https://www.politicususa.com/wp-content/themes/advanced-newspaper-3.6/images/bg-lines.gif ) repeat;border-color: #dddddd }
+		/* First level menu */
+		nav .mainnav li a {color: #1d4792 }
+		nav .mainnav li.current_page_item > a,
+		nav .mainnav li.current-cat > a, 
+		nav .mainnav li.current-menu-item > a,
+		nav .mainnav li.current-cat-parent > a {color: #1d4792 }
+		nav .mainnav li a:hover {color: #cd1713 }
+
+		/*Second level selected menu item */
+		nav .mainnav li li.current_page_item a,
+		nav .mainnav li li.current-cat a, 
+		nav .mainnav li li.current-menu-item a,
+		nav .mainnav li li.current-cat-parent a {color:#222222;background:#f5f5f5 }		
+
+		/*Second level link color*/
+		nav .mainnav li ul li a {color: #444444 }
+		/* Second level hovered link color */
+		nav .mainnav li ul li a:hover {color: #222222 }
+		/* Second level border color */
+		nav .mainnav li ul,nav .mainnav li ul li a {border-color: #efefef }
+		/*Second level background color*/
+		nav .mainnav li ul li {background-color: #ffffff }
+		/* Second level hovered background color */
+		nav .mainnav li ul li a:hover {background-color: #f5f5f5 }
+		nav.secondary-navigation {background-color:url( #efefef ) repeat;border-color: #dddddd }
+		/* First level menu */
+		nav .subnav li a {color: #1d4792 }
+		nav .subnav li.current_page_item > a,
+		nav .subnav li.current-cat > a, 
+		nav .subnav li.current-menu-item > a,
+		nav .subnav li.current-cat-parent > a {color: #cd1713 }
+		nav .subnav li a:hover {color: #cd1713 }
+
+		/*Second level selected menu item */
+		nav .subnav li li.current_page_item a,
+		nav .subnav li li.current-cat a, 
+		nav .subnav li li.current-menu-item a,
+		nav .subnav li li.current-cat-parent a {color:#222222;background:#f5f5f5 }		
+
+		/*Second level link color*/
+		nav .subnav li ul li a {color: #444444 }
+		/* Second level hovered link color */
+		nav .subnav li ul li a:hover {color: #cd1713 }
+		/* Second level border color */
+		nav .subnav li ul,nav .subnav li ul li a {border-color: #efefef }
+		/*Second level background color*/
+		nav .subnav li ul li {background-color: #ffffff }
+		/* Second level hovered background color */
+		nav .subnav li ul li a:hover {background-color: #f5f5f5 }</style>
+	<script type='text/javascript'>
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+  	
+  	var width = window.innerWidth || document.documentElement.clientWidth;
+  	
+    googletag.defineSlot('/64529451/politicus-home-mid-300x250', [300, 250], 'div-gpt-ad-1454246093326-0').addService(googletag.pubads());
+    if (width >= 768) {
+    googletag.defineSlot('/64529451/polusa_header_smart_banner', [728, 90], 'div-gpt-ad-1457753665566-0').addService(googletag.pubads());
+    } else {
+    googletag.defineSlot('/64529451/polusa_header_smart_banner', [300, 100], 'div-gpt-ad-1457753665566-0').addService(googletag.pubads());   	
+    }
+
+    if (width >= 621) {    
+    googletag.defineSlot('/64529451/polusa_home_right_skyscraper', [160, 600], 'div-gpt-ad-1457754168514-0').addService(googletag.pubads());
+    } else {
+    googletag.defineSlot('/64529451/polusa_home_right_skyscraper', [300, 250], 'div-gpt-ad-1457754168514-0').addService(googletag.pubads());    	
+    }
+    googletag.pubads().enableSingleRequest();
+    //googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+  });
+</script>
+	<!-- Start Alexa Certify Javascript -->
+	<script type="text/javascript">
+	_atrk_opts = { atrk_acct:"OdM/f1agwt00oM", domain:"politicususa.com",dynamic: true};
+	(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+	</script>
+	<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=OdM/f1agwt00oM" style="display:none" height="1" width="1" alt="" /></noscript>
+	<!-- End Alexa Certify Javascript -->
+	<!-- FB instant article -->
+	<meta property="fb:pages" content="186473214703370" />
+	
+<script async src='https://embed.air.tv/v1/twoview_bootstrap.js?organization=-qTMTQHlQMOp7Bpdu2DPnA'></script>
+<script type="text/javascript" src="//launch.newsinc.com/js/embed.js"></script>
+
+
+
+<script data-cfasync="false" type="text/javascript">window.google_analytics_uacct = "UA-97852249-51";</script>
+<script data-cfasync="false" type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['e._setAccount', 'UA-97852249-51']);
+_gaq.push(['f._setAccount', 'UA-38339005-1']);
+_gaq.push(['e._setDomainName', 'politicususa.com']);
+_gaq.push(['f._setDomainName', 'politicususa.com']);
+_gaq.push(['e._setCustomVar',1,'template','old_site_gc',3]);
+_gaq.push(['e._setCustomVar',2,'t','126',3]);
+_gaq.push(['e._setCustomVar',3,'rid','0',2]);
+_gaq.push(['e._setCustomVar',4,'bra','mod24',3]);
+_gaq.push(['e._setAllowAnchor',true]);
+_gaq.push(['e._setSiteSpeedSampleRate', 10]);
+_gaq.push(['f._setCustomVar',1,'template','old_site_gc',3]);
+_gaq.push(['f._setCustomVar',2,'domain','politicususa.com',3]);
+_gaq.push(['f._setSiteSpeedSampleRate', 20]);
+_gaq.push(['e._trackPageview']);
+_gaq.push(['f._trackPageview']);
+
+
+(function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">var ezouid = "380058504";</script><base href="https://www.politicususa.com/2018/02/09/trumps-house-of-predators-is-crashing-down.html"><script type='text/javascript'>
+var ezoTemplate = 'old_site_gc';
+if(typeof ezouid == 'undefined')
+{
+    var ezouid = 'none';
+}
+var ezoFormfactor = '1';
+var ezo_elements_to_check = Array();
+</script><!-- START EZHEAD -->
+<script type='text/javascript'>
+var soc_app_id = '0';
+var did = 56931;
+var ezdomain = 'politicususa.com';
+var ezoicSearchable = 1;
+</script>
+<!--{jquery}-->
+<!-- END EZHEAD -->
+<script type="text/javascript" data-cfasync="false">var _ezaq = {"ab_test_id":"mod24","ab_test_val":"","ad_cache_level":0,"adgroup_rank_id":-1,"browser":"Unknown","browser_version":0,"country":"US","days_since_last_visit":-1,"device_height":528,"device_width":1280,"domain_id":56931,"engaged_time_visit":0,"ezcache_level":0,"forensiq_score":-1,"form_factor_id":1,"has_bad_words":0,"ip":"10.0.4.110","is_return_visitor":false,"landing_page_url":"https://www.politicususa.com/2018/02/09/trumps-house-of-predators-is-crashing-down.html","last_page_load":"","last_pageview_id":"","lt_cache_level":0,"os":"Unknown","page_ad_positions":"","page_view_count":0,"page_view_id":"ad4ba7da-4d02-4b2a-5534-61bf72f2f81c","pv_event_count":0,"referrer_id":0,"region":"us-east-1","response_time_orig":1881,"serverid":"54.152.134.212:9502","t_epoch":1518845893,"template_id":126,"time_on_site_visit":0,"url":"https://www.politicususa.com/2018/02/09/trumps-house-of-predators-is-crashing-down.html","user_agent":"Mozilla/5.0","user_id":380058504,"visit_id":1036061900,"word_count":469};var _ezExtraQueries = "&ez_orig=1";</script><script data-cfasync='false' type="text/javascript" src="/detroitchicago/rochester.js?cb=172-0&v=8" async></script><script data-pagespeed-no-defer data-cfasync='false'>
+function create_ezolpl() {
+    var d = new Date();
+    d.setTime(d.getTime() + (365*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = "ezux_lpl_56931=" + new Date().getTime() + "|ad4ba7da-4d02-4b2a-5534-61bf72f2f81c; " + expires;
+}
+function attach_ezolpl() {
+    if(window.attachEvent) {
+        window.attachEvent('onload', create_ezolpl);
+    } else {
+        if(window.onload) {
+            var curronload = window.onload;
+            var newonload = function(evt) {
+                curronload(evt);
+                create_ezolpl();
+            };
+            window.onload = newonload;
+        } else {
+            window.onload = create_ezolpl;
+        }
+    }
+}
+attach_ezolpl();
+</script></head>
+
+<body class="post-template-default single single-post postid-286580 single-format-standard custom-background body-default" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+<div id="fb-root"></div>
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=113462415332922";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-9948568-5', 'auto');
+  ga('send', 'pageview');
+  
+	// new event tracking PM 042916
+	function trackFeaturedSliderClicks(link, position) {
+	  try { 	
+		  ga('send', 'event', 'Featured Slider Click', position, link);
+		  setTimeout('document.location = "' + link + '"', 100)	
+	  }catch(err){}
+	}
+
+  
+
+</script>
+
+<div class="beforeheader_728"><aside id="text-29" class="widget widget_text"><div class="widgetinner">			<div class="textwidget"></div>
+		</div></aside>
+</div>
+<div class="container">
+
+	<header itemscope="itemscope" itemtype="http://schema.org/WPHeader" role="banner">
+		<div class="row"><!-- Site Masthead Row-->
+			<nav class="col-md-12 masthead-navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+				<ul class="mastheadnav">
+					
+					<li><span class="arrow-right"></span></li>
+											<li class="masthead_date">
+							<script type="text/javascript">
+								<!--
+								var mydate=new Date()
+								var year=mydate.getYear()
+								if (year < 1000)
+								year+=1900
+								var day=mydate.getDay()
+								var month=mydate.getMonth()
+								var daym=mydate.getDate()
+								if (daym<10)
+								daym="0"+daym
+								var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+								var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+								document.write(""+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+"")
+								// -->
+							</script>
+						</li>
+										 
+											<li class="pull-right social_header">
+															<a class="socialsite-facebook" href="https://www.facebook.com/PoliticusUSA/" title="Facebook" rel="nofollow"><span>Friend on Facebook</span>
+									<i class="fa fa-facebook pull-left"></i>
+								</a>
+							
+															<a class="socialsite-twitter" href="https://twitter.com/politicususa" title="Twitter" rel="nofollow"><span>Follow on Twitter</span>
+									<i class="fa fa-twitter pull-left"></i>
+								</a>
+							
+							
+							
+															<a class="socialsite-pinterest" href="https://www.pinterest.com/politicususa/" title="Pinterest" rel="nofollow"><span>Follow on Pinterest</span>
+									<i class="fa fa-pinterest pull-left"></i>
+								</a>
+														
+														
+							
+														
+								
+
+															
+
+							<a class="socialsite-rss" href="https://www.politicususa.com/feed" title="Site feed" rel="nofollow">
+								<span>Subscribe to RSS</span> <i class="fa fa-rss pull-left"></i>
+							</a>
+						</li>
+											
+					
+					<li class="pull-right gab_headersearch"> <a data-toggle="modal" href="#searchModal"><i class="fa fa-search"></i> Search</a></li>
+				</ul>
+			</nav>
+
+			<!-- Modal -->
+<div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+	  <div class="modal-content">
+		<div class="modal-header">
+		  <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+		  <h4 class="modal-title">Search in Site</h4>
+		</div>
+		<div class="modal-body">
+			<form action="https://www.politicususa.com/">
+				<div class="input-prepend">
+					<label>To search in site, type your keyword and hit enter</label>
+					<input type="text" name="s" class="form-control" placeholder="Type keyword and hit enter">
+				</div>
+			</form>	
+		</div>
+		<div class="modal-footer">
+		  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+		</div>
+	  </div><!-- /.modal-content -->
+	</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->		</div><!-- /.row Site Masthead Row -->
+	
+		<div class="row">
+			<div class="col-lg-12">
+				<div id="header">
+											<a href="https://www.politicususa.com/" title="">
+							<img src="/wp-content/uploads/2016/04/polusa-web-header-99.png" id="header_banner" alt="Politicus USA" title="Politicus USA"/>
+						</a>
+											
+
+				</div><!-- /header -->	
+			</div><!-- /col-lg-12 -->	
+		</div><!-- /row -->	
+		
+		<div class="row site-nav">
+			<div class="col-lg-12">
+				
+				<nav class="main-navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+					<ul class="mainnav responsive_menu">
+						<li><a href="https://www.politicususa.com/">HOME</a></li>
+						<li id="menu-item-118523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-118523"><a href="http://sports.politicususa.com/">Sports</a></li>
+<li id="menu-item-164870" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-164870"><a href="https://www.politicususa.com/category/commentary/polusa-editorial">Politicus Editorials</a></li>
+<li id="menu-item-220729" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220729"><a href="https://www.politicususa.com/category/media/politicus-radio-podcasts">Politicus Radio</a></li>
+<li id="menu-item-220731" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220731"><a href="http://lnr.politicususa.com">Liberal Nation Rising</a></li>
+<li id="menu-item-251981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-251981"><a href="https://www.politicususa.com/category/russia-scandal">Russia Scandal</a></li>
+					</ul>
+				</nav>
+				
+				<nav class="secondary-navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+					<ul class="subnav responsive_menu">
+						<li id="menu-item-220734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220734"><a href="https://www.politicususa.com/about-us">About Us</a></li>
+<li id="menu-item-220733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220733"><a href="https://www.politicususa.com/contact-us">Contact Us</a></li>
+<li id="menu-item-251984" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-251984"><a href="https://www.politicususa.com/2017/06/07/politicususa-help-wanted.html">Write For PoliticusUSA</a></li>
+<li id="menu-item-251991" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-251991"><a href="https://www.politicususa.com/2017/05/20/spj-code-ethics.html">The Code Of Ethics That We Follow</a></li>
+	
+					</ul>
+				</nav>				
+				
+			</div>
+		</div>	
+	</header>
+	
+<div id="polusa-home-header" style="width: 100%; text-align: center;">
+
+<div style="width: 100%; height: auto; margin: 0 auto 20px; display: inline-block; vertical-align: top">
+
+<!-- /64529451/polusa_header_smart_banner -->
+<!-- Ezoic - MainSiteLeaderboard - top_of_page -->
+<div id="ezoic-pub-ad-placeholder-101">
+	<div id='div-gpt-ad-1457753665566-0'>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1457753665566-0'); });
+	</script>
+	</div>
+</div>
+<!-- End Ezoic - MainSiteLeaderboard - top_of_page -->
+
+
+
+</div></div><!--polusa-home-header-->
+
+
+
+	
+	<div class="row default">
+	
+				
+		<main class="col-xs-12 col-md-8 col-sm-8 post-wrapper" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+
+							<div class="row">
+					<div class="col-lg-12 col-md-12">
+						<div class="post-lead">
+							<h1 class="entry-title single-post-title" itemprop="headline">
+								Trump&#8217;s House of Predators is Crashing Down Around Him As David Sorensen Resigns							</h1>
+							
+							<p class="postmeta"><span class="gabfire_meta gabfiremeta_bydate">By <span class="author vcard" itemscope="itemscope" itemtype="http://schema.org/Person" itemprop="author"><a href="https://www.politicususa.com/author/sarah-jones-2-2-2-2-2-2-2-2-2" rel="author" class="fn" itemprop="name">Sarah Jones</a></span> on <time class="published updated" itemprop="datePublished" datetime="Fri, Feb 9th, 2018T9:07 pm">Fri, Feb 9th, 2018 at 9:07 pm</time></span></p>						</div>		
+					</div>
+				</div>			
+						
+				
+		<section class="article-wrapper">
+		
+						
+				<article itemscope itemtype="http://schema.org/NewsArticle" class="entry post-286580 post type-post status-publish format-standard has-post-thumbnail hentry category-editors-picks category-featured-news category-issues last_archivepost">
+										
+								
+							<div class="social-sharethis-post" data-share-count="0" data-share-count-updated="201802170038">
+										
+					
+					<div style="float: left; width: 104px !important; margin-right: 6px; position: relative;" class="fb-share-button" data-href="https://www.politicususa.com/2018/02/09/trumps-house-of-predators-is-crashing-down.html" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.politicususa.com%2F2018%2F02%2F09%2Ftrumps-house-of-predators-is-crashing-down.html">Share</a></div>
+					
+										
+					<a href="https://twitter.com/share?url=https://www.politicususa.com/2018/02/09/trumps-house-of-predators-is-crashing-down.html&text=Trump%27s+House+of+Predators+is+Crashing+Down+Around+Him+As+David+Sorensen+Resigns via @politicususa" data-toggle="tooltip" title="Share on Twitter" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><span>Share on Twitter</span>
+						<i class="fa fa-twitter pull-left"></i>
+					</a>
+
+					<a href="https://plus.google.com/share?url=https://www.politicususa.com/2018/02/09/trumps-house-of-predators-is-crashing-down.html" data-toggle="tooltip" title="Share on Google+" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><span>Add to Google+</span>
+						<i class="fa fa-google-plus pull-left"></i>
+					</a>
+
+					<a href="http://www.linkedin.com/shareArticle?mini=true&url=https://www.politicususa.com/2018/02/09/trumps-house-of-predators-is-crashing-down.html&title=Trump's House of Predators is Crashing Down Around Him As David Sorensen Resigns&summary=&source=Politicus USA" data-toggle="tooltip" title="Share on LinkedIn" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><span>Connect on Linked in</span>
+						<i class="fa fa-linkedin pull-left"></i>
+					</a>
+					
+					<a href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.politicususa.com%2F2018%2F02%2F09%2Ftrumps-house-of-predators-is-crashing-down.html&media=https://www.politicususa.com/wp-content/uploads/2018/02/soenson.jpg&description=Trump's House of Predators is Crashing Down Around Him As David Sorensen Resigns" data-toggle="tooltip" title="Share on Pinterest" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><span>Share on Pinterest</span>
+						<i class="fa fa-pinterest pull-left"></i>
+					</a>
+
+					<a class="pull-right" href="mailto:?subject=Politicus%20USA%20%3A%20Trump%26amp%3B%238217%3Bs%20House%20of%20Predators%20is%20Crashing%20Down%20Around%20Him%20As%20David%20Sorensen%20Resigns&amp;body=I%20recommend%20this%20page%3A%20Trump%26amp%3B%238217%3Bs%20House%20of%20Predators%20is%20Crashing%20Down%20Around%20Him%20As%20David%20Sorensen%20Resigns.%0AYou%20can%20read%20it%20on%3A%20https%3A%2F%2Fwww.politicususa.com%2F2018%2F02%2F09%2Ftrumps-house-of-predators-is-crashing-down.html" data-toggle="tooltip" title="Send by Email" rel="nofollow"><span>Subscribe by Email</span>
+						<i class="fa fa-envelope-o pull-left"></i>
+					</a>
+					
+					<a class="pull-right" href="javascript:window.print()" data-toggle="tooltip" title="Print This Post" rel="nofollow"><span>Print This Post</span>
+						<i class="fa fa-print pull-left"></i>
+					</a>
+				</div>	
+				<div class="clearfix"></div>
+			<img src='https://www.politicususa.com/wp-content/uploads/2018/02/soenson-701x447.jpg' class='aligncenter' alt='Trump&#8217;s House of Predators is Crashing Down Around Him As David Sorensen Resigns' title='Trump&#8217;s House of Predators is Crashing Down Around Him As David Sorensen Resigns' /><div class="entry-content" itemprop="text">
+
+					
+<!-- Quick Adsense WordPress Plugin: http://quickadsense.com/ -->
+<div style="float: none; margin:10px 0 10px 0; text-align:center;">
+<!-- Post top ad code goes here -->
+<!--DO_NOT_CHANGE_CODE-->
+<!--AdSlot1-->
+<p id="adslot1" class="qas">
+<script type="text/javascript">
+setTimeout(function(){
+	document.querySelector('div.google-ad-300x250').remove();
+}, 250);
+document.write("<!" + "-- X" + cntrlX + ", Z" + cntrlZ + " --" + ">\n");
+document.write("<scr" + "ipt async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></scr" + "ipt>");
+
+if(cntrlX <= cntrlZ){	
+	document.write("<!" + "-- POLUSA #1 300x250 --" + ">\n<ins class='adsbygoogle'\nstyle='display:inline-block;width:300px;height:250px'\ndata-ad-client='ca-pub-2001531914781608'\ndata-ad-slot='8580615301'></ins>\n");
+} else {
+	document.write("<!" + "-- Politicus #1 300x250 --" + ">\n<ins class='adsbygoogle'\nstyle='display:inline-block;width:300px;height:250px'\ndata-ad-client='ca-pub-5888795797467128'\ndata-ad-slot='5554745253'></ins>\n");
+}
+</script>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</p>
+<div class="clear"></div>
+</div>
+<p>Yet another Trump White House team member has abruptly resigned amid accusations of abuse of his wife. </p>
+<p>David Sorensen, a White House speechwriter,  resigned Friday after his former wife told the <a href="https://www.washingtonpost.com/politics/second-white-house-official-departs-amids-abuse-allegations-which-he-denies/2018/02/09/72ba47e6-0d0d-11e8-8b0d-891602206fb7_story.html?hpid=hp_no-name_no-name%3Apage%2Fbreaking-news-bar&#038;utm_term=.360973be5c13">Washington Post </a>, which was reporting on a story about her claims, details about his violence that she says left her afraid for her life. </p>
+<p>The FBI had this information has they conducted the background search on Sorensen, according to his ex-wife Jessica Corbett, who says she spoke with the FBI about Sorensen&#8217;s violence last fall.</p>
+<p>Corbett told the Post that Sorensen &#8220;ran a car over her foot, put out a cigarette on her hand, threw her into a wall and grasped her menacingly by her hair while they were alone on their boat in remote waters off Maine’s coast, an incident she said left her fearing for her life.&#8221;</p>
+<!-- Quick Adsense WordPress Plugin: http://quickadsense.com/ -->
+<div style="float: none; margin:10px 0 10px 0; text-align:center;">
+<!--DO_NOT_CHANGE_CODE-->
+<!--AdSlot2-->
+<p id="adslot2" class="qas">
+<script type="text/javascript">
+document.write("<scr" + "ipt async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></scr" + "ipt>");
+
+if(cntrlX <= cntrlZ){	
+	document.write("<!" + "-- POLUSA #2 300x250 --" + ">\n<ins class='adsbygoogle'\nstyle='display:inline-block;width:300px;height:250px'\ndata-ad-client='ca-pub-2001531914781608'\ndata-ad-slot='2534081703'></ins>\n");
+} else {
+	document.write("<!" + "-- Politicus #2 300x250 --" + ">\n<ins class='adsbygoogle'\nstyle='display:inline-block;width:300px;height:250px'\ndata-ad-client='ca-pub-5888795797467128'\ndata-ad-slot='3107339109'></ins>\n");
+}
+</script>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</p>
+<div class="clear"></div>
+</div>
+
+<p>Trump&#8217;s turn back the clock on domestic violence administration is coming unglued. Instead of a house of cards, Trump put together a house of predators, and one by one those predators are being exposed and removed from the White House.</p>
+<p>The biggest predator of them all, the man who hired them all as he was also accused by dozens of women of sexual assault, remains in the Oval Office.</p>
+<p>The United States won&#8217;t be a safe place for women until the Predator In Chief has been removed from office.</p>
+<p><em>Update 9:17 PM: David Sorensen&#8217;s last name has been corrected from Sorenson to Sorensen. </em></p>
+<div class="single_postmeta">
+<p><a href="http://twitter.com/PoliticusSarah" title="Follow Sarah Jones on Twitter" target="_blank">Follow Sarah Jones on Twitter</a></p>
+<p><p><strong class="entry-title">Trump&#8217;s House of Predators is Crashing Down Around Him As David Sorensen Resigns</strong> added by <a href="https://www.politicususa.com/author/sarah-jones-2-2-2-2-2-2-2-2-2" rel="author" class="author vcard"><span class="fn">Sarah Jones</span></a> on <time class="published updated" itemprop="datePublished" datetime="2018-02-09T21:07">Fri, Feb 9th, 2018</time><br /><a class="block" href="https://www.politicususa.com/author/sarah-jones-2-2-2-2-2-2-2-2-2">View all posts by Sarah Jones &rarr;</a></p>
+</div>
+
+<!-- Quick Adsense WordPress Plugin: http://quickadsense.com/ -->
+<div style="float: none; margin:10px 0 10px 0; text-align:center;">
+<!--DO_NOT_CHANGE_CODE-->
+<!--AdSlot3-->
+<p id="adslot3" class="qas">
+<script type="text/javascript">
+document.write("<scr" + "ipt async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></scr" + "ipt>");
+
+if(cntrlX <= cntrlZ){	
+	document.write("<!" + "-- POLUSA #3 300x250 --" + ">\n<ins class='adsbygoogle'\nstyle='display:inline-block;width:300px;height:250px'\ndata-ad-client='ca-pub-2001531914781608'\ndata-ad-slot='5487548107'></ins>\n");
+} else {
+	document.write("<!" + "-- Politicus #3 300x250 --" + ">\n<ins class='adsbygoogle'\nstyle='display:inline-block;width:300px;height:250px'\ndata-ad-client='ca-pub-5888795797467128'\ndata-ad-slot='2688536708'></ins>\n");
+}
+</script>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</p>
+<div class="clear"></div>
+</div>
+
+<div style="font-size: 0px; height: 0px; line-height: 0px; margin: 0; padding: 0; clear: both;"></div></p></div>					<meta content="2018-02-09T21:07" itemprop="datePublished">
+				</article>
+				
+			
+							
+		</section><!-- articles-wrapper -->
+			<!--outbrain-->
+			<div id='adslot6' style='margin: 20px auto 20px;'>
+			<!-- Ezoic - MainSiteOutbrainBelowContent - native_bottom -->
+			<div id="ezoic-pub-ad-placeholder-112">
+				<div class="OUTBRAIN" data-src="https://www.politicususa.com/2018/02/09/trumps-house-of-predators-is-crashing-down.html" data-widget-id="AR_1" data-ob-template="Politicususa"></div> 
+				<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+			</div><!-- End Ezoic - MainSiteOutbrainBelowContent - native_bottom -->
+			
+			</div>
+			
+
+			
+			 			
+		</main><!-- col-md-8 -->
+		
+		<div class="col-md-4 col-sm-4 col-xs-12 sidebar-wrapper">
+	<div class="sidebar" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+		
+		<aside id="gform_widget-3" class="widget gform_widget"><div class="widgetinner"><h3 class="widgettitle">Subscribe To Our Daily Newsletter</h3>
+<link rel='stylesheet' id='gforms_reset_css-css'  href='https://www.politicususa.com/wp-content/plugins/gravityforms/css/formreset.min.css?ver=2.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css'  href='https://www.politicususa.com/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css'  href='https://www.politicususa.com/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=2.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css'  href='https://www.politicususa.com/wp-content/plugins/gravityforms/css/browsers.min.css?ver=2.2.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.politicususa.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.2.5'></script>
+<script type="text/javascript"> var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"https:\/\/www.politicususa.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.politicususa.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"}; </script>
+                <div class='gf_browser_unknown gform_wrapper' id='gform_wrapper_2' ><a id='gf_2' class='gform_anchor' ></a><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_2' id='gform_2'  action='/2018/02/09/trumps-house-of-predators-is-crashing-down.html#gf_2'>
+                        <div class='gform_body'><ul id='gform_fields_2' class='gform_fields top_label form_sublabel_below description_below'><li id='field_2_1' class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label gfield_label_before_complex' for='input_2_1' >Email<span class='gfield_required'>*</span></label><div class='ginput_complex ginput_container ginput_container_email' id='input_2_1_container'>
+                                <span id='input_2_1_1_container' class='ginput_left'>
+                                    <input class='' type='email' name='input_1' id='input_2_1' value='' tabindex='1'   placeholder='Your Email Address' aria-required="true" aria-invalid="false"/>
+                                    <label for='input_2_1' >Enter Email</label>
+                                </span>
+                                <span id='input_2_1_2_container' class='ginput_right'>
+                                    <input class='' type='email' name='input_1_2' id='input_2_1_2' value='' tabindex='2'  placeholder='Confirm Email Address' aria-required="true" aria-invalid="false"/>
+                                    <label for='input_2_1_2' >Confirm Email</label>
+                                </span>
+                                <div class='gf_clear gf_clear_complex'></div>
+                            </div></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_2' class='gform_button button' value='Subscribe' tabindex='3' onclick='if(window["gf_submitting_2"]){return false;}  if( !jQuery("#gform_2")[0].checkValidity || jQuery("#gform_2")[0].checkValidity()){window["gf_submitting_2"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_2"]){return false;} if( !jQuery("#gform_2")[0].checkValidity || jQuery("#gform_2")[0].checkValidity()){window["gf_submitting_2"]=true;}  jQuery("#gform_2").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=2&amp;title=&amp;description=&amp;tabindex=1' />
+            <input type='hidden' class='gform_hidden' name='is_submit_2' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='2' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_2' value='WyJbXSIsIjNhODczNTEyZGZiYjJhMzZkOTNkNDUyZWE3NWJhNmJhIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_2' id='gform_target_page_number_2' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_2' id='gform_source_page_number_2' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_2' id='gform_ajax_frame_2' title='Ajax Frame'>This iframe contains the logic required to handle Ajax powered Gravity Forms.</iframe>
+                <script type='text/javascript'>jQuery(document).ready(function($){gformInitSpinner( 2, 'https://www.politicususa.com/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery('#gform_ajax_frame_2').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_2');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_2').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;if(is_form){jQuery('#gform_wrapper_2').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_2').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_2').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_2').offset().top); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_2').val();gformInitSpinner( 2, 'https://www.politicususa.com/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [2, current_page]);window['gf_submitting_2'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_2').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_2').offset().top);jQuery(document).trigger('gform_confirmation_loaded', [2]);window['gf_submitting_2'] = false;}, 50);}else{jQuery('#gform_2').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [2, current_page]);} );} );</script><script type='text/javascript'> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"https:\/\/www.politicususa.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.politicususa.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 2) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [2, 1]) } ); </script></div></aside>
+<aside id="polusa_adsense_matched_content_widget-2" class="widget widget_polusa_adsense_matched_content_widget"><div class="widgetinner"><!-- Ezoic - MainSiteInsideSidebar - sidebar_middle -->
+<div id='ezoic-pub-ad-placeholder-108'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-5888795797467128" data-ad-slot="2718654309"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<!-- End Ezoic - MainSiteInsideSidebar - sidebar_middle --></div></aside>
+<aside id="polusa_sports_widget-2" class="widget widget_polusa_sports_widget"><div class="widgetinner"><h3 class="widgettitle">The latest from Politicus Sports</h3>
+<div class="sports-frame">
+<iframe src="http://sports.politicususa.com/wp-content/scripts/iframes/feat-post/feat-post.php" frameborder="0" scrolling="no"></iframe>
+</div>
+	</div></aside>
+		
+	</div>
+</div>		</div>	
+	
+	<footer role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+
+		<div class="row footercats">
+			<div class="col-md-12">
+				<ul itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+					<div class="menu"><ul>
+<li class="page_item page-item-45323"><a href="https://www.politicususa.com/44-v-2">44 V 2</a></li>
+<li class="page_item page-item-11090"><a href="https://www.politicususa.com/all-time-popular-posts">ALL TIME POPULAR POSTS</a></li>
+<li class="page_item page-item-247834"><a href="https://www.politicususa.com/app-support">App Support</a></li>
+<li class="page_item page-item-16396"><a href="https://www.politicususa.com/contact-us">Contact Us</a></li>
+<li class="page_item page-item-232335"><a href="https://www.politicususa.com/election-2016">Election Night 2016</a></li>
+<li class="page_item page-item-63199"><a href="https://www.politicususa.com/koch-block-it">Koch Block It</a></li>
+<li class="page_item page-item-81471"><a href="https://www.politicususa.com/latest-post">Our Latest Post</a></li>
+<li class="page_item page-item-221047"><a href="https://www.politicususa.com/live">Politicus USA Live at the 2016 DNC</a></li>
+<li class="page_item page-item-9433"><a href="https://www.politicususa.com/privacy-policy">Privacy Policy</a></li>
+<li class="page_item page-item-76036"><a href="https://www.politicususa.com/proof-war-women-2">Proof of the GOP War on Women</a></li>
+<li class="page_item page-item-43226"><a href="https://www.politicususa.com/research">RESEARCH</a></li>
+<li class="page_item page-item-76055"><a href="https://www.politicususa.com/the-dirty-thirty-page">The Dirty Thirty</a></li>
+<li class="page_item page-item-12487"><a href="https://www.politicususa.com/about-us">About Us</a></li>
+<li class="page_item page-item-11063"><a href="https://www.politicususa.com/top-sarah-palin-posts">Top Sarah Palin Posts</a></li>
+</ul></div>
+	
+				</ul>
+			</div>
+		</div>
+			
+		<div class="footer-firstrow row">
+		
+			<div class="col-md-4 col-lg-4 col-sm-3 col-xs-12 footer-firstrow-widget">
+							</div>
+			
+			<div class="col-md-4 col-lg-4 col-sm-4 col-xs-12 footer-firstrow-widget footer-mid-column">
+							</div>
+			
+			<div class="col-md-4 col-lg-4 col-sm-5 col-xs-12 footer-firstrow-widget">
+							</div>
+			
+		</div>
+	<div class="row footer-meta-wrapper">
+		<div class="col-md-12">
+			<div class="footer-meta">
+			
+				<div class="footer-metaleft pull-left">
+					&copy;2008 - 2018, PoliticusUSA.com. All rights reserved.				</div><!-- #site-info -->
+							
+				<div class="footer-metaleft pull-right">
+											<a href="/privacy-policy">Website Privacy &amp; Cookies</a>
+																
+
+		<!-- Start of StatCounter Code -->
+		<script>
+			<!--
+			var sc_project=3592873;
+			var sc_security="65b184fc";
+			      var sc_invisible=1;
+			var scJsHost = (("https:" == document.location.protocol) ?
+				"https://secure." : "http://www.");
+			//-->
+					</script>
+		
+<script type="text/javascript"
+				src="https://secure.statcounter.com/counter/counter.js"
+				async></script>		<noscript><div class="statcounter"><a title="web analytics" href="https://statcounter.com/"><img class="statcounter" src="https://c.statcounter.com/3592873/0/65b184fc/1/" alt="web analytics" /></a></div></noscript>
+		<!-- End of StatCounter Code -->
+		<link rel='stylesheet' id='gravityformsmailchimp_form_settings-css'  href='https://www.politicususa.com/wp-content/plugins/gravityformsmailchimp/css/form_settings.css?ver=4.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.politicususa.com/wp-content/plugins/fancybox-gallery/fbg-init.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.politicususa.com/wp-content/plugins/cryptx/js/cryptx.min.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js?ver=1.11.3'></script>
+<script type='text/javascript' src='https://www.politicususa.com/wp-content/themes/advanced-newspaper/core/js/jquery.slicknav.min.js?ver=1.0.4'></script>
+<script type='text/javascript' src='https://www.politicususa.com/wp-content/themes/advanced-newspaper/core/js/fancybox/jquery.fancybox.pack.js?ver=2.1.5'></script>
+<script type='text/javascript' src='https://www.politicususa.com/wp-content/themes/advanced-newspaper/core/js/jquery.fitvids.js?ver=1.1'></script>
+<script type='text/javascript' src='https://www.politicususa.com/wp-content/themes/advanced-newspaper/core/js/polusa.jquery.js?ver=1.2.7'></script>
+<script type='text/javascript' src='https://www.politicususa.com/wp-content/themes/advanced-newspaper/inc/js/jquery.cycle2.min.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.politicususa.com/wp-content/themes/advanced-newspaper/inc/js/owl.carousel.min.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.politicususa.com/wp-content/themes/advanced-newspaper/framework/bootstrap/js/bootstrap.min.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.politicususa.com/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.politicususa.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.2.5'></script>
+<script type='text/javascript' src='https://www.politicususa.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.2.5'></script>
+				</div> <!-- #footer-right-side -->
+			</div>
+		</div>
+	</div>
+		
+	</footer><!-- /footer -->
+	
+</div><!-- /container -->
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="https://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-52dj0sOA42ydI";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-52dj0sOA42ydI" target="_blank"><img src="https://pixel.quantserve.com/pixel/p-52dj0sOA42ydI.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!--Begin comScore Tag--><script>var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"20015427"});(function(){var s=document.createElement("script"),el=document.getElementsByTagName("script")[0];s.async=true;s.src=(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,el)})();</script><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript><!--End comScore Tag-->
+<!--Quantcast Tag--><script type="text/javascript">var _qevents=_qevents||[];(function(){var elem=document.createElement('script');elem.src=(document.location.protocol=="https:"?"https://secure":"http://edge")+".quantserve.com/quant.js";elem.async=true;elem.type="text/javascript";var scpt=document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem,scpt)})();_qevents.push({qacct:"p-31iz6hfFutd16",labels:"Domain.politicususa_com,DomainId.56931"});</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.politicususa_com,DomainId.56931"border="0"height="1"width="1"alt="Quantcast"/></div></noscript><!--End Quantcast tag-->
+<script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '//www.politicususa.com/detroitchicago/edmonton.webp?a=a&cb=0&shcb=29', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '//www.politicususa.com/porpoiseant/jellyfish.webp?a=a&cb=0&shcb=29', false, [], true, false, false, false);
+</script>
+</body>
+</html>

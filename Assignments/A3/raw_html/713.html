@@ -1,0 +1,2050 @@
+<!--
+Template: article.html
+
+Useage: The template for all article endpoint.
+
+-->
+<!--
+Template: layout.html
+
+Useage: All page on site will extend this template as base.
+
+Notes:
+  nav.html contains the mobile-nav.html template.
+-->
+
+<!DOCTYPE html>  
+<html lang="en">
+
+<head>
+    <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="
+        River Hebert and area news
+        ">
+
+    <!-- Leave empty - for Open Calais -->
+    <meta name="keywords" content="">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Celebrating River Hebert’s curling accomplishments &#124; Cumberland News Now" />
+    <meta property="og:description" content="River Hebert and area news ">
+    <meta property="og:image" content="http://www.cumberlandnewsnow.com/static/overrides/cumberlandnewsnow/dist/img/meta-logo.png" />
+    <meta property="og:url" content="http://www.cumberlandnewsnow.com/community/celebrating-river-heberts-curling-accomplishments-34455/" />
+
+    <!-- Twitter Summary Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image:alt" content="Cumberland News Now logo" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/overrides/cumberlandnewsnow/dist/favicon/apple-touch-icon.png?v=2">
+    <link rel="icon" type="image/png" href="/static/overrides/cumberlandnewsnow/dist/favicon/favicon-32x32.png?v=2" sizes="32x32">
+    <link rel="icon" type="image/png" href="/static/overrides/cumberlandnewsnow/dist/favicon/favicon-16x16.png?v=2" sizes="16x16">
+    <link rel="manifest" href="/static/overrides/cumberlandnewsnow/dist/favicon/manifest.json">
+    <link rel="mask-icon" href="/static/overrides/cumberlandnewsnow/dist/favicon/safari-pinned-tab.svg?v=2" color="#404040">
+    <link rel="shortcut icon" href="/static/overrides/cumberlandnewsnow/dist/favicon/favicon.ico?v=2">
+    <meta name="msapplication-config" content="/static/overrides/cumberlandnewsnow/dist/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>
+        
+        Celebrating River Hebert’s curling accomplishments &#124;
+        
+        
+        
+        Community &#124;
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        Cumberland News Now
+    </title>
+    <script src="/static/dist/js/header-scripts.min.js"></script>
+
+    
+    <!-- Header Bidding script -->
+    <script src="//js-sec.indexww.com/ht/p/184000-87268934236037.js"></script>
+    <!-- End of Header Bidding script -->
+    
+
+    
+<script type="text/javascript">function referNormalizer(e){return e=e.replace(/http(s)*:\/\/(www\.)*/g,""),"t.co"==(e=e.replace(/\/.*/g,""))||"thech.ca"==e?"twitter":(e.indexOf(".com")>-1||e.indexOf(".ca")>-1?(e=e.substring(0,e.lastIndexOf("."))).indexOf(".")>-1&&(e=e.substring(e.indexOf(".")+1,e.length)):e.indexOf(".ly")>-1&&(e=e.replace(".","")),e)}function getParameterByName(e,r){r||(r=window.location.href),e=e.replace(/[\[\]]/g,"\\$&");var t=new RegExp("[?&]"+e+"(=([^&#]*)|&|#|$)").exec(r);return t?t[2]?decodeURIComponent(t[2].replace(/\+/g," ")):"":null}function getSearchParameters(){var e=window.location.search.substr(1);return null!=e&&""!=e?transformToAssocArray(e):{}}function transformToAssocArray(e){for(var r={},t=e.split("&"),n=0;n<t.length;n++){var a=t[n].split("=");r[a[0]]=a[1]}return r}jsRefer=referNormalizer(document.referrer);var params=getSearchParameters();</script>
+<script type="text/javascript" src="http://tags.crwdcntrl.net/c/3904/cc.js?ns=_cc3904" id="LOTCC_3904"></script>
+<script type="text/javascript" language="javascript">_cc3904.bcp();</script>
+<script src="/static/js/lotame_kvs.js"></script>
+<script>if("all"!=window.adtechCCvals)var dfp_lotame=window.adtechCCvals.split(":");else dfp_lotame=window.adtechCCvals;</script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+    /*
+        Defined ad size mappings for DFP.
+        Breakpoint reference:
+        Desktop LG : 1200px - 1349px
+        Tablet MD  : 728px - 1199px
+        Phone SM   : <= 727px
+    */
+    //-------------------------------------------------------------------------
+    /*
+        If we need to add new sizes to a unit, we'll need to update it's mapping
+        with the appropriate size at the appropriate breakpoint.
+        https://support.google.com/dfp_premium/answer/3423562?hl=en
+        https://docs.google.com/spreadsheets/d/1tgYOFnQPDZJ7Jj5VofGZniXwyWEeiWex2DUhrzLQXtI/edit#gid=1800689519
+    */
+
+    var leaderboard = googletag.sizeMapping()
+    .addSize([1200, 0], [728, 90]) //Desktop LG
+    .addSize([728, 0], [728, 90]) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var billboard = googletag.sizeMapping()
+    .addSize([1200, 0], [[970, 250], [975, 100]]) //Desktop LG
+    .addSize([728, 0], [[970, 250], [975, 100]]) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var banner = googletag.sizeMapping()
+    .addSize([1200, 0], []) //Desktop LG
+    .addSize([728, 0], []) //Tablet MD
+    .addSize([0, 0], [320, 50]) //Phone SM
+    .build();
+
+    var mbox = googletag.sizeMapping()
+    .addSize([1200, 0], []) //Desktop LG
+    .addSize([728, 0], []) //Tablet MD
+    .addSize([0, 0], [[300, 600], [300, 250], [300, 150], 'fluid']) //Phone SM
+    .build();
+
+    var box = googletag.sizeMapping()
+    .addSize([1200, 0], [[300, 150], [300, 1050], [300, 250], [300, 600]]) //Desktop LG
+    .addSize([728, 0], [[300, 150], [300, 1050], [300, 250], [300, 600]]) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var mwidget = googletag.sizeMapping()
+    .addSize([1200, 0], []) //Desktop LG
+    .addSize([728, 0], []) //Tablet MD
+    .addSize([0, 0], [[300, 125], [300, 150], [300, 250]]) //Phone SM
+    .build();
+
+    var widget = googletag.sizeMapping()
+    .addSize([1200, 0], [[300, 125], [300, 150], [300, 250]]) //Desktop LG
+    .addSize([728, 0], [[300, 125], [300, 150], [300, 250]]) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var miniboard = googletag.sizeMapping()
+    .addSize([1200, 0], [[620, 160], 'fluid']) //Desktop LG
+    .addSize([728, 0], [[620, 160], 'fluid']) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var special = googletag.sizeMapping()
+    .addSize([1200, 0], [[1, 1], [500, 500], [1010, 60], [970, 90], [1010, 90]]) //Desktop LG
+    .addSize([728, 0], [[1, 1], [500, 500], [1010, 60], [970, 90], [1010, 90]]) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var skin = googletag.sizeMapping()
+    .addSize([1200, 0], [2, 2]) //Desktop LG
+    .addSize([728, 0], []) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var special = googletag.sizeMapping()
+    .addSize([1200, 0], [[500, 500], [1010, 60], [970, 90], [1, 1], [1010, 90]]) //Desktop LG
+    .addSize([728, 0], [[500, 500], [1010, 60], [970, 90], [1, 1], [1010, 90]]) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var skin = googletag.sizeMapping()
+    .addSize([1200, 0], [2, 2]) //Desktop LG
+    .addSize([728, 0], []) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var latest_news = googletag.sizeMapping()
+    .addSize([1200, 0], []) //Desktop LG
+    .addSize([728, 0], []) //Tablet MD
+    .addSize([0, 0], [[1, 1], [300, 250], 'fluid', [300, 600], [300, 150]]) //Phone SM
+    .build();
+
+    var native = googletag.sizeMapping()
+    .addSize([1200, 0], 'fluid') //Desktop LG
+    .addSize([728, 0],  'fluid') //Tablet MD
+    .addSize([0, 0], 'fluid') //Phone SM
+    .build();
+
+    //----------------------------------------------------------------------------
+    googletag.defineSlot('/13476663/amherstdaily/leaderboard_1', [], 'div-gpt-ad-amherstdaily-leaderboard-1').defineSizeMapping(leaderboard).addService(googletag.pubads());
+    googletag.defineSlot('/13476663/amherstdaily/leaderboard_2', [], 'div-gpt-ad-amherstdaily-leaderboard-2').defineSizeMapping(leaderboard).addService(googletag.pubads());
+    googletag.defineSlot('/13476663/amherstdaily/leaderboard_3', [], 'div-gpt-ad-amherstdaily-leaderboard-3').defineSizeMapping(leaderboard).addService(googletag.pubads());
+    googletag.defineSlot('/13476663/amherstdaily/banner_1', [], 'div-gpt-ad-amherstdaily-banner-1').defineSizeMapping(banner).addService(googletag.pubads());
+    googletag.defineSlot('/13476663/amherstdaily/banner_2', [], 'div-gpt-ad-amherstdaily-banner-2').defineSizeMapping(banner).addService(googletag.pubads());
+    googletag.defineSlot('/13476663/amherstdaily/billboard_1', [], 'div-gpt-ad-amherstdaily-billboard-1').defineSizeMapping(billboard).addService(googletag.pubads());
+
+    googletag.defineSlot('/13476663/amherstdaily/box_1', [], 'div-gpt-ad-amherstdaily-box-1').defineSizeMapping(box).addService(googletag.pubads());
+    googletag.defineSlot('/13476663/amherstdaily/box_2', [], 'div-gpt-ad-amherstdaily-box-2').defineSizeMapping(box).addService(googletag.pubads());
+    googletag.defineSlot('/13476663/amherstdaily/box_3', [], 'div-gpt-ad-amherstdaily-box-3').defineSizeMapping(box).addService(googletag.pubads());
+
+    googletag.defineSlot('/13476663/amherstdaily/mbox_1', [], 'div-gpt-ad-amherstdaily-mbox-1').defineSizeMapping(mbox).addService(googletag.pubads());
+    googletag.defineSlot('/13476663/amherstdaily/mbox_2', [], 'div-gpt-ad-amherstdaily-mbox-2').defineSizeMapping(mbox).addService(googletag.pubads());
+    googletag.defineSlot('/13476663/amherstdaily/mbox_3', [], 'div-gpt-ad-amherstdaily-mbox-3').defineSizeMapping(mbox).addService(googletag.pubads());
+
+    googletag.defineSlot('/13476663/amherstdaily/miniboard_1', [], 'div-gpt-ad-amherstdaily-miniboard-1').defineSizeMapping(miniboard).addService(googletag.pubads());
+    googletag.defineSlot('/13476663/amherstdaily/skin_1', [], 'div-gpt-ad-amherstdaily-skin-1').defineSizeMapping(skin).addService(googletag.pubads());
+
+    googletag.defineSlot('/13476663/amherstdaily/native_1', [], 'div-gpt-ad-amherstdaily-native-1').defineSizeMapping(native).addService(googletag.pubads());
+
+    
+
+    googletag.defineSlot('/13476663/amherstdaily/latestnews_1', [], 'div-gpt-ad-amherstdaily-latestnews-1').defineSizeMapping(latest_news).addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs(true);
+
+    googletag.pubads().setTargeting('dfp_preview', getParameterByName('dfp_preview'));
+    googletag.pubads().setTargeting('audience', dfp_lotame);
+    googletag.pubads().setTargeting('keywords', 'betty anne ’,river hebert,book miners,men ’,leblanc ’,second place,first place,area ’,curling team,nova scotia,place baby,ron hoeg,ray fagan,please bring,march break,husband ).,female teams,every month,emmie porter,edith purdy,david quinn,art class,nbsp,curling,century ago,book,held,games,crafts,winter,hoeg,one,lunch,info,darts,curlers,team,eglinton,century,castle,zumba,year,toss,topics,topic,three,terms,summer,sport,scotland,sampling,registration,reg,recently,readers,read,rachel,pre,photos,photologue,phones,people,part,open,odds,magician,maggie,longevity,laptops,keeping,january,greetings,fun,fourths,email,drop,downs,discuss,defy,curls,curl,continued,constructed,competing,chester,cache,built,ayrshire,attributed,addition');
+    googletag.pubads().setTargeting('referrer', jsRefer);
+    googletag.pubads().setTargeting('section', 'community');
+    googletag.pubads().setTargeting('author', 'Jamie Heap,');
+    googletag.pubads().setTargeting('page_url', '/community/celebrating-river-heberts-curling-accomplishments-34455/');
+    googletag.pubads().setTargeting('story_id', '34455');
+    googletag.pubads().setTargeting('get_params', params);
+    googletag.pubads().setTargeting('subscription', '0');
+    googletag.pubads().setTargeting('environment', 'prod');
+    googletag.pubads().setTargeting("slug","celebrating-river-heberts-curling-accomplishments-34455");
+    googletag.pubads().setTargeting("site","amherstdaily");
+    googletag.enableServices();
+  });
+
+</script>
+
+
+    <link rel="stylesheet" href="/static/dist/css/style.min.css">
+
+    <noscript>
+        <style>
+            .feature-slider{
+              display: none;
+            }
+            .form-label-float .control-label{
+              margin-top: -10px;
+              font-size: 0.8125rem;
+            }
+            .collapse{
+              display: block;
+            }
+        </style>
+        <div class="alert alert-danger alert-dismissible" role="alert">
+          <h4>Saltwire works best with JavaScript enabled.</h4>
+        </div>
+    </noscript>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="//oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+
+    <style>
+      .navbar-fixed-top{
+      margin-top: 80px;
+      }
+      .ie-alert{
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1001;
+      }
+
+    </style>
+    <div class="ie-alert alert alert-danger alert-dismissible" role="alert">
+      <h4 class="red">Your Browser Is Not Supported.</h4>
+      <p>Please upgrade to <a href='https://www.mozilla.org/en-US/firefox/new/#' class="alert-link">FireFox</a>,
+      <a href='https://www.google.com/chrome/browser/desktop/index.html' class="alert-link">Chrome</a>,
+      <a href='http://www.apple.com/safari/' class="alert-link">Safari</a> or to the latest version of
+      <a href='https://www.microsoft.com/en-us/download/internet-explorer.aspx' class="alert-link">Internet Explorer</a>. Thank You!</p>
+    </div>
+  <![endif]-->
+  <!-- Slimcut embed -->
+  <script src="/static/admin/js/filter-slim-cut.js"></script>
+  <script src="https://static.freeskreen.com/ba/216/freeskreen.min.js"></script>
+</head>
+
+<body id="article-34455" class="
+
+
+
+community None celebrating-river-heberts-curling-accomplishments-34455">
+    <div id='div-gpt-ad-amherstdaily-special-1' style="position: relative; margin: 0 auto; width: 970px;" class="hidden-md-down ad-center">
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-special-1'); });
+        </script>
+    </div>
+    <div id='div-gpt-ad-amherstdaily-skin-1' style='height:2px; width:2px;'>
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-skin-1'); });
+        </script>
+    </div>
+
+    <div class="container container-wrapper bg-white">
+
+
+
+<header>
+
+    
+
+    <div class="header-wrapper hidden-lg-down">
+        <div class="container-fluid">
+            <div class="row header-logo-row">
+                <div class="col-sm-12 col-lg-4 ">
+                    <div class="header-logo-wrapper">
+                        <a href="/"><img class="header-logo img-responsive" src="/static/overrides/cumberlandnewsnow/dist/img/dark-logo.png" alt="Cumberland News Now logo"></a>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-lg-8">
+                    <div class="fixed-content-wrapper">
+                        <div id='div-gpt-ad-amherstdaily-leaderboard-1' class="pull-right">
+                            <script>
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-leaderboard-1'); });
+                            </script>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+ <!-- Opens <header> -->
+
+
+<!-- Static navbar -->
+<nav class="navbar navbar-custom top-nav">
+    <div class="container-fluid">
+        <ul class="nav navbar-nav navbar-left">
+            <li><a href="/"><i class="fa fa-lg fa-home" aria-hidden="true"></i></a></li>
+            
+            
+              
+              <li><a href="/news/">News</a></li>
+              
+            
+            
+            
+              
+              <li><a href="/sports/">Sports</a></li>
+              
+            
+            
+            
+              
+              <li><a href="/business/">Business</a></li>
+              
+            
+            
+            
+              
+              <li><a href="/living/">Living</a></li>
+              
+            
+            
+            
+              
+              <li><a href="/opinion/">Opinion</a></li>
+              
+            
+            
+            
+            <li class="active"><a href="/community/">Community</a></li>
+            
+            
+            
+              
+              <li><a href="http://www.AtlanticClassifieds.ca" target="_blank" rel="noopener noreferrer">Classifieds</a></li>
+              
+            
+            
+            
+              
+              <li><a href="/obituaries/">Obituaries</a></li>
+              
+            
+            
+            
+              
+              <li><a href="http://www.creamcareers.ca" target="_blank" rel="noopener noreferrer">Jobs</a></li>
+              
+            
+            
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+            
+                <li><a class="social-link" href="http://www.cumberlandnewsnow.com/subscribe/" target="_blank" rel="noopener noreferrer"><i class="fa fa-lg fa-newspaper-o" aria-hidden="true"></i>&nbsp;<span>Subscribe</span></a></li>
+            
+            <li><a class="social-link" href="http://ns-news.pressreader.com/" target="_blank" rel="noopener noreferrer"><i class="fa fa-lg fa-tablet" aria-hidden="true"></i>&nbsp;<span>E-Edition</span></a></li>
+            
+                <li><a class="social-link" href="//cumberlandnewsnow.us16.list-manage.com/subscribe/post?u=4bd239742f3e882c22f391b7b&amp;amp;id=81e789b172" target="_blank" rel="noopener noreferrer"><i class="fa fa-lg fa-envelope-o" aria-hidden="true"></i>&nbsp;<span>Newsletter</span></a></li>
+            
+            <li class="dropdown">
+               <button type="button" class="nav-btn-search" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                 <span class="sr-only">Search</span>
+                 <i class="fa fa-lg fa-search" aria-hidden="true"></i>
+               </button>
+               <div id="nav-search" class="dropdown-menu nav-search">
+                   <div class="container-fluid">
+                     <form class="" method="GET" action="/search/">
+                       <div class="input-group form-label-float">
+                         <label class="control-label" for="desktop-nav-search">Search</label>
+                         <input type="text" class="form-control" id="desktop-nav-search" name="search">
+                         <span class="input-group-btn">
+                           <button class="btn btn-theme" type="submit">Go</button>
+                         </span>
+                       </div>
+                     </form>
+                   </div>
+                 <div class="triangle-up">
+                 </div>
+               </div>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+
+
+
+<nav class="navbar mobile-nav">
+    <div class="navbar-header">
+        <div class="container-fluid">
+            <a href="/">
+                <img class="navbar-brand" src="/static/overrides/cumberlandnewsnow/dist/img/reverse-logo.png" alt="Cumberland News Now logo">
+            </a>
+            <button type="button" class="burger-menu-btn collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <i class="burger-icon bm-animation"></i>
+                <span class="bg-menu-text">menu</span>
+            </button>
+        </div>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+        <div class="nav-search-mobile">
+            <div class="container-fluid">
+                <form class="" method="GET" action="/search/">
+                    <div class="input-group">
+                        <label class="control-label sr-only" for="mobile-nav-search">Search</label>
+                        <input type="text" class="form-control" id="search" name="search" placeholder="Search...">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+                        </span>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div id="accordion" role="tablist" aria-multiselectable="true">
+            <div class="section-wrapper">
+                <div class="mobile-nav-section">
+                    <div class="mobile-nav-section-item">
+                        <a class="mobile-nav-section-title" href="/">Home</a>
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        <a class="btn mobile-nav-dropdown-icon" href="/">
+                            <i class="fa fa-lg fa-angle-double-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            
+            <div class="section-wrapper panel thepanel">
+                <div class="mobile-nav-section" role="tab" id="News">
+                    <div class="mobile-nav-section-item">
+                        <a class="mobile-nav-section-title" href="/news">News</a>
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        <a class="btn mobile-nav-dropdown-icon collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-News" aria-expanded="true" aria-controls="collapse-News">
+                            <i class="fa fa-lg fa-plus" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="collapse" id="collapse-News" role="tabpanel" aria-labelledby="News">
+                    <ul class="nav mobile-nav-dropdown ">
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/news/all">All News</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/news/local">Local</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/news/regional">Regional</a></li>
+                        
+                        
+
+                    </ul>
+                </div>
+            </div>
+
+            
+            
+            
+            <div class="section-wrapper panel thepanel">
+                <div class="mobile-nav-section" role="tab" id="Sports">
+                    <div class="mobile-nav-section-item">
+                        <a class="mobile-nav-section-title" href="/sports">Sports</a>
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        <a class="btn mobile-nav-dropdown-icon collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-Sports" aria-expanded="true" aria-controls="collapse-Sports">
+                            <i class="fa fa-lg fa-plus" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="collapse" id="collapse-Sports" role="tabpanel" aria-labelledby="Sports">
+                    <ul class="nav mobile-nav-dropdown ">
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/all">All Sports</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/hockey">Hockey</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/baseball">Baseball</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/soccer">Soccer</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/football">Football</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/golf">Golf</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/curling">Curling</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/other-sports">Other-Sports</a></li>
+                        
+                        
+
+                    </ul>
+                </div>
+            </div>
+
+            
+            
+            
+            <div class="section-wrapper">
+                <div class="mobile-nav-section">
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="mobile-nav-section-title" href="/business">Business</a>
+                        
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="btn mobile-nav-dropdown-icon" href="/business">
+                        
+                            <i class="fa fa-lg fa-angle-double-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            <div class="section-wrapper">
+                <div class="mobile-nav-section">
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="mobile-nav-section-title" href="/living">Living</a>
+                        
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="btn mobile-nav-dropdown-icon" href="/living">
+                        
+                            <i class="fa fa-lg fa-angle-double-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            <div class="section-wrapper panel thepanel">
+                <div class="mobile-nav-section" role="tab" id="Opinion">
+                    <div class="mobile-nav-section-item">
+                        <a class="mobile-nav-section-title" href="/opinion">Opinion</a>
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        <a class="btn mobile-nav-dropdown-icon collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-Opinion" aria-expanded="true" aria-controls="collapse-Opinion">
+                            <i class="fa fa-lg fa-plus" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="collapse" id="collapse-Opinion" role="tabpanel" aria-labelledby="Opinion">
+                    <ul class="nav mobile-nav-dropdown ">
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/opinion/all">All Opinion</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/opinion/columnists">Columnists</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/opinion/editorials">Editorials</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/opinion/letter-to-the-editor">Letter to the editor</a></li>
+                        
+                        
+
+                    </ul>
+                </div>
+            </div>
+
+            
+            
+            
+            <div class="section-wrapper">
+                <div class="mobile-nav-section">
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="mobile-nav-section-title" href="/community">Community</a>
+                        
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="btn mobile-nav-dropdown-icon" href="/community">
+                        
+                            <i class="fa fa-lg fa-angle-double-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            <div class="section-wrapper">
+                <div class="mobile-nav-section">
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="mobile-nav-section-title" href="http://www.AtlanticClassifieds.ca" target="_blank" rel="noopener noreferrer">Classifieds</a>
+                        
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="btn mobile-nav-dropdown-icon" href="http://www.AtlanticClassifieds.ca" target="_blank" rel="noopener noreferrer">
+                        
+                            <i class="fa fa-lg fa-angle-double-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            <div class="section-wrapper">
+                <div class="mobile-nav-section">
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="mobile-nav-section-title" href="/obituaries">Obituaries</a>
+                        
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="btn mobile-nav-dropdown-icon" href="/obituaries">
+                        
+                            <i class="fa fa-lg fa-angle-double-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            <div class="section-wrapper">
+                <div class="mobile-nav-section">
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="mobile-nav-section-title" href="http://www.creamcareers.ca" target="_blank" rel="noopener noreferrer">Jobs</a>
+                        
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="btn mobile-nav-dropdown-icon" href="http://www.creamcareers.ca" target="_blank" rel="noopener noreferrer">
+                        
+                            <i class="fa fa-lg fa-angle-double-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            
+        </div>
+
+
+        <div class="social-icons">
+            <ul class="list-inline">
+              
+                  <li><a class="social-link" href="http://www.cumberlandnewsnow.com/subscribe/" target="_blank" rel="noopener noreferrer"><i class="fa fa-lg fa-newspaper-o" aria-hidden="true"></i>&nbsp;<span>Subscribe</span></a></li>
+              
+              <li><a class="social-link" href="http://ns-news.pressreader.com/" target="_blank" rel="noopener noreferrer"><i class="fa fa-lg fa-tablet" aria-hidden="true"></i>&nbsp;<span>E-Edition</span></a></li>
+                
+                    <li><a class="social-link" href="//cumberlandnewsnow.us16.list-manage.com/subscribe/post?u=4bd239742f3e882c22f391b7b&amp;amp;id=81e789b172" target="_blank" rel="noopener noreferrer"><i class="fa fa-lg fa-envelope-o" aria-hidden="true"></i>&nbsp;<span>Newsletter</span></a></li>
+                
+            </ul>
+            
+            <ul class="list-inline social-block">
+                <li><span>Find us on:</span></li>
+                
+                <li><a class="social-icon" href="http://facebook.com/AmherstNewsTheCitizenRecord" target="_blank" rel="noopener noreferrer"><i class="fa fa-lg fa-facebook" aria-hidden="true"></i></a></li>
+                
+                
+                <li><a class="social-icon" href="http://twitter.com/amherstdaily" target="_blank" rel="noopener noreferrer"><i class="fa fa-lg fa-twitter" aria-hidden="true"></i></a></li>
+                
+            </ul>
+            
+        </div>
+    </div>
+</nav>
+
+</header>
+ <!-- Closes </header> -->
+
+
+
+<main>
+  
+
+
+<section>
+    <h2 class="sr-only">Top News</h2>
+    
+    <div class="row feature-slider list-group">
+        
+        <article class="story story-h">
+            
+            <a href="/sports/armchair-olympians-day-8-184442/" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/sw-web-09022018-ACO-sw_1100_thumbnail.jpg" alt="Armchair Olympians">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">Armchair Olympians Day 8</h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/living/free-ebook-to-mark-alzheimers-awareness-month-181528/" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/Atlantic_Nights_ibook_graphic_1400px_wide_thumbnail.jpg" alt="Atlantic Nights is now available as an ebook.">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">Free ebook to mark Alzheimer&#39;s Awareness Month</h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/opinion/time-to-raise-the-bar-in-education-184705/" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/commentary-with-geoff-degannes-3157216_thumbnail.jpg" alt="[&#39;Commentary with Geoff deGannes&#39;]">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">Time to ‘raise the bar’ in education</h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/opinion/neighbours-helping-neighbours-184703/" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/hallee-2898924_thumbnail.jpg" alt="[&#39;Perspectives with Shirley Hallee&#39;]">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">Neighbours helping neighbours</h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/news/big-honours-for-mount-allison-professor-184698/" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/C-Verduyn_thumbnail.jpg" alt="Mount Allison professor Dr. Christl Verduyn has been named a 2018 3M National Teaching Fellow.">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">Big honours for Mount Allison professor</h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/opinion/russell-wangersky-this-too-shall-pass-184680/" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/tel-web-09022018-wangersky_column-123_thumbnail.jpg" alt="Information overload">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">Russell Wangersky: This, too, shall pass</h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/community/whats-the-big-deal-with-plastic-bags-184708/" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/an-01022017-solidwaste-dm_thumbnail.jpg" alt="Take all the guesswork out of garbage collection by purchasing the free Cumberland County Solid Waste app, displayed here by Brenda Rioux, waste reduction coordinator at the Cumberland Joint Services Management Authority.">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">What’s the big deal with plastic bags?</h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/news/mount-allisons-symphonic-band-hosting-love-in-the-time-of-the-wind-band-184715/" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/AN-B09-09022018-MtA-Music_thumbnail.jpg" alt="Mount Allison Symphonic Band.">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">Mount Allison’s symphonic band hosting Love in the Time of the Wind ...</h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/news/make-way-program-gaining-steam-at-nscc-cumberland-175736/" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/McCormack-NSCC_thumbnail.jpg" alt="Nova Scotia Community College Cumberland Campus principal Don McCormack speaks to members of the Amherst Rotary Club.">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">Make Way program gaining steam at NSCC Cumberland</h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/community/snowshoe-program-proving-popular-in-amherst-175750/" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/Snowshoe-Program_hCut9T9_thumbnail.jpg" alt="A snowshoe lending program being offered in Amherst and other locations across Cumberland County is proving very popular. Amherst facilities co-ordinator Corey Crocker (left), Jeff MacNeil from the Cumberland YMCA and Amherst’s active lifestyles co-ordinator Tamara Porter are shown with just some of the snowshoes that can be borrowed.">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">Snowshoe program proving popular in Amherst</h3>
+                </div>
+            </a>
+        </article>
+        
+    </div>
+    
+    <div style="clear:both;"></div>
+</section>
+
+  
+<div class="fixed-content-wrapper">
+   <div class="mt-3 hidden-sm-up">
+       <div id='div-gpt-ad-amherstdaily-banner-1' class="ad-center">
+           <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-banner-1'); });
+           </script>
+       </div>
+   </div>
+   <div class="mt-3 hidden-sm-down hidden-lg-up">
+       <div id='div-gpt-ad-amherstdaily-leaderboard-2' class="ad-center">
+           <script>
+               googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-leaderboard-2'); });
+           </script>
+       </div>
+   </div>
+   <div class="mt-3 hidden-lg-down">
+       <div id='div-gpt-ad-amherstdaily-billboard-1' class="ad-center">
+           <script>
+               googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-billboard-1'); });
+           </script>
+       </div>
+   </div>
+</div>
+
+<div class="content-wrapper">
+    <div class="content-block">
+        <article>
+            <div class="container-fluid">
+                <header class="article-header">
+                    
+                    
+                    <h1 class="article-headline">Celebrating River Hebert’s curling accomplishments</h1>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="article-meta text-muted">
+                                <div class="article-byline">
+                                    
+                                        
+                                        <span class="article-author">Jamie Heap</span>
+                                            
+                                            <span class="article-author-email">
+                                                <a class="text-muted" href="mailto:jmheap@mta.ca ">(jmheap@mta.ca)</a>
+                                            </span>
+                                            
+                                        <br>
+                                        
+                                    
+
+                                </div>
+                                
+                                
+                                  <span class="article-date" title="Published Feb 19, 2014 at midnight"><strong>Published: </strong>Feb 19, 2014 at midnight</span>
+                                 <!--if article.updated_at|determine_updated_recently -->
+                                
+                                    <div class="article-date" title="Updated Sep 29, 2017 at 7:10 p.m."><strong>Updated: </strong>Sep 29, 2017 at 7:10 p.m.</div>
+                                    <!--Ending (if article|determine_updated_recently)-->
+                                
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="article-sharing">
+                                <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                                <div class="addthis_inline_share_toolbox"></div>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+
+                
+                <figure>
+                    
+                </figure>
+                
+
+                <hr>
+
+                <div class="fixed-content-wrapper hidden-sm-up my-3">
+                    <div id='div-gpt-ad-amherstdaily-mbox-1' class="ad-center hidden-md-up">
+                        <script>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-mbox-1'); });
+                        </script>
+                    </div>
+                </div>
+
+                
+                <h2 class="article-lead">
+                    <strong>River Hebert and area news</strong>
+                </h2>
+                
+
+                <div class="article-content">
+                    <figure><img src="/media/photologue/photos/cache/curling-at-eglinton-castle-ayrshire-sc-2557636_medium.jpg"><figcaption>A curling match at Eglinton castle, Ayrshire, Scotland on February 2, 1860. People have been curling in River Hebert, Nova Scotia since the early 1900s when the Brookside Curling Club was first founded. A new Brookside Curling Club facility was constructed in 1985.</figcaption></figure><p>Greetings. In keeping with the sporting spirit of the Sochi Winter Olympic Games, no sport, winter or summer, can rival curling in terms of the longevity and success enjoyed by those curlers connected to River Hebert and its Brookside Curling club.</p>
+<p>Over a century ago, the first Brookside Curling club was constructed in River Hebert. In 1985, a new Brookside Curling club was built for curlers to curl in.</p>
+<p>A pictorial tour of the Brookside Curling club reveals that Betty Anne Scopie, Nancy Beardsley, Debbie Jackson and Barbara Jane Terrio won a provincial curling championship in 1973, one of several titles won by female teams. In 1969, a men’s team from the Brookside Curling club won the McLellan Cup.</p>
+<p>One of our area’s most prolific curlers is Ron Hoeg (Betty Anne’s husband). In a career spanning four decades, Hoeg has won multiple provincial legion curling titles with his twin brother Bob Hoeg at both the open and senior level since 1984.</p>
+<p>In January, Brookside Curling club alumnus Peter Beaton, Brandon McLellan and David Quinn, three-fourths of the St. Francis Xavier men’s curling team, continued to defy the odds by competing at Atlantic University play-downs in Fredericton.</p>
+<p>In addition, River Hebert’s Reg and Marion Daborn’s 15-year-old granddaughter Janique LeBlanc is part of an accomplished junior girls’ rink that curls out of Chester, Nova Scotia. Most recently, LeBlanc’s team won bronze curling medals.</p>
+<p>The aforesaid represents only a sampling of the curling accomplishments that can be attributed to River Hebert curlers and its century-old Brookside Curling club that held their annual Old Souls Bonspiel and silent auction this past weekend.</p>
+<p>New Horizons card party results for February 10-Ladies’ first place and door prize winner: Emmie Porter; ladies’ second place: Edith Purdy. Men’s first place: Ray Fagan; men’s second place: Bill McAloney; Consolation prize: Mildred Brown.</p>
+<p><strong>What’s on at the River Hebert branch library</strong>?</p>
+<p>February 20: River Hebert Book Miners.&nbsp; Meetings held third Thursday of every month from 6:00 pm-7:00 pm. Topic: discuss the book(s) you read for February;</p>
+<p>March 6: Lego Robotics, ages 9-13, 4:00 pm-6:00 pm. Phone 251-2324 to register;</p>
+<p>March 12: Shrivelling Shamrock stories crafts and fun for P-6.11:00 am-12:00 pm;</p>
+<p>March 18: Social Media 101, 3:00-5:00 pm. Call 251-2324 or drop in to register;</p>
+<p>March 20: Book Miners: The Winter Palace by Eva Stachniak;</p>
+<p>March 26: One-on-one bookable times with Rachel from 4:00 pm-6:00 pm. Topics &nbsp;include tablets, E-Readers, laptops and phones. Call 251-2324 for more details.</p>
+<p><strong>What’s on in River Hebert and Joggins?</strong></p>
+<p>February 19: Wednesday night bingo at the Joggins fire hall at 7:00 pm;</p>
+<p>February 21: River Hebert seniors’ card party at 7:00 pm at the community hall;</p>
+<p>February 21:&nbsp; Friday night darts at the Joggins legion starting at 7:30 pm;</p>
+<p>February 22: Saturday night washer-toss at the River Hebert legion at 7:00 pm;</p>
+<p>February 23: Joggins Improvement Committee bingo.7:00 pm at Joggins fire hall;</p>
+<p>February 24: New Horizons card party at Joggins log building at 1:00 pm;</p>
+<p>February 25: Tuesday night men’s darts at the River Hebert legion at 7:00 pm;</p>
+<p>February 25: Tuesday night bingo at the Joggins legion starting at 7:00 pm.</p>
+<p><strong>What’s on this March break at the Joggins Fossil Centre?</strong></p>
+<p>March 10: Maggie's Place baby-sitting course from 9:00 am until 4:00 pm. Free lunch included. Participants must be over 12 years old;</p>
+<p>March 11-13: Various activities from 10:00 am-2:30 pm-Mad Science workshops, Mr. J the Magician, zumba, art class, organic gardening, crafts, games and more. Five dollars per day. Please bring own lunch. Snacks provided.</p>
+<p>Pre-registration by March 5. Phone 251-2727, extension 221 or email <a href="mailto:info@jogginsfossilcliffs.net">info@jogginsfossilcliffs.net</a></p>
+                </div>
+                <div class="fixed-content-wrapper my-3">
+                    <div id='div-gpt-ad-amherstdaily-miniboard-1' class="ad-center hidden-sm-down">
+                        <script>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-miniboard-1'); });
+                        </script>
+                    </div>
+                    <div id='div-gpt-ad-amherstdaily-mbox-2' class="ad-center hidden-sm-up">
+                        <script>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-mbox-2'); });
+                        </script>
+                    </div>
+                </div>
+                
+            </div>
+        </article>
+         
+
+<section class="related-block mt-3 sticky">
+    <div class="container-fluid">
+        <div class="section-title">
+            <h2 class="section-title-heading">More community stories</h2>
+        </div>
+
+        <div class="row story-group auto-clear-xs auto-clear-md auto-clear-lg">
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/community/i-expected-more-from-our-elected-officials-186687/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/walt-s-world-with-walter-jones-3149261_medium.jpg" alt="[&quot;Walt&#39;s World with Walter Jones&quot;]">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                I expected more from our elected officials
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                  <li class="story-meta-item" title="Published 11 hours ago">Published 11 hours ago</li>
+                                 <!--if article.updated_at|determine_updated_recently -->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/community/everyone-ready-for-valentines-day-186024/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/williamsdale-news-with-margaret-reid-3154489_medium.jpg" alt="[&#39;Williamsdale News with Margaret Reid&#39;]">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                Everyone ready for Valentine’s Day?
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                  <li class="story-meta-item" title="Published Feb 14, 2018 at 11:25 a.m.">Published Feb 14, 2018 at 11:25 a.m.</li>
+                                 <!--if article.updated_at|determine_updated_recently -->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/community/a-treatise-on-letting-go-186666/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/at-the-library-with-denise-corey-3061676_medium.jpg" alt="[&#39;At the Library with Denise Corey&#39;]">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                A treatise on letting go
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                  <li class="story-meta-item" title="Published 11 hours ago">Published 11 hours ago</li>
+                                 <!--if article.updated_at|determine_updated_recently -->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/community/ad-for-carters-auction-services-186703/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/Carters_medium.jpg" alt="This ad got missed in Friday&#39;s edition of the Amherst News.">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                Ad for Carter&#39;s Auction Services
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                    <li class="story-meta-item" title="Updated Feb 16, 2018 at 10:18 a.m.">Updated 10 hours ago</li>
+                                    <!--Ending (if article|determine_updated_recently)-->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/community/digby-arm-wrestler-lending-a-hand-and-an-arm-to-help-a-dad-battling-cancer-by-organizing-fundraiser-186655/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/YV-16022018-armwrestling_medium.jpg" alt="Ronny Morehouse, an eight-time champion in arm wrestling, pictured at the Sunset Pub in Digby. He&#39;s organizing an arm wrestling fundraiser to help a local father battling a rare cancer. LAURA REMAN">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                Digby arm wrestler lending a hand, and an arm, to help a dad battling cancer by organizing fundraiser
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                  <li class="story-meta-item" title="Published 12 hours ago">Published 12 hours ago</li>
+                                 <!--if article.updated_at|determine_updated_recently -->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/community/whats-up-rec-186667/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/AN-B03-16022018-Whats-up-rec_medium.jpg" alt="Amherst Winter Carnival">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                What’s up rec?
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                  <li class="story-meta-item" title="Published 11 hours ago">Published 11 hours ago</li>
+                                 <!--if article.updated_at|determine_updated_recently -->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/community/scallop-supper-in-advocate-on-feb-17-186021/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/new-salem-area-news-with-terry-gulliver-3154486_medium.jpg" alt="[&#39;New Salem Area News with Terry Gulliver&#39;]">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                Scallop supper in Advocate on Feb. 17
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                  <li class="story-meta-item" title="Published Feb 14, 2018 at 11:23 a.m.">Published Feb 14, 2018 at 11:23 a.m.</li>
+                                 <!--if article.updated_at|determine_updated_recently -->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/community/no-winner-in-pugwash-fire-departments-50-50-draw-186023/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/pugwash-and-area-news-with-mary-patterso-3161917_medium.jpg" alt="Pugwash and Area News with Mary Patterson">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                No winner in Pugwash fire department’s 50/50 draw
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                  <li class="story-meta-item" title="Published Feb 14, 2018 at 11:24 a.m.">Published Feb 14, 2018 at 11:24 a.m.</li>
+                                 <!--if article.updated_at|determine_updated_recently -->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+        <div class="fixed-content-wrapper my-3">
+            <div id='div-gpt-ad-amherstdaily-mbox-3' class="ad-center hidden-md-up">
+                <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-mbox-3'); });
+                </script>
+            </div>
+        </div>
+    </div>
+    <aside class="content-block-fixed-sidebar hidden-sm-down">
+        
+
+
+<div class="fixed-content-wrapper my-3">
+    <div id='div-gpt-ad-amherstdaily-box-1' class="ad-center">
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-box-1'); });
+        </script>
+    </div>
+</div>
+
+<div class="top-stories-block">
+</div>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        $.ajax({
+            url: '/admin/sidebars/update-trending-stories/',
+            dataType: 'json',
+            method: 'get',
+            success: function (data) {
+                $('.top-stories-block').html(data);
+            }
+        });
+    });
+</script>
+
+
+
+    <div class="fixed-content-wrapper my-3">
+        <div id='div-gpt-ad-amherstdaily-box-2' class="bigbox ad-center">
+            <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-box-2'); });
+            </script>
+        </div>
+    </div>
+
+
+
+
+<div id="sticky-wrapper" class="sticky-wrapper">
+    <div class="fixed-content-wrapper my-3 sticky">
+        <div id='div-gpt-ad-amherstdaily-box-3' class="ad-center box-3">
+            <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-box-3'); });
+            </script>
+        </div>
+    </div>
+</div>
+
+    </aside>
+</div>
+
+ <!-- Main content region -->
+</main>
+
+
+
+<div id="feature-pages-block">
+
+</div>
+
+
+
+<section class="latest-news-block">
+
+    <div class="container-fluid">
+        <div class="section-title">
+            <h2 class="section-title-heading">Recent Stories</h2>
+        </div>
+    </div>
+    <div class="content-wrapper">
+        <div class="content-block">
+            <div class="container-fluid">
+                
+                <div class="row auto-clear-sm auto-clear-md auto-clear-lg">
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/sports/amherst-skaters-succeed-at-mccall-meet-186850/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/AN-B01-16022018-FigureSkating-DM_thumbnail.jpg" class="img-responsive" alt="Amherst Skating Club figure skaters displaying the medals and ribbons they earned at the Robert McCall Memorial competition are: (from left) Rachel MacDiarmid, Eve Scott, Hannah Doucette, Olivia Doucette, Isabel Brownell, and Savanah Cobbett. Missing from photo is Kennedy Hyatt.">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        Amherst skaters succeed at McCall meet
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/news/rural-nova-scotia-health-care-crisis-working-group-formed-as-a-result-of-discussion-in-shelburne-186777/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/YV-21022018-healthshelburne4_thumbnail.jpg" class="img-responsive" alt="People listen to the conversation about the state of rural health care during an open discussion on Feb. 15 that attracted representatives of 11 different municipal units. KATHY JOHNSON PHOTO">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        Rural Nova Scotia health-care crisis working group formed as a result of discussion in Shelburne
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/sports/tim-arsenault-bruce-rainnies-happy-gruelling-olympic-curling-marathon-186772/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/sw-web-16022018-AO_arsenault_rainnie-cbc_thumbnail.jpg" class="img-responsive" alt="Bruce Rainnie, left, Joan McCusker and Mike Harris, discuss Team Canada&#39;s 7-4 win over Norway in men&#39;s curling in the Gangneung, South Korea, on Thursday in this screen grab from CBC’s Olympics website.">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        Tim Arsenault: Bruce Rainnie’s happy, gruelling Olympic curling marathon
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/news/lockhart-running-for-cumberland-south-liberal-nomination-186732/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/CSouth-Liberals-Lockhart_thumbnail.jpg" class="img-responsive" alt="Scott Lockhart is seeking the Liberal nomination in Cumberland South.">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        Lockhart running for Cumberland South Liberal nomination
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/sports/jenna-conter-always-up-for-some-olympic-air-186720/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/sw-web-16022018-AO_conter_arials-ks_thumbnail.jpg" class="img-responsive" alt="Arials">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        Jenna Conter: Always up for some Olympic air
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/community/ad-for-carters-auction-services-186703/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/Carters_thumbnail.jpg" class="img-responsive" alt="This ad got missed in Friday&#39;s edition of the Amherst News.">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        Ad for Carter&#39;s Auction Services
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    <div class="col-sm-12 fixed-content-wrapper hidden-sm-up">
+                        <div id='div-gpt-ad-amherstdaily-latestnews-1' class="ad-center mb-4">
+                            <script>
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-latestnews-1'); });
+                            </script>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/opinion/gender-neutral-anthem-puts-us-on-the-right-side-of-history-186698/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/commentary-with-geoff-degannes-3157216_thumbnail.jpg" class="img-responsive" alt="[&#39;Commentary with Geoff deGannes&#39;]">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        Gender neutral anthem puts us on the right side of history
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/opinion/when-abusive-behaviour-becomes-very-public-186696/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/hallee-2898924_thumbnail.jpg" class="img-responsive" alt="[&#39;Perspectives with Shirley Hallee&#39;]">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        When abusive behaviour becomes very public
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/opinion/take-pride-in-maritime-pride-186695/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/community-editorial-panel-with-clare-chr-3034421_thumbnail.jpg" class="img-responsive" alt="Community Editorial Panel with Clare Christie">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        Take pride in Maritime Pride
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/sports/ramblers-entering-home-stretch-needing-wins-186694/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/AN-B01-16022018-Ramblers-Weekend-DM_thumbnail.jpg" class="img-responsive" alt="Ramblers defenceman Dawson Grenier had a fingernail painted purple by Kathy Amaran, a volunteer at Autumn House, Tuesday afternoon outside the Ramblers dressing room. All Ramblers players will have one of their nails painted purple when they take to the ice against the Woodstock Slammers Saturday night at 7 p.m. Painting a fingernail is part of the Polished Man campaign, which challenges men, and women, to paint one fingernail purple to represent putting an end to family violence. People attending Saturday’s game can have a nail painted purple for a $2 donation to Autumn House, which supports programs and services for survivors of domestic violence.">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        Ramblers entering home stretch needing wins
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/community/we-have-to-do-better-at-preventing-poverty-186689/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/AN-B10-16022018-Dowe-Health_thumbnail.jpg" class="img-responsive" alt="Veronica Richards (seated) and Colleen Dowe show off Chew On this pamphlets that promote the eradication of poverty in Canada.">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        We have to do better at preventing poverty
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/community/i-expected-more-from-our-elected-officials-186687/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/walt-s-world-with-walter-jones-3149261_thumbnail.jpg" class="img-responsive" alt="[&quot;Walt&#39;s World with Walter Jones&quot;]">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        I expected more from our elected officials
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                </div>
+                
+            </div>
+        </div>
+        <aside class="content-block-fixed-sidebar">
+            
+                <div class="twitter-embed-wrapper">
+                    <a class="twitter-timeline" data-width="300" data-height="545" data-theme="light" data-link-color="#F47920" href="https://twitter.com/amherstdaily">Cumberland News Now Tweets</a>
+                    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+            
+        </aside>
+    </div>
+</section>
+
+<div class="container hidden-xs" id="footer-leaderboard">
+    <div class="row">
+        <div id='div-gpt-ad-amherstdaily-leaderboard-3' class="ad-center hidden-sm-down">
+            <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-leaderboard-3'); });
+            </script>
+        </div>
+    </div>
+</div>
+<style media="screen">
+    .slick-list {
+        padding: 0;
+    }
+</style>
+
+
+<footer class="footer small mt-3">
+    <div class="footer-section footer-section-1">
+        <div class="container-fluid">
+            <div class="company-info">
+                <div class="company-info-section">
+                    <a href="/">
+                        <img class="img-responsive footer-logo" src="/static/overrides/cumberlandnewsnow/dist/img/reverse-logo.png" alt="Cumberland News Now logo" width="200">
+                    </a>
+                </div>
+                
+                <div class="company-info-section company-links">
+                    <div class="btn-group " role="group" aria-label="">
+                        
+                        <div id="fb-root"></div>
+                        <script>(function(d, s, id) { {}
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) return;
+                        js = d.createElement(s); js.id = id;
+                        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=1349627195154243";
+                        fjs.parentNode.insertBefore(js, fjs);
+                        }(document, 'script', 'facebook-jssdk'));</script>
+                        <div class="fb-like" data-href="http://www.facebook.com/AmherstNewsTheCitizenRecord" data-layout="button" data-action="like" data-size="small" data-show-faces="true" data-share="false"></div>
+                        
+
+                        
+                        <a href="https://twitter.com/amherstdaily" class="twitter-follow-button" data-show-count="false">Follow @amherstdaily</a>
+                        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                        
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="footer-section footer-section-2">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-7 col-md-6 col-lg-4 newsletter-block">
+                    
+                    <form class="" action="//cumberlandnewsnow.us16.list-manage.com/subscribe/post?u=4bd239742f3e882c22f391b7b&amp;amp;id=81e789b172" method="post">
+                        <label class="control-label newsletter-title" for="newsletter-email">Sign up for our newsletter</label>
+                        <div class="input-group">
+                            <input type="email" class="form-control" name="EMAIL" id="mce-EMAIL" placeholder="Enter E-mail address">
+                                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                                    <input type="text" name="b_4bd239742f3e882c22f391b7b_81e789b172" tabindex="-1" value="">
+                                </div>
+                            <span class="input-group-btn">
+                                <input type="submit" name="submit" class="btn btn-theme" value="Go">
+                            </span>
+                        </div>
+                    </form>
+                    
+                </div>
+                <div class="col-sm-12 col-lg-8">
+                    <nav>
+                        <div class="row footer-nav">
+                            
+                            
+                            <div class="footer-nav-section col-xs-6 col-sm-3">
+
+                                <span class="footer-section-title">Services</span>
+                                <ul class="list sub-section">
+                                    
+                                        
+                                        <li><a href="http://ns-news.pressreader.com/" target="_blank" rel="noopener noreferrer">E-Edition</a></li>
+                                        
+                                    
+                                </ul>
+                            </div>
+                            
+                            
+                            
+                            
+                            
+                            <div class="footer-nav-section col-xs-6 col-sm-3">
+
+                                <span class="footer-section-title">Customer Service</span>
+                                <ul class="list sub-section">
+                                    
+                                        
+                                        <li><a href="/contact-us">Contact Us</a></li>
+                                        
+                                    
+                                </ul>
+                            </div>
+                            
+                            
+                            
+                            
+                            
+                            <div class="footer-nav-section col-xs-6 col-sm-3">
+
+                                <span class="footer-section-title">Terms &amp; Policies</span>
+                                <ul class="list sub-section">
+                                    
+                                        
+                                        <li><a href="http://saltwire.com/termsofuse.pdf" target="_blank" rel="noopener noreferrer">Terms of Use</a></li>
+                                        
+                                    
+                                        
+                                        <li><a href="http://saltwire.com/saltwire_privacy_policy.pdf" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>
+                                        
+                                    
+                                        
+                                        <li><a href="http://saltwire.com/saltwire_copyright_terms.pdf" target="_blank" rel="noopener noreferrer">Copyright</a></li>
+                                        
+                                    
+                                </ul>
+                            </div>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            <div class="footer-nav-section col-xs-6 col-sm-3">
+                                <div class="footer-e-edition">
+                                    <a href="http://ns-news.pressreader.com/" target="_blank" rel="noopener noreferrer">
+                                      <img src="/static/dist/img/responsive-web-design.png" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="fixed-content-wrapper sticky-footer-wrapper">
+        <div class="hidden-sm-up">
+            <div id='div-gpt-ad-amherstdaily-banner-2'>
+                <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-amherstdaily-banner-2'); });
+                </script>
+            </div>
+        </div>
+    </div>
+    <div class="footer-section footer-section-3">
+        <div class="container-fluid">
+            <div class="company-info">
+                <div class="company-info-section">
+                    <a href="http://saltwire.com/" target="_blank" rel="noopener noreferrer"><img class="img-responsive footer-logo" src="/static/dist/img/network.png" width="150" alt="SaltWire Network logo"></a>
+                    <div class="open_sites"><i class="fa fa-caret-down" aria-hidden="true"></i></div>
+                    <div class="sw_sites">
+                        
+                            <a href="//www.annapoliscountyspectator.ca" class="site">
+                                <img src="/static/overrides/annapoliscountyspectator/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.capebretonpost.com" class="site">
+                                <img src="/static/overrides/capebretonpost/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.cbncompass.ca" class="site">
+                                <img src="/static/overrides/cbncompass/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.cumberlandnewsnow.com" class="site">
+                                <img src="/static/overrides/cumberlandnewsnow/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.digbycourier.ca" class="site">
+                                <img src="/static/overrides/digbycourier/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.ganderbeacon.ca" class="site">
+                                <img src="/static/overrides/ganderbeacon/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.gfwadvertiser.ca" class="site">
+                                <img src="/static/overrides/gfwadvertiser/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.gulfnews.ca" class="site">
+                                <img src="/static/overrides/gulfnews/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.hantsjournal.ca" class="site">
+                                <img src="/static/overrides/hantsjournal/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.journalpioneer.com" class="site">
+                                <img src="/static/overrides/journalpioneer/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.kingscountynews.ca" class="site">
+                                <img src="/static/overrides/kingscountynews/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.lportepilot.ca" class="site">
+                                <img src="/static/overrides/lportepilot/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.ngnews.ca" class="site">
+                                <img src="/static/overrides/ngnews/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.northernpen.ca" class="site">
+                                <img src="/static/overrides/northernpen/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.novanewsnow.com" class="site">
+                                <img src="/static/overrides/novanewsnow/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.sackvilletribunepost.com" class="site">
+                                <img src="/static/overrides/sackvilletribunepost/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.southerngazette.ca" class="site">
+                                <img src="/static/overrides/southerngazette/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.theadvance.ca" class="site">
+                                <img src="/static/overrides/theadvance/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.theaurora.ca" class="site">
+                                <img src="/static/overrides/theaurora/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thecoastguard.ca" class="site">
+                                <img src="/static/overrides/thecoastguard/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.theguardian.pe.ca" class="site">
+                                <img src="/static/overrides/theguardian/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thelabradorian.ca" class="site">
+                                <img src="/static/overrides/thelabradorian/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thenorwester.ca" class="site">
+                                <img src="/static/overrides/thenorwester/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thepacket.ca" class="site">
+                                <img src="/static/overrides/thepacket/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thetelegram.com" class="site">
+                                <img src="/static/overrides/thetelegram/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thevanguard.ca" class="site">
+                                <img src="/static/overrides/thevanguard/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thewesternstar.com" class="site">
+                                <img src="/static/overrides/thewesternstar/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.trurodaily.com" class="site">
+                                <img src="/static/overrides/trurodaily/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                    </div>
+                </div>
+                <div class="company-info-section company-links">
+                    <small>All rights reserved SaltWire Network &#169; 2018</small>
+                    <ul class="list-inline">
+                        <li><a href="http://youradchoices.ca/choices" title="AdChoices" target="_blank" rel="noopener noreferrer"><img src="/static/dist/img/adchoices.png" alt="AdChoices icon" width="15px">&nbsp;AdChoices</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</div>
+
+
+    
+        <!-- Segment Pixel -->
+        <script src="https://secure.adnxs.com/seg?add=10512728&t=1" type="text/javascript"></script>
+        <!-- End of Segment Pixel -->
+    
+        <!-- Segment Pixel -->
+        <script src="https://secure.adnxs.com/seg?add=10512684&t=1" type="text/javascript"></script>
+        <!-- End of Segment Pixel -->
+    
+        <!-- Segment Pixel -->
+        <script src="https://secure.adnxs.com/seg?add=10512686&t=1" type="text/javascript"></script>
+        <!-- End of Segment Pixel -->
+    
+        <!-- Segment Pixel -->
+        <script src="https://secure.adnxs.com/seg?add=10512687&t=1" type="text/javascript"></script>
+        <!-- End of Segment Pixel -->
+    
+
+
+<script src="//www.google.com/recaptcha/api.js"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59bbc9a0d115444a"></script>
+
+  <script type="text/javascript">var _sf_async_config={};_sf_async_config.uid=57989,_sf_async_config.domain="ns-nb.dashboard",_sf_async_config.useCanonical=!0,_sf_async_config.sections="cumberlandnewsnow.com",_sf_async_config.authors="Jamie Heap",function(){function t(){window._sf_endpt=(new Date).getTime();var t=document.createElement("script");t.setAttribute("language","javascript"),t.setAttribute("type","text/javascript"),t.setAttribute("src","//static.chartbeat.com/js/chartbeat.js"),document.body.appendChild(t)}var n=window.onload;window.onload="function"!=typeof window.onload?t:function(){n(),t()}}();</script>
+
+
+<script src="/static/dist/js/footer-scripts.min.js"></script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+{ (i[r].q=i[r].q||[]).push(arguments)}
+,i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-33340876-1', 'auto');
+ga('send', 'pageview');
+
+/* Custom Events */
+
+ /* If in an article, fire these custom events to Google Analytics */
+  ga('send', 'event', 'Article', 'Authors', 'Jamie Heap');
+
+ 
+  ga('send', 'event', 'Article', 'Sources', 'Tc');
+  
+
+ 
+  ga('send', 'event', 'Article', 'Featured Media', 'Image');
+  
+
+ 
+
+ $.scrollDepth({ /* jQuery plugin that sends events to Google Analytics that tells it how far the user has scrolled down the page. */
+    pixelDepth: false,
+    userTiming: false
+  });
+
+
+
+</script>
+
+
+
+</body>
+
+</html>
