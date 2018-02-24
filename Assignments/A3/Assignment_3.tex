@@ -197,7 +197,7 @@ I wrote a program in Python 3.5 as shown in Listing \ref {lst:q2tfidf} to calcul
 The program first iterates through each of the 10 documents and reads the content. Then it stores each of the words in the document in a list using \emph{obj}.split() \cite{countingref}. For calculating TF , it then uses \emph{obj}.count(‘football’) \cite{countingref} to count the number of occurrences in the list and divides it by the total number of words in the list using len(\emph{obj}) \cite{countingref}. To get the total number of documents in the corpus.
 
 
-\lstinputlisting[frame=single,caption={Python program to compute tfidf},label=lst:q2tfidfl,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{counts.py}
+\lstinputlisting[frame=single,caption={Python program to compute tfidf},label=lst:q2tfidf,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{counts.py}
 
 I visited the \url{worldwidewebsize.com} to the number of pages indexed by Google which was 47B, while to get the number of documents in google with the query, I got the count as 1.47B sown in Figure \ref{fig:q2cali}. Then log to the base 2 was calculated using math.log \cite{mathref}. The values were then sorted as per TF-IDF and stored in \textbf{rank.csv} file. The values are displayed in Table \ref{table:tfidf}
 
@@ -483,6 +483,7 @@ To get the Bacon number for Kristen Stewart I visited the \url{https://oracleofb
 
 To find out the Erdos number for Kristen Stewart I searched through google to know the name of the paper she co-authored. I got to know that she published a paper on machine learning: \url{https://arxiv.org/pdf/1701.04928v1.pdf} along with Bhautik Joshi and David Shapiro. Then on further googling, I encountered a link\url{https://news.ycombinator.com/item?id=13446478} where I came to know that Bhautik Joshi had co-authored in \emph{A quantitative assessment of approaches to mesh generation for surgical simulation} along with Sebastein Ourselin who has a Erdos number of 4 calculated from \url{https://zbmath.org/collaboration-distance/?a=ourselin.sebastien&b=erdos.paul} as shown in Figure\ref{fig:q6erdos}. 
 
+\clearpage
 
 \begin{figure}[h]
 \centering
@@ -490,6 +491,7 @@ To find out the Erdos number for Kristen Stewart I searched through google to kn
 \caption{Erdos number for Sebastein Ourselin}
 \label{fig:q6erdos}
 \end{figure}
+
 
 The following graph was produced using \url{Webgraphviz.com}:
 
@@ -509,7 +511,7 @@ The following graph was produced using \url{Webgraphviz.com}:
 \label{fig:q62graphviz}
 \end{figure}
 
-From the above graph we get the Erdos number for Kristen Stewart as 6. Thus the Erdos-Bacon number for Kristen Stewart is 6 + 2 = 8.
+From the graph we get the Erdos number for Kristen Stewart as 6. Thus the Erdos-Bacon number for Kristen Stewart is 6 + 2 = 8.
 
 \clearpage
 
