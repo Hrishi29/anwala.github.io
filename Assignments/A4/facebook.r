@@ -1,15 +1,27 @@
 setwd(getwd())
+#getting values from csvfile
 csv <- read.table('friendscount.csv',header = TRUE,sep = ",")
-x <- c(csv$FRIENDCOUNT)
-result.mean <- mean(x)
-print(result.mean)
-result.median <- median(x)
-print(result.median)
-result.sd <- sd(x)
-print(result.sd)
-y <- sort(csv$FRIENDCOUNT)
-plot(y, xlab="Friends", ylab="FriendsCount", xlim=c(0, 90), col = "blue", type = "l")
 
+#sorting the values in ascending orders
+y <- sort(csv$FRIENDCOUNT)
+
+#calculating mean
+result.mean <- mean(y)
+print(result.mean)
+
+#calculating median
+result.median <- median(y)
+print(result.median)
+
+#calculating standard deviation
+result.sd <- sd(y)
+print(result.sd)
+
+#plotting the graph
+plot(y, xlab="Friends", ylab="FriendsCount", col = "blue", type = "l")
+title(main = "Facebook Friendship Paradox")
+
+#setting up the text
 text(10, 98, "x", col = 'red', cex=0.8)
 text(55.5, result.mean, "x", col = 'red', cex = 0.8) # mean
 text(41, result.median, "x", col = 'red', cex = 0.8) # median
