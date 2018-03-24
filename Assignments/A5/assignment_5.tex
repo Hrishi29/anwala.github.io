@@ -109,7 +109,7 @@ http://igraph.org/python/doc/igraph-pysrc.html#Graph.community_edge_betweenness
 \clearpage
 \subsection*{Answer}
 
-I first attempted to solve this problem using python with networkx's library for graphing and created a script called \textbf{club.py}. I later stopped attempting to use this because I learned that it didn't provide visual graphs without installing mathplotlib. Therefore I switched to using R and wrote script called \textbf{karateClub.R} shown Listing \ref{lst:rscript}, namely because using the igraph library and igraphdata, which provided the karate club dataset, was vastly easier and simpler to use with graphs.
+I first attempted to solve this problem using python with networkx's library for graphing and created a script called \textbf{club.py}. I later stopped attempting to use this because I learned that it didn't provide visual graphs without installing mathplotlib. Therefore I switched to using R and wrote script called \textbf{club.R} shown Listing \ref{lst:rscript}, namely because using the igraph library and igraphdata, which provided the karate club dataset, was vastly easier and simpler to use with graphs.
 
 To prove that the result of this graph split could have been predicted, I decided to use the edge betweenness algorithm provided by the igraph library, which actually used the Girvan-Newman algorithm \cite{commref}. The Girvan-Newman algorithm at each step in the graph checks if: an edge has the highest ``betweenness'' it would be removed from the graph and the modularity of the graph would then be recomputed. I decided to use the $cluster\_edge\_betweenness$ function to cluster them nicely based on their strongly or weakly connections with each other actor.
 
@@ -136,7 +136,7 @@ What I found was that my actual split was 94\% accurate with with two actors bei
 \begin{figure}[h]
 \centering
 \includegraphics[scale=0.6]{predictedSplit2.pdf}
-\caption{Actual predicted group split with Girvan-Newman from karateClub.R}
+\caption{Actual predicted group split with Girvan-Newman from club.R}
 \label{fig:q1outcome}
 \end{figure}
 
@@ -166,21 +166,21 @@ For this question I approached it the exact same as the first question. I again 
 \begin{figure}[h]
 \centering
 \includegraphics[scale=0.6]{predictedSplit3.pdf}
-\caption{Group split of 3 with Girvan-Newman algorithm from karateClub.R}
+\caption{Group split of 3 with Girvan-Newman algorithm from club.R}
 \label{fig:split3}
 \end{figure}
 
 \begin{figure}[h]
 \centering
 \includegraphics[scale=0.6]{predictedSplit4.pdf}
-\caption{Group split of 4 with Girvan-Newman algorithm from karateClub.R}
+\caption{Group split of 4 with Girvan-Newman algorithm from club.R}
 \label{fig:split4}
 \end{figure}
 
 \begin{figure}[h]
 \centering
 \includegraphics[scale=0.6]{predictedSplit5.pdf}
-\caption{Group split of 5 with Girvan-Newman algorithm from karateClub.R}
+\caption{Group split of 5 with Girvan-Newman algorithm from club.R}
 \label{fig:split5}
 \end{figure}
 
