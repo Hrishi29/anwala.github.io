@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-17T07:47:09Z",
+            "uri": "http://archive.is/20180217074709/https://www.zerohedge.com/news/2018-02-09/donald-trumps-superficial-patriotism-twilight-us-empire"
+        },
+        "last": {
+            "datetime": "2018-02-17T07:47:09Z",
+            "uri": "http://archive.is/20180217074709/https://www.zerohedge.com/news/2018-02-09/donald-trumps-superficial-patriotism-twilight-us-empire"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-17T07:47:09Z",
+                "uri": "http://archive.is/20180217074709/https://www.zerohedge.com/news/2018-02-09/donald-trumps-superficial-patriotism-twilight-us-empire"
+            }
+        ]
+    },
+    "original_uri": "https://www.zerohedge.com/news/2018-02-09/donald-trumps-superficial-patriotism-twilight-us-empire",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.zerohedge.com/news/2018-02-09/donald-trumps-superficial-patriotism-twilight-us-empire",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.zerohedge.com/news/2018-02-09/donald-trumps-superficial-patriotism-twilight-us-empire",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.zerohedge.com/news/2018-02-09/donald-trumps-superficial-patriotism-twilight-us-empire",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.zerohedge.com/news/2018-02-09/donald-trumps-superficial-patriotism-twilight-us-empire",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.zerohedge.com/news/2018-02-09/donald-trumps-superficial-patriotism-twilight-us-empire"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-25T12:41:29Z",
+            "uri": "http://web.archive.org/web/20180225124129/https://twishort.com/mEPmc"
+        },
+        "last": {
+            "datetime": "2018-02-25T12:41:29Z",
+            "uri": "http://web.archive.org/web/20180225124129/https://twishort.com/mEPmc"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-25T12:41:29Z",
+                "uri": "http://web.archive.org/web/20180225124129/https://twishort.com/mEPmc"
+            }
+        ]
+    },
+    "original_uri": "https://twishort.com/mEPmc",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://twishort.com/mEPmc",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://twishort.com/mEPmc",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://twishort.com/mEPmc",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://twishort.com/mEPmc",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://twishort.com/mEPmc"
+    }
+}

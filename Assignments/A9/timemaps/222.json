@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-03-16T05:30:10Z",
+            "uri": "http://web.archive.org/web/20180316053010/http://www.goalpostbooks.co.uk/spanish-sevilla/"
+        },
+        "last": {
+            "datetime": "2018-04-27T09:58:25Z",
+            "uri": "http://web.archive.org/web/20180427095825/http://www.goalpostbooks.co.uk/spanish-sevilla/"
+        },
+        "list": [
+            {
+                "datetime": "2018-03-16T05:30:10Z",
+                "uri": "http://web.archive.org/web/20180316053010/http://www.goalpostbooks.co.uk/spanish-sevilla/"
+            },
+            {
+                "datetime": "2018-03-23T11:11:49Z",
+                "uri": "http://web.archive.org/web/20180323111149/http://www.goalpostbooks.co.uk/spanish-sevilla/"
+            },
+            {
+                "datetime": "2018-03-30T20:13:34Z",
+                "uri": "http://web.archive.org/web/20180330201334/http://www.goalpostbooks.co.uk/spanish-sevilla/"
+            },
+            {
+                "datetime": "2018-04-06T09:54:14Z",
+                "uri": "http://web.archive.org/web/20180406095414/http://www.goalpostbooks.co.uk/spanish-sevilla/"
+            },
+            {
+                "datetime": "2018-04-20T11:52:39Z",
+                "uri": "http://web.archive.org/web/20180420115239/http://www.goalpostbooks.co.uk/spanish-sevilla/"
+            },
+            {
+                "datetime": "2018-04-27T09:58:25Z",
+                "uri": "http://web.archive.org/web/20180427095825/http://www.goalpostbooks.co.uk/spanish-sevilla/"
+            }
+        ]
+    },
+    "original_uri": "http://www.goalpostbooks.co.uk/spanish-sevilla/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.goalpostbooks.co.uk/spanish-sevilla/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.goalpostbooks.co.uk/spanish-sevilla/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.goalpostbooks.co.uk/spanish-sevilla/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.goalpostbooks.co.uk/spanish-sevilla/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.goalpostbooks.co.uk/spanish-sevilla/"
+    }
+}

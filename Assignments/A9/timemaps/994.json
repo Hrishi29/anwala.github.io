@@ -1,0 +1,54 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T16:38:44Z",
+            "uri": "http://archive.is/20180210163844/https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364"
+        },
+        "last": {
+            "datetime": "2018-02-25T06:35:17Z",
+            "uri": "http://web.archive.org/web/20180225063517/https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T16:38:44Z",
+                "uri": "http://archive.is/20180210163844/https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364"
+            },
+            {
+                "datetime": "2018-02-10T18:53:48Z",
+                "uri": "http://web.archive.org/web/20180210185348/https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364"
+            },
+            {
+                "datetime": "2018-02-13T13:57:33Z",
+                "uri": "http://web.archive.org/web/20180213135733/https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364"
+            },
+            {
+                "datetime": "2018-02-14T15:25:08Z",
+                "uri": "http://web.archive.org/web/20180214152508/https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364"
+            },
+            {
+                "datetime": "2018-02-18T07:57:10Z",
+                "uri": "http://wayback.archive-it.org/all/20180218075710/https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364"
+            },
+            {
+                "datetime": "2018-02-18T07:57:10Z",
+                "uri": "http://web.archive.org/web/20180218075710/https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364"
+            },
+            {
+                "datetime": "2018-02-25T06:35:17Z",
+                "uri": "http://wayback.archive-it.org/all/20180225063517/https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364"
+            },
+            {
+                "datetime": "2018-02-25T06:35:17Z",
+                "uri": "http://web.archive.org/web/20180225063517/https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364"
+            }
+        ]
+    },
+    "original_uri": "https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.politico.com/story/2018/02/09/dianne-feinstein-election-trump-401364"
+    }
+}

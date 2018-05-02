@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T19:24:38Z",
+            "uri": "http://web.archive.org/web/20180210192438/https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights"
+        },
+        "last": {
+            "datetime": "2018-04-27T08:55:21Z",
+            "uri": "http://web.archive.org/web/20180427085521/https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T19:24:38Z",
+                "uri": "http://web.archive.org/web/20180210192438/https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights"
+            },
+            {
+                "datetime": "2018-02-11T05:42:06Z",
+                "uri": "http://wayback.archive-it.org/all/20180211054206/https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights"
+            },
+            {
+                "datetime": "2018-02-11T05:42:06Z",
+                "uri": "http://web.archive.org/web/20180211054206/https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights"
+            },
+            {
+                "datetime": "2018-02-27T23:23:07Z",
+                "uri": "http://web.archive.org/web/20180227232307/https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights"
+            },
+            {
+                "datetime": "2018-04-27T08:55:21Z",
+                "uri": "http://web.archive.org/web/20180427085521/https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights"
+            }
+        ]
+    },
+    "original_uri": "https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.billboard.com/articles/news/8099061/pyeongchang-olympics-2018-opening-ceremony-highlights"
+    }
+}

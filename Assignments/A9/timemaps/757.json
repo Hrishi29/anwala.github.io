@@ -1,0 +1,86 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-03-16T18:01:24Z",
+            "uri": "http://web.archive.org/web/20170316180124/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+        },
+        "last": {
+            "datetime": "2017-10-25T14:26:52Z",
+            "uri": "http://web.archive.org/web/20171025142652/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+        },
+        "list": [
+            {
+                "datetime": "2017-03-16T18:01:24Z",
+                "uri": "http://web.archive.org/web/20170316180124/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+            },
+            {
+                "datetime": "2017-03-16T19:12:20Z",
+                "uri": "http://web.archive.org/web/20170316191220/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+            },
+            {
+                "datetime": "2017-03-16T22:37:13Z",
+                "uri": "http://web.archive.org/web/20170316223713/https://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+            },
+            {
+                "datetime": "2017-03-18T22:30:03Z",
+                "uri": "http://web.archive.org/web/20170318223003/http://www.businessinsider.com:80/trump-budget-impact-on-economy-2017-3"
+            },
+            {
+                "datetime": "2017-03-23T06:23:47Z",
+                "uri": "http://web.archive.org/web/20170323062347/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+            },
+            {
+                "datetime": "2017-04-26T06:54:25Z",
+                "uri": "http://web.archive.org/web/20170426065425/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+            },
+            {
+                "datetime": "2017-04-27T09:11:44Z",
+                "uri": "http://web.archive.org/web/20170427091144/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+            },
+            {
+                "datetime": "2017-05-12T21:29:06Z",
+                "uri": "http://web.archive.org/web/20170512212906/http://www.businessinsider.com:80/trump-budget-impact-on-economy-2017-3"
+            },
+            {
+                "datetime": "2017-07-15T09:20:40Z",
+                "uri": "http://web.archive.org/web/20170715092040/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+            },
+            {
+                "datetime": "2017-07-21T15:41:05Z",
+                "uri": "http://web.archive.org/web/20170721154105/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+            },
+            {
+                "datetime": "2017-08-18T18:04:50Z",
+                "uri": "http://web.archive.org/web/20170818180450/http://www.businessinsider.com:80/trump-budget-impact-on-economy-2017-3"
+            },
+            {
+                "datetime": "2017-08-19T13:08:09Z",
+                "uri": "http://wayback.archive-it.org/all/20170819130809/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+            },
+            {
+                "datetime": "2017-08-19T13:08:09Z",
+                "uri": "http://web.archive.org/web/20170819130809/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+            },
+            {
+                "datetime": "2017-10-11T02:40:33Z",
+                "uri": "http://wayback.archive-it.org/all/20171011024033/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+            },
+            {
+                "datetime": "2017-10-11T02:40:33Z",
+                "uri": "http://web.archive.org/web/20171011024033/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+            },
+            {
+                "datetime": "2017-10-25T14:26:52Z",
+                "uri": "http://web.archive.org/web/20171025142652/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+            }
+        ]
+    },
+    "original_uri": "http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.businessinsider.com/trump-budget-impact-on-economy-2017-3"
+    }
+}

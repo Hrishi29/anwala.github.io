@@ -1,0 +1,502 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T02:34:39Z",
+            "uri": "http://web.archive.org/web/20180209023439/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+        },
+        "last": {
+            "datetime": "2018-05-01T15:03:31Z",
+            "uri": "http://web.archive.org/web/20180501150331/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T02:34:39Z",
+                "uri": "http://web.archive.org/web/20180209023439/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-09T18:21:04Z",
+                "uri": "http://web.archive.org/web/20180209182104/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-11T06:47:36Z",
+                "uri": "http://wayback.archive-it.org/all/20180211064736/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-11T06:47:36Z",
+                "uri": "http://web.archive.org/web/20180211064736/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-13T05:20:11Z",
+                "uri": "http://web.archive.org/web/20180213052011/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-15T08:50:35Z",
+                "uri": "http://web.archive.org/web/20180215085035/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-16T09:48:14Z",
+                "uri": "http://web.archive.org/web/20180216094814/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-17T07:20:16Z",
+                "uri": "http://web.archive.org/web/20180217072016/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-17T12:01:14Z",
+                "uri": "http://web.archive.org/web/20180217120114/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-18T07:48:12Z",
+                "uri": "http://web.archive.org/web/20180218074812/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-19T18:10:35Z",
+                "uri": "http://web.archive.org/web/20180219181035/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-19T20:26:18Z",
+                "uri": "http://web.archive.org/web/20180219202618/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-20T18:59:02Z",
+                "uri": "http://web.archive.org/web/20180220185902/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-20T21:56:39Z",
+                "uri": "http://web.archive.org/web/20180220215639/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-21T07:46:57Z",
+                "uri": "http://web.archive.org/web/20180221074657/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-21T19:29:17Z",
+                "uri": "http://web.archive.org/web/20180221192917/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-22T03:16:20Z",
+                "uri": "http://web.archive.org/web/20180222031620/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-23T03:33:23Z",
+                "uri": "http://web.archive.org/web/20180223033323/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-23T05:06:44Z",
+                "uri": "http://web.archive.org/web/20180223050644/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-24T04:37:42Z",
+                "uri": "http://web.archive.org/web/20180224043742/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-24T07:04:15Z",
+                "uri": "http://web.archive.org/web/20180224070415/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-25T04:43:52Z",
+                "uri": "http://web.archive.org/web/20180225044352/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-25T07:40:58Z",
+                "uri": "http://web.archive.org/web/20180225074058/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-26T05:23:17Z",
+                "uri": "http://web.archive.org/web/20180226052317/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-26T08:54:32Z",
+                "uri": "http://web.archive.org/web/20180226085432/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-27T07:04:12Z",
+                "uri": "http://web.archive.org/web/20180227070412/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-27T11:41:24Z",
+                "uri": "http://web.archive.org/web/20180227114124/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-28T05:09:45Z",
+                "uri": "http://web.archive.org/web/20180228050945/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-28T09:21:32Z",
+                "uri": "http://web.archive.org/web/20180228092132/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-28T13:17:54Z",
+                "uri": "http://web.archive.org/web/20180228131754/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-01T10:05:01Z",
+                "uri": "http://web.archive.org/web/20180301100501/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-01T15:14:25Z",
+                "uri": "http://web.archive.org/web/20180301151425/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-02T10:35:48Z",
+                "uri": "http://web.archive.org/web/20180302103548/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-02T22:54:46Z",
+                "uri": "http://web.archive.org/web/20180302225446/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-03T11:39:53Z",
+                "uri": "http://web.archive.org/web/20180303113953/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-04T01:44:00Z",
+                "uri": "http://web.archive.org/web/20180304014400/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-04T15:30:26Z",
+                "uri": "http://web.archive.org/web/20180304153026/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-05T03:28:18Z",
+                "uri": "http://web.archive.org/web/20180305032818/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-05T16:41:02Z",
+                "uri": "http://web.archive.org/web/20180305164102/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-06T06:19:08Z",
+                "uri": "http://web.archive.org/web/20180306061908/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-06T21:09:29Z",
+                "uri": "http://web.archive.org/web/20180306210929/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-08T00:36:54Z",
+                "uri": "http://web.archive.org/web/20180308003654/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-08T04:57:48Z",
+                "uri": "http://web.archive.org/web/20180308045748/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-09T04:49:43Z",
+                "uri": "http://web.archive.org/web/20180309044943/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-09T06:41:28Z",
+                "uri": "http://web.archive.org/web/20180309064128/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-10T07:54:34Z",
+                "uri": "http://web.archive.org/web/20180310075434/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-10T14:55:46Z",
+                "uri": "http://web.archive.org/web/20180310145546/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-11T08:23:00Z",
+                "uri": "http://web.archive.org/web/20180311082300/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-11T16:15:46Z",
+                "uri": "http://web.archive.org/web/20180311161546/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-12T08:37:38Z",
+                "uri": "http://web.archive.org/web/20180312083738/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-12T17:01:02Z",
+                "uri": "http://web.archive.org/web/20180312170102/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-13T09:00:13Z",
+                "uri": "http://web.archive.org/web/20180313090013/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-13T18:02:26Z",
+                "uri": "http://web.archive.org/web/20180313180226/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-14T09:41:37Z",
+                "uri": "http://web.archive.org/web/20180314094137/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-14T19:04:34Z",
+                "uri": "http://web.archive.org/web/20180314190434/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-15T10:03:07Z",
+                "uri": "http://web.archive.org/web/20180315100307/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-15T20:15:42Z",
+                "uri": "http://web.archive.org/web/20180315201542/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-16T10:32:41Z",
+                "uri": "http://web.archive.org/web/20180316103241/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-16T21:15:00Z",
+                "uri": "http://web.archive.org/web/20180316211500/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-17T11:09:17Z",
+                "uri": "http://web.archive.org/web/20180317110917/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-17T22:34:59Z",
+                "uri": "http://web.archive.org/web/20180317223459/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-18T11:55:33Z",
+                "uri": "http://web.archive.org/web/20180318115533/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-19T00:29:32Z",
+                "uri": "http://web.archive.org/web/20180319002932/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-19T12:50:34Z",
+                "uri": "http://web.archive.org/web/20180319125034/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-20T00:46:07Z",
+                "uri": "http://web.archive.org/web/20180320004607/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-20T13:11:37Z",
+                "uri": "http://web.archive.org/web/20180320131137/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-21T02:02:10Z",
+                "uri": "http://web.archive.org/web/20180321020210/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-21T13:44:47Z",
+                "uri": "http://web.archive.org/web/20180321134447/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-22T03:30:50Z",
+                "uri": "http://web.archive.org/web/20180322033050/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-22T14:22:40Z",
+                "uri": "http://web.archive.org/web/20180322142240/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-23T04:34:58Z",
+                "uri": "http://web.archive.org/web/20180323043458/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-23T14:49:13Z",
+                "uri": "http://web.archive.org/web/20180323144913/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-24T05:54:16Z",
+                "uri": "http://web.archive.org/web/20180324055416/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-24T15:38:01Z",
+                "uri": "http://web.archive.org/web/20180324153801/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-25T06:47:20Z",
+                "uri": "http://web.archive.org/web/20180325064720/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-25T16:27:01Z",
+                "uri": "http://web.archive.org/web/20180325162701/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-26T09:01:12Z",
+                "uri": "http://web.archive.org/web/20180326090112/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-26T17:43:32Z",
+                "uri": "http://web.archive.org/web/20180326174332/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-27T04:36:57Z",
+                "uri": "http://web.archive.org/web/20180327043657/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-27T17:57:13Z",
+                "uri": "http://web.archive.org/web/20180327175713/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-28T05:15:33Z",
+                "uri": "http://web.archive.org/web/20180328051533/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-28T18:22:43Z",
+                "uri": "http://web.archive.org/web/20180328182243/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-29T07:01:28Z",
+                "uri": "http://web.archive.org/web/20180329070128/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-29T20:30:05Z",
+                "uri": "http://web.archive.org/web/20180329203005/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-30T07:30:06Z",
+                "uri": "http://web.archive.org/web/20180330073006/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-30T19:28:38Z",
+                "uri": "http://web.archive.org/web/20180330192838/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-31T08:39:21Z",
+                "uri": "http://web.archive.org/web/20180331083921/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-03-31T20:30:00Z",
+                "uri": "http://web.archive.org/web/20180331203000/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-01T21:01:16Z",
+                "uri": "http://web.archive.org/web/20180401210116/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-02T21:51:35Z",
+                "uri": "http://web.archive.org/web/20180402215135/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-03T22:35:24Z",
+                "uri": "http://web.archive.org/web/20180403223524/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-04T23:18:45Z",
+                "uri": "http://web.archive.org/web/20180404231845/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-05T03:55:18Z",
+                "uri": "http://wayback.archive-it.org/all/20180405035518/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-05T03:55:18Z",
+                "uri": "http://web.archive.org/web/20180405035518/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-05T23:48:30Z",
+                "uri": "http://web.archive.org/web/20180405234830/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-07T00:24:08Z",
+                "uri": "http://web.archive.org/web/20180407002408/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-08T00:50:31Z",
+                "uri": "http://web.archive.org/web/20180408005031/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-09T01:18:22Z",
+                "uri": "http://web.archive.org/web/20180409011822/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-10T01:52:21Z",
+                "uri": "http://web.archive.org/web/20180410015221/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-11T02:44:47Z",
+                "uri": "http://web.archive.org/web/20180411024447/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-12T03:03:38Z",
+                "uri": "http://web.archive.org/web/20180412030338/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-13T03:45:38Z",
+                "uri": "http://web.archive.org/web/20180413034538/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-14T04:45:32Z",
+                "uri": "http://web.archive.org/web/20180414044532/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-15T04:58:27Z",
+                "uri": "http://web.archive.org/web/20180415045827/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-16T05:11:13Z",
+                "uri": "http://web.archive.org/web/20180416051113/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-17T05:34:55Z",
+                "uri": "http://web.archive.org/web/20180417053455/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-18T05:53:06Z",
+                "uri": "http://web.archive.org/web/20180418055306/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-19T06:38:12Z",
+                "uri": "http://web.archive.org/web/20180419063812/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-20T06:59:06Z",
+                "uri": "http://web.archive.org/web/20180420065906/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-21T07:24:49Z",
+                "uri": "http://web.archive.org/web/20180421072449/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-22T08:01:01Z",
+                "uri": "http://web.archive.org/web/20180422080101/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-23T08:27:23Z",
+                "uri": "http://web.archive.org/web/20180423082723/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-24T09:11:38Z",
+                "uri": "http://web.archive.org/web/20180424091138/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-25T09:39:10Z",
+                "uri": "http://web.archive.org/web/20180425093910/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-26T10:31:25Z",
+                "uri": "http://web.archive.org/web/20180426103125/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-27T11:04:27Z",
+                "uri": "http://web.archive.org/web/20180427110427/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-28T11:32:11Z",
+                "uri": "http://web.archive.org/web/20180428113211/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-29T12:18:41Z",
+                "uri": "http://web.archive.org/web/20180429121841/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-04-30T13:00:57Z",
+                "uri": "http://web.archive.org/web/20180430130057/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            },
+            {
+                "datetime": "2018-05-01T15:03:31Z",
+                "uri": "http://web.archive.org/web/20180501150331/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+            }
+        ]
+    },
+    "original_uri": "http://time.com/5139760/rob-porter-donald-trump-domestic-violence/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://time.com/5139760/rob-porter-donald-trump-domestic-violence/"
+    }
+}

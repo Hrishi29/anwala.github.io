@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T23:59:15Z",
+            "uri": "http://web.archive.org/web/20180208235915/https://www.atlasobscura.com/articles/google-translate-mistake-olympics-norway-eggs"
+        },
+        "last": {
+            "datetime": "2018-03-15T01:37:06Z",
+            "uri": "http://web.archive.org/web/20180315013706/https://www.atlasobscura.com/articles/google-translate-mistake-olympics-norway-eggs"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T23:59:15Z",
+                "uri": "http://web.archive.org/web/20180208235915/https://www.atlasobscura.com/articles/google-translate-mistake-olympics-norway-eggs"
+            },
+            {
+                "datetime": "2018-02-09T22:46:10Z",
+                "uri": "http://web.archive.org/web/20180209224610/https://www.atlasobscura.com/articles/google-translate-mistake-olympics-norway-eggs"
+            },
+            {
+                "datetime": "2018-02-09T23:01:38Z",
+                "uri": "http://web.archive.org/web/20180209230138/https://www.atlasobscura.com/articles/google-translate-mistake-olympics-norway-eggs"
+            },
+            {
+                "datetime": "2018-02-09T23:17:24Z",
+                "uri": "http://web.archive.org/web/20180209231724/https://www.atlasobscura.com/articles/google-translate-mistake-olympics-norway-eggs"
+            },
+            {
+                "datetime": "2018-02-09T23:32:51Z",
+                "uri": "http://web.archive.org/web/20180209233251/https://www.atlasobscura.com/articles/google-translate-mistake-olympics-norway-eggs"
+            },
+            {
+                "datetime": "2018-03-15T01:37:06Z",
+                "uri": "http://web.archive.org/web/20180315013706/https://www.atlasobscura.com/articles/google-translate-mistake-olympics-norway-eggs"
+            }
+        ]
+    },
+    "original_uri": "https://www.atlasobscura.com/articles/google-translate-mistake-olympics-norway-eggs",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.atlasobscura.com/articles/google-translate-mistake-olympics-norway-eggs",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.atlasobscura.com/articles/google-translate-mistake-olympics-norway-eggs",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.atlasobscura.com/articles/google-translate-mistake-olympics-norway-eggs",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.atlasobscura.com/articles/google-translate-mistake-olympics-norway-eggs",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.atlasobscura.com/articles/google-translate-mistake-olympics-norway-eggs"
+    }
+}

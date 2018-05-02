@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T10:19:46Z",
+            "uri": "http://web.archive.org/web/20180209101946/https://www.washingtonpost.com/news/checkpoint/wp/2018/02/08/even-the-navy-seal-who-killed-osama-bin-laden-thinks-trumps-military-parade-is-a-bad-idea/?tid=sm_tw"
+        },
+        "last": {
+            "datetime": "2018-02-09T10:19:46Z",
+            "uri": "http://web.archive.org/web/20180209101946/https://www.washingtonpost.com/news/checkpoint/wp/2018/02/08/even-the-navy-seal-who-killed-osama-bin-laden-thinks-trumps-military-parade-is-a-bad-idea/?tid=sm_tw"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T10:19:46Z",
+                "uri": "http://web.archive.org/web/20180209101946/https://www.washingtonpost.com/news/checkpoint/wp/2018/02/08/even-the-navy-seal-who-killed-osama-bin-laden-thinks-trumps-military-parade-is-a-bad-idea/?tid=sm_tw"
+            }
+        ]
+    },
+    "original_uri": "https://www.washingtonpost.com/news/checkpoint/wp/2018/02/08/even-the-navy-seal-who-killed-osama-bin-laden-thinks-trumps-military-parade-is-a-bad-idea/?tid=sm_tw",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/news/checkpoint/wp/2018/02/08/even-the-navy-seal-who-killed-osama-bin-laden-thinks-trumps-military-parade-is-a-bad-idea/?tid=sm_tw",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.washingtonpost.com/news/checkpoint/wp/2018/02/08/even-the-navy-seal-who-killed-osama-bin-laden-thinks-trumps-military-parade-is-a-bad-idea/?tid=sm_tw",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.washingtonpost.com/news/checkpoint/wp/2018/02/08/even-the-navy-seal-who-killed-osama-bin-laden-thinks-trumps-military-parade-is-a-bad-idea/?tid=sm_tw",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/news/checkpoint/wp/2018/02/08/even-the-navy-seal-who-killed-osama-bin-laden-thinks-trumps-military-parade-is-a-bad-idea/?tid=sm_tw",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.washingtonpost.com/news/checkpoint/wp/2018/02/08/even-the-navy-seal-who-killed-osama-bin-laden-thinks-trumps-military-parade-is-a-bad-idea/?tid=sm_tw"
+    }
+}

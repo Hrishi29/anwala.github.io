@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T07:15:19Z",
+            "uri": "http://web.archive.org/web/20180210071519/https://thinkprogress.org/pence-doesnt-stand-for-korea-3b61775b4269/?utm_campaign=trueAnthem:+Trending+Content&utm_content=5a7e63b804d30116b91329be&utm_medium=trueAnthem&utm_source=twitter"
+        },
+        "last": {
+            "datetime": "2018-02-10T07:15:19Z",
+            "uri": "http://web.archive.org/web/20180210071519/http://thinkprogress.org/pence-doesnt-stand-for-korea-3b61775b4269/?utm_campaign=trueAnthem:+Trending+Content&utm_content=5a7e63b804d30116b91329be&utm_medium=trueAnthem&utm_source=twitter"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T07:15:19Z",
+                "uri": "http://web.archive.org/web/20180210071519/https://thinkprogress.org/pence-doesnt-stand-for-korea-3b61775b4269/?utm_campaign=trueAnthem:+Trending+Content&utm_content=5a7e63b804d30116b91329be&utm_medium=trueAnthem&utm_source=twitter"
+            },
+            {
+                "datetime": "2018-02-10T07:15:19Z",
+                "uri": "http://web.archive.org/web/20180210071519/http://thinkprogress.org/pence-doesnt-stand-for-korea-3b61775b4269/?utm_campaign=trueAnthem:+Trending+Content&utm_content=5a7e63b804d30116b91329be&utm_medium=trueAnthem&utm_source=twitter"
+            }
+        ]
+    },
+    "original_uri": "https://thinkprogress.org/pence-doesnt-stand-for-korea-3b61775b4269/?utm_campaign=trueAnthem:+Trending+Content&utm_content=5a7e63b804d30116b91329be&utm_medium=trueAnthem&utm_source=twitter",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://thinkprogress.org/pence-doesnt-stand-for-korea-3b61775b4269/?utm_campaign=trueAnthem:+Trending+Content&utm_content=5a7e63b804d30116b91329be&utm_medium=trueAnthem&utm_source=twitter",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://thinkprogress.org/pence-doesnt-stand-for-korea-3b61775b4269/?utm_campaign=trueAnthem:+Trending+Content&utm_content=5a7e63b804d30116b91329be&utm_medium=trueAnthem&utm_source=twitter",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://thinkprogress.org/pence-doesnt-stand-for-korea-3b61775b4269/?utm_campaign=trueAnthem:+Trending+Content&utm_content=5a7e63b804d30116b91329be&utm_medium=trueAnthem&utm_source=twitter",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://thinkprogress.org/pence-doesnt-stand-for-korea-3b61775b4269/?utm_campaign=trueAnthem:+Trending+Content&utm_content=5a7e63b804d30116b91329be&utm_medium=trueAnthem&utm_source=twitter",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://thinkprogress.org/pence-doesnt-stand-for-korea-3b61775b4269/?utm_campaign=trueAnthem:+Trending+Content&utm_content=5a7e63b804d30116b91329be&utm_medium=trueAnthem&utm_source=twitter"
+    }
+}

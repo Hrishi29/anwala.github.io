@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T08:47:22Z",
+            "uri": "http://web.archive.org/web/20180210084722/https://apple.news/AJRzL7Z_DQgCeokW8YLAq4w"
+        },
+        "last": {
+            "datetime": "2018-02-10T08:47:22Z",
+            "uri": "http://web.archive.org/web/20180210084722/https://apple.news/AJRzL7Z_DQgCeokW8YLAq4w"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T08:47:22Z",
+                "uri": "http://web.archive.org/web/20180210084722/https://apple.news/AJRzL7Z_DQgCeokW8YLAq4w"
+            }
+        ]
+    },
+    "original_uri": "https://apple.news/AJRzL7Z_DQgCeokW8YLAq4w",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://apple.news/AJRzL7Z_DQgCeokW8YLAq4w",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://apple.news/AJRzL7Z_DQgCeokW8YLAq4w",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://apple.news/AJRzL7Z_DQgCeokW8YLAq4w",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://apple.news/AJRzL7Z_DQgCeokW8YLAq4w",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://apple.news/AJRzL7Z_DQgCeokW8YLAq4w"
+    }
+}

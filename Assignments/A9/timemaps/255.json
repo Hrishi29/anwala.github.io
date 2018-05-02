@@ -1,0 +1,170 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T01:11:04Z",
+            "uri": "http://web.archive.org/web/20180210011104/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+        },
+        "last": {
+            "datetime": "2018-04-29T20:19:50Z",
+            "uri": "http://web.archive.org/web/20180429201950/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T01:11:04Z",
+                "uri": "http://web.archive.org/web/20180210011104/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-02-10T01:30:04Z",
+                "uri": "http://archive.is/20180210013004/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-02-10T03:04:34Z",
+                "uri": "http://web.archive.org/web/20180210030434/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-02-10T09:32:43Z",
+                "uri": "http://web.archive.org/web/20180210093243/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-02-10T15:07:57Z",
+                "uri": "http://web.archive.org/web/20180210150757/http://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-02-10T20:12:59Z",
+                "uri": "http://web.archive.org/web/20180210201259/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-02-10T21:55:26Z",
+                "uri": "http://web.archive.org/web/20180210215526/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-02-11T04:42:22Z",
+                "uri": "http://web.archive.org/web/20180211044222/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-02-12T02:46:05Z",
+                "uri": "http://web.archive.org/web/20180212024605/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-02-12T04:29:31Z",
+                "uri": "http://web.archive.org/web/20180212042931/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-02-13T00:55:30Z",
+                "uri": "http://web.archive.org/web/20180213005530/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-02-20T01:21:16Z",
+                "uri": "http://web.archive.org/web/20180220012116/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-02-20T23:19:04Z",
+                "uri": "http://web.archive.org/web/20180220231904/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-02-22T14:48:15Z",
+                "uri": "http://web.archive.org/web/20180222144815/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-02-25T11:43:56Z",
+                "uri": "http://web.archive.org/web/20180225114356/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-02-26T13:42:14Z",
+                "uri": "http://web.archive.org/web/20180226134214/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-03-04T06:02:04Z",
+                "uri": "http://web.archive.org/web/20180304060204/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-03-04T06:57:37Z",
+                "uri": "http://web.archive.org/web/20180304065737/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-03-05T07:03:07Z",
+                "uri": "http://web.archive.org/web/20180305070307/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-03-05T07:25:45Z",
+                "uri": "http://web.archive.org/web/20180305072545/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-03-11T02:19:52Z",
+                "uri": "http://web.archive.org/web/20180311021952/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-03-11T21:12:18Z",
+                "uri": "http://web.archive.org/web/20180311211218/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-03-12T03:26:26Z",
+                "uri": "http://web.archive.org/web/20180312032626/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-03-25T04:58:30Z",
+                "uri": "http://web.archive.org/web/20180325045830/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-03-25T11:56:09Z",
+                "uri": "http://web.archive.org/web/20180325115609/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-03-26T06:19:46Z",
+                "uri": "http://web.archive.org/web/20180326061946/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-04-01T11:13:55Z",
+                "uri": "http://web.archive.org/web/20180401111355/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-04-02T11:57:15Z",
+                "uri": "http://web.archive.org/web/20180402115715/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-04-10T20:51:39Z",
+                "uri": "http://web.archive.org/web/20180410205139/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-04-15T08:37:17Z",
+                "uri": "http://web.archive.org/web/20180415083717/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-04-16T10:11:08Z",
+                "uri": "http://web.archive.org/web/20180416101108/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-04-18T09:34:13Z",
+                "uri": "http://web.archive.org/web/20180418093413/http://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-04-18T09:34:16Z",
+                "uri": "http://web.archive.org/web/20180418093416/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-04-18T21:05:20Z",
+                "uri": "http://web.archive.org/web/20180418210520/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-04-22T15:33:59Z",
+                "uri": "http://web.archive.org/web/20180422153359/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-04-23T17:28:01Z",
+                "uri": "http://web.archive.org/web/20180423172801/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            },
+            {
+                "datetime": "2018-04-29T20:19:50Z",
+                "uri": "http://web.archive.org/web/20180429201950/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html"
+    }
+}

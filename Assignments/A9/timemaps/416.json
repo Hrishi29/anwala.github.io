@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-15T03:21:03Z",
+            "uri": "http://web.archive.org/web/20180215032103/http://reason.com/archives/2018/02/08/donald-trump-shouldnt-talk-to-the-feds-a"
+        },
+        "last": {
+            "datetime": "2018-04-12T18:11:59Z",
+            "uri": "http://web.archive.org/web/20180412181159/https://reason.com/archives/2018/02/08/donald-trump-shouldnt-talk-to-the-feds-a"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-15T03:21:03Z",
+                "uri": "http://web.archive.org/web/20180215032103/http://reason.com/archives/2018/02/08/donald-trump-shouldnt-talk-to-the-feds-a"
+            },
+            {
+                "datetime": "2018-02-15T03:21:05Z",
+                "uri": "http://web.archive.org/web/20180215032105/https://reason.com/archives/2018/02/08/donald-trump-shouldnt-talk-to-the-feds-a"
+            },
+            {
+                "datetime": "2018-04-12T18:11:57Z",
+                "uri": "http://web.archive.org/web/20180412181157/http://reason.com/archives/2018/02/08/donald-trump-shouldnt-talk-to-the-feds-a"
+            },
+            {
+                "datetime": "2018-04-12T18:11:59Z",
+                "uri": "http://web.archive.org/web/20180412181159/https://reason.com/archives/2018/02/08/donald-trump-shouldnt-talk-to-the-feds-a"
+            }
+        ]
+    },
+    "original_uri": "https://reason.com/archives/2018/02/08/donald-trump-shouldnt-talk-to-the-feds-a",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://reason.com/archives/2018/02/08/donald-trump-shouldnt-talk-to-the-feds-a",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://reason.com/archives/2018/02/08/donald-trump-shouldnt-talk-to-the-feds-a",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://reason.com/archives/2018/02/08/donald-trump-shouldnt-talk-to-the-feds-a",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://reason.com/archives/2018/02/08/donald-trump-shouldnt-talk-to-the-feds-a",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://reason.com/archives/2018/02/08/donald-trump-shouldnt-talk-to-the-feds-a"
+    }
+}

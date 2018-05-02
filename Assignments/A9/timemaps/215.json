@@ -1,0 +1,474 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-04T00:32:23Z",
+            "uri": "http://web.archive.org/web/20180204003223/http://time.com/5132126/carter-page-russia-2013-letter/"
+        },
+        "last": {
+            "datetime": "2018-04-30T22:38:44Z",
+            "uri": "http://web.archive.org/web/20180430223844/http://time.com/5132126/carter-page-russia-2013-letter/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-04T00:32:23Z",
+                "uri": "http://web.archive.org/web/20180204003223/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T00:43:49Z",
+                "uri": "http://web.archive.org/web/20180204004349/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T00:44:09Z",
+                "uri": "http://archive.is/20180204004409/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T01:19:08Z",
+                "uri": "http://web.archive.org/web/20180204011908/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T01:52:21Z",
+                "uri": "http://web.archive.org/web/20180204015221/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T02:26:25Z",
+                "uri": "http://web.archive.org/web/20180204022625/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T02:49:12Z",
+                "uri": "http://web.archive.org/web/20180204024912/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T02:59:51Z",
+                "uri": "http://web.archive.org/web/20180204025951/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T03:22:32Z",
+                "uri": "http://web.archive.org/web/20180204032232/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T03:23:44Z",
+                "uri": "http://web.archive.org/web/20180204032344/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T04:06:33Z",
+                "uri": "http://web.archive.org/web/20180204040633/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T04:39:51Z",
+                "uri": "http://web.archive.org/web/20180204043951/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T05:07:54Z",
+                "uri": "http://wayback.archive-it.org/all/20180204050754/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T05:07:54Z",
+                "uri": "http://web.archive.org/web/20180204050754/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T05:11:19Z",
+                "uri": "http://web.archive.org/web/20180204051119/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T05:44:35Z",
+                "uri": "http://web.archive.org/web/20180204054435/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T05:50:32Z",
+                "uri": "http://wayback.archive-it.org/all/20180204055032/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T05:50:32Z",
+                "uri": "http://web.archive.org/web/20180204055032/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T06:16:22Z",
+                "uri": "http://web.archive.org/web/20180204061622/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T06:51:10Z",
+                "uri": "http://web.archive.org/web/20180204065110/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T07:24:21Z",
+                "uri": "http://web.archive.org/web/20180204072421/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T07:57:34Z",
+                "uri": "http://web.archive.org/web/20180204075734/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T08:30:54Z",
+                "uri": "http://web.archive.org/web/20180204083054/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T09:04:21Z",
+                "uri": "http://web.archive.org/web/20180204090421/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T09:39:55Z",
+                "uri": "http://web.archive.org/web/20180204093955/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T10:13:12Z",
+                "uri": "http://web.archive.org/web/20180204101312/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T10:46:33Z",
+                "uri": "http://web.archive.org/web/20180204104633/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T10:58:58Z",
+                "uri": "http://web.archive.org/web/20180204105858/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T11:19:45Z",
+                "uri": "http://web.archive.org/web/20180204111945/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T11:52:58Z",
+                "uri": "http://web.archive.org/web/20180204115258/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T12:26:18Z",
+                "uri": "http://web.archive.org/web/20180204122618/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T12:59:24Z",
+                "uri": "http://web.archive.org/web/20180204125924/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T13:32:45Z",
+                "uri": "http://web.archive.org/web/20180204133245/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T14:06:17Z",
+                "uri": "http://web.archive.org/web/20180204140617/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T14:39:54Z",
+                "uri": "http://web.archive.org/web/20180204143954/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T15:13:33Z",
+                "uri": "http://web.archive.org/web/20180204151333/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T15:32:39Z",
+                "uri": "http://web.archive.org/web/20180204153239/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T15:47:41Z",
+                "uri": "http://web.archive.org/web/20180204154741/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T16:21:24Z",
+                "uri": "http://web.archive.org/web/20180204162124/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T16:55:15Z",
+                "uri": "http://web.archive.org/web/20180204165515/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T17:28:51Z",
+                "uri": "http://web.archive.org/web/20180204172851/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-04T21:22:26Z",
+                "uri": "http://web.archive.org/web/20180204212226/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-05T12:50:47Z",
+                "uri": "http://web.archive.org/web/20180205125047/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-07T03:07:53Z",
+                "uri": "http://web.archive.org/web/20180207030753/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-09T01:28:41Z",
+                "uri": "http://web.archive.org/web/20180209012841/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-09T02:41:34Z",
+                "uri": "http://web.archive.org/web/20180209024134/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-09T16:02:04Z",
+                "uri": "http://web.archive.org/web/20180209160204/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-09T23:21:37Z",
+                "uri": "http://web.archive.org/web/20180209232137/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-10T03:07:25Z",
+                "uri": "http://web.archive.org/web/20180210030725/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-10T04:20:17Z",
+                "uri": "http://web.archive.org/web/20180210042017/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-10T20:04:21Z",
+                "uri": "http://web.archive.org/web/20180210200421/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-11T05:26:46Z",
+                "uri": "http://web.archive.org/web/20180211052646/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-12T08:42:42Z",
+                "uri": "http://web.archive.org/web/20180212084242/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-12T11:08:35Z",
+                "uri": "http://web.archive.org/web/20180212110835/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-13T11:01:44Z",
+                "uri": "http://web.archive.org/web/20180213110144/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-14T20:21:43Z",
+                "uri": "http://web.archive.org/web/20180214202143/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-15T16:49:34Z",
+                "uri": "http://web.archive.org/web/20180215164934/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-16T05:05:35Z",
+                "uri": "http://web.archive.org/web/20180216050535/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-17T03:29:50Z",
+                "uri": "http://web.archive.org/web/20180217032950/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-18T17:34:30Z",
+                "uri": "http://web.archive.org/web/20180218173430/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-19T10:40:02Z",
+                "uri": "http://web.archive.org/web/20180219104002/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-20T12:12:26Z",
+                "uri": "http://web.archive.org/web/20180220121226/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-22T17:30:29Z",
+                "uri": "http://web.archive.org/web/20180222173029/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-24T17:33:36Z",
+                "uri": "http://web.archive.org/web/20180224173336/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-24T23:03:36Z",
+                "uri": "http://web.archive.org/web/20180224230336/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-25T11:10:08Z",
+                "uri": "http://wayback.archive-it.org/all/20180225111008/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-25T11:10:08Z",
+                "uri": "http://web.archive.org/web/20180225111008/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-25T16:29:15Z",
+                "uri": "http://web.archive.org/web/20180225162915/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-25T22:58:02Z",
+                "uri": "http://web.archive.org/web/20180225225802/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-26T15:58:06Z",
+                "uri": "http://web.archive.org/web/20180226155806/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-26T22:41:31Z",
+                "uri": "http://web.archive.org/web/20180226224131/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-27T17:45:51Z",
+                "uri": "http://web.archive.org/web/20180227174551/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-27T19:02:20Z",
+                "uri": "http://web.archive.org/web/20180227190220/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-28T13:21:06Z",
+                "uri": "http://web.archive.org/web/20180228132106/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-02-28T21:29:20Z",
+                "uri": "http://web.archive.org/web/20180228212920/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-01T11:19:10Z",
+                "uri": "http://web.archive.org/web/20180301111910/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-01T15:36:03Z",
+                "uri": "http://web.archive.org/web/20180301153603/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-02T00:17:37Z",
+                "uri": "http://web.archive.org/web/20180302001737/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-03T07:41:41Z",
+                "uri": "http://web.archive.org/web/20180303074141/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-03T18:18:25Z",
+                "uri": "http://web.archive.org/web/20180303181825/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-06T23:34:13Z",
+                "uri": "http://web.archive.org/web/20180306233413/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-08T10:28:12Z",
+                "uri": "http://web.archive.org/web/20180308102812/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-09T13:20:33Z",
+                "uri": "http://web.archive.org/web/20180309132033/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-10T14:21:04Z",
+                "uri": "http://web.archive.org/web/20180310142104/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-13T14:22:26Z",
+                "uri": "http://web.archive.org/web/20180313142226/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-14T15:52:05Z",
+                "uri": "http://web.archive.org/web/20180314155205/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-16T16:38:15Z",
+                "uri": "http://web.archive.org/web/20180316163815/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-19T15:27:15Z",
+                "uri": "http://web.archive.org/web/20180319152715/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-20T14:15:45Z",
+                "uri": "http://web.archive.org/web/20180320141545/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-21T06:42:46Z",
+                "uri": "http://web.archive.org/web/20180321064246/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-03-21T23:59:35Z",
+                "uri": "http://web.archive.org/web/20180321235935/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-03T09:07:00Z",
+                "uri": "http://web.archive.org/web/20180403090700/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-04T20:33:15Z",
+                "uri": "http://web.archive.org/web/20180404203315/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-10T00:42:24Z",
+                "uri": "http://web.archive.org/web/20180410004224/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-12T01:59:24Z",
+                "uri": "http://web.archive.org/web/20180412015924/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-12T08:44:49Z",
+                "uri": "http://web.archive.org/web/20180412084449/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-13T07:55:42Z",
+                "uri": "http://web.archive.org/web/20180413075542/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-14T08:40:50Z",
+                "uri": "http://web.archive.org/web/20180414084050/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-15T10:22:07Z",
+                "uri": "http://web.archive.org/web/20180415102207/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-18T03:23:25Z",
+                "uri": "http://web.archive.org/web/20180418032325/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-18T11:52:05Z",
+                "uri": "http://web.archive.org/web/20180418115205/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-19T13:53:56Z",
+                "uri": "http://web.archive.org/web/20180419135356/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-20T13:51:38Z",
+                "uri": "http://web.archive.org/web/20180420135138/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-21T14:39:44Z",
+                "uri": "http://web.archive.org/web/20180421143944/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-22T15:54:47Z",
+                "uri": "http://web.archive.org/web/20180422155447/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-23T18:35:51Z",
+                "uri": "http://web.archive.org/web/20180423183551/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-24T22:49:21Z",
+                "uri": "http://web.archive.org/web/20180424224921/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-25T18:28:32Z",
+                "uri": "http://web.archive.org/web/20180425182832/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-26T21:03:44Z",
+                "uri": "http://web.archive.org/web/20180426210344/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-27T20:56:46Z",
+                "uri": "http://web.archive.org/web/20180427205646/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-28T19:04:37Z",
+                "uri": "http://web.archive.org/web/20180428190437/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-29T21:10:40Z",
+                "uri": "http://web.archive.org/web/20180429211040/http://time.com/5132126/carter-page-russia-2013-letter/"
+            },
+            {
+                "datetime": "2018-04-30T22:38:44Z",
+                "uri": "http://web.archive.org/web/20180430223844/http://time.com/5132126/carter-page-russia-2013-letter/"
+            }
+        ]
+    },
+    "original_uri": "http://time.com/5132126/carter-page-russia-2013-letter/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://time.com/5132126/carter-page-russia-2013-letter/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://time.com/5132126/carter-page-russia-2013-letter/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://time.com/5132126/carter-page-russia-2013-letter/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://time.com/5132126/carter-page-russia-2013-letter/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://time.com/5132126/carter-page-russia-2013-letter/"
+    }
+}

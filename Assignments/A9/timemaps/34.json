@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T02:12:18Z",
+            "uri": "http://web.archive.org/web/20180211021218/https://www.infowars.com/melania-trump-had-obama-demons-exorcised-from-white-house/"
+        },
+        "last": {
+            "datetime": "2018-03-06T23:31:28Z",
+            "uri": "http://web.archive.org/web/20180306233128/https://www.infowars.com/melania-trump-had-obama-demons-exorcised-from-white-house/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T02:12:18Z",
+                "uri": "http://web.archive.org/web/20180211021218/https://www.infowars.com/melania-trump-had-obama-demons-exorcised-from-white-house/"
+            },
+            {
+                "datetime": "2018-02-11T04:23:14Z",
+                "uri": "http://wayback.archive-it.org/all/20180211042314/http://www.infowars.com/melania-trump-had-obama-demons-exorcised-from-white-house/"
+            },
+            {
+                "datetime": "2018-02-11T04:23:14Z",
+                "uri": "http://web.archive.org/web/20180211042314/http://www.infowars.com/melania-trump-had-obama-demons-exorcised-from-white-house/"
+            },
+            {
+                "datetime": "2018-02-26T18:02:24Z",
+                "uri": "http://web.archive.org/web/20180226180224/http://www.infowars.com/melania-trump-had-obama-demons-exorcised-from-white-house/"
+            },
+            {
+                "datetime": "2018-03-06T23:31:28Z",
+                "uri": "http://web.archive.org/web/20180306233128/https://www.infowars.com/melania-trump-had-obama-demons-exorcised-from-white-house/"
+            }
+        ]
+    },
+    "original_uri": "https://www.infowars.com/melania-trump-had-obama-demons-exorcised-from-white-house/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.infowars.com/melania-trump-had-obama-demons-exorcised-from-white-house/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.infowars.com/melania-trump-had-obama-demons-exorcised-from-white-house/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.infowars.com/melania-trump-had-obama-demons-exorcised-from-white-house/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.infowars.com/melania-trump-had-obama-demons-exorcised-from-white-house/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.infowars.com/melania-trump-had-obama-demons-exorcised-from-white-house/"
+    }
+}

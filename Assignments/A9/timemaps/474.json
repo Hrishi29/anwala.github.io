@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T21:14:59Z",
+            "uri": "http://web.archive.org/web/20180210211459/http://www.abc.net.au/news/2018-02-10/prince-frederik-rushes-home-from-olympics-to-be-with-sick-father/9419056"
+        },
+        "last": {
+            "datetime": "2018-02-14T10:51:31Z",
+            "uri": "http://web.archive.org/web/20180214105131/http://www.abc.net.au/news/2018-02-10/prince-frederik-rushes-home-from-olympics-to-be-with-sick-father/9419056"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T21:14:59Z",
+                "uri": "http://web.archive.org/web/20180210211459/http://www.abc.net.au/news/2018-02-10/prince-frederik-rushes-home-from-olympics-to-be-with-sick-father/9419056"
+            },
+            {
+                "datetime": "2018-02-10T23:41:54Z",
+                "uri": "http://web.archive.org/web/20180210234154/http://www.abc.net.au/news/2018-02-10/prince-frederik-rushes-home-from-olympics-to-be-with-sick-father/9419056"
+            },
+            {
+                "datetime": "2018-02-11T02:18:15Z",
+                "uri": "http://web.archive.org/web/20180211021815/http://www.abc.net.au/news/2018-02-10/prince-frederik-rushes-home-from-olympics-to-be-with-sick-father/9419056"
+            },
+            {
+                "datetime": "2018-02-12T08:32:15Z",
+                "uri": "http://web.archive.org/web/20180212083215/http://www.abc.net.au/news/2018-02-10/prince-frederik-rushes-home-from-olympics-to-be-with-sick-father/9419056"
+            },
+            {
+                "datetime": "2018-02-14T10:51:31Z",
+                "uri": "http://web.archive.org/web/20180214105131/http://www.abc.net.au/news/2018-02-10/prince-frederik-rushes-home-from-olympics-to-be-with-sick-father/9419056"
+            }
+        ]
+    },
+    "original_uri": "http://www.abc.net.au/news/2018-02-10/prince-frederik-rushes-home-from-olympics-to-be-with-sick-father/9419056",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.abc.net.au/news/2018-02-10/prince-frederik-rushes-home-from-olympics-to-be-with-sick-father/9419056",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.abc.net.au/news/2018-02-10/prince-frederik-rushes-home-from-olympics-to-be-with-sick-father/9419056",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.abc.net.au/news/2018-02-10/prince-frederik-rushes-home-from-olympics-to-be-with-sick-father/9419056",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.abc.net.au/news/2018-02-10/prince-frederik-rushes-home-from-olympics-to-be-with-sick-father/9419056",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.abc.net.au/news/2018-02-10/prince-frederik-rushes-home-from-olympics-to-be-with-sick-father/9419056"
+    }
+}

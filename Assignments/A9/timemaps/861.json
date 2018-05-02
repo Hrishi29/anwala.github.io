@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T22:20:21Z",
+            "uri": "http://web.archive.org/web/20180209222021/http://theweek.com/cartoons/754024/political-cartoon-trump-treason"
+        },
+        "last": {
+            "datetime": "2018-02-16T04:10:41Z",
+            "uri": "http://web.archive.org/web/20180216041041/http://theweek.com/cartoons/754024/political-cartoon-trump-treason"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T22:20:21Z",
+                "uri": "http://web.archive.org/web/20180209222021/http://theweek.com/cartoons/754024/political-cartoon-trump-treason"
+            },
+            {
+                "datetime": "2018-02-16T04:10:41Z",
+                "uri": "http://web.archive.org/web/20180216041041/http://theweek.com/cartoons/754024/political-cartoon-trump-treason"
+            }
+        ]
+    },
+    "original_uri": "http://theweek.com/cartoons/754024/political-cartoon-trump-treason",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://theweek.com/cartoons/754024/political-cartoon-trump-treason",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://theweek.com/cartoons/754024/political-cartoon-trump-treason",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://theweek.com/cartoons/754024/political-cartoon-trump-treason",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://theweek.com/cartoons/754024/political-cartoon-trump-treason",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://theweek.com/cartoons/754024/political-cartoon-trump-treason"
+    }
+}

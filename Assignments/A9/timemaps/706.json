@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-03-07T00:34:07Z",
+            "uri": "http://web.archive.org/web/20180307003407/http://www.90min.com/es/posts/4475094-borussia-dortmund-se-burla-del-muro-de-trump-y-apoya-a-mexico?a_aid=35187&utm_source=twitter&utm_medium=social&utm_campaign=19c8414179d9f9726c78d5386ab7d135"
+        },
+        "last": {
+            "datetime": "2018-03-07T00:34:07Z",
+            "uri": "http://web.archive.org/web/20180307003407/http://www.90min.com/es/posts/4475094-borussia-dortmund-se-burla-del-muro-de-trump-y-apoya-a-mexico?a_aid=35187&utm_source=twitter&utm_medium=social&utm_campaign=19c8414179d9f9726c78d5386ab7d135"
+        },
+        "list": [
+            {
+                "datetime": "2018-03-07T00:34:07Z",
+                "uri": "http://web.archive.org/web/20180307003407/http://www.90min.com/es/posts/4475094-borussia-dortmund-se-burla-del-muro-de-trump-y-apoya-a-mexico?a_aid=35187&utm_source=twitter&utm_medium=social&utm_campaign=19c8414179d9f9726c78d5386ab7d135"
+            }
+        ]
+    },
+    "original_uri": "http://www.90min.com/es/posts/4475094-borussia-dortmund-se-burla-del-muro-de-trump-y-apoya-a-mexico?a_aid=35187&utm_source=twitter&utm_medium=social&utm_campaign=19c8414179d9f9726c78d5386ab7d135",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.90min.com/es/posts/4475094-borussia-dortmund-se-burla-del-muro-de-trump-y-apoya-a-mexico?a_aid=35187&utm_source=twitter&utm_medium=social&utm_campaign=19c8414179d9f9726c78d5386ab7d135",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.90min.com/es/posts/4475094-borussia-dortmund-se-burla-del-muro-de-trump-y-apoya-a-mexico?a_aid=35187&utm_source=twitter&utm_medium=social&utm_campaign=19c8414179d9f9726c78d5386ab7d135",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.90min.com/es/posts/4475094-borussia-dortmund-se-burla-del-muro-de-trump-y-apoya-a-mexico?a_aid=35187&utm_source=twitter&utm_medium=social&utm_campaign=19c8414179d9f9726c78d5386ab7d135",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.90min.com/es/posts/4475094-borussia-dortmund-se-burla-del-muro-de-trump-y-apoya-a-mexico?a_aid=35187&utm_source=twitter&utm_medium=social&utm_campaign=19c8414179d9f9726c78d5386ab7d135",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.90min.com/es/posts/4475094-borussia-dortmund-se-burla-del-muro-de-trump-y-apoya-a-mexico?a_aid=35187&utm_source=twitter&utm_medium=social&utm_campaign=19c8414179d9f9726c78d5386ab7d135"
+    }
+}

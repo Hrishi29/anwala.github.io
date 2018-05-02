@@ -1,0 +1,106 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-07T09:59:00Z",
+            "uri": "http://web.archive.org/web/20180207095900/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+        },
+        "last": {
+            "datetime": "2018-04-20T02:37:16Z",
+            "uri": "http://web.archive.org/web/20180420023716/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-07T09:59:00Z",
+                "uri": "http://web.archive.org/web/20180207095900/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-02-07T10:36:26Z",
+                "uri": "http://archive.is/20180207103626/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-02-07T14:24:04Z",
+                "uri": "http://web.archive.org/web/20180207142404/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-02-07T17:27:35Z",
+                "uri": "http://web.archive.org/web/20180207172735/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-02-07T22:20:57Z",
+                "uri": "http://web.archive.org/web/20180207222057/http://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-02-09T02:34:57Z",
+                "uri": "http://web.archive.org/web/20180209023457/http://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-02-09T16:04:46Z",
+                "uri": "http://web.archive.org/web/20180209160446/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-02-10T03:13:07Z",
+                "uri": "http://web.archive.org/web/20180210031307/http://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-02-10T15:17:59Z",
+                "uri": "http://web.archive.org/web/20180210151759/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-02-11T04:17:33Z",
+                "uri": "http://web.archive.org/web/20180211041733/http://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-02-12T04:41:16Z",
+                "uri": "http://web.archive.org/web/20180212044116/http://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-02-13T05:57:58Z",
+                "uri": "http://web.archive.org/web/20180213055758/http://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-03-09T15:36:48Z",
+                "uri": "http://web.archive.org/web/20180309153648/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-03-20T19:21:09Z",
+                "uri": "http://web.archive.org/web/20180320192109/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-03-21T02:53:09Z",
+                "uri": "http://web.archive.org/web/20180321025309/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-03-21T20:16:46Z",
+                "uri": "http://web.archive.org/web/20180321201646/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-03-22T02:32:39Z",
+                "uri": "http://web.archive.org/web/20180322023239/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-03-22T21:27:42Z",
+                "uri": "http://web.archive.org/web/20180322212742/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-03-23T04:01:24Z",
+                "uri": "http://web.archive.org/web/20180323040124/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-04-19T01:13:55Z",
+                "uri": "http://web.archive.org/web/20180419011355/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            },
+            {
+                "datetime": "2018-04-20T02:37:16Z",
+                "uri": "http://web.archive.org/web/20180420023716/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/02/07/world/africa/trump-libya-policy-russia.html"
+    }
+}

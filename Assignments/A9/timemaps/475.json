@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T18:49:10Z",
+            "uri": "http://web.archive.org/web/20180211184910/http://www.thenewsjoint.com/politics/modi-merchant-nanga-naach-crony-capitalism/"
+        },
+        "last": {
+            "datetime": "2018-02-11T18:49:11Z",
+            "uri": "http://web.archive.org/web/20180211184911/http://www.thenewsjoint.com/politics/modi-merchant-nanga-naach-crony-capitalism/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T18:49:10Z",
+                "uri": "http://web.archive.org/web/20180211184910/http://www.thenewsjoint.com/politics/modi-merchant-nanga-naach-crony-capitalism/"
+            },
+            {
+                "datetime": "2018-02-11T18:49:11Z",
+                "uri": "http://web.archive.org/web/20180211184911/http://www.thenewsjoint.com/politics/modi-merchant-nanga-naach-crony-capitalism/"
+            }
+        ]
+    },
+    "original_uri": "http://www.thenewsjoint.com/politics/modi-merchant-nanga-naach-crony-capitalism/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.thenewsjoint.com/politics/modi-merchant-nanga-naach-crony-capitalism/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.thenewsjoint.com/politics/modi-merchant-nanga-naach-crony-capitalism/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.thenewsjoint.com/politics/modi-merchant-nanga-naach-crony-capitalism/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.thenewsjoint.com/politics/modi-merchant-nanga-naach-crony-capitalism/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.thenewsjoint.com/politics/modi-merchant-nanga-naach-crony-capitalism/"
+    }
+}

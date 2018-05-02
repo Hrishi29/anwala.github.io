@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T15:11:33Z",
+            "uri": "http://web.archive.org/web/20180209151133/http://www.bbc.com/sport/winter-olympics/43006501"
+        },
+        "last": {
+            "datetime": "2018-02-09T23:27:48Z",
+            "uri": "http://web.archive.org/web/20180209232748/http://www.bbc.com/sport/winter-olympics/43006501"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T15:11:33Z",
+                "uri": "http://web.archive.org/web/20180209151133/http://www.bbc.com/sport/winter-olympics/43006501"
+            },
+            {
+                "datetime": "2018-02-09T20:08:23Z",
+                "uri": "http://web.archive.org/web/20180209200823/http://www.bbc.com/sport/winter-olympics/43006501"
+            },
+            {
+                "datetime": "2018-02-09T23:27:48Z",
+                "uri": "http://web.archive.org/web/20180209232748/http://www.bbc.com/sport/winter-olympics/43006501"
+            }
+        ]
+    },
+    "original_uri": "http://www.bbc.com/sport/winter-olympics/43006501",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.com/sport/winter-olympics/43006501",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.bbc.com/sport/winter-olympics/43006501",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.bbc.com/sport/winter-olympics/43006501",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.com/sport/winter-olympics/43006501",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.bbc.com/sport/winter-olympics/43006501"
+    }
+}

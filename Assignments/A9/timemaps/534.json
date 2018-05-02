@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T06:58:07Z",
+            "uri": "http://wayback.archive-it.org/all/20180211065807/https://www.dailynews.com/2018/02/09/whicker-nhl-takes-the-golden-moments-out-of-the-olympics/"
+        },
+        "last": {
+            "datetime": "2018-02-11T06:58:07Z",
+            "uri": "http://web.archive.org/web/20180211065807/https://www.dailynews.com/2018/02/09/whicker-nhl-takes-the-golden-moments-out-of-the-olympics/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T06:58:07Z",
+                "uri": "http://wayback.archive-it.org/all/20180211065807/https://www.dailynews.com/2018/02/09/whicker-nhl-takes-the-golden-moments-out-of-the-olympics/"
+            },
+            {
+                "datetime": "2018-02-11T06:58:07Z",
+                "uri": "http://web.archive.org/web/20180211065807/https://www.dailynews.com/2018/02/09/whicker-nhl-takes-the-golden-moments-out-of-the-olympics/"
+            }
+        ]
+    },
+    "original_uri": "https://www.dailynews.com/2018/02/09/whicker-nhl-takes-the-golden-moments-out-of-the-olympics/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.dailynews.com/2018/02/09/whicker-nhl-takes-the-golden-moments-out-of-the-olympics/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.dailynews.com/2018/02/09/whicker-nhl-takes-the-golden-moments-out-of-the-olympics/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.dailynews.com/2018/02/09/whicker-nhl-takes-the-golden-moments-out-of-the-olympics/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.dailynews.com/2018/02/09/whicker-nhl-takes-the-golden-moments-out-of-the-olympics/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.dailynews.com/2018/02/09/whicker-nhl-takes-the-golden-moments-out-of-the-olympics/"
+    }
+}

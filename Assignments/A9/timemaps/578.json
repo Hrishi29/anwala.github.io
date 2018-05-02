@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T08:55:48Z",
+            "uri": "http://web.archive.org/web/20180210085548/https://www.infobae.com/america/eeuu/2018/02/09/donald-trump-bloqueo-la-publicacion-del-informe-democrata-sobre-el-fbi-y-rusia/"
+        },
+        "last": {
+            "datetime": "2018-02-10T08:55:48Z",
+            "uri": "http://web.archive.org/web/20180210085548/https://www.infobae.com/america/eeuu/2018/02/09/donald-trump-bloqueo-la-publicacion-del-informe-democrata-sobre-el-fbi-y-rusia/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T08:55:48Z",
+                "uri": "http://web.archive.org/web/20180210085548/https://www.infobae.com/america/eeuu/2018/02/09/donald-trump-bloqueo-la-publicacion-del-informe-democrata-sobre-el-fbi-y-rusia/"
+            }
+        ]
+    },
+    "original_uri": "https://www.infobae.com/america/eeuu/2018/02/09/donald-trump-bloqueo-la-publicacion-del-informe-democrata-sobre-el-fbi-y-rusia/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.infobae.com/america/eeuu/2018/02/09/donald-trump-bloqueo-la-publicacion-del-informe-democrata-sobre-el-fbi-y-rusia/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.infobae.com/america/eeuu/2018/02/09/donald-trump-bloqueo-la-publicacion-del-informe-democrata-sobre-el-fbi-y-rusia/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.infobae.com/america/eeuu/2018/02/09/donald-trump-bloqueo-la-publicacion-del-informe-democrata-sobre-el-fbi-y-rusia/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.infobae.com/america/eeuu/2018/02/09/donald-trump-bloqueo-la-publicacion-del-informe-democrata-sobre-el-fbi-y-rusia/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.infobae.com/america/eeuu/2018/02/09/donald-trump-bloqueo-la-publicacion-del-informe-democrata-sobre-el-fbi-y-rusia/"
+    }
+}

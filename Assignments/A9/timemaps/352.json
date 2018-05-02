@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-24T23:58:15Z",
+            "uri": "http://web.archive.org/web/20180224235815/http://usalibertypress.com/2018/02/07/donald-trump-lets-shutdown-congress-cant-close-immigration-loopholes/"
+        },
+        "last": {
+            "datetime": "2018-02-24T23:58:15Z",
+            "uri": "http://web.archive.org/web/20180224235815/http://usalibertypress.com/2018/02/07/donald-trump-lets-shutdown-congress-cant-close-immigration-loopholes/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-24T23:58:15Z",
+                "uri": "http://web.archive.org/web/20180224235815/http://usalibertypress.com/2018/02/07/donald-trump-lets-shutdown-congress-cant-close-immigration-loopholes/"
+            }
+        ]
+    },
+    "original_uri": "http://usalibertypress.com/2018/02/07/donald-trump-lets-shutdown-congress-cant-close-immigration-loopholes/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://usalibertypress.com/2018/02/07/donald-trump-lets-shutdown-congress-cant-close-immigration-loopholes/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://usalibertypress.com/2018/02/07/donald-trump-lets-shutdown-congress-cant-close-immigration-loopholes/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://usalibertypress.com/2018/02/07/donald-trump-lets-shutdown-congress-cant-close-immigration-loopholes/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://usalibertypress.com/2018/02/07/donald-trump-lets-shutdown-congress-cant-close-immigration-loopholes/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://usalibertypress.com/2018/02/07/donald-trump-lets-shutdown-congress-cant-close-immigration-loopholes/"
+    }
+}

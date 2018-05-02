@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T07:00:09Z",
+            "uri": "http://web.archive.org/web/20180211070009/http://www.nbcolympics.com/news/linguistic-divide-poses-problem-korea-olympic-hockey-team"
+        },
+        "last": {
+            "datetime": "2018-02-11T07:00:09Z",
+            "uri": "http://wayback.archive-it.org/all/20180211070009/http://www.nbcolympics.com/news/linguistic-divide-poses-problem-korea-olympic-hockey-team"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T07:00:09Z",
+                "uri": "http://web.archive.org/web/20180211070009/http://www.nbcolympics.com/news/linguistic-divide-poses-problem-korea-olympic-hockey-team"
+            },
+            {
+                "datetime": "2018-02-11T07:00:09Z",
+                "uri": "http://wayback.archive-it.org/all/20180211070009/http://www.nbcolympics.com/news/linguistic-divide-poses-problem-korea-olympic-hockey-team"
+            }
+        ]
+    },
+    "original_uri": "http://www.nbcolympics.com/news/linguistic-divide-poses-problem-korea-olympic-hockey-team",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.nbcolympics.com/news/linguistic-divide-poses-problem-korea-olympic-hockey-team",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.nbcolympics.com/news/linguistic-divide-poses-problem-korea-olympic-hockey-team",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.nbcolympics.com/news/linguistic-divide-poses-problem-korea-olympic-hockey-team",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.nbcolympics.com/news/linguistic-divide-poses-problem-korea-olympic-hockey-team",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.nbcolympics.com/news/linguistic-divide-poses-problem-korea-olympic-hockey-team"
+    }
+}

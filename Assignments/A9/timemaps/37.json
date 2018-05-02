@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-03-31T02:11:17Z",
+            "uri": "http://web.archive.org/web/20180331021117/https://steemit.com/trump/@caitlinjohnstone/three-stupid-annoying-things-people-often-say-when-defending-trump"
+        },
+        "last": {
+            "datetime": "2018-03-31T02:11:17Z",
+            "uri": "http://web.archive.org/web/20180331021117/https://steemit.com/trump/@caitlinjohnstone/three-stupid-annoying-things-people-often-say-when-defending-trump"
+        },
+        "list": [
+            {
+                "datetime": "2018-03-31T02:11:17Z",
+                "uri": "http://web.archive.org/web/20180331021117/https://steemit.com/trump/@caitlinjohnstone/three-stupid-annoying-things-people-often-say-when-defending-trump"
+            }
+        ]
+    },
+    "original_uri": "https://steemit.com/trump/@caitlinjohnstone/three-stupid-annoying-things-people-often-say-when-defending-trump",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://steemit.com/trump/@caitlinjohnstone/three-stupid-annoying-things-people-often-say-when-defending-trump",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://steemit.com/trump/@caitlinjohnstone/three-stupid-annoying-things-people-often-say-when-defending-trump",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://steemit.com/trump/@caitlinjohnstone/three-stupid-annoying-things-people-often-say-when-defending-trump",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://steemit.com/trump/@caitlinjohnstone/three-stupid-annoying-things-people-often-say-when-defending-trump",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://steemit.com/trump/@caitlinjohnstone/three-stupid-annoying-things-people-often-say-when-defending-trump"
+    }
+}

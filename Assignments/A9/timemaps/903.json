@@ -1,0 +1,62 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-18T06:56:46Z",
+            "uri": "http://web.archive.org/web/20180218065646/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html"
+        },
+        "last": {
+            "datetime": "2018-03-29T08:53:31Z",
+            "uri": "http://web.archive.org/web/20180329085331/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-18T06:56:46Z",
+                "uri": "http://web.archive.org/web/20180218065646/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html"
+            },
+            {
+                "datetime": "2018-02-22T04:45:11Z",
+                "uri": "http://web.archive.org/web/20180222044511/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html"
+            },
+            {
+                "datetime": "2018-02-27T21:58:04Z",
+                "uri": "http://web.archive.org/web/20180227215804/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html"
+            },
+            {
+                "datetime": "2018-03-01T05:07:44Z",
+                "uri": "http://web.archive.org/web/20180301050744/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html"
+            },
+            {
+                "datetime": "2018-03-03T15:49:39Z",
+                "uri": "http://web.archive.org/web/20180303154939/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html"
+            },
+            {
+                "datetime": "2018-03-04T08:22:16Z",
+                "uri": "http://web.archive.org/web/20180304082216/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html"
+            },
+            {
+                "datetime": "2018-03-08T07:49:29Z",
+                "uri": "http://web.archive.org/web/20180308074929/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html"
+            },
+            {
+                "datetime": "2018-03-15T07:44:04Z",
+                "uri": "http://web.archive.org/web/20180315074404/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html"
+            },
+            {
+                "datetime": "2018-03-22T08:52:24Z",
+                "uri": "http://web.archive.org/web/20180322085224/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html"
+            },
+            {
+                "datetime": "2018-03-29T08:53:31Z",
+                "uri": "http://web.archive.org/web/20180329085331/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html"
+            }
+        ]
+    },
+    "original_uri": "http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://blog.angryasianman.com/2018/02/the-12-asian-americans-competing-at.html"
+    }
+}

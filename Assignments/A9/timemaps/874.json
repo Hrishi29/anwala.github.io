@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T06:24:50Z",
+            "uri": "http://web.archive.org/web/20180209062450/https://www.ndtv.com/india-news/in-phone-call-pm-modi-and-donald-trump-discuss-maldives-crisis-1810526"
+        },
+        "last": {
+            "datetime": "2018-02-26T21:34:49Z",
+            "uri": "http://web.archive.org/web/20180226213449/https://www.ndtv.com/india-news/in-phone-call-pm-modi-and-donald-trump-discuss-maldives-crisis-1810526"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T06:24:50Z",
+                "uri": "http://web.archive.org/web/20180209062450/https://www.ndtv.com/india-news/in-phone-call-pm-modi-and-donald-trump-discuss-maldives-crisis-1810526"
+            },
+            {
+                "datetime": "2018-02-09T13:58:05Z",
+                "uri": "http://web.archive.org/web/20180209135805/https://www.ndtv.com/india-news/in-phone-call-pm-modi-and-donald-trump-discuss-maldives-crisis-1810526"
+            },
+            {
+                "datetime": "2018-02-11T07:26:35Z",
+                "uri": "http://wayback.archive-it.org/all/20180211072635/https://www.ndtv.com/india-news/in-phone-call-pm-modi-and-donald-trump-discuss-maldives-crisis-1810526"
+            },
+            {
+                "datetime": "2018-02-11T07:26:35Z",
+                "uri": "http://web.archive.org/web/20180211072635/https://www.ndtv.com/india-news/in-phone-call-pm-modi-and-donald-trump-discuss-maldives-crisis-1810526"
+            },
+            {
+                "datetime": "2018-02-14T13:26:40Z",
+                "uri": "http://web.archive.org/web/20180214132640/https://www.ndtv.com/india-news/in-phone-call-pm-modi-and-donald-trump-discuss-maldives-crisis-1810526"
+            },
+            {
+                "datetime": "2018-02-19T15:07:38Z",
+                "uri": "http://web.archive.org/web/20180219150738/https://www.ndtv.com/india-news/in-phone-call-pm-modi-and-donald-trump-discuss-maldives-crisis-1810526"
+            },
+            {
+                "datetime": "2018-02-26T21:34:49Z",
+                "uri": "http://web.archive.org/web/20180226213449/https://www.ndtv.com/india-news/in-phone-call-pm-modi-and-donald-trump-discuss-maldives-crisis-1810526"
+            }
+        ]
+    },
+    "original_uri": "https://www.ndtv.com/india-news/in-phone-call-pm-modi-and-donald-trump-discuss-maldives-crisis-1810526",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.ndtv.com/india-news/in-phone-call-pm-modi-and-donald-trump-discuss-maldives-crisis-1810526",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.ndtv.com/india-news/in-phone-call-pm-modi-and-donald-trump-discuss-maldives-crisis-1810526",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.ndtv.com/india-news/in-phone-call-pm-modi-and-donald-trump-discuss-maldives-crisis-1810526",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.ndtv.com/india-news/in-phone-call-pm-modi-and-donald-trump-discuss-maldives-crisis-1810526",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.ndtv.com/india-news/in-phone-call-pm-modi-and-donald-trump-discuss-maldives-crisis-1810526"
+    }
+}

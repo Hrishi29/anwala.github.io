@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T06:48:28Z",
+            "uri": "http://web.archive.org/web/20180210064828/https://www.thestar.com/news/world/2018/02/09/trump-chief-of-staff-john-kelly-says-hes-willing-to-resign-over-white-house-abuse-scandal.html"
+        },
+        "last": {
+            "datetime": "2018-04-25T10:47:13Z",
+            "uri": "http://web.archive.org/web/20180425104713/https://www.thestar.com/news/world/2018/02/09/trump-chief-of-staff-john-kelly-says-hes-willing-to-resign-over-white-house-abuse-scandal.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T06:48:28Z",
+                "uri": "http://web.archive.org/web/20180210064828/https://www.thestar.com/news/world/2018/02/09/trump-chief-of-staff-john-kelly-says-hes-willing-to-resign-over-white-house-abuse-scandal.html"
+            },
+            {
+                "datetime": "2018-02-10T12:53:32Z",
+                "uri": "http://web.archive.org/web/20180210125332/https://www.thestar.com/news/world/2018/02/09/trump-chief-of-staff-john-kelly-says-hes-willing-to-resign-over-white-house-abuse-scandal.html"
+            },
+            {
+                "datetime": "2018-03-04T13:24:42Z",
+                "uri": "http://web.archive.org/web/20180304132442/https://www.thestar.com/news/world/2018/02/09/trump-chief-of-staff-john-kelly-says-hes-willing-to-resign-over-white-house-abuse-scandal.html"
+            },
+            {
+                "datetime": "2018-03-09T16:51:34Z",
+                "uri": "http://web.archive.org/web/20180309165134/https://www.thestar.com/news/world/2018/02/09/trump-chief-of-staff-john-kelly-says-hes-willing-to-resign-over-white-house-abuse-scandal.html"
+            },
+            {
+                "datetime": "2018-04-11T02:14:58Z",
+                "uri": "http://web.archive.org/web/20180411021458/https://www.thestar.com/news/world/2018/02/09/trump-chief-of-staff-john-kelly-says-hes-willing-to-resign-over-white-house-abuse-scandal.html"
+            },
+            {
+                "datetime": "2018-04-25T10:47:13Z",
+                "uri": "http://web.archive.org/web/20180425104713/https://www.thestar.com/news/world/2018/02/09/trump-chief-of-staff-john-kelly-says-hes-willing-to-resign-over-white-house-abuse-scandal.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.thestar.com/news/world/2018/02/09/trump-chief-of-staff-john-kelly-says-hes-willing-to-resign-over-white-house-abuse-scandal.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thestar.com/news/world/2018/02/09/trump-chief-of-staff-john-kelly-says-hes-willing-to-resign-over-white-house-abuse-scandal.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thestar.com/news/world/2018/02/09/trump-chief-of-staff-john-kelly-says-hes-willing-to-resign-over-white-house-abuse-scandal.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thestar.com/news/world/2018/02/09/trump-chief-of-staff-john-kelly-says-hes-willing-to-resign-over-white-house-abuse-scandal.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thestar.com/news/world/2018/02/09/trump-chief-of-staff-john-kelly-says-hes-willing-to-resign-over-white-house-abuse-scandal.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thestar.com/news/world/2018/02/09/trump-chief-of-staff-john-kelly-says-hes-willing-to-resign-over-white-house-abuse-scandal.html"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T05:40:01Z",
+            "uri": "http://web.archive.org/web/20180210054001/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+        },
+        "last": {
+            "datetime": "2018-02-10T15:32:18Z",
+            "uri": "http://web.archive.org/web/20180210153218/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T05:40:01Z",
+                "uri": "http://web.archive.org/web/20180210054001/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T06:14:22Z",
+                "uri": "http://web.archive.org/web/20180210061422/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T06:48:28Z",
+                "uri": "http://web.archive.org/web/20180210064828/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T07:23:41Z",
+                "uri": "http://web.archive.org/web/20180210072341/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T07:57:55Z",
+                "uri": "http://web.archive.org/web/20180210075755/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T08:32:10Z",
+                "uri": "http://web.archive.org/web/20180210083210/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T09:11:06Z",
+                "uri": "http://web.archive.org/web/20180210091106/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T09:46:37Z",
+                "uri": "http://web.archive.org/web/20180210094637/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T10:20:57Z",
+                "uri": "http://web.archive.org/web/20180210102057/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T10:55:02Z",
+                "uri": "http://web.archive.org/web/20180210105502/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T11:29:18Z",
+                "uri": "http://web.archive.org/web/20180210112918/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T12:03:56Z",
+                "uri": "http://web.archive.org/web/20180210120356/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T12:38:23Z",
+                "uri": "http://web.archive.org/web/20180210123823/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T13:12:44Z",
+                "uri": "http://web.archive.org/web/20180210131244/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T13:47:05Z",
+                "uri": "http://web.archive.org/web/20180210134705/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T14:22:49Z",
+                "uri": "http://web.archive.org/web/20180210142249/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T14:57:18Z",
+                "uri": "http://web.archive.org/web/20180210145718/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            },
+            {
+                "datetime": "2018-02-10T15:32:18Z",
+                "uri": "http://web.archive.org/web/20180210153218/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+            }
+        ]
+    },
+    "original_uri": "http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://americanactionnews.com/articles/majority-think-feds-broke-law-to-hurt-trump"
+    }
+}

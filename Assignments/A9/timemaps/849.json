@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T22:20:19Z",
+            "uri": "http://web.archive.org/web/20180209222019/http://theweek.com/cartoons/754027/political-cartoon-trump-lies"
+        },
+        "last": {
+            "datetime": "2018-02-15T00:02:33Z",
+            "uri": "http://web.archive.org/web/20180215000233/http://theweek.com/cartoons/754027/political-cartoon-trump-lies"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T22:20:19Z",
+                "uri": "http://web.archive.org/web/20180209222019/http://theweek.com/cartoons/754027/political-cartoon-trump-lies"
+            },
+            {
+                "datetime": "2018-02-15T00:02:33Z",
+                "uri": "http://web.archive.org/web/20180215000233/http://theweek.com/cartoons/754027/political-cartoon-trump-lies"
+            }
+        ]
+    },
+    "original_uri": "http://theweek.com/cartoons/754027/political-cartoon-trump-lies",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://theweek.com/cartoons/754027/political-cartoon-trump-lies",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://theweek.com/cartoons/754027/political-cartoon-trump-lies",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://theweek.com/cartoons/754027/political-cartoon-trump-lies",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://theweek.com/cartoons/754027/political-cartoon-trump-lies",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://theweek.com/cartoons/754027/political-cartoon-trump-lies"
+    }
+}

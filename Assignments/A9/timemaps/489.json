@@ -1,0 +1,94 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T20:53:32Z",
+            "uri": "http://web.archive.org/web/20180209205332/https://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+        },
+        "last": {
+            "datetime": "2018-03-17T10:35:29Z",
+            "uri": "http://web.archive.org/web/20180317103529/http://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T20:53:32Z",
+                "uri": "http://web.archive.org/web/20180209205332/https://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-09T21:17:20Z",
+                "uri": "http://web.archive.org/web/20180209211720/http://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-09T21:22:04Z",
+                "uri": "http://web.archive.org/web/20180209212204/https://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-09T23:31:04Z",
+                "uri": "http://web.archive.org/web/20180209233104/https://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-10T02:08:53Z",
+                "uri": "http://web.archive.org/web/20180210020853/http://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-10T06:56:52Z",
+                "uri": "http://wayback.archive-it.org/all/20180210065652/https://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-10T18:59:34Z",
+                "uri": "http://wayback.archive-it.org/all/20180210185934/https://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-10T18:59:34Z",
+                "uri": "http://web.archive.org/web/20180210185934/https://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-10T21:13:29Z",
+                "uri": "http://web.archive.org/web/20180210211329/https://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-10T23:52:08Z",
+                "uri": "http://web.archive.org/web/20180210235208/https://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-11T05:15:58Z",
+                "uri": "http://wayback.archive-it.org/all/20180211051558/https://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-11T05:15:58Z",
+                "uri": "http://web.archive.org/web/20180211051558/https://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-11T06:59:14Z",
+                "uri": "http://wayback.archive-it.org/all/20180211065914/https://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-11T06:59:14Z",
+                "uri": "http://web.archive.org/web/20180211065914/https://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-17T01:05:11Z",
+                "uri": "http://web.archive.org/web/20180217010511/http://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-17T01:05:16Z",
+                "uri": "http://web.archive.org/web/20180217010516/https://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-02-26T15:20:36Z",
+                "uri": "http://web.archive.org/web/20180226152036/https://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            },
+            {
+                "datetime": "2018-03-17T10:35:29Z",
+                "uri": "http://web.archive.org/web/20180317103529/http://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.cnn.com/2018/02/09/politics/donald-trump-rob-porter-defense/index.html"
+    }
+}

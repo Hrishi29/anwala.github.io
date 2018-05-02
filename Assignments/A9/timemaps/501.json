@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T05:13:26Z",
+            "uri": "http://wayback.archive-it.org/all/20180211051326/https://www.elitedaily.com/p/kim-jong-uns-sisters-face-at-the-olympics-opening-ceremony-is-twitters-favorite-meme-8184920"
+        },
+        "last": {
+            "datetime": "2018-03-11T07:24:49Z",
+            "uri": "http://web.archive.org/web/20180311072449/https://www.elitedaily.com/p/kim-jong-uns-sisters-face-at-the-olympics-opening-ceremony-is-twitters-favorite-meme-8184920"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T05:13:26Z",
+                "uri": "http://wayback.archive-it.org/all/20180211051326/https://www.elitedaily.com/p/kim-jong-uns-sisters-face-at-the-olympics-opening-ceremony-is-twitters-favorite-meme-8184920"
+            },
+            {
+                "datetime": "2018-02-11T05:13:26Z",
+                "uri": "http://web.archive.org/web/20180211051326/https://www.elitedaily.com/p/kim-jong-uns-sisters-face-at-the-olympics-opening-ceremony-is-twitters-favorite-meme-8184920"
+            },
+            {
+                "datetime": "2018-02-13T09:17:14Z",
+                "uri": "http://web.archive.org/web/20180213091714/https://www.elitedaily.com/p/kim-jong-uns-sisters-face-at-the-olympics-opening-ceremony-is-twitters-favorite-meme-8184920"
+            },
+            {
+                "datetime": "2018-03-04T07:24:51Z",
+                "uri": "http://wayback.archive-it.org/all/20180304072451/https://www.elitedaily.com/p/kim-jong-uns-sisters-face-at-the-olympics-opening-ceremony-is-twitters-favorite-meme-8184920"
+            },
+            {
+                "datetime": "2018-03-04T07:24:51Z",
+                "uri": "http://web.archive.org/web/20180304072451/https://www.elitedaily.com/p/kim-jong-uns-sisters-face-at-the-olympics-opening-ceremony-is-twitters-favorite-meme-8184920"
+            },
+            {
+                "datetime": "2018-03-11T07:24:49Z",
+                "uri": "http://wayback.archive-it.org/all/20180311072449/https://www.elitedaily.com/p/kim-jong-uns-sisters-face-at-the-olympics-opening-ceremony-is-twitters-favorite-meme-8184920"
+            },
+            {
+                "datetime": "2018-03-11T07:24:49Z",
+                "uri": "http://web.archive.org/web/20180311072449/https://www.elitedaily.com/p/kim-jong-uns-sisters-face-at-the-olympics-opening-ceremony-is-twitters-favorite-meme-8184920"
+            }
+        ]
+    },
+    "original_uri": "https://www.elitedaily.com/p/kim-jong-uns-sisters-face-at-the-olympics-opening-ceremony-is-twitters-favorite-meme-8184920",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.elitedaily.com/p/kim-jong-uns-sisters-face-at-the-olympics-opening-ceremony-is-twitters-favorite-meme-8184920",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.elitedaily.com/p/kim-jong-uns-sisters-face-at-the-olympics-opening-ceremony-is-twitters-favorite-meme-8184920",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.elitedaily.com/p/kim-jong-uns-sisters-face-at-the-olympics-opening-ceremony-is-twitters-favorite-meme-8184920",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.elitedaily.com/p/kim-jong-uns-sisters-face-at-the-olympics-opening-ceremony-is-twitters-favorite-meme-8184920",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.elitedaily.com/p/kim-jong-uns-sisters-face-at-the-olympics-opening-ceremony-is-twitters-favorite-meme-8184920"
+    }
+}

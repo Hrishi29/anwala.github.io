@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T19:54:54Z",
+            "uri": "http://web.archive.org/web/20180209195454/https://pyeongchang.yahoo.co.jp/event/sbd/live/10317"
+        },
+        "last": {
+            "datetime": "2018-02-09T19:54:54Z",
+            "uri": "http://web.archive.org/web/20180209195454/https://pyeongchang.yahoo.co.jp/event/sbd/live/10317"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T19:54:54Z",
+                "uri": "http://web.archive.org/web/20180209195454/https://pyeongchang.yahoo.co.jp/event/sbd/live/10317"
+            }
+        ]
+    },
+    "original_uri": "https://pyeongchang.yahoo.co.jp/event/sbd/live/10317",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://pyeongchang.yahoo.co.jp/event/sbd/live/10317",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://pyeongchang.yahoo.co.jp/event/sbd/live/10317",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://pyeongchang.yahoo.co.jp/event/sbd/live/10317",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://pyeongchang.yahoo.co.jp/event/sbd/live/10317",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://pyeongchang.yahoo.co.jp/event/sbd/live/10317"
+    }
+}

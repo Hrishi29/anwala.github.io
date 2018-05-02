@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-04-11T12:50:02Z",
+            "uri": "http://web.archive.org/web/20180411125002/http://www.cbc.ca/news/world/trump-memo-russia-probe-democrat-1.4529653?cmp=rss"
+        },
+        "last": {
+            "datetime": "2018-04-11T12:50:02Z",
+            "uri": "http://web.archive.org/web/20180411125002/http://www.cbc.ca/news/world/trump-memo-russia-probe-democrat-1.4529653?cmp=rss"
+        },
+        "list": [
+            {
+                "datetime": "2018-04-11T12:50:02Z",
+                "uri": "http://web.archive.org/web/20180411125002/http://www.cbc.ca/news/world/trump-memo-russia-probe-democrat-1.4529653?cmp=rss"
+            }
+        ]
+    },
+    "original_uri": "http://www.cbc.ca/news/world/trump-memo-russia-probe-democrat-1.4529653?cmp=rss",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.cbc.ca/news/world/trump-memo-russia-probe-democrat-1.4529653?cmp=rss",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.cbc.ca/news/world/trump-memo-russia-probe-democrat-1.4529653?cmp=rss",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.cbc.ca/news/world/trump-memo-russia-probe-democrat-1.4529653?cmp=rss",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.cbc.ca/news/world/trump-memo-russia-probe-democrat-1.4529653?cmp=rss",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.cbc.ca/news/world/trump-memo-russia-probe-democrat-1.4529653?cmp=rss"
+    }
+}

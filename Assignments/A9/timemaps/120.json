@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T09:44:56Z",
+            "uri": "http://web.archive.org/web/20180209094456/https://www.pscp.tv/w/bUt7pTFvTlFsTHdlblB6UXd8MXJteFBtYU9qb1ZLThcVMV6zhRL7vil62LulZNErp21Y6wMuOErlHkrDVIAS"
+        },
+        "last": {
+            "datetime": "2018-02-24T15:26:06Z",
+            "uri": "http://web.archive.org/web/20180224152606/https://www.pscp.tv/w/bUt7pTFvTlFsTHdlblB6UXd8MXJteFBtYU9qb1ZLThcVMV6zhRL7vil62LulZNErp21Y6wMuOErlHkrDVIAS"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T09:44:56Z",
+                "uri": "http://web.archive.org/web/20180209094456/https://www.pscp.tv/w/bUt7pTFvTlFsTHdlblB6UXd8MXJteFBtYU9qb1ZLThcVMV6zhRL7vil62LulZNErp21Y6wMuOErlHkrDVIAS"
+            },
+            {
+                "datetime": "2018-02-24T15:26:06Z",
+                "uri": "http://web.archive.org/web/20180224152606/https://www.pscp.tv/w/bUt7pTFvTlFsTHdlblB6UXd8MXJteFBtYU9qb1ZLThcVMV6zhRL7vil62LulZNErp21Y6wMuOErlHkrDVIAS"
+            }
+        ]
+    },
+    "original_uri": "https://www.pscp.tv/w/bUt7pTFvTlFsTHdlblB6UXd8MXJteFBtYU9qb1ZLThcVMV6zhRL7vil62LulZNErp21Y6wMuOErlHkrDVIAS",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.pscp.tv/w/bUt7pTFvTlFsTHdlblB6UXd8MXJteFBtYU9qb1ZLThcVMV6zhRL7vil62LulZNErp21Y6wMuOErlHkrDVIAS",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.pscp.tv/w/bUt7pTFvTlFsTHdlblB6UXd8MXJteFBtYU9qb1ZLThcVMV6zhRL7vil62LulZNErp21Y6wMuOErlHkrDVIAS",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.pscp.tv/w/bUt7pTFvTlFsTHdlblB6UXd8MXJteFBtYU9qb1ZLThcVMV6zhRL7vil62LulZNErp21Y6wMuOErlHkrDVIAS",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.pscp.tv/w/bUt7pTFvTlFsTHdlblB6UXd8MXJteFBtYU9qb1ZLThcVMV6zhRL7vil62LulZNErp21Y6wMuOErlHkrDVIAS",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.pscp.tv/w/bUt7pTFvTlFsTHdlblB6UXd8MXJteFBtYU9qb1ZLThcVMV6zhRL7vil62LulZNErp21Y6wMuOErlHkrDVIAS"
+    }
+}

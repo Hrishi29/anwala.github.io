@@ -1,0 +1,74 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-08-31T07:56:10Z",
+            "uri": "http://web.archive.org/web/20160831075610/http://www.cbsnews.com/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/"
+        },
+        "last": {
+            "datetime": "2017-02-14T00:54:35Z",
+            "uri": "http://web.archive.org/web/20170214005435/http://www.cbsnews.com/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/"
+        },
+        "list": [
+            {
+                "datetime": "2016-08-31T07:56:10Z",
+                "uri": "http://web.archive.org/web/20160831075610/http://www.cbsnews.com/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/"
+            },
+            {
+                "datetime": "2016-08-31T16:32:19Z",
+                "uri": "http://web.archive.org/web/20160831163219/http://www.cbsnews.com/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/"
+            },
+            {
+                "datetime": "2016-09-02T04:44:24Z",
+                "uri": "http://web.archive.org/web/20160902044424/http://www.cbsnews.com:80/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/"
+            },
+            {
+                "datetime": "2016-09-02T17:02:13Z",
+                "uri": "http://web.archive.org/web/20160902170213/http://www.cbsnews.com:80/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/"
+            },
+            {
+                "datetime": "2016-09-02T17:02:13Z",
+                "uri": "http://web.archive.org/web/20160902170213/http://www.cbsnews.com:80/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks"
+            },
+            {
+                "datetime": "2016-09-02T21:14:23Z",
+                "uri": "http://web.archive.org/web/20160902211423/http://www.cbsnews.com:80/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/?"
+            },
+            {
+                "datetime": "2016-09-07T01:45:13Z",
+                "uri": "http://web.archive.org/web/20160907014513/http://www.cbsnews.com/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks"
+            },
+            {
+                "datetime": "2016-09-07T01:45:15Z",
+                "uri": "http://web.archive.org/web/20160907014515/http://www.cbsnews.com/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/"
+            },
+            {
+                "datetime": "2016-09-20T07:07:08Z",
+                "uri": "http://web.archive.org/web/20160920070708/http://www.cbsnews.com:80/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/"
+            },
+            {
+                "datetime": "2016-09-20T07:07:08Z",
+                "uri": "http://web.archive.org/web/20160920070708/http://www.cbsnews.com:80/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks"
+            },
+            {
+                "datetime": "2016-12-15T05:28:55Z",
+                "uri": "http://web.archive.org/web/20161215052855/http://www.cbsnews.com/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks"
+            },
+            {
+                "datetime": "2016-12-15T05:28:57Z",
+                "uri": "http://web.archive.org/web/20161215052857/http://www.cbsnews.com/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/"
+            },
+            {
+                "datetime": "2017-02-14T00:54:35Z",
+                "uri": "http://web.archive.org/web/20170214005435/http://www.cbsnews.com/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/"
+            }
+        ]
+    },
+    "original_uri": "https://www.cbsnews.com/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cbsnews.com/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cbsnews.com/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cbsnews.com/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cbsnews.com/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cbsnews.com/news/democrats-ask-fbi-did-donald-trump-aides-russia-connections-lead-to-cyberattacks/"
+    }
+}

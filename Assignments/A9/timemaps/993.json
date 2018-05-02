@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T21:09:57Z",
+            "uri": "http://web.archive.org/web/20180209210957/https://www.geekwire.com/2018/trump-travel-ban-prevents-techstars-seattle-entrepreneur-entering-u-s-startup-program/"
+        },
+        "last": {
+            "datetime": "2018-02-09T21:47:11Z",
+            "uri": "http://web.archive.org/web/20180209214711/https://www.geekwire.com/2018/trump-travel-ban-prevents-techstars-seattle-entrepreneur-entering-u-s-startup-program"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T21:09:57Z",
+                "uri": "http://web.archive.org/web/20180209210957/https://www.geekwire.com/2018/trump-travel-ban-prevents-techstars-seattle-entrepreneur-entering-u-s-startup-program/"
+            },
+            {
+                "datetime": "2018-02-09T21:16:03Z",
+                "uri": "http://web.archive.org/web/20180209211603/https://www.geekwire.com/2018/trump-travel-ban-prevents-techstars-seattle-entrepreneur-entering-u-s-startup-program"
+            },
+            {
+                "datetime": "2018-02-09T21:16:04Z",
+                "uri": "http://web.archive.org/web/20180209211604/https://www.geekwire.com/2018/trump-travel-ban-prevents-techstars-seattle-entrepreneur-entering-u-s-startup-program/"
+            },
+            {
+                "datetime": "2018-02-09T21:31:43Z",
+                "uri": "http://web.archive.org/web/20180209213143/https://www.geekwire.com/2018/trump-travel-ban-prevents-techstars-seattle-entrepreneur-entering-u-s-startup-program"
+            },
+            {
+                "datetime": "2018-02-09T21:31:44Z",
+                "uri": "http://web.archive.org/web/20180209213144/https://www.geekwire.com/2018/trump-travel-ban-prevents-techstars-seattle-entrepreneur-entering-u-s-startup-program/"
+            },
+            {
+                "datetime": "2018-02-09T21:47:11Z",
+                "uri": "http://web.archive.org/web/20180209214711/https://www.geekwire.com/2018/trump-travel-ban-prevents-techstars-seattle-entrepreneur-entering-u-s-startup-program/"
+            },
+            {
+                "datetime": "2018-02-09T21:47:11Z",
+                "uri": "http://web.archive.org/web/20180209214711/https://www.geekwire.com/2018/trump-travel-ban-prevents-techstars-seattle-entrepreneur-entering-u-s-startup-program"
+            }
+        ]
+    },
+    "original_uri": "https://www.geekwire.com/2018/trump-travel-ban-prevents-techstars-seattle-entrepreneur-entering-u-s-startup-program/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.geekwire.com/2018/trump-travel-ban-prevents-techstars-seattle-entrepreneur-entering-u-s-startup-program/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.geekwire.com/2018/trump-travel-ban-prevents-techstars-seattle-entrepreneur-entering-u-s-startup-program/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.geekwire.com/2018/trump-travel-ban-prevents-techstars-seattle-entrepreneur-entering-u-s-startup-program/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.geekwire.com/2018/trump-travel-ban-prevents-techstars-seattle-entrepreneur-entering-u-s-startup-program/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.geekwire.com/2018/trump-travel-ban-prevents-techstars-seattle-entrepreneur-entering-u-s-startup-program/"
+    }
+}

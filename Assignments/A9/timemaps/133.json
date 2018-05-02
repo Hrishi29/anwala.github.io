@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-03-24T17:50:23Z",
+            "uri": "http://web.archive.org/web/20180324175023/http://cfile10.uf.tistory.com/image/9975FC4E5A7DA1B1200F26"
+        },
+        "last": {
+            "datetime": "2018-03-24T17:50:23Z",
+            "uri": "http://web.archive.org/web/20180324175023/http://cfile10.uf.tistory.com/image/9975FC4E5A7DA1B1200F26"
+        },
+        "list": [
+            {
+                "datetime": "2018-03-24T17:50:23Z",
+                "uri": "http://web.archive.org/web/20180324175023/http://cfile10.uf.tistory.com/image/9975FC4E5A7DA1B1200F26"
+            }
+        ]
+    },
+    "original_uri": "http://cfile10.uf.tistory.com/image/9975FC4E5A7DA1B1200F26",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://cfile10.uf.tistory.com/image/9975FC4E5A7DA1B1200F26",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://cfile10.uf.tistory.com/image/9975FC4E5A7DA1B1200F26",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://cfile10.uf.tistory.com/image/9975FC4E5A7DA1B1200F26",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://cfile10.uf.tistory.com/image/9975FC4E5A7DA1B1200F26",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://cfile10.uf.tistory.com/image/9975FC4E5A7DA1B1200F26"
+    }
+}

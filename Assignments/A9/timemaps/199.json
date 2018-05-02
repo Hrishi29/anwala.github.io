@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T19:19:45Z",
+            "uri": "http://web.archive.org/web/20180209191945/http://www.msnbc.com/rachel-maddow-show/trump-rarely-if-ever-reads-his-daily-intelligence-briefing"
+        },
+        "last": {
+            "datetime": "2018-02-10T15:22:44Z",
+            "uri": "http://web.archive.org/web/20180210152244/http://www.msnbc.com/rachel-maddow-show/trump-rarely-if-ever-reads-his-daily-intelligence-briefing"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T19:19:45Z",
+                "uri": "http://web.archive.org/web/20180209191945/http://www.msnbc.com/rachel-maddow-show/trump-rarely-if-ever-reads-his-daily-intelligence-briefing"
+            },
+            {
+                "datetime": "2018-02-10T15:22:44Z",
+                "uri": "http://web.archive.org/web/20180210152244/http://www.msnbc.com/rachel-maddow-show/trump-rarely-if-ever-reads-his-daily-intelligence-briefing"
+            }
+        ]
+    },
+    "original_uri": "http://www.msnbc.com/rachel-maddow-show/trump-rarely-if-ever-reads-his-daily-intelligence-briefing",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.msnbc.com/rachel-maddow-show/trump-rarely-if-ever-reads-his-daily-intelligence-briefing",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.msnbc.com/rachel-maddow-show/trump-rarely-if-ever-reads-his-daily-intelligence-briefing",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.msnbc.com/rachel-maddow-show/trump-rarely-if-ever-reads-his-daily-intelligence-briefing",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.msnbc.com/rachel-maddow-show/trump-rarely-if-ever-reads-his-daily-intelligence-briefing",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.msnbc.com/rachel-maddow-show/trump-rarely-if-ever-reads-his-daily-intelligence-briefing"
+    }
+}

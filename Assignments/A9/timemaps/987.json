@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-11-10T07:12:24Z",
+            "uri": "http://web.archive.org/web/20161110071224/http://www.hani.co.kr:80/arti/politics/politics_general/769365.html"
+        },
+        "last": {
+            "datetime": "2017-09-19T20:45:16Z",
+            "uri": "http://web.archive.org/web/20170919204516/http://www.hani.co.kr/arti/politics/politics_general/769365.html"
+        },
+        "list": [
+            {
+                "datetime": "2016-11-10T07:12:24Z",
+                "uri": "http://web.archive.org/web/20161110071224/http://www.hani.co.kr:80/arti/politics/politics_general/769365.html"
+            },
+            {
+                "datetime": "2016-11-11T23:16:08Z",
+                "uri": "http://web.archive.org/web/20161111231608/http://www.hani.co.kr:80/arti/politics/politics_general/769365.html?"
+            },
+            {
+                "datetime": "2016-11-11T23:53:59Z",
+                "uri": "http://web.archive.org/web/20161111235359/http://www.hani.co.kr:80/arti/politics/politics_general/769365.html"
+            },
+            {
+                "datetime": "2017-01-03T05:31:59Z",
+                "uri": "http://web.archive.org/web/20170103053159/http://www.hani.co.kr/arti/politics/politics_general/769365.html"
+            },
+            {
+                "datetime": "2017-09-09T08:42:33Z",
+                "uri": "http://web.archive.org/web/20170909084233/http://www.hani.co.kr/arti/politics/politics_general/769365.html"
+            },
+            {
+                "datetime": "2017-09-19T20:45:16Z",
+                "uri": "http://web.archive.org/web/20170919204516/http://www.hani.co.kr/arti/politics/politics_general/769365.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.hani.co.kr/arti/politics/politics_general/769365.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.hani.co.kr/arti/politics/politics_general/769365.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.hani.co.kr/arti/politics/politics_general/769365.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.hani.co.kr/arti/politics/politics_general/769365.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.hani.co.kr/arti/politics/politics_general/769365.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.hani.co.kr/arti/politics/politics_general/769365.html"
+    }
+}

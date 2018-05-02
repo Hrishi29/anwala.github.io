@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T18:05:38Z",
+            "uri": "http://web.archive.org/web/20180208180538/https://theintercept.com/2018/02/08/donald-trump-nuclear-war/"
+        },
+        "last": {
+            "datetime": "2018-03-15T02:10:17Z",
+            "uri": "http://web.archive.org/web/20180315021017/https://theintercept.com/2018/02/08/donald-trump-nuclear-war/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T18:05:38Z",
+                "uri": "http://web.archive.org/web/20180208180538/https://theintercept.com/2018/02/08/donald-trump-nuclear-war/"
+            },
+            {
+                "datetime": "2018-02-08T18:06:04Z",
+                "uri": "http://archive.is/20180208180604/https://theintercept.com/2018/02/08/donald-trump-nuclear-war/"
+            },
+            {
+                "datetime": "2018-02-08T22:52:41Z",
+                "uri": "http://web.archive.org/web/20180208225241/https://theintercept.com/2018/02/08/donald-trump-nuclear-war/"
+            },
+            {
+                "datetime": "2018-03-15T02:10:17Z",
+                "uri": "http://web.archive.org/web/20180315021017/https://theintercept.com/2018/02/08/donald-trump-nuclear-war/"
+            }
+        ]
+    },
+    "original_uri": "https://theintercept.com/2018/02/08/donald-trump-nuclear-war/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://theintercept.com/2018/02/08/donald-trump-nuclear-war/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://theintercept.com/2018/02/08/donald-trump-nuclear-war/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://theintercept.com/2018/02/08/donald-trump-nuclear-war/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://theintercept.com/2018/02/08/donald-trump-nuclear-war/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://theintercept.com/2018/02/08/donald-trump-nuclear-war/"
+    }
+}

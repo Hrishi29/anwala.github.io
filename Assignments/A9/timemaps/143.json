@@ -1,0 +1,90 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T02:02:08Z",
+            "uri": "http://web.archive.org/web/20180210020208/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+        },
+        "last": {
+            "datetime": "2018-04-18T21:05:25Z",
+            "uri": "http://web.archive.org/web/20180418210525/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T02:02:08Z",
+                "uri": "http://web.archive.org/web/20180210020208/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-02-10T03:39:10Z",
+                "uri": "http://web.archive.org/web/20180210033910/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-02-10T18:59:21Z",
+                "uri": "http://web.archive.org/web/20180210185921/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-02-10T19:33:49Z",
+                "uri": "http://web.archive.org/web/20180210193349/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-02-11T03:14:54Z",
+                "uri": "http://archive.is/20180211031454/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-02-11T08:48:41Z",
+                "uri": "http://wayback.archive-it.org/all/20180211084841/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-02-11T08:48:41Z",
+                "uri": "http://web.archive.org/web/20180211084841/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-02-11T19:29:21Z",
+                "uri": "http://web.archive.org/web/20180211192921/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-02-12T02:45:49Z",
+                "uri": "http://web.archive.org/web/20180212024549/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-02-12T04:29:18Z",
+                "uri": "http://web.archive.org/web/20180212042918/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-03-16T00:02:57Z",
+                "uri": "http://web.archive.org/web/20180316000257/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-03-16T02:18:06Z",
+                "uri": "http://web.archive.org/web/20180316021806/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-03-16T03:05:39Z",
+                "uri": "http://web.archive.org/web/20180316030539/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-03-20T23:23:36Z",
+                "uri": "http://web.archive.org/web/20180320232336/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-04-18T09:34:15Z",
+                "uri": "http://web.archive.org/web/20180418093415/http://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-04-18T09:34:17Z",
+                "uri": "http://web.archive.org/web/20180418093417/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            },
+            {
+                "datetime": "2018-04-18T21:05:25Z",
+                "uri": "http://web.archive.org/web/20180418210525/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/02/09/us/politics/american-soldiers-killed-niger-investigation.html"
+    }
+}

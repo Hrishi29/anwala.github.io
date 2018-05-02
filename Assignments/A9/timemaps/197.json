@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-03-04T02:00:54Z",
+            "uri": "http://wayback.archive-it.org/all/20180304020054/http://www.sandiegouniontribune.com/hoy-san-diego/deportes/sdhoy-como-apoyar-al-equipo-de-mexico-en-los-juegos-olimpicos-de-invierno-2018-20180209-htmlstory.html"
+        },
+        "last": {
+            "datetime": "2018-03-04T02:00:54Z",
+            "uri": "http://web.archive.org/web/20180304020054/http://www.sandiegouniontribune.com/hoy-san-diego/deportes/sdhoy-como-apoyar-al-equipo-de-mexico-en-los-juegos-olimpicos-de-invierno-2018-20180209-htmlstory.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-03-04T02:00:54Z",
+                "uri": "http://wayback.archive-it.org/all/20180304020054/http://www.sandiegouniontribune.com/hoy-san-diego/deportes/sdhoy-como-apoyar-al-equipo-de-mexico-en-los-juegos-olimpicos-de-invierno-2018-20180209-htmlstory.html"
+            },
+            {
+                "datetime": "2018-03-04T02:00:54Z",
+                "uri": "http://web.archive.org/web/20180304020054/http://www.sandiegouniontribune.com/hoy-san-diego/deportes/sdhoy-como-apoyar-al-equipo-de-mexico-en-los-juegos-olimpicos-de-invierno-2018-20180209-htmlstory.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.sandiegouniontribune.com/hoy-san-diego/deportes/sdhoy-como-apoyar-al-equipo-de-mexico-en-los-juegos-olimpicos-de-invierno-2018-20180209-htmlstory.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.sandiegouniontribune.com/hoy-san-diego/deportes/sdhoy-como-apoyar-al-equipo-de-mexico-en-los-juegos-olimpicos-de-invierno-2018-20180209-htmlstory.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.sandiegouniontribune.com/hoy-san-diego/deportes/sdhoy-como-apoyar-al-equipo-de-mexico-en-los-juegos-olimpicos-de-invierno-2018-20180209-htmlstory.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.sandiegouniontribune.com/hoy-san-diego/deportes/sdhoy-como-apoyar-al-equipo-de-mexico-en-los-juegos-olimpicos-de-invierno-2018-20180209-htmlstory.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.sandiegouniontribune.com/hoy-san-diego/deportes/sdhoy-como-apoyar-al-equipo-de-mexico-en-los-juegos-olimpicos-de-invierno-2018-20180209-htmlstory.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.sandiegouniontribune.com/hoy-san-diego/deportes/sdhoy-como-apoyar-al-equipo-de-mexico-en-los-juegos-olimpicos-de-invierno-2018-20180209-htmlstory.html"
+    }
+}

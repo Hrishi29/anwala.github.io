@@ -1,0 +1,90 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-01-29T18:06:04Z",
+            "uri": "http://web.archive.org/web/20170129180604/http://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+        },
+        "last": {
+            "datetime": "2018-01-06T22:24:45Z",
+            "uri": "http://web.archive.org/web/20180106222445/https://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+        },
+        "list": [
+            {
+                "datetime": "2017-01-29T18:06:04Z",
+                "uri": "http://web.archive.org/web/20170129180604/http://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            },
+            {
+                "datetime": "2017-01-31T19:41:27Z",
+                "uri": "http://web.archive.org/web/20170131194127/http://www.cnbc.com:80/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            },
+            {
+                "datetime": "2017-02-07T06:16:46Z",
+                "uri": "http://web.archive.org/web/20170207061646/http://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            },
+            {
+                "datetime": "2017-02-21T00:40:58Z",
+                "uri": "http://web.archive.org/web/20170221004058/http://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            },
+            {
+                "datetime": "2017-02-22T19:04:05Z",
+                "uri": "http://web.archive.org/web/20170222190405/http://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            },
+            {
+                "datetime": "2017-03-07T12:09:50Z",
+                "uri": "http://web.archive.org/web/20170307120950/http://www.cnbc.com:80/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html?"
+            },
+            {
+                "datetime": "2017-05-04T13:46:58Z",
+                "uri": "http://web.archive.org/web/20170504134658/http://www.cnbc.com:80/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            },
+            {
+                "datetime": "2017-05-16T16:54:27Z",
+                "uri": "http://web.archive.org/web/20170516165427/http://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            },
+            {
+                "datetime": "2017-06-04T23:35:18Z",
+                "uri": "http://web.archive.org/web/20170604233518/http://www.cnbc.com:80/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            },
+            {
+                "datetime": "2017-07-06T01:44:42Z",
+                "uri": "http://web.archive.org/web/20170706014442/http://www.cnbc.com:80/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            },
+            {
+                "datetime": "2017-08-06T09:09:07Z",
+                "uri": "http://web.archive.org/web/20170806090907/http://www.cnbc.com:80/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            },
+            {
+                "datetime": "2017-08-08T05:16:54Z",
+                "uri": "http://web.archive.org/web/20170808051654/http://www.cnbc.com:80/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            },
+            {
+                "datetime": "2017-10-08T21:16:33Z",
+                "uri": "http://web.archive.org/web/20171008211633/http://www.cnbc.com:80/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            },
+            {
+                "datetime": "2017-11-11T07:37:42Z",
+                "uri": "http://archive.is/20171111073742/https://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            },
+            {
+                "datetime": "2017-12-06T22:35:31Z",
+                "uri": "http://web.archive.org/web/20171206223531/http://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            },
+            {
+                "datetime": "2017-12-14T09:56:55Z",
+                "uri": "http://web.archive.org/web/20171214095655/https://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            },
+            {
+                "datetime": "2018-01-06T22:24:45Z",
+                "uri": "http://web.archive.org/web/20180106222445/https://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cnbc.com/2017/01/29/trump-imposes-lifetime-ban-on-some-lobbying-five-years-for-others.html"
+    }
+}

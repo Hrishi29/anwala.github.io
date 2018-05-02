@@ -1,0 +1,54 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T04:24:44Z",
+            "uri": "http://web.archive.org/web/20180210042444/https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns"
+        },
+        "last": {
+            "datetime": "2018-02-22T14:48:15Z",
+            "uri": "http://web.archive.org/web/20180222144815/https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T04:24:44Z",
+                "uri": "http://web.archive.org/web/20180210042444/https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns"
+            },
+            {
+                "datetime": "2018-02-10T21:47:50Z",
+                "uri": "http://archive.is/20180210214750/https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns"
+            },
+            {
+                "datetime": "2018-02-10T23:57:18Z",
+                "uri": "http://web.archive.org/web/20180210235718/https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns"
+            },
+            {
+                "datetime": "2018-02-11T07:59:17Z",
+                "uri": "http://wayback.archive-it.org/all/20180211075917/https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns"
+            },
+            {
+                "datetime": "2018-02-11T07:59:17Z",
+                "uri": "http://web.archive.org/web/20180211075917/https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns"
+            },
+            {
+                "datetime": "2018-02-13T00:54:59Z",
+                "uri": "http://web.archive.org/web/20180213005459/https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns"
+            },
+            {
+                "datetime": "2018-02-13T02:41:08Z",
+                "uri": "http://web.archive.org/web/20180213024108/https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns"
+            },
+            {
+                "datetime": "2018-02-22T14:48:15Z",
+                "uri": "http://web.archive.org/web/20180222144815/https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns"
+            }
+        ]
+    },
+    "original_uri": "https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://news.vice.com/en_us/article/bj5mjm/president-trump-blocks-democrat-written-memo-citing-national-security-concerns"
+    }
+}

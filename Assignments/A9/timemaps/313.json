@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T10:43:23Z",
+            "uri": "http://web.archive.org/web/20180209104323/http://usalibertypress.com/2017/09/20/the-entire-emmys-just-got-terrible-after-bashing-trump-the-entire-time/"
+        },
+        "last": {
+            "datetime": "2018-03-11T10:21:06Z",
+            "uri": "http://web.archive.org/web/20180311102106/http://usalibertypress.com/2017/09/20/the-entire-emmys-just-got-terrible-after-bashing-trump-the-entire-time/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T10:43:23Z",
+                "uri": "http://web.archive.org/web/20180209104323/http://usalibertypress.com/2017/09/20/the-entire-emmys-just-got-terrible-after-bashing-trump-the-entire-time/"
+            },
+            {
+                "datetime": "2018-03-04T13:25:06Z",
+                "uri": "http://web.archive.org/web/20180304132506/http://usalibertypress.com/2017/09/20/the-entire-emmys-just-got-terrible-after-bashing-trump-the-entire-time/"
+            },
+            {
+                "datetime": "2018-03-07T06:36:34Z",
+                "uri": "http://web.archive.org/web/20180307063634/http://usalibertypress.com/2017/09/20/the-entire-emmys-just-got-terrible-after-bashing-trump-the-entire-time/"
+            },
+            {
+                "datetime": "2018-03-09T13:40:49Z",
+                "uri": "http://web.archive.org/web/20180309134049/http://usalibertypress.com/2017/09/20/the-entire-emmys-just-got-terrible-after-bashing-trump-the-entire-time/"
+            },
+            {
+                "datetime": "2018-03-11T10:21:06Z",
+                "uri": "http://web.archive.org/web/20180311102106/http://usalibertypress.com/2017/09/20/the-entire-emmys-just-got-terrible-after-bashing-trump-the-entire-time/"
+            }
+        ]
+    },
+    "original_uri": "http://usalibertypress.com/2017/09/20/the-entire-emmys-just-got-terrible-after-bashing-trump-the-entire-time/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://usalibertypress.com/2017/09/20/the-entire-emmys-just-got-terrible-after-bashing-trump-the-entire-time/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://usalibertypress.com/2017/09/20/the-entire-emmys-just-got-terrible-after-bashing-trump-the-entire-time/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://usalibertypress.com/2017/09/20/the-entire-emmys-just-got-terrible-after-bashing-trump-the-entire-time/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://usalibertypress.com/2017/09/20/the-entire-emmys-just-got-terrible-after-bashing-trump-the-entire-time/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://usalibertypress.com/2017/09/20/the-entire-emmys-just-got-terrible-after-bashing-trump-the-entire-time/"
+    }
+}

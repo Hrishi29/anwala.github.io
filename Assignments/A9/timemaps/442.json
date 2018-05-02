@@ -1,0 +1,822 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T20:38:02Z",
+            "uri": "http://web.archive.org/web/20180208203802/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+        },
+        "last": {
+            "datetime": "2018-04-14T08:47:43Z",
+            "uri": "http://web.archive.org/web/20180414084743/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T20:38:02Z",
+                "uri": "http://web.archive.org/web/20180208203802/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-08T20:38:05Z",
+                "uri": "http://web.archive.org/web/20180208203805/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-08T21:00:08Z",
+                "uri": "http://web.archive.org/web/20180208210008/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-08T21:00:22Z",
+                "uri": "http://web.archive.org/web/20180208210022/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-08T21:07:29Z",
+                "uri": "http://web.archive.org/web/20180208210729/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-08T21:09:18Z",
+                "uri": "http://web.archive.org/web/20180208210918/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-08T23:51:20Z",
+                "uri": "http://web.archive.org/web/20180208235120/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-08T23:55:24Z",
+                "uri": "http://web.archive.org/web/20180208235524/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-08T23:56:01Z",
+                "uri": "http://web.archive.org/web/20180208235601/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T02:09:34Z",
+                "uri": "http://web.archive.org/web/20180209020934/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T02:12:47Z",
+                "uri": "http://web.archive.org/web/20180209021247/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T02:38:33Z",
+                "uri": "http://web.archive.org/web/20180209023833/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T13:56:48Z",
+                "uri": "http://web.archive.org/web/20180209135648/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T14:51:08Z",
+                "uri": "http://archive.is/20180209145108/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T15:13:18Z",
+                "uri": "http://web.archive.org/web/20180209151318/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T15:46:59Z",
+                "uri": "http://web.archive.org/web/20180209154659/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T16:20:55Z",
+                "uri": "http://web.archive.org/web/20180209162055/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T16:55:18Z",
+                "uri": "http://web.archive.org/web/20180209165518/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T17:29:12Z",
+                "uri": "http://web.archive.org/web/20180209172912/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T17:37:25Z",
+                "uri": "http://web.archive.org/web/20180209173725/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T18:03:43Z",
+                "uri": "http://web.archive.org/web/20180209180343/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T18:31:57Z",
+                "uri": "http://web.archive.org/web/20180209183157/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T18:32:18Z",
+                "uri": "http://web.archive.org/web/20180209183218/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T19:06:51Z",
+                "uri": "http://web.archive.org/web/20180209190651/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T19:14:09Z",
+                "uri": "http://web.archive.org/web/20180209191409/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-09T19:49:06Z",
+                "uri": "http://web.archive.org/web/20180209194906/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-10T00:03:29Z",
+                "uri": "http://web.archive.org/web/20180210000329/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-10T03:17:19Z",
+                "uri": "http://web.archive.org/web/20180210031719/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-10T03:35:21Z",
+                "uri": "http://web.archive.org/web/20180210033521/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-10T17:32:03Z",
+                "uri": "http://web.archive.org/web/20180210173203/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-10T17:37:02Z",
+                "uri": "http://web.archive.org/web/20180210173702/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-10T19:37:14Z",
+                "uri": "http://web.archive.org/web/20180210193714/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-11T00:47:02Z",
+                "uri": "http://web.archive.org/web/20180211004702/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-11T18:05:22Z",
+                "uri": "http://web.archive.org/web/20180211180522/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-11T18:06:59Z",
+                "uri": "http://web.archive.org/web/20180211180659/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-11T21:55:10Z",
+                "uri": "http://web.archive.org/web/20180211215510/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-11T21:55:17Z",
+                "uri": "http://web.archive.org/web/20180211215517/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-12T19:16:05Z",
+                "uri": "http://web.archive.org/web/20180212191605/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-12T21:18:54Z",
+                "uri": "http://web.archive.org/web/20180212211854/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-12T21:47:29Z",
+                "uri": "http://web.archive.org/web/20180212214729/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-12T22:15:29Z",
+                "uri": "http://web.archive.org/web/20180212221529/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-13T22:21:31Z",
+                "uri": "http://web.archive.org/web/20180213222131/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-13T22:21:52Z",
+                "uri": "http://web.archive.org/web/20180213222152/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-14T01:18:05Z",
+                "uri": "http://web.archive.org/web/20180214011805/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-14T04:09:02Z",
+                "uri": "http://web.archive.org/web/20180214040902/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-14T05:17:21Z",
+                "uri": "http://web.archive.org/web/20180214051721/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-14T07:19:27Z",
+                "uri": "http://web.archive.org/web/20180214071927/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-14T07:20:03Z",
+                "uri": "http://web.archive.org/web/20180214072003/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-15T01:07:47Z",
+                "uri": "http://web.archive.org/web/20180215010747/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-15T01:16:22Z",
+                "uri": "http://web.archive.org/web/20180215011622/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-15T01:19:55Z",
+                "uri": "http://web.archive.org/web/20180215011955/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-15T03:30:19Z",
+                "uri": "http://web.archive.org/web/20180215033019/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-15T09:31:20Z",
+                "uri": "http://web.archive.org/web/20180215093120/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-15T09:47:42Z",
+                "uri": "http://web.archive.org/web/20180215094742/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-15T23:13:33Z",
+                "uri": "http://web.archive.org/web/20180215231333/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-15T23:59:56Z",
+                "uri": "http://web.archive.org/web/20180215235956/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-16T12:44:17Z",
+                "uri": "http://web.archive.org/web/20180216124417/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-16T12:44:37Z",
+                "uri": "http://web.archive.org/web/20180216124437/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-17T12:35:58Z",
+                "uri": "http://web.archive.org/web/20180217123558/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-17T12:36:12Z",
+                "uri": "http://web.archive.org/web/20180217123612/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-17T15:55:39Z",
+                "uri": "http://web.archive.org/web/20180217155539/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-17T15:55:53Z",
+                "uri": "http://web.archive.org/web/20180217155553/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-18T20:52:54Z",
+                "uri": "http://web.archive.org/web/20180218205254/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-18T20:53:16Z",
+                "uri": "http://web.archive.org/web/20180218205316/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-18T21:48:03Z",
+                "uri": "http://web.archive.org/web/20180218214803/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-18T22:37:45Z",
+                "uri": "http://web.archive.org/web/20180218223745/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-19T20:03:41Z",
+                "uri": "http://web.archive.org/web/20180219200341/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-19T20:03:56Z",
+                "uri": "http://web.archive.org/web/20180219200356/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-19T21:51:14Z",
+                "uri": "http://web.archive.org/web/20180219215114/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-19T21:53:07Z",
+                "uri": "http://web.archive.org/web/20180219215307/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-20T17:42:07Z",
+                "uri": "http://web.archive.org/web/20180220174207/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-21T03:05:07Z",
+                "uri": "http://web.archive.org/web/20180221030507/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-21T03:05:17Z",
+                "uri": "http://web.archive.org/web/20180221030517/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-21T05:38:44Z",
+                "uri": "http://web.archive.org/web/20180221053844/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-21T17:40:46Z",
+                "uri": "http://web.archive.org/web/20180221174046/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-21T19:02:28Z",
+                "uri": "http://web.archive.org/web/20180221190228/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-22T09:52:11Z",
+                "uri": "http://web.archive.org/web/20180222095211/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-22T14:35:20Z",
+                "uri": "http://web.archive.org/web/20180222143520/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-22T14:35:24Z",
+                "uri": "http://web.archive.org/web/20180222143524/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-22T18:19:00Z",
+                "uri": "http://web.archive.org/web/20180222181900/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-22T18:19:14Z",
+                "uri": "http://web.archive.org/web/20180222181914/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-22T19:13:25Z",
+                "uri": "http://web.archive.org/web/20180222191325/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-22T19:13:31Z",
+                "uri": "http://web.archive.org/web/20180222191331/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-23T14:20:24Z",
+                "uri": "http://web.archive.org/web/20180223142024/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-23T14:23:11Z",
+                "uri": "http://web.archive.org/web/20180223142311/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-24T03:05:16Z",
+                "uri": "http://web.archive.org/web/20180224030516/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-24T03:05:31Z",
+                "uri": "http://web.archive.org/web/20180224030531/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-24T04:10:39Z",
+                "uri": "http://web.archive.org/web/20180224041039/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-24T04:11:09Z",
+                "uri": "http://web.archive.org/web/20180224041109/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-25T04:56:42Z",
+                "uri": "http://web.archive.org/web/20180225045642/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-25T04:59:09Z",
+                "uri": "http://web.archive.org/web/20180225045909/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-25T09:30:49Z",
+                "uri": "http://web.archive.org/web/20180225093049/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-25T09:31:07Z",
+                "uri": "http://web.archive.org/web/20180225093107/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-25T20:50:24Z",
+                "uri": "http://web.archive.org/web/20180225205024/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-25T20:50:33Z",
+                "uri": "http://web.archive.org/web/20180225205033/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-27T01:56:26Z",
+                "uri": "http://web.archive.org/web/20180227015626/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-27T01:57:05Z",
+                "uri": "http://web.archive.org/web/20180227015705/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-27T08:37:17Z",
+                "uri": "http://web.archive.org/web/20180227083717/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-27T08:37:37Z",
+                "uri": "http://web.archive.org/web/20180227083737/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-27T19:32:18Z",
+                "uri": "http://web.archive.org/web/20180227193218/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-27T19:32:34Z",
+                "uri": "http://web.archive.org/web/20180227193234/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-28T21:40:37Z",
+                "uri": "http://web.archive.org/web/20180228214037/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-02-28T21:42:42Z",
+                "uri": "http://web.archive.org/web/20180228214242/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-01T09:38:58Z",
+                "uri": "http://web.archive.org/web/20180301093858/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-01T09:40:17Z",
+                "uri": "http://web.archive.org/web/20180301094017/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-01T13:45:28Z",
+                "uri": "http://web.archive.org/web/20180301134528/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-01T13:45:42Z",
+                "uri": "http://web.archive.org/web/20180301134542/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-02T22:17:21Z",
+                "uri": "http://web.archive.org/web/20180302221721/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-03T12:25:57Z",
+                "uri": "http://web.archive.org/web/20180303122557/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-03T12:28:27Z",
+                "uri": "http://web.archive.org/web/20180303122827/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-03T19:18:51Z",
+                "uri": "http://web.archive.org/web/20180303191851/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-03T19:19:08Z",
+                "uri": "http://web.archive.org/web/20180303191908/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-04T04:17:14Z",
+                "uri": "http://web.archive.org/web/20180304041714/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-04T04:24:43Z",
+                "uri": "http://web.archive.org/web/20180304042443/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-04T09:43:07Z",
+                "uri": "http://web.archive.org/web/20180304094307/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-04T09:43:46Z",
+                "uri": "http://web.archive.org/web/20180304094346/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-05T06:41:44Z",
+                "uri": "http://web.archive.org/web/20180305064144/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-05T06:41:52Z",
+                "uri": "http://web.archive.org/web/20180305064152/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-05T11:44:30Z",
+                "uri": "http://web.archive.org/web/20180305114430/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-05T11:46:22Z",
+                "uri": "http://web.archive.org/web/20180305114622/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-05T22:01:55Z",
+                "uri": "http://web.archive.org/web/20180305220155/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-05T22:02:04Z",
+                "uri": "http://web.archive.org/web/20180305220204/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-05T23:31:25Z",
+                "uri": "http://web.archive.org/web/20180305233125/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-05T23:31:40Z",
+                "uri": "http://web.archive.org/web/20180305233140/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-06T08:54:39Z",
+                "uri": "http://web.archive.org/web/20180306085439/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-06T08:54:53Z",
+                "uri": "http://web.archive.org/web/20180306085453/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-08T16:34:58Z",
+                "uri": "http://web.archive.org/web/20180308163458/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-08T16:35:14Z",
+                "uri": "http://web.archive.org/web/20180308163514/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-08T23:34:31Z",
+                "uri": "http://web.archive.org/web/20180308233431/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-08T23:34:41Z",
+                "uri": "http://web.archive.org/web/20180308233441/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-09T09:05:51Z",
+                "uri": "http://web.archive.org/web/20180309090551/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-09T09:05:58Z",
+                "uri": "http://web.archive.org/web/20180309090558/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-09T23:47:57Z",
+                "uri": "http://web.archive.org/web/20180309234757/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-10T00:06:17Z",
+                "uri": "http://web.archive.org/web/20180310000617/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-10T01:05:07Z",
+                "uri": "http://web.archive.org/web/20180310010507/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-10T02:06:31Z",
+                "uri": "http://web.archive.org/web/20180310020631/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-10T06:38:42Z",
+                "uri": "http://web.archive.org/web/20180310063842/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-10T08:04:12Z",
+                "uri": "http://web.archive.org/web/20180310080412/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-10T14:36:22Z",
+                "uri": "http://web.archive.org/web/20180310143622/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-10T17:04:01Z",
+                "uri": "http://web.archive.org/web/20180310170401/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-10T22:55:20Z",
+                "uri": "http://web.archive.org/web/20180310225520/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-11T00:34:31Z",
+                "uri": "http://web.archive.org/web/20180311003431/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-11T06:08:40Z",
+                "uri": "http://web.archive.org/web/20180311060840/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-11T07:46:10Z",
+                "uri": "http://web.archive.org/web/20180311074610/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-12T01:31:13Z",
+                "uri": "http://web.archive.org/web/20180312013113/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-12T01:38:45Z",
+                "uri": "http://web.archive.org/web/20180312013845/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-12T02:15:47Z",
+                "uri": "http://web.archive.org/web/20180312021547/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-12T02:59:02Z",
+                "uri": "http://web.archive.org/web/20180312025902/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-12T08:44:59Z",
+                "uri": "http://web.archive.org/web/20180312084459/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-12T09:15:13Z",
+                "uri": "http://web.archive.org/web/20180312091513/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-13T02:57:58Z",
+                "uri": "http://web.archive.org/web/20180313025758/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-13T04:41:50Z",
+                "uri": "http://web.archive.org/web/20180313044150/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-13T05:14:38Z",
+                "uri": "http://web.archive.org/web/20180313051438/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-13T05:16:56Z",
+                "uri": "http://web.archive.org/web/20180313051656/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-13T09:40:15Z",
+                "uri": "http://web.archive.org/web/20180313094015/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-13T09:49:21Z",
+                "uri": "http://web.archive.org/web/20180313094921/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-13T15:38:30Z",
+                "uri": "http://web.archive.org/web/20180313153830/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-13T15:38:51Z",
+                "uri": "http://web.archive.org/web/20180313153851/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-14T03:23:33Z",
+                "uri": "http://web.archive.org/web/20180314032333/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-14T03:23:41Z",
+                "uri": "http://web.archive.org/web/20180314032341/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-14T06:55:58Z",
+                "uri": "http://web.archive.org/web/20180314065558/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-14T06:56:07Z",
+                "uri": "http://web.archive.org/web/20180314065607/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-15T04:35:58Z",
+                "uri": "http://web.archive.org/web/20180315043558/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-15T04:36:55Z",
+                "uri": "http://web.archive.org/web/20180315043655/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-15T04:51:42Z",
+                "uri": "http://web.archive.org/web/20180315045142/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-15T04:51:51Z",
+                "uri": "http://web.archive.org/web/20180315045151/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-15T13:59:49Z",
+                "uri": "http://web.archive.org/web/20180315135949/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-15T13:59:59Z",
+                "uri": "http://web.archive.org/web/20180315135959/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-15T18:08:29Z",
+                "uri": "http://web.archive.org/web/20180315180829/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-16T02:24:32Z",
+                "uri": "http://web.archive.org/web/20180316022432/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-16T02:24:44Z",
+                "uri": "http://web.archive.org/web/20180316022444/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-16T02:32:51Z",
+                "uri": "http://web.archive.org/web/20180316023251/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-16T02:34:32Z",
+                "uri": "http://web.archive.org/web/20180316023432/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-16T11:04:19Z",
+                "uri": "http://web.archive.org/web/20180316110419/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-16T11:04:28Z",
+                "uri": "http://web.archive.org/web/20180316110428/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-16T16:44:02Z",
+                "uri": "http://web.archive.org/web/20180316164402/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-16T16:44:12Z",
+                "uri": "http://web.archive.org/web/20180316164412/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-17T02:03:31Z",
+                "uri": "http://web.archive.org/web/20180317020331/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-17T02:03:42Z",
+                "uri": "http://web.archive.org/web/20180317020342/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-17T10:40:09Z",
+                "uri": "http://web.archive.org/web/20180317104009/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-17T10:40:18Z",
+                "uri": "http://web.archive.org/web/20180317104018/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-20T22:54:03Z",
+                "uri": "http://web.archive.org/web/20180320225403/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-20T22:54:15Z",
+                "uri": "http://web.archive.org/web/20180320225415/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-21T11:44:43Z",
+                "uri": "http://web.archive.org/web/20180321114443/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-21T11:44:50Z",
+                "uri": "http://web.archive.org/web/20180321114450/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-21T21:10:38Z",
+                "uri": "http://web.archive.org/web/20180321211038/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-21T21:10:49Z",
+                "uri": "http://web.archive.org/web/20180321211049/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-22T11:33:29Z",
+                "uri": "http://web.archive.org/web/20180322113329/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-22T11:33:39Z",
+                "uri": "http://web.archive.org/web/20180322113339/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-23T03:41:37Z",
+                "uri": "http://web.archive.org/web/20180323034137/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-23T03:41:48Z",
+                "uri": "http://web.archive.org/web/20180323034148/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-23T12:31:50Z",
+                "uri": "http://web.archive.org/web/20180323123150/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-23T12:32:00Z",
+                "uri": "http://web.archive.org/web/20180323123200/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-26T07:55:26Z",
+                "uri": "http://web.archive.org/web/20180326075526/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-31T14:17:51Z",
+                "uri": "http://web.archive.org/web/20180331141751/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-03-31T14:18:00Z",
+                "uri": "http://web.archive.org/web/20180331141800/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-04-05T13:33:47Z",
+                "uri": "http://web.archive.org/web/20180405133347/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-04-06T02:09:50Z",
+                "uri": "http://web.archive.org/web/20180406020950/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-04-14T08:47:32Z",
+                "uri": "http://web.archive.org/web/20180414084732/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            },
+            {
+                "datetime": "2018-04-14T08:47:43Z",
+                "uri": "http://web.archive.org/web/20180414084743/http://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+            }
+        ]
+    },
+    "original_uri": "https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.wsj.com/articles/senate-intelligence-committee-writing-report-on-election-vulnerabilities-ahead-of-midterms-1518121522"
+    }
+}

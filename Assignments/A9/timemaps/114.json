@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T05:13:04Z",
+            "uri": "http://wayback.archive-it.org/all/20180211051304/https://www.cbsnews.com/news/pyeongchang-2018-winter-olympic-games-athletes-you-dont-want-to-miss/"
+        },
+        "last": {
+            "datetime": "2018-04-30T23:27:13Z",
+            "uri": "http://web.archive.org/web/20180430232713/https://www.cbsnews.com/news/pyeongchang-2018-winter-olympic-games-athletes-you-dont-want-to-miss/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T05:13:04Z",
+                "uri": "http://wayback.archive-it.org/all/20180211051304/https://www.cbsnews.com/news/pyeongchang-2018-winter-olympic-games-athletes-you-dont-want-to-miss/"
+            },
+            {
+                "datetime": "2018-02-11T05:13:04Z",
+                "uri": "http://web.archive.org/web/20180211051304/https://www.cbsnews.com/news/pyeongchang-2018-winter-olympic-games-athletes-you-dont-want-to-miss/"
+            },
+            {
+                "datetime": "2018-02-25T07:24:12Z",
+                "uri": "http://wayback.archive-it.org/all/20180225072412/https://www.cbsnews.com/news/pyeongchang-2018-winter-olympic-games-athletes-you-dont-want-to-miss/"
+            },
+            {
+                "datetime": "2018-02-25T07:24:12Z",
+                "uri": "http://web.archive.org/web/20180225072412/https://www.cbsnews.com/news/pyeongchang-2018-winter-olympic-games-athletes-you-dont-want-to-miss/"
+            },
+            {
+                "datetime": "2018-03-04T07:31:36Z",
+                "uri": "http://wayback.archive-it.org/all/20180304073136/https://www.cbsnews.com/news/pyeongchang-2018-winter-olympic-games-athletes-you-dont-want-to-miss/"
+            },
+            {
+                "datetime": "2018-03-04T07:31:36Z",
+                "uri": "http://web.archive.org/web/20180304073136/https://www.cbsnews.com/news/pyeongchang-2018-winter-olympic-games-athletes-you-dont-want-to-miss/"
+            },
+            {
+                "datetime": "2018-04-30T23:27:13Z",
+                "uri": "http://web.archive.org/web/20180430232713/https://www.cbsnews.com/news/pyeongchang-2018-winter-olympic-games-athletes-you-dont-want-to-miss/"
+            }
+        ]
+    },
+    "original_uri": "https://www.cbsnews.com/news/pyeongchang-2018-winter-olympic-games-athletes-you-dont-want-to-miss/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cbsnews.com/news/pyeongchang-2018-winter-olympic-games-athletes-you-dont-want-to-miss/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cbsnews.com/news/pyeongchang-2018-winter-olympic-games-athletes-you-dont-want-to-miss/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cbsnews.com/news/pyeongchang-2018-winter-olympic-games-athletes-you-dont-want-to-miss/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cbsnews.com/news/pyeongchang-2018-winter-olympic-games-athletes-you-dont-want-to-miss/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cbsnews.com/news/pyeongchang-2018-winter-olympic-games-athletes-you-dont-want-to-miss/"
+    }
+}

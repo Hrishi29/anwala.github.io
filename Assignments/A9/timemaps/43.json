@@ -1,0 +1,874 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2012-11-23T19:17:00Z",
+            "uri": "http://webarchive.loc.gov/all/20121123191700/http://www.youtube.com/user/jrlcorsi"
+        },
+        "last": {
+            "datetime": "2018-04-23T14:56:15Z",
+            "uri": "http://web.archive.org/web/20180423145615/https://www.youtube.com/user/jrlcorsi"
+        },
+        "list": [
+            {
+                "datetime": "2012-11-23T19:17:00Z",
+                "uri": "http://webarchive.loc.gov/all/20121123191700/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2013-03-07T04:39:08Z",
+                "uri": "http://webarchive.loc.gov/all/20130307043908/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2013-03-23T10:42:52Z",
+                "uri": "http://webarchive.loc.gov/all/20130323104252/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2014-10-14T07:17:05Z",
+                "uri": "http://web.archive.org/web/20141014071705/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2015-07-19T10:19:15Z",
+                "uri": "http://web.archive.org/web/20150719101915/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2015-07-19T10:19:16Z",
+                "uri": "http://web.archive.org/web/20150719101916/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2017-03-27T21:47:15Z",
+                "uri": "http://web.archive.org/web/20170327214715/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2017-03-27T21:47:16Z",
+                "uri": "http://web.archive.org/web/20170327214716/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2017-07-28T19:31:13Z",
+                "uri": "http://web.archive.org/web/20170728193113/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2017-08-27T21:29:56Z",
+                "uri": "http://web.archive.org/web/20170827212956/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-08T15:59:15Z",
+                "uri": "http://wayback.archive-it.org/all/20180208155915/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-08T15:59:20Z",
+                "uri": "http://wayback.archive-it.org/all/20180208155920/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-09T16:14:41Z",
+                "uri": "http://wayback.archive-it.org/all/20180209161441/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-09T16:14:41Z",
+                "uri": "http://web.archive.org/web/20180209161441/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-09T16:14:47Z",
+                "uri": "http://wayback.archive-it.org/all/20180209161447/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-09T16:14:47Z",
+                "uri": "http://web.archive.org/web/20180209161447/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-10T03:26:40Z",
+                "uri": "http://wayback.archive-it.org/all/20180210032640/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-10T03:26:40Z",
+                "uri": "http://web.archive.org/web/20180210032640/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-10T03:26:48Z",
+                "uri": "http://wayback.archive-it.org/all/20180210032648/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-10T03:26:48Z",
+                "uri": "http://web.archive.org/web/20180210032648/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-10T13:39:44Z",
+                "uri": "http://wayback.archive-it.org/all/20180210133944/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-10T13:39:44Z",
+                "uri": "http://web.archive.org/web/20180210133944/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-10T13:39:52Z",
+                "uri": "http://wayback.archive-it.org/all/20180210133952/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-10T13:39:52Z",
+                "uri": "http://web.archive.org/web/20180210133952/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-11T14:48:18Z",
+                "uri": "http://wayback.archive-it.org/all/20180211144818/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-11T14:48:43Z",
+                "uri": "http://wayback.archive-it.org/all/20180211144843/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-12T15:18:31Z",
+                "uri": "http://wayback.archive-it.org/all/20180212151831/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-12T15:18:31Z",
+                "uri": "http://web.archive.org/web/20180212151831/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-12T15:18:38Z",
+                "uri": "http://wayback.archive-it.org/all/20180212151838/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-12T15:18:38Z",
+                "uri": "http://web.archive.org/web/20180212151838/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-13T15:44:55Z",
+                "uri": "http://wayback.archive-it.org/all/20180213154455/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-13T15:44:55Z",
+                "uri": "http://web.archive.org/web/20180213154455/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-13T15:45:00Z",
+                "uri": "http://wayback.archive-it.org/all/20180213154500/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-13T15:45:00Z",
+                "uri": "http://web.archive.org/web/20180213154500/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-14T09:05:53Z",
+                "uri": "http://wayback.archive-it.org/all/20180214090553/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-14T09:05:53Z",
+                "uri": "http://web.archive.org/web/20180214090553/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-14T09:06:04Z",
+                "uri": "http://wayback.archive-it.org/all/20180214090604/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-14T09:06:04Z",
+                "uri": "http://web.archive.org/web/20180214090604/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-14T15:09:00Z",
+                "uri": "http://wayback.archive-it.org/all/20180214150900/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-14T15:09:08Z",
+                "uri": "http://wayback.archive-it.org/all/20180214150908/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-15T15:51:07Z",
+                "uri": "http://wayback.archive-it.org/all/20180215155107/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-15T15:51:07Z",
+                "uri": "http://web.archive.org/web/20180215155107/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-15T15:51:13Z",
+                "uri": "http://wayback.archive-it.org/all/20180215155113/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-15T15:51:13Z",
+                "uri": "http://web.archive.org/web/20180215155113/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-16T06:53:09Z",
+                "uri": "http://wayback.archive-it.org/all/20180216065309/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-16T06:53:17Z",
+                "uri": "http://wayback.archive-it.org/all/20180216065317/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-16T16:31:23Z",
+                "uri": "http://wayback.archive-it.org/all/20180216163123/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-16T16:31:23Z",
+                "uri": "http://web.archive.org/web/20180216163123/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-16T16:31:29Z",
+                "uri": "http://wayback.archive-it.org/all/20180216163129/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-16T16:31:29Z",
+                "uri": "http://web.archive.org/web/20180216163129/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-17T15:30:00Z",
+                "uri": "http://wayback.archive-it.org/all/20180217153000/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-17T15:30:00Z",
+                "uri": "http://web.archive.org/web/20180217153000/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-17T15:30:06Z",
+                "uri": "http://wayback.archive-it.org/all/20180217153006/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-17T15:30:06Z",
+                "uri": "http://web.archive.org/web/20180217153006/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-18T15:38:31Z",
+                "uri": "http://wayback.archive-it.org/all/20180218153831/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-18T15:38:31Z",
+                "uri": "http://web.archive.org/web/20180218153831/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-18T15:38:37Z",
+                "uri": "http://wayback.archive-it.org/all/20180218153837/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-18T15:38:37Z",
+                "uri": "http://web.archive.org/web/20180218153837/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-19T15:46:16Z",
+                "uri": "http://wayback.archive-it.org/all/20180219154616/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-19T15:46:16Z",
+                "uri": "http://web.archive.org/web/20180219154616/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-19T15:46:22Z",
+                "uri": "http://wayback.archive-it.org/all/20180219154622/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-19T15:46:22Z",
+                "uri": "http://web.archive.org/web/20180219154622/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-20T15:47:03Z",
+                "uri": "http://wayback.archive-it.org/all/20180220154703/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-20T15:47:03Z",
+                "uri": "http://web.archive.org/web/20180220154703/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-20T15:47:09Z",
+                "uri": "http://wayback.archive-it.org/all/20180220154709/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-20T15:47:09Z",
+                "uri": "http://web.archive.org/web/20180220154709/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-21T09:11:43Z",
+                "uri": "http://wayback.archive-it.org/all/20180221091143/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-21T09:11:43Z",
+                "uri": "http://web.archive.org/web/20180221091143/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-21T09:11:51Z",
+                "uri": "http://wayback.archive-it.org/all/20180221091151/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-21T09:11:51Z",
+                "uri": "http://web.archive.org/web/20180221091151/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-21T17:49:42Z",
+                "uri": "http://wayback.archive-it.org/all/20180221174942/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-21T17:49:42Z",
+                "uri": "http://web.archive.org/web/20180221174942/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-21T17:49:48Z",
+                "uri": "http://wayback.archive-it.org/all/20180221174948/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-21T17:49:48Z",
+                "uri": "http://web.archive.org/web/20180221174948/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-22T15:37:29Z",
+                "uri": "http://wayback.archive-it.org/all/20180222153729/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-22T15:37:29Z",
+                "uri": "http://web.archive.org/web/20180222153729/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-22T15:37:34Z",
+                "uri": "http://wayback.archive-it.org/all/20180222153734/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-22T15:37:34Z",
+                "uri": "http://web.archive.org/web/20180222153734/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-23T14:44:11Z",
+                "uri": "http://wayback.archive-it.org/all/20180223144411/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-23T14:44:11Z",
+                "uri": "http://web.archive.org/web/20180223144411/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-23T14:44:18Z",
+                "uri": "http://wayback.archive-it.org/all/20180223144418/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-23T14:44:18Z",
+                "uri": "http://web.archive.org/web/20180223144418/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-24T15:29:13Z",
+                "uri": "http://wayback.archive-it.org/all/20180224152913/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-24T15:29:13Z",
+                "uri": "http://web.archive.org/web/20180224152913/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-24T15:29:20Z",
+                "uri": "http://wayback.archive-it.org/all/20180224152920/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-24T15:29:20Z",
+                "uri": "http://web.archive.org/web/20180224152920/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-25T15:34:53Z",
+                "uri": "http://wayback.archive-it.org/all/20180225153453/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-25T15:34:53Z",
+                "uri": "http://web.archive.org/web/20180225153453/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-25T15:34:58Z",
+                "uri": "http://wayback.archive-it.org/all/20180225153458/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-25T15:34:58Z",
+                "uri": "http://web.archive.org/web/20180225153458/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-26T15:23:39Z",
+                "uri": "http://wayback.archive-it.org/all/20180226152339/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-26T15:23:39Z",
+                "uri": "http://web.archive.org/web/20180226152339/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-26T15:23:47Z",
+                "uri": "http://wayback.archive-it.org/all/20180226152347/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-26T15:23:47Z",
+                "uri": "http://web.archive.org/web/20180226152347/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-27T15:27:34Z",
+                "uri": "http://wayback.archive-it.org/all/20180227152734/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-27T15:27:34Z",
+                "uri": "http://web.archive.org/web/20180227152734/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-27T15:27:41Z",
+                "uri": "http://wayback.archive-it.org/all/20180227152741/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-02-27T15:27:41Z",
+                "uri": "http://web.archive.org/web/20180227152741/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-02T04:26:39Z",
+                "uri": "http://web.archive.org/web/20180302042639/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-02T04:26:40Z",
+                "uri": "http://web.archive.org/web/20180302042640/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-04T08:59:08Z",
+                "uri": "http://web.archive.org/web/20180304085908/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-04T09:29:04Z",
+                "uri": "http://web.archive.org/web/20180304092904/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-07T09:26:30Z",
+                "uri": "http://wayback.archive-it.org/all/20180307092630/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-07T09:26:30Z",
+                "uri": "http://web.archive.org/web/20180307092630/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-07T09:26:46Z",
+                "uri": "http://wayback.archive-it.org/all/20180307092646/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-07T09:26:46Z",
+                "uri": "http://web.archive.org/web/20180307092646/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-07T15:27:54Z",
+                "uri": "http://wayback.archive-it.org/all/20180307152754/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-07T15:27:54Z",
+                "uri": "http://web.archive.org/web/20180307152754/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-07T15:27:58Z",
+                "uri": "http://wayback.archive-it.org/all/20180307152758/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-07T15:27:58Z",
+                "uri": "http://web.archive.org/web/20180307152758/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-08T15:23:51Z",
+                "uri": "http://wayback.archive-it.org/all/20180308152351/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-08T15:23:51Z",
+                "uri": "http://web.archive.org/web/20180308152351/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-08T15:23:59Z",
+                "uri": "http://wayback.archive-it.org/all/20180308152359/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-08T15:23:59Z",
+                "uri": "http://web.archive.org/web/20180308152359/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-09T21:09:40Z",
+                "uri": "http://wayback.archive-it.org/all/20180309210940/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-09T21:09:40Z",
+                "uri": "http://web.archive.org/web/20180309210940/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-09T21:09:49Z",
+                "uri": "http://wayback.archive-it.org/all/20180309210949/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-09T21:09:49Z",
+                "uri": "http://web.archive.org/web/20180309210949/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-10T22:10:28Z",
+                "uri": "http://wayback.archive-it.org/all/20180310221028/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-10T22:10:28Z",
+                "uri": "http://web.archive.org/web/20180310221028/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-10T22:10:32Z",
+                "uri": "http://wayback.archive-it.org/all/20180310221032/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-10T22:10:32Z",
+                "uri": "http://web.archive.org/web/20180310221032/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-11T15:19:06Z",
+                "uri": "http://wayback.archive-it.org/all/20180311151906/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-11T15:19:06Z",
+                "uri": "http://web.archive.org/web/20180311151906/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-11T15:19:15Z",
+                "uri": "http://wayback.archive-it.org/all/20180311151915/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-11T15:19:15Z",
+                "uri": "http://web.archive.org/web/20180311151915/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-12T18:21:31Z",
+                "uri": "http://wayback.archive-it.org/all/20180312182131/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-12T18:21:31Z",
+                "uri": "http://web.archive.org/web/20180312182131/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-12T18:21:41Z",
+                "uri": "http://wayback.archive-it.org/all/20180312182141/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-12T18:21:41Z",
+                "uri": "http://web.archive.org/web/20180312182141/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-13T16:14:59Z",
+                "uri": "http://wayback.archive-it.org/all/20180313161459/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-13T16:14:59Z",
+                "uri": "http://web.archive.org/web/20180313161459/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-13T16:15:04Z",
+                "uri": "http://wayback.archive-it.org/all/20180313161504/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-13T16:15:04Z",
+                "uri": "http://web.archive.org/web/20180313161504/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-14T09:34:53Z",
+                "uri": "http://wayback.archive-it.org/all/20180314093453/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-14T09:34:53Z",
+                "uri": "http://web.archive.org/web/20180314093453/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-14T09:35:22Z",
+                "uri": "http://wayback.archive-it.org/all/20180314093522/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-14T09:35:22Z",
+                "uri": "http://web.archive.org/web/20180314093522/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-14T17:38:11Z",
+                "uri": "http://wayback.archive-it.org/all/20180314173811/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-14T17:38:11Z",
+                "uri": "http://web.archive.org/web/20180314173811/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-14T17:38:18Z",
+                "uri": "http://wayback.archive-it.org/all/20180314173818/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-14T17:38:18Z",
+                "uri": "http://web.archive.org/web/20180314173818/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-15T15:58:06Z",
+                "uri": "http://wayback.archive-it.org/all/20180315155806/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-15T15:58:06Z",
+                "uri": "http://web.archive.org/web/20180315155806/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-15T15:58:28Z",
+                "uri": "http://wayback.archive-it.org/all/20180315155828/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-15T15:58:28Z",
+                "uri": "http://web.archive.org/web/20180315155828/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-15T23:48:33Z",
+                "uri": "http://wayback.archive-it.org/all/20180315234833/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-15T23:48:33Z",
+                "uri": "http://web.archive.org/web/20180315234833/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-15T23:49:04Z",
+                "uri": "http://wayback.archive-it.org/all/20180315234904/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-15T23:49:04Z",
+                "uri": "http://web.archive.org/web/20180315234904/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-16T15:28:31Z",
+                "uri": "http://wayback.archive-it.org/all/20180316152831/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-16T15:28:31Z",
+                "uri": "http://web.archive.org/web/20180316152831/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-16T15:28:39Z",
+                "uri": "http://wayback.archive-it.org/all/20180316152839/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-16T15:28:39Z",
+                "uri": "http://web.archive.org/web/20180316152839/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-17T21:25:14Z",
+                "uri": "http://archive.is/20180317212514/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-19T15:03:31Z",
+                "uri": "http://wayback.archive-it.org/all/20180319150331/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-19T15:03:31Z",
+                "uri": "http://web.archive.org/web/20180319150331/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-19T15:03:38Z",
+                "uri": "http://wayback.archive-it.org/all/20180319150338/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-19T15:03:38Z",
+                "uri": "http://web.archive.org/web/20180319150338/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-20T15:05:14Z",
+                "uri": "http://wayback.archive-it.org/all/20180320150514/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-20T15:05:14Z",
+                "uri": "http://web.archive.org/web/20180320150514/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-20T15:05:22Z",
+                "uri": "http://wayback.archive-it.org/all/20180320150522/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-03-20T15:05:22Z",
+                "uri": "http://web.archive.org/web/20180320150522/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-04T18:41:37Z",
+                "uri": "http://wayback.archive-it.org/all/20180404184137/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-04T18:41:37Z",
+                "uri": "http://web.archive.org/web/20180404184137/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-04T18:41:49Z",
+                "uri": "http://wayback.archive-it.org/all/20180404184149/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-04T18:41:49Z",
+                "uri": "http://web.archive.org/web/20180404184149/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-05T05:07:55Z",
+                "uri": "http://wayback.archive-it.org/all/20180405050755/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-05T05:07:55Z",
+                "uri": "http://web.archive.org/web/20180405050755/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-05T05:08:17Z",
+                "uri": "http://wayback.archive-it.org/all/20180405050817/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-05T05:08:17Z",
+                "uri": "http://web.archive.org/web/20180405050817/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-05T16:12:38Z",
+                "uri": "http://wayback.archive-it.org/all/20180405161238/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-05T16:12:38Z",
+                "uri": "http://web.archive.org/web/20180405161238/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-05T16:12:47Z",
+                "uri": "http://wayback.archive-it.org/all/20180405161247/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-05T16:12:47Z",
+                "uri": "http://web.archive.org/web/20180405161247/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-06T15:42:28Z",
+                "uri": "http://wayback.archive-it.org/all/20180406154228/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-06T15:42:28Z",
+                "uri": "http://web.archive.org/web/20180406154228/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-06T15:42:37Z",
+                "uri": "http://wayback.archive-it.org/all/20180406154237/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-06T15:42:37Z",
+                "uri": "http://web.archive.org/web/20180406154237/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-07T15:21:51Z",
+                "uri": "http://wayback.archive-it.org/all/20180407152151/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-07T15:21:51Z",
+                "uri": "http://web.archive.org/web/20180407152151/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-07T15:21:58Z",
+                "uri": "http://wayback.archive-it.org/all/20180407152158/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-07T15:21:58Z",
+                "uri": "http://web.archive.org/web/20180407152158/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-08T17:40:16Z",
+                "uri": "http://wayback.archive-it.org/all/20180408174016/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-08T17:40:16Z",
+                "uri": "http://web.archive.org/web/20180408174016/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-08T17:40:25Z",
+                "uri": "http://wayback.archive-it.org/all/20180408174025/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-08T17:40:25Z",
+                "uri": "http://web.archive.org/web/20180408174025/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-09T15:23:18Z",
+                "uri": "http://wayback.archive-it.org/all/20180409152318/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-09T15:23:18Z",
+                "uri": "http://web.archive.org/web/20180409152318/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-09T15:23:27Z",
+                "uri": "http://wayback.archive-it.org/all/20180409152327/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-09T15:23:27Z",
+                "uri": "http://web.archive.org/web/20180409152327/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-19T15:43:33Z",
+                "uri": "http://wayback.archive-it.org/all/20180419154333/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-19T15:43:33Z",
+                "uri": "http://web.archive.org/web/20180419154333/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-19T15:43:47Z",
+                "uri": "http://wayback.archive-it.org/all/20180419154347/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-19T15:43:47Z",
+                "uri": "http://web.archive.org/web/20180419154347/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-20T15:30:39Z",
+                "uri": "http://wayback.archive-it.org/all/20180420153039/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-20T15:30:39Z",
+                "uri": "http://web.archive.org/web/20180420153039/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-20T15:30:47Z",
+                "uri": "http://wayback.archive-it.org/all/20180420153047/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-20T15:30:47Z",
+                "uri": "http://web.archive.org/web/20180420153047/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-21T15:18:22Z",
+                "uri": "http://wayback.archive-it.org/all/20180421151822/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-21T15:18:22Z",
+                "uri": "http://web.archive.org/web/20180421151822/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-21T15:18:29Z",
+                "uri": "http://wayback.archive-it.org/all/20180421151829/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-21T15:18:29Z",
+                "uri": "http://web.archive.org/web/20180421151829/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-22T15:17:05Z",
+                "uri": "http://wayback.archive-it.org/all/20180422151705/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-22T15:17:05Z",
+                "uri": "http://web.archive.org/web/20180422151705/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-22T15:17:11Z",
+                "uri": "http://wayback.archive-it.org/all/20180422151711/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-22T15:17:11Z",
+                "uri": "http://web.archive.org/web/20180422151711/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-23T09:16:03Z",
+                "uri": "http://web.archive.org/web/20180423091603/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-23T09:16:04Z",
+                "uri": "http://web.archive.org/web/20180423091604/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-23T14:56:04Z",
+                "uri": "http://wayback.archive-it.org/all/20180423145604/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-23T14:56:04Z",
+                "uri": "http://web.archive.org/web/20180423145604/http://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-23T14:56:15Z",
+                "uri": "http://wayback.archive-it.org/all/20180423145615/https://www.youtube.com/user/jrlcorsi"
+            },
+            {
+                "datetime": "2018-04-23T14:56:15Z",
+                "uri": "http://web.archive.org/web/20180423145615/https://www.youtube.com/user/jrlcorsi"
+            }
+        ]
+    },
+    "original_uri": "https://www.youtube.com/user/jrlcorsi",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.youtube.com/user/jrlcorsi",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.youtube.com/user/jrlcorsi",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.youtube.com/user/jrlcorsi",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.youtube.com/user/jrlcorsi",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.youtube.com/user/jrlcorsi"
+    }
+}

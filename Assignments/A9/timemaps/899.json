@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T19:21:33Z",
+            "uri": "http://archive.is/20180209192133/http://www.businessinsider.com/trump-defends-rob-porter-abuse-allegations-ex-wives-hope-hicks-2018-2"
+        },
+        "last": {
+            "datetime": "2018-04-01T17:34:47Z",
+            "uri": "http://web.archive.org/web/20180401173447/https://www.businessinsider.com/trump-defends-rob-porter-abuse-allegations-ex-wives-hope-hicks-2018-2"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T19:21:33Z",
+                "uri": "http://archive.is/20180209192133/http://www.businessinsider.com/trump-defends-rob-porter-abuse-allegations-ex-wives-hope-hicks-2018-2"
+            },
+            {
+                "datetime": "2018-02-09T21:01:01Z",
+                "uri": "http://web.archive.org/web/20180209210101/http://www.businessinsider.com/trump-defends-rob-porter-abuse-allegations-ex-wives-hope-hicks-2018-2"
+            },
+            {
+                "datetime": "2018-02-10T01:07:14Z",
+                "uri": "http://web.archive.org/web/20180210010714/http://www.businessinsider.com/trump-defends-rob-porter-abuse-allegations-ex-wives-hope-hicks-2018-2"
+            },
+            {
+                "datetime": "2018-02-11T05:17:01Z",
+                "uri": "http://wayback.archive-it.org/all/20180211051701/http://www.businessinsider.com/trump-defends-rob-porter-abuse-allegations-ex-wives-hope-hicks-2018-2"
+            },
+            {
+                "datetime": "2018-02-11T05:17:01Z",
+                "uri": "http://web.archive.org/web/20180211051701/http://www.businessinsider.com/trump-defends-rob-porter-abuse-allegations-ex-wives-hope-hicks-2018-2"
+            },
+            {
+                "datetime": "2018-04-01T17:34:47Z",
+                "uri": "http://web.archive.org/web/20180401173447/https://www.businessinsider.com/trump-defends-rob-porter-abuse-allegations-ex-wives-hope-hicks-2018-2"
+            }
+        ]
+    },
+    "original_uri": "http://www.businessinsider.com/trump-defends-rob-porter-abuse-allegations-ex-wives-hope-hicks-2018-2",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.businessinsider.com/trump-defends-rob-porter-abuse-allegations-ex-wives-hope-hicks-2018-2",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.businessinsider.com/trump-defends-rob-porter-abuse-allegations-ex-wives-hope-hicks-2018-2",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.businessinsider.com/trump-defends-rob-porter-abuse-allegations-ex-wives-hope-hicks-2018-2",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.businessinsider.com/trump-defends-rob-porter-abuse-allegations-ex-wives-hope-hicks-2018-2",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.businessinsider.com/trump-defends-rob-porter-abuse-allegations-ex-wives-hope-hicks-2018-2"
+    }
+}

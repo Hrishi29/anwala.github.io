@@ -1,0 +1,678 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-07T22:53:17Z",
+            "uri": "http://web.archive.org/web/20180207225317/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+        },
+        "last": {
+            "datetime": "2018-05-01T04:57:57Z",
+            "uri": "http://web.archive.org/web/20180501045757/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-07T22:53:17Z",
+                "uri": "http://web.archive.org/web/20180207225317/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-08T02:58:58Z",
+                "uri": "http://web.archive.org/web/20180208025858/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-08T21:22:47Z",
+                "uri": "http://web.archive.org/web/20180208212247/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-09T22:25:28Z",
+                "uri": "http://web.archive.org/web/20180209222528/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-10T23:33:21Z",
+                "uri": "http://web.archive.org/web/20180210233321/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-11T08:36:55Z",
+                "uri": "http://wayback.archive-it.org/all/20180211083655/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-11T08:36:55Z",
+                "uri": "http://web.archive.org/web/20180211083655/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-13T04:32:41Z",
+                "uri": "http://web.archive.org/web/20180213043241/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-14T00:48:40Z",
+                "uri": "http://web.archive.org/web/20180214004840/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-14T08:39:38Z",
+                "uri": "http://web.archive.org/web/20180214083938/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-15T00:35:34Z",
+                "uri": "http://web.archive.org/web/20180215003534/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-15T08:18:22Z",
+                "uri": "http://web.archive.org/web/20180215081822/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-15T12:56:51Z",
+                "uri": "http://web.archive.org/web/20180215125651/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-16T05:58:33Z",
+                "uri": "http://web.archive.org/web/20180216055833/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-16T09:05:12Z",
+                "uri": "http://web.archive.org/web/20180216090512/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-16T13:15:52Z",
+                "uri": "http://web.archive.org/web/20180216131552/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-17T05:20:42Z",
+                "uri": "http://web.archive.org/web/20180217052042/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-17T11:19:58Z",
+                "uri": "http://web.archive.org/web/20180217111958/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-17T14:14:01Z",
+                "uri": "http://web.archive.org/web/20180217141401/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-18T06:13:37Z",
+                "uri": "http://web.archive.org/web/20180218061337/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-18T14:48:49Z",
+                "uri": "http://web.archive.org/web/20180218144849/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-19T06:52:48Z",
+                "uri": "http://web.archive.org/web/20180219065248/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-19T19:06:58Z",
+                "uri": "http://web.archive.org/web/20180219190658/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-19T19:49:22Z",
+                "uri": "http://web.archive.org/web/20180219194922/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-20T11:21:15Z",
+                "uri": "http://web.archive.org/web/20180220112115/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-20T19:39:06Z",
+                "uri": "http://web.archive.org/web/20180220193906/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-20T21:09:14Z",
+                "uri": "http://web.archive.org/web/20180220210914/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-21T12:04:15Z",
+                "uri": "http://web.archive.org/web/20180221120415/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-21T20:34:04Z",
+                "uri": "http://web.archive.org/web/20180221203404/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-22T02:36:25Z",
+                "uri": "http://web.archive.org/web/20180222023625/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-22T12:52:35Z",
+                "uri": "http://web.archive.org/web/20180222125235/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-23T03:45:35Z",
+                "uri": "http://web.archive.org/web/20180223034535/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-23T04:19:44Z",
+                "uri": "http://web.archive.org/web/20180223041944/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-23T19:22:42Z",
+                "uri": "http://web.archive.org/web/20180223192242/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-24T04:23:44Z",
+                "uri": "http://web.archive.org/web/20180224042344/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-24T12:31:46Z",
+                "uri": "http://web.archive.org/web/20180224123146/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-24T21:07:01Z",
+                "uri": "http://web.archive.org/web/20180224210701/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-25T04:47:33Z",
+                "uri": "http://web.archive.org/web/20180225044733/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-25T06:57:48Z",
+                "uri": "http://web.archive.org/web/20180225065748/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-25T20:35:17Z",
+                "uri": "http://web.archive.org/web/20180225203517/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-26T05:20:52Z",
+                "uri": "http://web.archive.org/web/20180226052052/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-26T08:16:48Z",
+                "uri": "http://web.archive.org/web/20180226081648/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-26T22:19:59Z",
+                "uri": "http://web.archive.org/web/20180226221959/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-27T06:13:56Z",
+                "uri": "http://web.archive.org/web/20180227061356/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-27T10:57:45Z",
+                "uri": "http://web.archive.org/web/20180227105745/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-27T22:24:41Z",
+                "uri": "http://web.archive.org/web/20180227222441/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-28T06:46:00Z",
+                "uri": "http://web.archive.org/web/20180228064600/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-28T13:39:47Z",
+                "uri": "http://web.archive.org/web/20180228133947/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-02-28T23:09:27Z",
+                "uri": "http://web.archive.org/web/20180228230927/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-01T09:30:00Z",
+                "uri": "http://web.archive.org/web/20180301093000/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-01T14:31:18Z",
+                "uri": "http://web.archive.org/web/20180301143118/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-02T16:38:30Z",
+                "uri": "http://web.archive.org/web/20180302163830/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-02T22:13:49Z",
+                "uri": "http://web.archive.org/web/20180302221349/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-03T11:17:49Z",
+                "uri": "http://web.archive.org/web/20180303111749/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-03T18:23:23Z",
+                "uri": "http://web.archive.org/web/20180303182323/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-04T00:50:52Z",
+                "uri": "http://web.archive.org/web/20180304005052/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-04T11:51:32Z",
+                "uri": "http://web.archive.org/web/20180304115132/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-04T18:40:51Z",
+                "uri": "http://web.archive.org/web/20180304184051/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-05T02:25:10Z",
+                "uri": "http://web.archive.org/web/20180305022510/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-05T13:37:30Z",
+                "uri": "http://web.archive.org/web/20180305133730/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-05T19:44:36Z",
+                "uri": "http://web.archive.org/web/20180305194436/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-06T05:15:55Z",
+                "uri": "http://web.archive.org/web/20180306051555/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-06T12:55:04Z",
+                "uri": "http://web.archive.org/web/20180306125504/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-06T20:19:06Z",
+                "uri": "http://web.archive.org/web/20180306201906/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-07T13:17:04Z",
+                "uri": "http://web.archive.org/web/20180307131704/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-07T23:52:29Z",
+                "uri": "http://web.archive.org/web/20180307235229/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-08T00:47:14Z",
+                "uri": "http://web.archive.org/web/20180308004714/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-08T17:12:29Z",
+                "uri": "http://web.archive.org/web/20180308171229/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-09T03:27:17Z",
+                "uri": "http://web.archive.org/web/20180309032717/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-09T05:11:55Z",
+                "uri": "http://web.archive.org/web/20180309051155/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-10T00:23:27Z",
+                "uri": "http://web.archive.org/web/20180310002327/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-10T08:11:12Z",
+                "uri": "http://web.archive.org/web/20180310081112/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-10T14:58:46Z",
+                "uri": "http://web.archive.org/web/20180310145846/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-11T02:21:01Z",
+                "uri": "http://web.archive.org/web/20180311022101/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-11T08:22:42Z",
+                "uri": "http://web.archive.org/web/20180311082242/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-11T16:20:42Z",
+                "uri": "http://web.archive.org/web/20180311162042/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-12T02:45:59Z",
+                "uri": "http://web.archive.org/web/20180312024559/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-12T08:32:51Z",
+                "uri": "http://web.archive.org/web/20180312083251/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-12T17:36:36Z",
+                "uri": "http://web.archive.org/web/20180312173636/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-13T04:21:50Z",
+                "uri": "http://web.archive.org/web/20180313042150/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-13T09:05:42Z",
+                "uri": "http://web.archive.org/web/20180313090542/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-14T03:20:15Z",
+                "uri": "http://web.archive.org/web/20180314032015/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-14T09:48:20Z",
+                "uri": "http://web.archive.org/web/20180314094820/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-15T04:55:11Z",
+                "uri": "http://web.archive.org/web/20180315045511/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-15T10:15:10Z",
+                "uri": "http://web.archive.org/web/20180315101510/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-16T05:36:22Z",
+                "uri": "http://web.archive.org/web/20180316053622/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-16T10:55:30Z",
+                "uri": "http://web.archive.org/web/20180316105530/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-17T05:50:11Z",
+                "uri": "http://web.archive.org/web/20180317055011/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-17T11:14:01Z",
+                "uri": "http://web.archive.org/web/20180317111401/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-18T04:44:46Z",
+                "uri": "http://web.archive.org/web/20180318044446/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-18T12:06:17Z",
+                "uri": "http://web.archive.org/web/20180318120617/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-19T06:35:32Z",
+                "uri": "http://web.archive.org/web/20180319063532/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-19T12:23:37Z",
+                "uri": "http://web.archive.org/web/20180319122337/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-20T06:34:12Z",
+                "uri": "http://web.archive.org/web/20180320063412/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-20T13:11:00Z",
+                "uri": "http://web.archive.org/web/20180320131100/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-21T07:03:49Z",
+                "uri": "http://web.archive.org/web/20180321070349/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-21T13:48:50Z",
+                "uri": "http://web.archive.org/web/20180321134850/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-22T01:26:55Z",
+                "uri": "http://web.archive.org/web/20180322012655/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-22T14:14:24Z",
+                "uri": "http://web.archive.org/web/20180322141424/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-22T22:38:01Z",
+                "uri": "http://web.archive.org/web/20180322223801/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-23T14:42:42Z",
+                "uri": "http://web.archive.org/web/20180323144242/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-23T22:42:39Z",
+                "uri": "http://web.archive.org/web/20180323224239/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-24T15:32:31Z",
+                "uri": "http://web.archive.org/web/20180324153231/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-24T23:21:22Z",
+                "uri": "http://web.archive.org/web/20180324232122/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-25T16:23:40Z",
+                "uri": "http://web.archive.org/web/20180325162340/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-26T00:51:11Z",
+                "uri": "http://web.archive.org/web/20180326005111/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-26T17:29:47Z",
+                "uri": "http://web.archive.org/web/20180326172947/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-27T02:21:18Z",
+                "uri": "http://web.archive.org/web/20180327022118/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-27T17:52:59Z",
+                "uri": "http://web.archive.org/web/20180327175259/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-28T02:57:48Z",
+                "uri": "http://web.archive.org/web/20180328025748/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-28T18:19:04Z",
+                "uri": "http://web.archive.org/web/20180328181904/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-29T02:26:12Z",
+                "uri": "http://web.archive.org/web/20180329022612/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-29T19:03:20Z",
+                "uri": "http://web.archive.org/web/20180329190320/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-30T03:29:32Z",
+                "uri": "http://web.archive.org/web/20180330032932/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-30T19:28:46Z",
+                "uri": "http://web.archive.org/web/20180330192846/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-31T03:44:02Z",
+                "uri": "http://web.archive.org/web/20180331034402/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-03-31T20:16:43Z",
+                "uri": "http://web.archive.org/web/20180331201643/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-01T04:31:27Z",
+                "uri": "http://web.archive.org/web/20180401043127/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-01T20:59:33Z",
+                "uri": "http://web.archive.org/web/20180401205933/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-02T05:41:31Z",
+                "uri": "http://web.archive.org/web/20180402054131/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-02T21:47:30Z",
+                "uri": "http://web.archive.org/web/20180402214730/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-03T06:11:13Z",
+                "uri": "http://web.archive.org/web/20180403061113/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-03T22:30:14Z",
+                "uri": "http://web.archive.org/web/20180403223014/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-04T06:46:29Z",
+                "uri": "http://web.archive.org/web/20180404064629/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-04T23:08:34Z",
+                "uri": "http://web.archive.org/web/20180404230834/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-05T23:50:53Z",
+                "uri": "http://web.archive.org/web/20180405235053/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-06T08:12:38Z",
+                "uri": "http://web.archive.org/web/20180406081238/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-08T17:17:29Z",
+                "uri": "http://web.archive.org/web/20180408171729/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-09T17:28:40Z",
+                "uri": "http://web.archive.org/web/20180409172840/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-09T23:00:39Z",
+                "uri": "http://web.archive.org/web/20180409230039/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-10T17:53:00Z",
+                "uri": "http://web.archive.org/web/20180410175300/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-11T02:36:01Z",
+                "uri": "http://web.archive.org/web/20180411023601/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-11T18:48:45Z",
+                "uri": "http://web.archive.org/web/20180411184845/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-12T03:50:55Z",
+                "uri": "http://web.archive.org/web/20180412035055/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-12T19:24:39Z",
+                "uri": "http://web.archive.org/web/20180412192439/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-13T04:12:04Z",
+                "uri": "http://web.archive.org/web/20180413041204/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-13T19:42:46Z",
+                "uri": "http://web.archive.org/web/20180413194246/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-14T06:07:40Z",
+                "uri": "http://web.archive.org/web/20180414060740/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-14T20:34:22Z",
+                "uri": "http://web.archive.org/web/20180414203422/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-15T04:30:59Z",
+                "uri": "http://web.archive.org/web/20180415043059/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-15T21:29:52Z",
+                "uri": "http://web.archive.org/web/20180415212952/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-16T21:28:40Z",
+                "uri": "http://web.archive.org/web/20180416212840/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-17T22:05:48Z",
+                "uri": "http://web.archive.org/web/20180417220548/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-18T22:22:30Z",
+                "uri": "http://web.archive.org/web/20180418222230/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-19T22:42:36Z",
+                "uri": "http://web.archive.org/web/20180419224236/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-20T11:43:35Z",
+                "uri": "http://web.archive.org/web/20180420114335/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-20T23:01:13Z",
+                "uri": "http://web.archive.org/web/20180420230113/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-21T08:00:46Z",
+                "uri": "http://web.archive.org/web/20180421080046/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-21T23:46:43Z",
+                "uri": "http://web.archive.org/web/20180421234643/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-22T07:52:53Z",
+                "uri": "http://web.archive.org/web/20180422075253/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-23T00:12:21Z",
+                "uri": "http://web.archive.org/web/20180423001221/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-24T00:41:10Z",
+                "uri": "http://web.archive.org/web/20180424004110/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-25T01:22:53Z",
+                "uri": "http://web.archive.org/web/20180425012253/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-25T09:28:44Z",
+                "uri": "http://web.archive.org/web/20180425092844/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-26T01:57:10Z",
+                "uri": "http://web.archive.org/web/20180426015710/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-26T10:51:12Z",
+                "uri": "http://web.archive.org/web/20180426105112/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-27T02:35:16Z",
+                "uri": "http://web.archive.org/web/20180427023516/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-27T10:21:28Z",
+                "uri": "http://web.archive.org/web/20180427102128/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-28T02:46:42Z",
+                "uri": "http://web.archive.org/web/20180428024642/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-28T11:57:46Z",
+                "uri": "http://web.archive.org/web/20180428115746/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-29T03:40:30Z",
+                "uri": "http://web.archive.org/web/20180429034030/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-29T13:02:48Z",
+                "uri": "http://web.archive.org/web/20180429130248/https://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-04-30T04:14:13Z",
+                "uri": "http://web.archive.org/web/20180430041413/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            },
+            {
+                "datetime": "2018-05-01T04:57:57Z",
+                "uri": "http://web.archive.org/web/20180501045757/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+            }
+        ]
+    },
+    "original_uri": "http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://theweek.com/articles/753755/trump-wants-military-parade-should-pay-himself"
+    }
+}

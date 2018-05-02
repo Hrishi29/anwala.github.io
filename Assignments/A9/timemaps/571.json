@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-01-23T00:28:08Z",
+            "uri": "http://web.archive.org/web/20180123002808/https://theconservativetreehouse.com/2018/01/21/great-video-explanation-operation-trump-former-federal-prosecutor-outlines-scope-of-fbi-and-doj-corruption/"
+        },
+        "last": {
+            "datetime": "2018-03-06T10:08:29Z",
+            "uri": "http://web.archive.org/web/20180306100829/https://theconservativetreehouse.com/2018/01/21/great-video-explanation-operation-trump-former-federal-prosecutor-outlines-scope-of-fbi-and-doj-corruption/"
+        },
+        "list": [
+            {
+                "datetime": "2018-01-23T00:28:08Z",
+                "uri": "http://web.archive.org/web/20180123002808/https://theconservativetreehouse.com/2018/01/21/great-video-explanation-operation-trump-former-federal-prosecutor-outlines-scope-of-fbi-and-doj-corruption/"
+            },
+            {
+                "datetime": "2018-02-24T15:50:01Z",
+                "uri": "http://web.archive.org/web/20180224155001/https://theconservativetreehouse.com/2018/01/21/great-video-explanation-operation-trump-former-federal-prosecutor-outlines-scope-of-fbi-and-doj-corruption/"
+            },
+            {
+                "datetime": "2018-03-04T08:15:32Z",
+                "uri": "http://web.archive.org/web/20180304081532/https://theconservativetreehouse.com/2018/01/21/great-video-explanation-operation-trump-former-federal-prosecutor-outlines-scope-of-fbi-and-doj-corruption/"
+            },
+            {
+                "datetime": "2018-03-06T10:08:29Z",
+                "uri": "http://web.archive.org/web/20180306100829/https://theconservativetreehouse.com/2018/01/21/great-video-explanation-operation-trump-former-federal-prosecutor-outlines-scope-of-fbi-and-doj-corruption/"
+            }
+        ]
+    },
+    "original_uri": "https://theconservativetreehouse.com/2018/01/21/great-video-explanation-operation-trump-former-federal-prosecutor-outlines-scope-of-fbi-and-doj-corruption/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://theconservativetreehouse.com/2018/01/21/great-video-explanation-operation-trump-former-federal-prosecutor-outlines-scope-of-fbi-and-doj-corruption/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://theconservativetreehouse.com/2018/01/21/great-video-explanation-operation-trump-former-federal-prosecutor-outlines-scope-of-fbi-and-doj-corruption/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://theconservativetreehouse.com/2018/01/21/great-video-explanation-operation-trump-former-federal-prosecutor-outlines-scope-of-fbi-and-doj-corruption/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://theconservativetreehouse.com/2018/01/21/great-video-explanation-operation-trump-former-federal-prosecutor-outlines-scope-of-fbi-and-doj-corruption/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://theconservativetreehouse.com/2018/01/21/great-video-explanation-operation-trump-former-federal-prosecutor-outlines-scope-of-fbi-and-doj-corruption/"
+    }
+}

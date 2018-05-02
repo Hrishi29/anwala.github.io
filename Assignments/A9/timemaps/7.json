@@ -1,0 +1,82 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T23:29:13Z",
+            "uri": "http://archive.is/20180210232913/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+        },
+        "last": {
+            "datetime": "2018-02-22T18:35:56Z",
+            "uri": "http://web.archive.org/web/20180222183556/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T23:29:13Z",
+                "uri": "http://archive.is/20180210232913/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+            },
+            {
+                "datetime": "2018-02-11T07:03:10Z",
+                "uri": "http://web.archive.org/web/20180211070310/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+            },
+            {
+                "datetime": "2018-02-11T21:17:50Z",
+                "uri": "http://web.archive.org/web/20180211211750/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+            },
+            {
+                "datetime": "2018-02-13T16:04:17Z",
+                "uri": "http://web.archive.org/web/20180213160417/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+            },
+            {
+                "datetime": "2018-02-14T15:41:42Z",
+                "uri": "http://web.archive.org/web/20180214154142/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+            },
+            {
+                "datetime": "2018-02-15T17:17:11Z",
+                "uri": "http://web.archive.org/web/20180215171711/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+            },
+            {
+                "datetime": "2018-02-16T17:38:21Z",
+                "uri": "http://web.archive.org/web/20180216173821/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+            },
+            {
+                "datetime": "2018-02-17T17:47:46Z",
+                "uri": "http://web.archive.org/web/20180217174746/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+            },
+            {
+                "datetime": "2018-02-18T17:19:57Z",
+                "uri": "http://web.archive.org/web/20180218171957/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+            },
+            {
+                "datetime": "2018-02-19T16:39:23Z",
+                "uri": "http://web.archive.org/web/20180219163923/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+            },
+            {
+                "datetime": "2018-02-20T19:35:12Z",
+                "uri": "http://web.archive.org/web/20180220193512/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+            },
+            {
+                "datetime": "2018-02-21T16:43:40Z",
+                "uri": "http://web.archive.org/web/20180221164340/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+            },
+            {
+                "datetime": "2018-02-22T06:35:28Z",
+                "uri": "http://wayback.archive-it.org/all/20180222063528/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+            },
+            {
+                "datetime": "2018-02-22T06:35:28Z",
+                "uri": "http://web.archive.org/web/20180222063528/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+            },
+            {
+                "datetime": "2018-02-22T18:35:56Z",
+                "uri": "http://web.archive.org/web/20180222183556/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+            }
+        ]
+    },
+    "original_uri": "http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.nydailynews.com/news/crime/trump-backing-ex-judge-pleads-guilty-human-trafficking-charges-article-1.3810898"
+    }
+}

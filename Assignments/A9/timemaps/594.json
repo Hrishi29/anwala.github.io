@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-03-04T09:15:16Z",
+            "uri": "http://web.archive.org/web/20180304091516/https://bluntforcetruth.com/atheists-are-angry-at-trump-for-mentioning-jesus-at-the-national-prayer-breakfast/"
+        },
+        "last": {
+            "datetime": "2018-03-05T10:19:59Z",
+            "uri": "http://web.archive.org/web/20180305101959/https://bluntforcetruth.com/atheists-are-angry-at-trump-for-mentioning-jesus-at-the-national-prayer-breakfast/"
+        },
+        "list": [
+            {
+                "datetime": "2018-03-04T09:15:16Z",
+                "uri": "http://web.archive.org/web/20180304091516/https://bluntforcetruth.com/atheists-are-angry-at-trump-for-mentioning-jesus-at-the-national-prayer-breakfast/"
+            },
+            {
+                "datetime": "2018-03-05T10:19:59Z",
+                "uri": "http://web.archive.org/web/20180305101959/https://bluntforcetruth.com/atheists-are-angry-at-trump-for-mentioning-jesus-at-the-national-prayer-breakfast/"
+            }
+        ]
+    },
+    "original_uri": "https://bluntforcetruth.com/atheists-are-angry-at-trump-for-mentioning-jesus-at-the-national-prayer-breakfast/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://bluntforcetruth.com/atheists-are-angry-at-trump-for-mentioning-jesus-at-the-national-prayer-breakfast/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://bluntforcetruth.com/atheists-are-angry-at-trump-for-mentioning-jesus-at-the-national-prayer-breakfast/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://bluntforcetruth.com/atheists-are-angry-at-trump-for-mentioning-jesus-at-the-national-prayer-breakfast/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://bluntforcetruth.com/atheists-are-angry-at-trump-for-mentioning-jesus-at-the-national-prayer-breakfast/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://bluntforcetruth.com/atheists-are-angry-at-trump-for-mentioning-jesus-at-the-national-prayer-breakfast/"
+    }
+}

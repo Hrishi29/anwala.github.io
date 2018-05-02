@@ -1,0 +1,78 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-07T15:27:56Z",
+            "uri": "http://web.archive.org/web/20180207152756/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+        },
+        "last": {
+            "datetime": "2018-03-16T13:41:04Z",
+            "uri": "http://web.archive.org/web/20180316134104/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-07T15:27:56Z",
+                "uri": "http://web.archive.org/web/20180207152756/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+            },
+            {
+                "datetime": "2018-02-07T17:30:22Z",
+                "uri": "http://web.archive.org/web/20180207173022/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+            },
+            {
+                "datetime": "2018-02-09T13:39:30Z",
+                "uri": "http://web.archive.org/web/20180209133930/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+            },
+            {
+                "datetime": "2018-02-11T15:21:51Z",
+                "uri": "http://web.archive.org/web/20180211152151/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+            },
+            {
+                "datetime": "2018-02-13T02:33:01Z",
+                "uri": "http://web.archive.org/web/20180213023301/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+            },
+            {
+                "datetime": "2018-02-14T10:16:07Z",
+                "uri": "http://web.archive.org/web/20180214101607/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+            },
+            {
+                "datetime": "2018-02-16T10:48:50Z",
+                "uri": "http://web.archive.org/web/20180216104850/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+            },
+            {
+                "datetime": "2018-02-17T02:40:16Z",
+                "uri": "http://web.archive.org/web/20180217024016/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+            },
+            {
+                "datetime": "2018-02-20T21:22:01Z",
+                "uri": "http://web.archive.org/web/20180220212201/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+            },
+            {
+                "datetime": "2018-02-26T12:08:04Z",
+                "uri": "http://web.archive.org/web/20180226120804/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+            },
+            {
+                "datetime": "2018-02-27T22:41:21Z",
+                "uri": "http://web.archive.org/web/20180227224121/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+            },
+            {
+                "datetime": "2018-02-28T21:03:04Z",
+                "uri": "http://web.archive.org/web/20180228210304/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+            },
+            {
+                "datetime": "2018-03-10T00:21:00Z",
+                "uri": "http://web.archive.org/web/20180310002100/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+            },
+            {
+                "datetime": "2018-03-16T13:41:04Z",
+                "uri": "http://web.archive.org/web/20180316134104/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+            }
+        ]
+    },
+    "original_uri": "https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://qz.com/1197726/pyeongchang-2018-will-be-the-african-winter-olympics/"
+    }
+}

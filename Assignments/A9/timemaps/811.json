@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T03:48:59Z",
+            "uri": "http://web.archive.org/web/20180210034859/https://olympics.cbc.ca/news/article/canadian-snowboarder-sebastien-toutant-qualifies-for-slopestyle-final.html"
+        },
+        "last": {
+            "datetime": "2018-03-02T00:26:10Z",
+            "uri": "http://web.archive.org/web/20180302002610/https://olympics.cbc.ca/news/article/canadian-snowboarder-sebastien-toutant-qualifies-for-slopestyle-final.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T03:48:59Z",
+                "uri": "http://web.archive.org/web/20180210034859/https://olympics.cbc.ca/news/article/canadian-snowboarder-sebastien-toutant-qualifies-for-slopestyle-final.html"
+            },
+            {
+                "datetime": "2018-02-10T05:01:07Z",
+                "uri": "http://web.archive.org/web/20180210050107/https://olympics.cbc.ca/news/article/canadian-snowboarder-sebastien-toutant-qualifies-for-slopestyle-final.html"
+            },
+            {
+                "datetime": "2018-02-11T07:02:00Z",
+                "uri": "http://wayback.archive-it.org/all/20180211070200/https://olympics.cbc.ca/news/article/canadian-snowboarder-sebastien-toutant-qualifies-for-slopestyle-final.html"
+            },
+            {
+                "datetime": "2018-02-11T07:02:00Z",
+                "uri": "http://web.archive.org/web/20180211070200/https://olympics.cbc.ca/news/article/canadian-snowboarder-sebastien-toutant-qualifies-for-slopestyle-final.html"
+            },
+            {
+                "datetime": "2018-02-12T18:11:32Z",
+                "uri": "http://web.archive.org/web/20180212181132/https://olympics.cbc.ca/news/article/canadian-snowboarder-sebastien-toutant-qualifies-for-slopestyle-final.html"
+            },
+            {
+                "datetime": "2018-02-17T01:23:59Z",
+                "uri": "http://web.archive.org/web/20180217012359/https://olympics.cbc.ca/news/article/canadian-snowboarder-sebastien-toutant-qualifies-for-slopestyle-final.html"
+            },
+            {
+                "datetime": "2018-03-02T00:26:10Z",
+                "uri": "http://web.archive.org/web/20180302002610/https://olympics.cbc.ca/news/article/canadian-snowboarder-sebastien-toutant-qualifies-for-slopestyle-final.html"
+            }
+        ]
+    },
+    "original_uri": "https://olympics.cbc.ca//news/article/canadian-snowboarder-sebastien-toutant-qualifies-for-slopestyle-final.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://olympics.cbc.ca//news/article/canadian-snowboarder-sebastien-toutant-qualifies-for-slopestyle-final.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://olympics.cbc.ca//news/article/canadian-snowboarder-sebastien-toutant-qualifies-for-slopestyle-final.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://olympics.cbc.ca//news/article/canadian-snowboarder-sebastien-toutant-qualifies-for-slopestyle-final.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://olympics.cbc.ca//news/article/canadian-snowboarder-sebastien-toutant-qualifies-for-slopestyle-final.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://olympics.cbc.ca//news/article/canadian-snowboarder-sebastien-toutant-qualifies-for-slopestyle-final.html"
+    }
+}

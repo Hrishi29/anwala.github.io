@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-03-23T16:34:29Z",
+            "uri": "http://web.archive.org/web/20180323163429/http://www.smh.com.au/federal-politics/political-news/i-won-t-support-it-bill-shorten-issues-ultimatum-on-secrecy-laws-20180206-p4yzhu.html"
+        },
+        "last": {
+            "datetime": "2018-03-23T18:16:25Z",
+            "uri": "http://web.archive.org/web/20180323181625/https://www.smh.com.au/federal-politics/political-news/i-won-t-support-it-bill-shorten-issues-ultimatum-on-secrecy-laws-20180206-p4yzhu.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-03-23T16:34:29Z",
+                "uri": "http://web.archive.org/web/20180323163429/http://www.smh.com.au/federal-politics/political-news/i-won-t-support-it-bill-shorten-issues-ultimatum-on-secrecy-laws-20180206-p4yzhu.html"
+            },
+            {
+                "datetime": "2018-03-23T18:16:25Z",
+                "uri": "http://web.archive.org/web/20180323181625/https://www.smh.com.au/federal-politics/political-news/i-won-t-support-it-bill-shorten-issues-ultimatum-on-secrecy-laws-20180206-p4yzhu.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.smh.com.au/federal-politics/political-news/i-won-t-support-it-bill-shorten-issues-ultimatum-on-secrecy-laws-20180206-p4yzhu.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.smh.com.au/federal-politics/political-news/i-won-t-support-it-bill-shorten-issues-ultimatum-on-secrecy-laws-20180206-p4yzhu.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.smh.com.au/federal-politics/political-news/i-won-t-support-it-bill-shorten-issues-ultimatum-on-secrecy-laws-20180206-p4yzhu.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.smh.com.au/federal-politics/political-news/i-won-t-support-it-bill-shorten-issues-ultimatum-on-secrecy-laws-20180206-p4yzhu.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.smh.com.au/federal-politics/political-news/i-won-t-support-it-bill-shorten-issues-ultimatum-on-secrecy-laws-20180206-p4yzhu.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.smh.com.au/federal-politics/political-news/i-won-t-support-it-bill-shorten-issues-ultimatum-on-secrecy-laws-20180206-p4yzhu.html"
+    }
+}

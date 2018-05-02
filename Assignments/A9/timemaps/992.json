@@ -1,0 +1,130 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-01-17T04:24:56Z",
+            "uri": "http://web.archive.org/web/20160117042456/http://lioness.tk:80/"
+        },
+        "last": {
+            "datetime": "2018-03-06T07:32:43Z",
+            "uri": "http://web.archive.org/web/20180306073243/http://lioness.tk/"
+        },
+        "list": [
+            {
+                "datetime": "2016-01-17T04:24:56Z",
+                "uri": "http://web.archive.org/web/20160117042456/http://lioness.tk:80/"
+            },
+            {
+                "datetime": "2016-04-14T09:37:37Z",
+                "uri": "http://web.archive.org/web/20160414093737/http://lioness.tk:80/"
+            },
+            {
+                "datetime": "2016-04-16T16:11:09Z",
+                "uri": "http://web.archive.org/web/20160416161109/http://lioness.tk:80/"
+            },
+            {
+                "datetime": "2016-05-20T04:58:11Z",
+                "uri": "http://web.archive.org/web/20160520045811/http://lioness.tk:80/"
+            },
+            {
+                "datetime": "2016-06-16T21:07:26Z",
+                "uri": "http://web.archive.org/web/20160616210726/http://lioness.tk/"
+            },
+            {
+                "datetime": "2016-06-20T01:28:30Z",
+                "uri": "http://web.archive.org/web/20160620012830/http://lioness.tk:80/"
+            },
+            {
+                "datetime": "2016-10-07T10:57:33Z",
+                "uri": "http://web.archive.org/web/20161007105733/http://lioness.tk/"
+            },
+            {
+                "datetime": "2017-05-15T19:34:19Z",
+                "uri": "http://web.archive.org/web/20170515193419/http://lioness.tk/"
+            },
+            {
+                "datetime": "2017-09-12T08:19:08Z",
+                "uri": "http://web.archive.org/web/20170912081908/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-01-21T08:27:17Z",
+                "uri": "http://web.archive.org/web/20180121082717/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-01-24T21:51:58Z",
+                "uri": "http://wayback.archive-it.org/all/20180124215158/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-01-24T21:51:58Z",
+                "uri": "http://web.archive.org/web/20180124215158/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-01-24T23:12:45Z",
+                "uri": "http://wayback.archive-it.org/all/20180124231245/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-01-24T23:12:45Z",
+                "uri": "http://web.archive.org/web/20180124231245/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-01-25T00:53:18Z",
+                "uri": "http://wayback.archive-it.org/all/20180125005318/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-01-25T00:53:18Z",
+                "uri": "http://web.archive.org/web/20180125005318/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-01-25T01:32:56Z",
+                "uri": "http://wayback.archive-it.org/all/20180125013256/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-01-25T01:32:56Z",
+                "uri": "http://web.archive.org/web/20180125013256/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-01-25T02:10:14Z",
+                "uri": "http://wayback.archive-it.org/all/20180125021014/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-01-25T02:10:14Z",
+                "uri": "http://web.archive.org/web/20180125021014/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-01-25T14:52:50Z",
+                "uri": "http://wayback.archive-it.org/all/20180125145250/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-01-25T14:52:50Z",
+                "uri": "http://web.archive.org/web/20180125145250/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-02-09T23:46:36Z",
+                "uri": "http://web.archive.org/web/20180209234636/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-03-01T02:21:20Z",
+                "uri": "http://web.archive.org/web/20180301022120/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-03-04T02:34:49Z",
+                "uri": "http://web.archive.org/web/20180304023449/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-03-05T05:39:30Z",
+                "uri": "http://web.archive.org/web/20180305053930/http://lioness.tk/"
+            },
+            {
+                "datetime": "2018-03-06T07:32:43Z",
+                "uri": "http://web.archive.org/web/20180306073243/http://lioness.tk/"
+            }
+        ]
+    },
+    "original_uri": "http://lioness.tk",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://lioness.tk",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://lioness.tk",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://lioness.tk",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://lioness.tk",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://lioness.tk"
+    }
+}

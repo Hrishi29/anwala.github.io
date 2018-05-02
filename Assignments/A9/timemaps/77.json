@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-18T07:43:23Z",
+            "uri": "http://web.archive.org/web/20180218074323/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big"
+        },
+        "last": {
+            "datetime": "2018-02-18T07:43:23Z",
+            "uri": "http://wayback.archive-it.org/all/20180218074323/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-18T07:43:23Z",
+                "uri": "http://web.archive.org/web/20180218074323/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big"
+            },
+            {
+                "datetime": "2018-02-18T07:43:23Z",
+                "uri": "http://wayback.archive-it.org/all/20180218074323/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/blogs/blog-briefing-room/news/373115-don-lemon-breaks-into-fit-of-laughter-over-omarosa-on-big"
+    }
+}

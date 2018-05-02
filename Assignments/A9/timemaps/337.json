@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T19:45:57Z",
+            "uri": "http://web.archive.org/web/20180211194557/http://www.dailykos.com/stories/2018/2/5/1738959/-Trump-administration-just-yanked-press-access-of-a-journalist-who-wouldn-t-censor-his-story"
+        },
+        "last": {
+            "datetime": "2018-02-11T19:46:08Z",
+            "uri": "http://web.archive.org/web/20180211194608/https://www.dailykos.com/stories/2018/2/5/1738959/-Trump-administration-just-yanked-press-access-of-a-journalist-who-wouldn-t-censor-his-story"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T19:45:57Z",
+                "uri": "http://web.archive.org/web/20180211194557/http://www.dailykos.com/stories/2018/2/5/1738959/-Trump-administration-just-yanked-press-access-of-a-journalist-who-wouldn-t-censor-his-story"
+            },
+            {
+                "datetime": "2018-02-11T19:46:08Z",
+                "uri": "http://web.archive.org/web/20180211194608/https://www.dailykos.com/stories/2018/2/5/1738959/-Trump-administration-just-yanked-press-access-of-a-journalist-who-wouldn-t-censor-his-story"
+            }
+        ]
+    },
+    "original_uri": "https://www.dailykos.com/stories/2018/2/5/1738959/-Trump-administration-just-yanked-press-access-of-a-journalist-who-wouldn-t-censor-his-story",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.dailykos.com/stories/2018/2/5/1738959/-Trump-administration-just-yanked-press-access-of-a-journalist-who-wouldn-t-censor-his-story",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.dailykos.com/stories/2018/2/5/1738959/-Trump-administration-just-yanked-press-access-of-a-journalist-who-wouldn-t-censor-his-story",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.dailykos.com/stories/2018/2/5/1738959/-Trump-administration-just-yanked-press-access-of-a-journalist-who-wouldn-t-censor-his-story",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.dailykos.com/stories/2018/2/5/1738959/-Trump-administration-just-yanked-press-access-of-a-journalist-who-wouldn-t-censor-his-story",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.dailykos.com/stories/2018/2/5/1738959/-Trump-administration-just-yanked-press-access-of-a-journalist-who-wouldn-t-censor-his-story"
+    }
+}

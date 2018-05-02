@@ -1,0 +1,62 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-03-08T07:17:39Z",
+            "uri": "http://web.archive.org/web/20180308071739/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1"
+        },
+        "last": {
+            "datetime": "2018-04-29T12:51:16Z",
+            "uri": "http://web.archive.org/web/20180429125116/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1"
+        },
+        "list": [
+            {
+                "datetime": "2018-03-08T07:17:39Z",
+                "uri": "http://web.archive.org/web/20180308071739/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1"
+            },
+            {
+                "datetime": "2018-03-09T13:13:45Z",
+                "uri": "http://web.archive.org/web/20180309131345/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1"
+            },
+            {
+                "datetime": "2018-03-11T09:53:36Z",
+                "uri": "http://web.archive.org/web/20180311095336/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1"
+            },
+            {
+                "datetime": "2018-03-18T11:22:39Z",
+                "uri": "http://web.archive.org/web/20180318112239/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1"
+            },
+            {
+                "datetime": "2018-03-25T12:29:00Z",
+                "uri": "http://web.archive.org/web/20180325122900/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1"
+            },
+            {
+                "datetime": "2018-04-01T12:30:06Z",
+                "uri": "http://web.archive.org/web/20180401123006/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1"
+            },
+            {
+                "datetime": "2018-04-08T12:06:05Z",
+                "uri": "http://web.archive.org/web/20180408120605/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1"
+            },
+            {
+                "datetime": "2018-04-15T12:36:21Z",
+                "uri": "http://web.archive.org/web/20180415123621/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1"
+            },
+            {
+                "datetime": "2018-04-22T12:08:32Z",
+                "uri": "http://web.archive.org/web/20180422120832/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1"
+            },
+            {
+                "datetime": "2018-04-29T12:51:16Z",
+                "uri": "http://web.archive.org/web/20180429125116/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1"
+            }
+        ]
+    },
+    "original_uri": "https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://mobile.nytimes.com/2018/02/07/arts/music/k-pop-olympics-korea.html?referer=https://t.co/V0RBMzhN6K?amp=1"
+    }
+}

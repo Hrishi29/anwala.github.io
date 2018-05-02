@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T02:02:06Z",
+            "uri": "http://web.archive.org/web/20180208020206/http://thehill.com/policy/defense/372856-planning-begins-for-trumps-military-parade"
+        },
+        "last": {
+            "datetime": "2018-04-26T16:53:25Z",
+            "uri": "http://web.archive.org/web/20180426165325/http://thehill.com/policy/defense/372856-planning-begins-for-trumps-military-parade"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T02:02:06Z",
+                "uri": "http://web.archive.org/web/20180208020206/http://thehill.com/policy/defense/372856-planning-begins-for-trumps-military-parade"
+            },
+            {
+                "datetime": "2018-02-08T03:03:15Z",
+                "uri": "http://web.archive.org/web/20180208030315/http://thehill.com/policy/defense/372856-planning-begins-for-trumps-military-parade"
+            },
+            {
+                "datetime": "2018-02-08T08:30:57Z",
+                "uri": "http://web.archive.org/web/20180208083057/http://thehill.com/policy/defense/372856-planning-begins-for-trumps-military-parade"
+            },
+            {
+                "datetime": "2018-02-22T01:17:45Z",
+                "uri": "http://web.archive.org/web/20180222011745/http://thehill.com/policy/defense/372856-planning-begins-for-trumps-military-parade"
+            },
+            {
+                "datetime": "2018-04-26T16:53:25Z",
+                "uri": "http://web.archive.org/web/20180426165325/http://thehill.com/policy/defense/372856-planning-begins-for-trumps-military-parade"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/policy/defense/372856-planning-begins-for-trumps-military-parade",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/policy/defense/372856-planning-begins-for-trumps-military-parade",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/policy/defense/372856-planning-begins-for-trumps-military-parade",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/policy/defense/372856-planning-begins-for-trumps-military-parade",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/policy/defense/372856-planning-begins-for-trumps-military-parade",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/policy/defense/372856-planning-begins-for-trumps-military-parade"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T21:26:36Z",
+            "uri": "http://web.archive.org/web/20180209212636/https://www.voanews.com/a/visitors-react-peace-games-olympics-opening-day/4246790.html"
+        },
+        "last": {
+            "datetime": "2018-03-04T07:32:01Z",
+            "uri": "http://web.archive.org/web/20180304073201/https://www.voanews.com/a/visitors-react-peace-games-olympics-opening-day/4246790.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T21:26:36Z",
+                "uri": "http://web.archive.org/web/20180209212636/https://www.voanews.com/a/visitors-react-peace-games-olympics-opening-day/4246790.html"
+            },
+            {
+                "datetime": "2018-02-11T05:42:08Z",
+                "uri": "http://wayback.archive-it.org/all/20180211054208/https://www.voanews.com/a/visitors-react-peace-games-olympics-opening-day/4246790.html"
+            },
+            {
+                "datetime": "2018-02-11T05:42:08Z",
+                "uri": "http://web.archive.org/web/20180211054208/https://www.voanews.com/a/visitors-react-peace-games-olympics-opening-day/4246790.html"
+            },
+            {
+                "datetime": "2018-02-25T07:24:30Z",
+                "uri": "http://wayback.archive-it.org/all/20180225072430/https://www.voanews.com/a/visitors-react-peace-games-olympics-opening-day/4246790.html"
+            },
+            {
+                "datetime": "2018-02-25T07:24:30Z",
+                "uri": "http://web.archive.org/web/20180225072430/https://www.voanews.com/a/visitors-react-peace-games-olympics-opening-day/4246790.html"
+            },
+            {
+                "datetime": "2018-03-04T07:32:01Z",
+                "uri": "http://wayback.archive-it.org/all/20180304073201/https://www.voanews.com/a/visitors-react-peace-games-olympics-opening-day/4246790.html"
+            },
+            {
+                "datetime": "2018-03-04T07:32:01Z",
+                "uri": "http://web.archive.org/web/20180304073201/https://www.voanews.com/a/visitors-react-peace-games-olympics-opening-day/4246790.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.voanews.com/a/visitors-react-peace-games-olympics-opening-day/4246790.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.voanews.com/a/visitors-react-peace-games-olympics-opening-day/4246790.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.voanews.com/a/visitors-react-peace-games-olympics-opening-day/4246790.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.voanews.com/a/visitors-react-peace-games-olympics-opening-day/4246790.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.voanews.com/a/visitors-react-peace-games-olympics-opening-day/4246790.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.voanews.com/a/visitors-react-peace-games-olympics-opening-day/4246790.html"
+    }
+}

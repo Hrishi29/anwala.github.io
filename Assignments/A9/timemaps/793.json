@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T15:39:02Z",
+            "uri": "http://archive.is/20180210153902/http://www.washingtonexaminer.com/house-intel-democrat-says-fisa-judge-knew-political-origins-of-trump-dossier/article/2648691"
+        },
+        "last": {
+            "datetime": "2018-02-18T13:15:38Z",
+            "uri": "http://web.archive.org/web/20180218131538/http://www.washingtonexaminer.com/house-intel-democrat-says-fisa-judge-knew-political-origins-of-trump-dossier/article/2648691"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T15:39:02Z",
+                "uri": "http://archive.is/20180210153902/http://www.washingtonexaminer.com/house-intel-democrat-says-fisa-judge-knew-political-origins-of-trump-dossier/article/2648691"
+            },
+            {
+                "datetime": "2018-02-11T05:10:21Z",
+                "uri": "http://wayback.archive-it.org/all/20180211051021/http://www.washingtonexaminer.com/house-intel-democrat-says-fisa-judge-knew-political-origins-of-trump-dossier/article/2648691"
+            },
+            {
+                "datetime": "2018-02-11T05:10:21Z",
+                "uri": "http://web.archive.org/web/20180211051021/http://www.washingtonexaminer.com/house-intel-democrat-says-fisa-judge-knew-political-origins-of-trump-dossier/article/2648691"
+            },
+            {
+                "datetime": "2018-02-17T11:55:58Z",
+                "uri": "http://web.archive.org/web/20180217115558/http://www.washingtonexaminer.com/house-intel-democrat-says-fisa-judge-knew-political-origins-of-trump-dossier/article/2648691"
+            },
+            {
+                "datetime": "2018-02-18T13:15:38Z",
+                "uri": "http://web.archive.org/web/20180218131538/http://www.washingtonexaminer.com/house-intel-democrat-says-fisa-judge-knew-political-origins-of-trump-dossier/article/2648691"
+            }
+        ]
+    },
+    "original_uri": "http://www.washingtonexaminer.com/house-intel-democrat-says-fisa-judge-knew-political-origins-of-trump-dossier/article/2648691",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.washingtonexaminer.com/house-intel-democrat-says-fisa-judge-knew-political-origins-of-trump-dossier/article/2648691",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.washingtonexaminer.com/house-intel-democrat-says-fisa-judge-knew-political-origins-of-trump-dossier/article/2648691",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.washingtonexaminer.com/house-intel-democrat-says-fisa-judge-knew-political-origins-of-trump-dossier/article/2648691",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.washingtonexaminer.com/house-intel-democrat-says-fisa-judge-knew-political-origins-of-trump-dossier/article/2648691",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.washingtonexaminer.com/house-intel-democrat-says-fisa-judge-knew-political-origins-of-trump-dossier/article/2648691"
+    }
+}

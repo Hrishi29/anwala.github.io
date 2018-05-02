@@ -1,0 +1,958 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-01T02:03:44Z",
+            "uri": "http://archive.is/20180201020344/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+        },
+        "last": {
+            "datetime": "2018-05-01T10:55:07Z",
+            "uri": "http://web.archive.org/web/20180501105507/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-01T02:03:44Z",
+                "uri": "http://archive.is/20180201020344/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T02:06:50Z",
+                "uri": "http://archive.is/20180201020650/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T02:12:53Z",
+                "uri": "http://web.archive.org/web/20180201021253/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T02:37:39Z",
+                "uri": "http://web.archive.org/web/20180201023739/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T02:47:40Z",
+                "uri": "http://archive.is/20180201024740/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T02:48:44Z",
+                "uri": "http://archive.is/20180201024844/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T02:49:27Z",
+                "uri": "http://archive.is/20180201024927/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T02:50:55Z",
+                "uri": "http://web.archive.org/web/20180201025055/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T03:08:00Z",
+                "uri": "http://web.archive.org/web/20180201030800/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T03:25:04Z",
+                "uri": "http://web.archive.org/web/20180201032504/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T03:25:30Z",
+                "uri": "http://web.archive.org/web/20180201032530/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T03:26:20Z",
+                "uri": "http://web.archive.org/web/20180201032620/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T03:37:48Z",
+                "uri": "http://web.archive.org/web/20180201033748/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T03:58:44Z",
+                "uri": "http://web.archive.org/web/20180201035844/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T04:30:24Z",
+                "uri": "http://web.archive.org/web/20180201043024/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T05:05:02Z",
+                "uri": "http://web.archive.org/web/20180201050502/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T05:38:39Z",
+                "uri": "http://web.archive.org/web/20180201053839/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T05:56:07Z",
+                "uri": "http://web.archive.org/web/20180201055607/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T06:12:18Z",
+                "uri": "http://web.archive.org/web/20180201061218/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T06:45:54Z",
+                "uri": "http://web.archive.org/web/20180201064554/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T06:47:57Z",
+                "uri": "http://wayback.archive-it.org/all/20180201064757/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T06:47:57Z",
+                "uri": "http://web.archive.org/web/20180201064757/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T07:04:11Z",
+                "uri": "http://web.archive.org/web/20180201070411/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T07:19:49Z",
+                "uri": "http://web.archive.org/web/20180201071949/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T07:28:29Z",
+                "uri": "http://web.archive.org/web/20180201072829/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T07:37:48Z",
+                "uri": "http://web.archive.org/web/20180201073748/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T07:53:08Z",
+                "uri": "http://web.archive.org/web/20180201075308/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T08:12:14Z",
+                "uri": "http://web.archive.org/web/20180201081214/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T08:17:52Z",
+                "uri": "http://web.archive.org/web/20180201081752/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T08:29:42Z",
+                "uri": "http://web.archive.org/web/20180201082942/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T09:04:33Z",
+                "uri": "http://web.archive.org/web/20180201090433/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T09:08:27Z",
+                "uri": "http://wayback.archive-it.org/all/20180201090827/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T09:08:27Z",
+                "uri": "http://web.archive.org/web/20180201090827/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T09:39:17Z",
+                "uri": "http://web.archive.org/web/20180201093917/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T10:14:03Z",
+                "uri": "http://web.archive.org/web/20180201101403/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T10:48:16Z",
+                "uri": "http://web.archive.org/web/20180201104816/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T11:11:33Z",
+                "uri": "http://web.archive.org/web/20180201111133/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T11:23:04Z",
+                "uri": "http://web.archive.org/web/20180201112304/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T11:31:51Z",
+                "uri": "http://web.archive.org/web/20180201113151/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T11:57:44Z",
+                "uri": "http://web.archive.org/web/20180201115744/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T12:31:55Z",
+                "uri": "http://web.archive.org/web/20180201123155/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T12:35:02Z",
+                "uri": "http://web.archive.org/web/20180201123502/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T12:54:54Z",
+                "uri": "http://web.archive.org/web/20180201125454/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T13:01:28Z",
+                "uri": "http://web.archive.org/web/20180201130128/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T13:05:30Z",
+                "uri": "http://web.archive.org/web/20180201130530/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T13:39:22Z",
+                "uri": "http://web.archive.org/web/20180201133922/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T14:13:06Z",
+                "uri": "http://web.archive.org/web/20180201141306/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T15:11:40Z",
+                "uri": "http://web.archive.org/web/20180201151140/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T15:15:28Z",
+                "uri": "http://web.archive.org/web/20180201151528/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T15:22:11Z",
+                "uri": "http://web.archive.org/web/20180201152211/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T16:00:35Z",
+                "uri": "http://web.archive.org/web/20180201160035/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T16:37:08Z",
+                "uri": "http://web.archive.org/web/20180201163708/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T16:54:05Z",
+                "uri": "http://web.archive.org/web/20180201165405/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T17:11:01Z",
+                "uri": "http://web.archive.org/web/20180201171101/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T18:16:30Z",
+                "uri": "http://web.archive.org/web/20180201181630/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T18:57:34Z",
+                "uri": "http://wayback.archive-it.org/all/20180201185734/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T18:57:34Z",
+                "uri": "http://web.archive.org/web/20180201185734/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T20:11:14Z",
+                "uri": "http://web.archive.org/web/20180201201114/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-01T23:02:05Z",
+                "uri": "http://archive.is/20180201230205/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T00:11:21Z",
+                "uri": "http://web.archive.org/web/20180202001121/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T04:08:43Z",
+                "uri": "http://wayback.archive-it.org/all/20180202040843/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T04:08:43Z",
+                "uri": "http://web.archive.org/web/20180202040843/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T04:18:42Z",
+                "uri": "http://wayback.archive-it.org/all/20180202041842/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T04:18:42Z",
+                "uri": "http://web.archive.org/web/20180202041842/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T06:58:56Z",
+                "uri": "http://wayback.archive-it.org/all/20180202065856/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T06:58:56Z",
+                "uri": "http://web.archive.org/web/20180202065856/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T08:08:31Z",
+                "uri": "http://wayback.archive-it.org/all/20180202080831/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T08:08:31Z",
+                "uri": "http://web.archive.org/web/20180202080831/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T08:41:41Z",
+                "uri": "http://web.archive.org/web/20180202084141/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T10:28:00Z",
+                "uri": "http://web.archive.org/web/20180202102800/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T10:57:06Z",
+                "uri": "http://web.archive.org/web/20180202105706/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T12:02:18Z",
+                "uri": "http://web.archive.org/web/20180202120218/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T14:11:30Z",
+                "uri": "http://web.archive.org/web/20180202141130/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T14:45:10Z",
+                "uri": "http://web.archive.org/web/20180202144510/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T17:45:02Z",
+                "uri": "http://archive.is/20180202174502/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T18:58:10Z",
+                "uri": "http://web.archive.org/web/20180202185810/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T21:54:28Z",
+                "uri": "http://web.archive.org/web/20180202215428/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-02T22:28:29Z",
+                "uri": "http://web.archive.org/web/20180202222829/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-03T04:06:31Z",
+                "uri": "http://web.archive.org/web/20180203040631/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-03T05:16:22Z",
+                "uri": "http://web.archive.org/web/20180203051622/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-03T12:15:02Z",
+                "uri": "http://web.archive.org/web/20180203121502/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-03T12:21:19Z",
+                "uri": "http://web.archive.org/web/20180203122119/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-03T12:29:08Z",
+                "uri": "http://web.archive.org/web/20180203122908/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-03T14:12:52Z",
+                "uri": "http://web.archive.org/web/20180203141252/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-03T14:19:00Z",
+                "uri": "http://web.archive.org/web/20180203141900/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-04T05:24:59Z",
+                "uri": "http://wayback.archive-it.org/all/20180204052459/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-04T05:24:59Z",
+                "uri": "http://web.archive.org/web/20180204052459/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-04T08:03:14Z",
+                "uri": "http://web.archive.org/web/20180204080314/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-04T12:27:31Z",
+                "uri": "http://web.archive.org/web/20180204122731/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-04T12:33:48Z",
+                "uri": "http://web.archive.org/web/20180204123348/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-04T12:43:24Z",
+                "uri": "http://web.archive.org/web/20180204124324/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-04T15:02:35Z",
+                "uri": "http://web.archive.org/web/20180204150235/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-04T15:11:25Z",
+                "uri": "http://web.archive.org/web/20180204151125/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-04T18:31:09Z",
+                "uri": "http://web.archive.org/web/20180204183109/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-05T06:01:55Z",
+                "uri": "http://web.archive.org/web/20180205060155/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-05T12:51:42Z",
+                "uri": "http://web.archive.org/web/20180205125142/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-05T12:58:56Z",
+                "uri": "http://web.archive.org/web/20180205125856/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-05T13:25:18Z",
+                "uri": "http://web.archive.org/web/20180205132518/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-05T15:55:46Z",
+                "uri": "http://web.archive.org/web/20180205155546/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-05T16:02:10Z",
+                "uri": "http://web.archive.org/web/20180205160210/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-05T18:29:20Z",
+                "uri": "http://web.archive.org/web/20180205182920/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-06T01:21:34Z",
+                "uri": "http://wayback.archive-it.org/all/20180206012134/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-06T01:21:34Z",
+                "uri": "http://web.archive.org/web/20180206012134/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-06T01:34:46Z",
+                "uri": "http://wayback.archive-it.org/all/20180206013446/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-06T01:34:46Z",
+                "uri": "http://web.archive.org/web/20180206013446/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-06T03:23:53Z",
+                "uri": "http://web.archive.org/web/20180206032353/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-06T14:35:28Z",
+                "uri": "http://web.archive.org/web/20180206143528/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-06T16:37:36Z",
+                "uri": "http://web.archive.org/web/20180206163736/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-06T16:44:07Z",
+                "uri": "http://web.archive.org/web/20180206164407/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-07T12:09:55Z",
+                "uri": "http://web.archive.org/web/20180207120955/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-07T14:57:59Z",
+                "uri": "http://web.archive.org/web/20180207145759/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-07T22:25:45Z",
+                "uri": "http://web.archive.org/web/20180207222545/http://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-08T04:26:01Z",
+                "uri": "http://web.archive.org/web/20180208042601/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-08T15:39:53Z",
+                "uri": "http://web.archive.org/web/20180208153953/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-09T02:24:24Z",
+                "uri": "http://web.archive.org/web/20180209022424/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-09T17:50:36Z",
+                "uri": "http://web.archive.org/web/20180209175036/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-12T18:59:25Z",
+                "uri": "http://web.archive.org/web/20180212185925/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-13T20:50:52Z",
+                "uri": "http://web.archive.org/web/20180213205052/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-14T21:53:41Z",
+                "uri": "http://web.archive.org/web/20180214215341/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-15T10:55:52Z",
+                "uri": "http://web.archive.org/web/20180215105552/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-16T02:18:03Z",
+                "uri": "http://web.archive.org/web/20180216021803/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-16T18:15:55Z",
+                "uri": "http://web.archive.org/web/20180216181555/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-17T02:43:14Z",
+                "uri": "http://web.archive.org/web/20180217024314/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-17T11:45:22Z",
+                "uri": "http://web.archive.org/web/20180217114522/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-17T13:12:22Z",
+                "uri": "http://web.archive.org/web/20180217131222/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-17T14:54:45Z",
+                "uri": "http://web.archive.org/web/20180217145445/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-19T06:49:15Z",
+                "uri": "http://web.archive.org/web/20180219064915/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-21T10:11:46Z",
+                "uri": "http://web.archive.org/web/20180221101146/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-22T15:57:37Z",
+                "uri": "http://web.archive.org/web/20180222155737/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-23T15:15:39Z",
+                "uri": "http://web.archive.org/web/20180223151539/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-24T15:37:40Z",
+                "uri": "http://web.archive.org/web/20180224153740/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-26T09:22:20Z",
+                "uri": "http://web.archive.org/web/20180226092220/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-26T16:35:35Z",
+                "uri": "http://web.archive.org/web/20180226163535/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-26T17:37:36Z",
+                "uri": "http://wayback.archive-it.org/all/20180226173736/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-26T17:37:36Z",
+                "uri": "http://web.archive.org/web/20180226173736/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-27T17:25:51Z",
+                "uri": "http://web.archive.org/web/20180227172551/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-27T22:54:08Z",
+                "uri": "http://web.archive.org/web/20180227225408/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-28T17:37:19Z",
+                "uri": "http://web.archive.org/web/20180228173719/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-28T19:41:51Z",
+                "uri": "http://web.archive.org/web/20180228194151/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-28T22:06:27Z",
+                "uri": "http://web.archive.org/web/20180228220627/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-02-28T23:48:15Z",
+                "uri": "http://web.archive.org/web/20180228234815/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-01T02:09:22Z",
+                "uri": "http://web.archive.org/web/20180301020922/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-01T12:38:30Z",
+                "uri": "http://web.archive.org/web/20180301123830/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-01T14:36:56Z",
+                "uri": "http://web.archive.org/web/20180301143656/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-01T23:06:33Z",
+                "uri": "http://web.archive.org/web/20180301230633/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-01T23:35:20Z",
+                "uri": "http://web.archive.org/web/20180301233520/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-02T00:17:10Z",
+                "uri": "http://web.archive.org/web/20180302001710/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-02T04:14:27Z",
+                "uri": "http://web.archive.org/web/20180302041427/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-02T21:29:58Z",
+                "uri": "http://web.archive.org/web/20180302212958/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-03T04:06:27Z",
+                "uri": "http://web.archive.org/web/20180303040627/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-03T07:04:59Z",
+                "uri": "http://web.archive.org/web/20180303070459/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-03T09:56:17Z",
+                "uri": "http://web.archive.org/web/20180303095617/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-04T03:51:10Z",
+                "uri": "http://web.archive.org/web/20180304035110/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-04T09:26:15Z",
+                "uri": "http://web.archive.org/web/20180304092615/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-04T15:00:10Z",
+                "uri": "http://web.archive.org/web/20180304150010/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-04T16:03:38Z",
+                "uri": "http://web.archive.org/web/20180304160338/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-05T10:06:21Z",
+                "uri": "http://web.archive.org/web/20180305100621/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-05T14:58:27Z",
+                "uri": "http://web.archive.org/web/20180305145827/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-05T14:58:30Z",
+                "uri": "http://web.archive.org/web/20180305145830/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-06T17:01:49Z",
+                "uri": "http://web.archive.org/web/20180306170149/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-06T18:55:50Z",
+                "uri": "http://web.archive.org/web/20180306185550/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-08T04:49:04Z",
+                "uri": "http://web.archive.org/web/20180308044904/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-09T06:44:06Z",
+                "uri": "http://web.archive.org/web/20180309064406/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-10T16:22:11Z",
+                "uri": "http://web.archive.org/web/20180310162211/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-11T07:41:19Z",
+                "uri": "http://web.archive.org/web/20180311074119/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-12T12:11:35Z",
+                "uri": "http://web.archive.org/web/20180312121135/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-14T13:35:51Z",
+                "uri": "http://web.archive.org/web/20180314133551/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-15T09:33:56Z",
+                "uri": "http://web.archive.org/web/20180315093356/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-15T14:35:39Z",
+                "uri": "http://web.archive.org/web/20180315143539/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-16T03:04:40Z",
+                "uri": "http://web.archive.org/web/20180316030440/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-16T16:10:34Z",
+                "uri": "http://web.archive.org/web/20180316161034/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-17T02:01:53Z",
+                "uri": "http://web.archive.org/web/20180317020153/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-17T03:27:18Z",
+                "uri": "http://web.archive.org/web/20180317032718/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-17T15:52:45Z",
+                "uri": "http://web.archive.org/web/20180317155245/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-18T10:38:37Z",
+                "uri": "http://web.archive.org/web/20180318103837/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-19T17:33:02Z",
+                "uri": "http://web.archive.org/web/20180319173302/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-20T04:27:49Z",
+                "uri": "http://web.archive.org/web/20180320042749/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-20T05:09:08Z",
+                "uri": "http://web.archive.org/web/20180320050908/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-20T17:00:08Z",
+                "uri": "http://web.archive.org/web/20180320170008/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-21T08:05:06Z",
+                "uri": "http://web.archive.org/web/20180321080506/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-21T19:00:53Z",
+                "uri": "http://web.archive.org/web/20180321190053/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-22T22:25:10Z",
+                "uri": "http://web.archive.org/web/20180322222510/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-23T20:38:47Z",
+                "uri": "http://web.archive.org/web/20180323203847/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-23T22:26:49Z",
+                "uri": "http://web.archive.org/web/20180323222649/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-25T02:40:17Z",
+                "uri": "http://web.archive.org/web/20180325024017/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-25T18:30:06Z",
+                "uri": "http://web.archive.org/web/20180325183006/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-26T06:39:24Z",
+                "uri": "http://web.archive.org/web/20180326063924/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-26T13:48:37Z",
+                "uri": "http://web.archive.org/web/20180326134837/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-26T20:41:54Z",
+                "uri": "http://web.archive.org/web/20180326204154/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-27T01:03:21Z",
+                "uri": "http://web.archive.org/web/20180327010321/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-27T01:11:04Z",
+                "uri": "http://web.archive.org/web/20180327011104/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-27T12:18:21Z",
+                "uri": "http://web.archive.org/web/20180327121821/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-28T00:21:57Z",
+                "uri": "http://web.archive.org/web/20180328002157/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-28T01:46:39Z",
+                "uri": "http://web.archive.org/web/20180328014639/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-29T00:30:50Z",
+                "uri": "http://web.archive.org/web/20180329003050/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-29T01:20:24Z",
+                "uri": "http://web.archive.org/web/20180329012024/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-30T02:07:56Z",
+                "uri": "http://web.archive.org/web/20180330020756/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-30T03:23:10Z",
+                "uri": "http://web.archive.org/web/20180330032310/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-30T12:26:13Z",
+                "uri": "http://web.archive.org/web/20180330122613/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-31T02:13:24Z",
+                "uri": "http://web.archive.org/web/20180331021324/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-31T02:51:59Z",
+                "uri": "http://web.archive.org/web/20180331025159/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-31T04:05:23Z",
+                "uri": "http://web.archive.org/web/20180331040523/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-03-31T13:21:49Z",
+                "uri": "http://web.archive.org/web/20180331132149/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-01T02:51:02Z",
+                "uri": "http://web.archive.org/web/20180401025102/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-01T23:11:04Z",
+                "uri": "http://web.archive.org/web/20180401231104/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-02T03:15:13Z",
+                "uri": "http://web.archive.org/web/20180402031513/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-03T04:14:46Z",
+                "uri": "http://web.archive.org/web/20180403041446/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-03T06:50:26Z",
+                "uri": "http://web.archive.org/web/20180403065026/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-04T15:37:23Z",
+                "uri": "http://web.archive.org/web/20180404153723/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-05T10:42:09Z",
+                "uri": "http://web.archive.org/web/20180405104209/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-06T03:16:20Z",
+                "uri": "http://web.archive.org/web/20180406031620/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-07T06:24:57Z",
+                "uri": "http://web.archive.org/web/20180407062457/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-09T14:27:30Z",
+                "uri": "http://web.archive.org/web/20180409142730/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-10T04:42:35Z",
+                "uri": "http://web.archive.org/web/20180410044235/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-11T09:37:21Z",
+                "uri": "http://web.archive.org/web/20180411093721/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-13T08:09:04Z",
+                "uri": "http://web.archive.org/web/20180413080904/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-14T09:33:04Z",
+                "uri": "http://web.archive.org/web/20180414093304/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-15T10:53:52Z",
+                "uri": "http://web.archive.org/web/20180415105352/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-16T11:20:28Z",
+                "uri": "http://web.archive.org/web/20180416112028/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-17T09:37:16Z",
+                "uri": "http://web.archive.org/web/20180417093716/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-18T11:55:23Z",
+                "uri": "http://web.archive.org/web/20180418115523/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-19T10:57:04Z",
+                "uri": "http://web.archive.org/web/20180419105704/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-20T21:00:51Z",
+                "uri": "http://web.archive.org/web/20180420210051/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-23T13:43:34Z",
+                "uri": "http://web.archive.org/web/20180423134334/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-24T14:22:47Z",
+                "uri": "http://web.archive.org/web/20180424142247/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-25T14:30:42Z",
+                "uri": "http://web.archive.org/web/20180425143042/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-26T18:15:22Z",
+                "uri": "http://web.archive.org/web/20180426181522/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-27T19:34:21Z",
+                "uri": "http://web.archive.org/web/20180427193421/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-27T22:02:28Z",
+                "uri": "http://web.archive.org/web/20180427220228/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-28T19:54:17Z",
+                "uri": "http://web.archive.org/web/20180428195417/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-29T21:17:38Z",
+                "uri": "http://web.archive.org/web/20180429211738/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-30T09:44:10Z",
+                "uri": "http://web.archive.org/web/20180430094410/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-04-30T19:14:21Z",
+                "uri": "http://web.archive.org/web/20180430191421/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            },
+            {
+                "datetime": "2018-05-01T10:55:07Z",
+                "uri": "http://web.archive.org/web/20180501105507/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html"
+    }
+}

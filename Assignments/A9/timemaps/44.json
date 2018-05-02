@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T02:39:40Z",
+            "uri": "http://web.archive.org/web/20180210023940/https://www.washingtonpost.com/politics/second-white-house-official-departs-amids-abuse-allegations-which-he-denies/2018/02/09/72ba47e6-0d0d-11e8-8b0d-891602206fb7_story.html?utm_term=.585da3e4a5f5"
+        },
+        "last": {
+            "datetime": "2018-02-10T02:39:40Z",
+            "uri": "http://web.archive.org/web/20180210023940/https://www.washingtonpost.com/politics/second-white-house-official-departs-amids-abuse-allegations-which-he-denies/2018/02/09/72ba47e6-0d0d-11e8-8b0d-891602206fb7_story.html?utm_term=.585da3e4a5f5"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T02:39:40Z",
+                "uri": "http://web.archive.org/web/20180210023940/https://www.washingtonpost.com/politics/second-white-house-official-departs-amids-abuse-allegations-which-he-denies/2018/02/09/72ba47e6-0d0d-11e8-8b0d-891602206fb7_story.html?utm_term=.585da3e4a5f5"
+            }
+        ]
+    },
+    "original_uri": "https://www.washingtonpost.com/politics/second-white-house-official-departs-amids-abuse-allegations-which-he-denies/2018/02/09/72ba47e6-0d0d-11e8-8b0d-891602206fb7_story.html?utm_term=.585da3e4a5f5",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/politics/second-white-house-official-departs-amids-abuse-allegations-which-he-denies/2018/02/09/72ba47e6-0d0d-11e8-8b0d-891602206fb7_story.html?utm_term=.585da3e4a5f5",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.washingtonpost.com/politics/second-white-house-official-departs-amids-abuse-allegations-which-he-denies/2018/02/09/72ba47e6-0d0d-11e8-8b0d-891602206fb7_story.html?utm_term=.585da3e4a5f5",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.washingtonpost.com/politics/second-white-house-official-departs-amids-abuse-allegations-which-he-denies/2018/02/09/72ba47e6-0d0d-11e8-8b0d-891602206fb7_story.html?utm_term=.585da3e4a5f5",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/politics/second-white-house-official-departs-amids-abuse-allegations-which-he-denies/2018/02/09/72ba47e6-0d0d-11e8-8b0d-891602206fb7_story.html?utm_term=.585da3e4a5f5",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.washingtonpost.com/politics/second-white-house-official-departs-amids-abuse-allegations-which-he-denies/2018/02/09/72ba47e6-0d0d-11e8-8b0d-891602206fb7_story.html?utm_term=.585da3e4a5f5"
+    }
+}

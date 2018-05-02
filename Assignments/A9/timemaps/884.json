@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T15:01:11Z",
+            "uri": "http://web.archive.org/web/20180210150111/http://www.foxnews.com/us/2018/02/09/judges-pointed-questions-leave-murky-future-trumps-border-wall-plan.html"
+        },
+        "last": {
+            "datetime": "2018-03-09T15:54:17Z",
+            "uri": "http://web.archive.org/web/20180309155417/http://www.foxnews.com/us/2018/02/09/judges-pointed-questions-leave-murky-future-trumps-border-wall-plan.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T15:01:11Z",
+                "uri": "http://web.archive.org/web/20180210150111/http://www.foxnews.com/us/2018/02/09/judges-pointed-questions-leave-murky-future-trumps-border-wall-plan.html"
+            },
+            {
+                "datetime": "2018-02-11T16:27:15Z",
+                "uri": "http://web.archive.org/web/20180211162715/http://www.foxnews.com/us/2018/02/09/judges-pointed-questions-leave-murky-future-trumps-border-wall-plan.html"
+            },
+            {
+                "datetime": "2018-02-12T17:15:01Z",
+                "uri": "http://web.archive.org/web/20180212171501/http://www.foxnews.com/us/2018/02/09/judges-pointed-questions-leave-murky-future-trumps-border-wall-plan.html"
+            },
+            {
+                "datetime": "2018-02-13T18:33:04Z",
+                "uri": "http://web.archive.org/web/20180213183304/http://www.foxnews.com/us/2018/02/09/judges-pointed-questions-leave-murky-future-trumps-border-wall-plan.html"
+            },
+            {
+                "datetime": "2018-02-14T23:09:04Z",
+                "uri": "http://web.archive.org/web/20180214230904/http://www.foxnews.com/us/2018/02/09/judges-pointed-questions-leave-murky-future-trumps-border-wall-plan.html"
+            },
+            {
+                "datetime": "2018-03-09T15:54:17Z",
+                "uri": "http://web.archive.org/web/20180309155417/http://www.foxnews.com/us/2018/02/09/judges-pointed-questions-leave-murky-future-trumps-border-wall-plan.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.foxnews.com/us/2018/02/09/judges-pointed-questions-leave-murky-future-trumps-border-wall-plan.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/us/2018/02/09/judges-pointed-questions-leave-murky-future-trumps-border-wall-plan.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.foxnews.com/us/2018/02/09/judges-pointed-questions-leave-murky-future-trumps-border-wall-plan.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.foxnews.com/us/2018/02/09/judges-pointed-questions-leave-murky-future-trumps-border-wall-plan.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/us/2018/02/09/judges-pointed-questions-leave-murky-future-trumps-border-wall-plan.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.foxnews.com/us/2018/02/09/judges-pointed-questions-leave-murky-future-trumps-border-wall-plan.html"
+    }
+}

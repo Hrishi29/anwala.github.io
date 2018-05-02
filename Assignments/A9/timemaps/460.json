@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T07:18:52Z",
+            "uri": "http://web.archive.org/web/20180210071852/http://news.abs-cbn.com/sports/multimedia/photo/02/09/18/philippines-welcomed-at-2018-winter-olympics"
+        },
+        "last": {
+            "datetime": "2018-03-18T03:31:57Z",
+            "uri": "http://web.archive.org/web/20180318033157/http://news.abs-cbn.com/sports/multimedia/photo/02/09/18/philippines-welcomed-at-2018-winter-olympics"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T07:18:52Z",
+                "uri": "http://web.archive.org/web/20180210071852/http://news.abs-cbn.com/sports/multimedia/photo/02/09/18/philippines-welcomed-at-2018-winter-olympics"
+            },
+            {
+                "datetime": "2018-02-10T11:27:40Z",
+                "uri": "http://web.archive.org/web/20180210112740/https://news.abs-cbn.com/sports/multimedia/photo/02/09/18/philippines-welcomed-at-2018-winter-olympics"
+            },
+            {
+                "datetime": "2018-02-11T08:06:57Z",
+                "uri": "http://web.archive.org/web/20180211080657/http://news.abs-cbn.com/sports/multimedia/photo/02/09/18/philippines-welcomed-at-2018-winter-olympics"
+            },
+            {
+                "datetime": "2018-02-12T20:48:38Z",
+                "uri": "http://web.archive.org/web/20180212204838/http://news.abs-cbn.com/sports/multimedia/photo/02/09/18/philippines-welcomed-at-2018-winter-olympics"
+            },
+            {
+                "datetime": "2018-02-13T22:20:11Z",
+                "uri": "http://web.archive.org/web/20180213222011/http://news.abs-cbn.com/sports/multimedia/photo/02/09/18/philippines-welcomed-at-2018-winter-olympics"
+            },
+            {
+                "datetime": "2018-03-18T03:31:57Z",
+                "uri": "http://web.archive.org/web/20180318033157/http://news.abs-cbn.com/sports/multimedia/photo/02/09/18/philippines-welcomed-at-2018-winter-olympics"
+            }
+        ]
+    },
+    "original_uri": "http://news.abs-cbn.com/sports/multimedia/photo/02/09/18/philippines-welcomed-at-2018-winter-olympics",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://news.abs-cbn.com/sports/multimedia/photo/02/09/18/philippines-welcomed-at-2018-winter-olympics",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://news.abs-cbn.com/sports/multimedia/photo/02/09/18/philippines-welcomed-at-2018-winter-olympics",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://news.abs-cbn.com/sports/multimedia/photo/02/09/18/philippines-welcomed-at-2018-winter-olympics",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://news.abs-cbn.com/sports/multimedia/photo/02/09/18/philippines-welcomed-at-2018-winter-olympics",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://news.abs-cbn.com/sports/multimedia/photo/02/09/18/philippines-welcomed-at-2018-winter-olympics"
+    }
+}

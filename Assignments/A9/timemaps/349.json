@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T06:59:31Z",
+            "uri": "http://web.archive.org/web/20180211065931/https://dronedj.com/2018/02/09/2018-winter-olympics-and-intels-record-setting-drone-show/"
+        },
+        "last": {
+            "datetime": "2018-02-11T06:59:31Z",
+            "uri": "http://wayback.archive-it.org/all/20180211065931/https://dronedj.com/2018/02/09/2018-winter-olympics-and-intels-record-setting-drone-show/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T06:59:31Z",
+                "uri": "http://web.archive.org/web/20180211065931/https://dronedj.com/2018/02/09/2018-winter-olympics-and-intels-record-setting-drone-show/"
+            },
+            {
+                "datetime": "2018-02-11T06:59:31Z",
+                "uri": "http://wayback.archive-it.org/all/20180211065931/https://dronedj.com/2018/02/09/2018-winter-olympics-and-intels-record-setting-drone-show/"
+            }
+        ]
+    },
+    "original_uri": "https://dronedj.com/2018/02/09/2018-winter-olympics-and-intels-record-setting-drone-show/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://dronedj.com/2018/02/09/2018-winter-olympics-and-intels-record-setting-drone-show/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://dronedj.com/2018/02/09/2018-winter-olympics-and-intels-record-setting-drone-show/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://dronedj.com/2018/02/09/2018-winter-olympics-and-intels-record-setting-drone-show/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://dronedj.com/2018/02/09/2018-winter-olympics-and-intels-record-setting-drone-show/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://dronedj.com/2018/02/09/2018-winter-olympics-and-intels-record-setting-drone-show/"
+    }
+}

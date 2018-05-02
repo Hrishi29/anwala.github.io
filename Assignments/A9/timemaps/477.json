@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T01:55:38Z",
+            "uri": "http://web.archive.org/web/20180211015538/https://m.dailykos.com/stories/2018/2/9/1740165/-Tea-Party-Leader-and-Trump-Campaign-Chairman-Pleads-Guilty-to-Prostituting-Kids-plus-Other-Crimes"
+        },
+        "last": {
+            "datetime": "2018-03-13T14:26:42Z",
+            "uri": "http://web.archive.org/web/20180313142642/https://m.dailykos.com/stories/2018/2/9/1740165/-Tea-Party-Leader-and-Trump-Campaign-Chairman-Pleads-Guilty-to-Prostituting-Kids-plus-Other-Crimes"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T01:55:38Z",
+                "uri": "http://web.archive.org/web/20180211015538/https://m.dailykos.com/stories/2018/2/9/1740165/-Tea-Party-Leader-and-Trump-Campaign-Chairman-Pleads-Guilty-to-Prostituting-Kids-plus-Other-Crimes"
+            },
+            {
+                "datetime": "2018-02-11T16:52:06Z",
+                "uri": "http://archive.is/20180211165206/https://m.dailykos.com/stories/2018/2/9/1740165/-Tea-Party-Leader-and-Trump-Campaign-Chairman-Pleads-Guilty-to-Prostituting-Kids-plus-Other-Crimes"
+            },
+            {
+                "datetime": "2018-03-13T14:26:42Z",
+                "uri": "http://web.archive.org/web/20180313142642/https://m.dailykos.com/stories/2018/2/9/1740165/-Tea-Party-Leader-and-Trump-Campaign-Chairman-Pleads-Guilty-to-Prostituting-Kids-plus-Other-Crimes"
+            }
+        ]
+    },
+    "original_uri": "https://m.dailykos.com/stories/2018/2/9/1740165/-Tea-Party-Leader-and-Trump-Campaign-Chairman-Pleads-Guilty-to-Prostituting-Kids-plus-Other-Crimes",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://m.dailykos.com/stories/2018/2/9/1740165/-Tea-Party-Leader-and-Trump-Campaign-Chairman-Pleads-Guilty-to-Prostituting-Kids-plus-Other-Crimes",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://m.dailykos.com/stories/2018/2/9/1740165/-Tea-Party-Leader-and-Trump-Campaign-Chairman-Pleads-Guilty-to-Prostituting-Kids-plus-Other-Crimes",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://m.dailykos.com/stories/2018/2/9/1740165/-Tea-Party-Leader-and-Trump-Campaign-Chairman-Pleads-Guilty-to-Prostituting-Kids-plus-Other-Crimes",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://m.dailykos.com/stories/2018/2/9/1740165/-Tea-Party-Leader-and-Trump-Campaign-Chairman-Pleads-Guilty-to-Prostituting-Kids-plus-Other-Crimes",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://m.dailykos.com/stories/2018/2/9/1740165/-Tea-Party-Leader-and-Trump-Campaign-Chairman-Pleads-Guilty-to-Prostituting-Kids-plus-Other-Crimes"
+    }
+}

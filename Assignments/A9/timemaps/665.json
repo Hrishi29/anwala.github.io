@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-25T01:01:47Z",
+            "uri": "http://web.archive.org/web/20180225010147/http://usalibertypress.com/2018/02/05/president-trump-just-made-trey-gowdy-powerful-man-capitol-hill/"
+        },
+        "last": {
+            "datetime": "2018-02-25T01:01:47Z",
+            "uri": "http://web.archive.org/web/20180225010147/http://usalibertypress.com/2018/02/05/president-trump-just-made-trey-gowdy-powerful-man-capitol-hill/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-25T01:01:47Z",
+                "uri": "http://web.archive.org/web/20180225010147/http://usalibertypress.com/2018/02/05/president-trump-just-made-trey-gowdy-powerful-man-capitol-hill/"
+            }
+        ]
+    },
+    "original_uri": "http://usalibertypress.com/2018/02/05/president-trump-just-made-trey-gowdy-powerful-man-capitol-hill/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://usalibertypress.com/2018/02/05/president-trump-just-made-trey-gowdy-powerful-man-capitol-hill/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://usalibertypress.com/2018/02/05/president-trump-just-made-trey-gowdy-powerful-man-capitol-hill/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://usalibertypress.com/2018/02/05/president-trump-just-made-trey-gowdy-powerful-man-capitol-hill/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://usalibertypress.com/2018/02/05/president-trump-just-made-trey-gowdy-powerful-man-capitol-hill/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://usalibertypress.com/2018/02/05/president-trump-just-made-trey-gowdy-powerful-man-capitol-hill/"
+    }
+}

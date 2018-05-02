@@ -1,0 +1,166 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T18:25:46Z",
+            "uri": "http://web.archive.org/web/20180209182546/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+        },
+        "last": {
+            "datetime": "2018-04-29T20:19:41Z",
+            "uri": "http://web.archive.org/web/20180429201941/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T18:25:46Z",
+                "uri": "http://web.archive.org/web/20180209182546/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-09T19:03:16Z",
+                "uri": "http://web.archive.org/web/20180209190316/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-09T22:35:27Z",
+                "uri": "http://web.archive.org/web/20180209223527/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-10T03:11:04Z",
+                "uri": "http://web.archive.org/web/20180210031104/http://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-10T06:40:02Z",
+                "uri": "http://web.archive.org/web/20180210064002/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-11T02:23:50Z",
+                "uri": "http://web.archive.org/web/20180211022350/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-11T04:15:22Z",
+                "uri": "http://web.archive.org/web/20180211041522/http://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-11T04:40:11Z",
+                "uri": "http://web.archive.org/web/20180211044011/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-12T04:39:00Z",
+                "uri": "http://web.archive.org/web/20180212043900/http://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-13T05:55:46Z",
+                "uri": "http://web.archive.org/web/20180213055546/http://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-14T18:33:39Z",
+                "uri": "http://wayback.archive-it.org/all/20180214183339/http://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-14T18:33:39Z",
+                "uri": "http://web.archive.org/web/20180214183339/http://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-14T18:49:54Z",
+                "uri": "http://wayback.archive-it.org/all/20180214184954/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-14T18:49:54Z",
+                "uri": "http://web.archive.org/web/20180214184954/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-15T15:23:50Z",
+                "uri": "http://web.archive.org/web/20180215152350/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-16T12:53:40Z",
+                "uri": "http://web.archive.org/web/20180216125340/http://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-19T19:13:28Z",
+                "uri": "http://web.archive.org/web/20180219191328/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-20T19:08:22Z",
+                "uri": "http://web.archive.org/web/20180220190822/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-21T21:57:12Z",
+                "uri": "http://web.archive.org/web/20180221215712/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-22T01:13:30Z",
+                "uri": "http://web.archive.org/web/20180222011330/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-27T04:11:12Z",
+                "uri": "http://web.archive.org/web/20180227041112/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-02-27T05:17:10Z",
+                "uri": "http://web.archive.org/web/20180227051710/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-03-04T06:57:33Z",
+                "uri": "http://web.archive.org/web/20180304065733/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-03-05T07:25:38Z",
+                "uri": "http://web.archive.org/web/20180305072538/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-03-11T02:19:48Z",
+                "uri": "http://web.archive.org/web/20180311021948/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-03-11T21:12:14Z",
+                "uri": "http://web.archive.org/web/20180311211214/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-03-12T03:26:22Z",
+                "uri": "http://web.archive.org/web/20180312032622/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-03-26T06:19:33Z",
+                "uri": "http://web.archive.org/web/20180326061933/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-04-01T11:13:50Z",
+                "uri": "http://web.archive.org/web/20180401111350/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-04-02T11:57:03Z",
+                "uri": "http://web.archive.org/web/20180402115703/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-04-10T20:51:31Z",
+                "uri": "http://web.archive.org/web/20180410205131/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-04-15T08:37:13Z",
+                "uri": "http://web.archive.org/web/20180415083713/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-04-16T10:11:05Z",
+                "uri": "http://web.archive.org/web/20180416101105/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-04-22T15:33:52Z",
+                "uri": "http://web.archive.org/web/20180422153352/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-04-23T17:28:00Z",
+                "uri": "http://web.archive.org/web/20180423172800/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            },
+            {
+                "datetime": "2018-04-29T20:19:41Z",
+                "uri": "http://web.archive.org/web/20180429201941/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/02/09/sports/olympics/opening-ceremony.html"
+    }
+}

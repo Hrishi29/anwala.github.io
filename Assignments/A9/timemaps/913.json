@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-03-12T02:09:10Z",
+            "uri": "http://web.archive.org/web/20180312020910/http://www.leicestermercury.co.uk/sport/football/transfer-news/riyad-mahrez-statement-in-full-1194305"
+        },
+        "last": {
+            "datetime": "2018-03-12T02:09:10Z",
+            "uri": "http://web.archive.org/web/20180312020910/http://www.leicestermercury.co.uk/sport/football/transfer-news/riyad-mahrez-statement-in-full-1194305"
+        },
+        "list": [
+            {
+                "datetime": "2018-03-12T02:09:10Z",
+                "uri": "http://web.archive.org/web/20180312020910/http://www.leicestermercury.co.uk/sport/football/transfer-news/riyad-mahrez-statement-in-full-1194305"
+            }
+        ]
+    },
+    "original_uri": "https://www.leicestermercury.co.uk/sport/football/transfer-news/riyad-mahrez-statement-in-full-1194305",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.leicestermercury.co.uk/sport/football/transfer-news/riyad-mahrez-statement-in-full-1194305",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.leicestermercury.co.uk/sport/football/transfer-news/riyad-mahrez-statement-in-full-1194305",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.leicestermercury.co.uk/sport/football/transfer-news/riyad-mahrez-statement-in-full-1194305",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.leicestermercury.co.uk/sport/football/transfer-news/riyad-mahrez-statement-in-full-1194305",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.leicestermercury.co.uk/sport/football/transfer-news/riyad-mahrez-statement-in-full-1194305"
+    }
+}

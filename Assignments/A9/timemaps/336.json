@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T17:05:12Z",
+            "uri": "http://web.archive.org/web/20180209170512/https://www.rbc.ru/politics/09/02/2018/5a7dc6479a7947a4be81bebb"
+        },
+        "last": {
+            "datetime": "2018-04-05T07:54:04Z",
+            "uri": "http://web.archive.org/web/20180405075404/http://www.rbc.ru/politics/09/02/2018/5a7dc6479a7947a4be81bebb"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T17:05:12Z",
+                "uri": "http://web.archive.org/web/20180209170512/https://www.rbc.ru/politics/09/02/2018/5a7dc6479a7947a4be81bebb"
+            },
+            {
+                "datetime": "2018-02-09T17:05:12Z",
+                "uri": "http://web.archive.org/web/20180209170512/https://www.rbc.ru/politics/09/02/2018/5a7dc6479a7947a4be81bebb"
+            },
+            {
+                "datetime": "2018-04-05T07:54:02Z",
+                "uri": "http://web.archive.org/web/20180405075402/https://www.rbc.ru/politics/09/02/2018/5a7dc6479a7947a4be81bebb"
+            },
+            {
+                "datetime": "2018-04-05T07:54:04Z",
+                "uri": "http://web.archive.org/web/20180405075404/https://www.rbc.ru/politics/09/02/2018/5a7dc6479a7947a4be81bebb"
+            },
+            {
+                "datetime": "2018-04-05T07:54:04Z",
+                "uri": "http://web.archive.org/web/20180405075404/http://www.rbc.ru/politics/09/02/2018/5a7dc6479a7947a4be81bebb"
+            }
+        ]
+    },
+    "original_uri": "https://www.rbc.ru/politics/09/02/2018/5a7dc6479a7947a4be81bebb",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.rbc.ru/politics/09/02/2018/5a7dc6479a7947a4be81bebb",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.rbc.ru/politics/09/02/2018/5a7dc6479a7947a4be81bebb",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.rbc.ru/politics/09/02/2018/5a7dc6479a7947a4be81bebb",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.rbc.ru/politics/09/02/2018/5a7dc6479a7947a4be81bebb",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.rbc.ru/politics/09/02/2018/5a7dc6479a7947a4be81bebb"
+    }
+}

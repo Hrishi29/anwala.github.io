@@ -1,0 +1,62 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T15:58:41Z",
+            "uri": "http://web.archive.org/web/20180210155841/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/"
+        },
+        "last": {
+            "datetime": "2018-02-26T04:49:15Z",
+            "uri": "http://web.archive.org/web/20180226044915/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T15:58:41Z",
+                "uri": "http://web.archive.org/web/20180210155841/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/"
+            },
+            {
+                "datetime": "2018-02-10T17:40:28Z",
+                "uri": "http://web.archive.org/web/20180210174028/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/"
+            },
+            {
+                "datetime": "2018-02-10T21:15:37Z",
+                "uri": "http://web.archive.org/web/20180210211537/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/"
+            },
+            {
+                "datetime": "2018-02-11T02:09:58Z",
+                "uri": "http://web.archive.org/web/20180211020958/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/"
+            },
+            {
+                "datetime": "2018-02-11T05:13:26Z",
+                "uri": "http://wayback.archive-it.org/all/20180211051326/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/"
+            },
+            {
+                "datetime": "2018-02-11T05:13:26Z",
+                "uri": "http://web.archive.org/web/20180211051326/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/"
+            },
+            {
+                "datetime": "2018-02-11T23:54:07Z",
+                "uri": "http://web.archive.org/web/20180211235407/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/"
+            },
+            {
+                "datetime": "2018-02-13T15:36:10Z",
+                "uri": "http://web.archive.org/web/20180213153610/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/"
+            },
+            {
+                "datetime": "2018-02-14T18:11:02Z",
+                "uri": "http://web.archive.org/web/20180214181102/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/"
+            },
+            {
+                "datetime": "2018-02-26T04:49:15Z",
+                "uri": "http://web.archive.org/web/20180226044915/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/"
+            }
+        ]
+    },
+    "original_uri": "http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.breitbart.com/big-government/2018/02/09/officials-mike-pence-did-not-snub-north-koreans-seated-nearby-at-olympics-opening-ceremony/"
+    }
+}

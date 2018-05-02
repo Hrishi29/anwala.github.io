@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-03-24T20:07:44Z",
+            "uri": "http://web.archive.org/web/20170324200744/http://tweetedtimes.com:80/lulu2617"
+        },
+        "last": {
+            "datetime": "2018-02-09T22:46:30Z",
+            "uri": "http://web.archive.org/web/20180209224630/http://tweetedtimes.com/lulu2617"
+        },
+        "list": [
+            {
+                "datetime": "2017-03-24T20:07:44Z",
+                "uri": "http://web.archive.org/web/20170324200744/http://tweetedtimes.com:80/lulu2617"
+            },
+            {
+                "datetime": "2018-02-09T22:46:30Z",
+                "uri": "http://web.archive.org/web/20180209224630/http://tweetedtimes.com/lulu2617"
+            }
+        ]
+    },
+    "original_uri": "http://tweetedtimes.com/lulu2617",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://tweetedtimes.com/lulu2617",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://tweetedtimes.com/lulu2617",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://tweetedtimes.com/lulu2617",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://tweetedtimes.com/lulu2617",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://tweetedtimes.com/lulu2617"
+    }
+}

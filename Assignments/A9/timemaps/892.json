@@ -1,0 +1,62 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T16:35:30Z",
+            "uri": "http://web.archive.org/web/20180209163530/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html"
+        },
+        "last": {
+            "datetime": "2018-02-15T23:37:35Z",
+            "uri": "http://web.archive.org/web/20180215233735/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T16:35:30Z",
+                "uri": "http://web.archive.org/web/20180209163530/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html"
+            },
+            {
+                "datetime": "2018-02-09T20:03:58Z",
+                "uri": "http://web.archive.org/web/20180209200358/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html"
+            },
+            {
+                "datetime": "2018-02-09T20:09:58Z",
+                "uri": "http://web.archive.org/web/20180209200958/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html"
+            },
+            {
+                "datetime": "2018-02-10T15:35:47Z",
+                "uri": "http://web.archive.org/web/20180210153547/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html"
+            },
+            {
+                "datetime": "2018-02-11T05:59:20Z",
+                "uri": "http://wayback.archive-it.org/all/20180211055920/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html"
+            },
+            {
+                "datetime": "2018-02-11T05:59:20Z",
+                "uri": "http://web.archive.org/web/20180211055920/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html"
+            },
+            {
+                "datetime": "2018-02-11T16:30:13Z",
+                "uri": "http://web.archive.org/web/20180211163013/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html"
+            },
+            {
+                "datetime": "2018-02-12T17:17:41Z",
+                "uri": "http://web.archive.org/web/20180212171741/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html"
+            },
+            {
+                "datetime": "2018-02-14T21:05:39Z",
+                "uri": "http://web.archive.org/web/20180214210539/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html"
+            },
+            {
+                "datetime": "2018-02-15T23:37:35Z",
+                "uri": "http://web.archive.org/web/20180215233735/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.foxnews.com/politics/2018/02/09/schumer-de-blasio-backed-parade-for-military-4-years-ago-despite-dem-outrage-now.html"
+    }
+}

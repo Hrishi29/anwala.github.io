@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T06:58:02Z",
+            "uri": "http://web.archive.org/web/20180210065802/https://aajtak.intoday.in/story/tejasvi-yadav-nyay-yatra-bihar-politics-1-983217.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T06:58:02Z",
+            "uri": "http://web.archive.org/web/20180210065802/https://aajtak.intoday.in/story/tejasvi-yadav-nyay-yatra-bihar-politics-1-983217.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T06:58:02Z",
+                "uri": "http://web.archive.org/web/20180210065802/https://aajtak.intoday.in/story/tejasvi-yadav-nyay-yatra-bihar-politics-1-983217.html"
+            }
+        ]
+    },
+    "original_uri": "https://aajtak.intoday.in/story/tejasvi-yadav-nyay-yatra-bihar-politics-1-983217.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://aajtak.intoday.in/story/tejasvi-yadav-nyay-yatra-bihar-politics-1-983217.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://aajtak.intoday.in/story/tejasvi-yadav-nyay-yatra-bihar-politics-1-983217.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://aajtak.intoday.in/story/tejasvi-yadav-nyay-yatra-bihar-politics-1-983217.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://aajtak.intoday.in/story/tejasvi-yadav-nyay-yatra-bihar-politics-1-983217.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://aajtak.intoday.in/story/tejasvi-yadav-nyay-yatra-bihar-politics-1-983217.html"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T10:20:34Z",
+            "uri": "http://web.archive.org/web/20180210102034/https://www.theblaze.com/news/2018/02/09/democrats-respond-angrily-to-trump-decision-against-memo-release/"
+        },
+        "last": {
+            "datetime": "2018-02-25T06:43:50Z",
+            "uri": "http://web.archive.org/web/20180225064350/https://www.theblaze.com/news/2018/02/09/democrats-respond-angrily-to-trump-decision-against-memo-release"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T10:20:34Z",
+                "uri": "http://web.archive.org/web/20180210102034/https://www.theblaze.com/news/2018/02/09/democrats-respond-angrily-to-trump-decision-against-memo-release/"
+            },
+            {
+                "datetime": "2018-02-10T11:43:33Z",
+                "uri": "http://web.archive.org/web/20180210114333/https://www.theblaze.com/news/2018/02/09/democrats-respond-angrily-to-trump-decision-against-memo-release"
+            },
+            {
+                "datetime": "2018-02-25T06:43:50Z",
+                "uri": "http://wayback.archive-it.org/all/20180225064350/https://www.theblaze.com/news/2018/02/09/democrats-respond-angrily-to-trump-decision-against-memo-release"
+            },
+            {
+                "datetime": "2018-02-25T06:43:50Z",
+                "uri": "http://web.archive.org/web/20180225064350/https://www.theblaze.com/news/2018/02/09/democrats-respond-angrily-to-trump-decision-against-memo-release"
+            }
+        ]
+    },
+    "original_uri": "https://www.theblaze.com/news/2018/02/09/democrats-respond-angrily-to-trump-decision-against-memo-release",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theblaze.com/news/2018/02/09/democrats-respond-angrily-to-trump-decision-against-memo-release",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theblaze.com/news/2018/02/09/democrats-respond-angrily-to-trump-decision-against-memo-release",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theblaze.com/news/2018/02/09/democrats-respond-angrily-to-trump-decision-against-memo-release",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theblaze.com/news/2018/02/09/democrats-respond-angrily-to-trump-decision-against-memo-release",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theblaze.com/news/2018/02/09/democrats-respond-angrily-to-trump-decision-against-memo-release"
+    }
+}

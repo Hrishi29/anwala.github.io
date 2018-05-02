@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T02:52:22Z",
+            "uri": "http://web.archive.org/web/20180210025222/http://thehill.com/homenews/news/373190-biden-hits-trump-on-porter-response"
+        },
+        "last": {
+            "datetime": "2018-02-18T08:48:33Z",
+            "uri": "http://web.archive.org/web/20180218084833/http://thehill.com/homenews/news/373190-biden-hits-trump-on-porter-response"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T02:52:22Z",
+                "uri": "http://web.archive.org/web/20180210025222/http://thehill.com/homenews/news/373190-biden-hits-trump-on-porter-response"
+            },
+            {
+                "datetime": "2018-02-11T08:34:13Z",
+                "uri": "http://wayback.archive-it.org/all/20180211083413/http://thehill.com/homenews/news/373190-biden-hits-trump-on-porter-response"
+            },
+            {
+                "datetime": "2018-02-11T08:34:13Z",
+                "uri": "http://web.archive.org/web/20180211083413/http://thehill.com/homenews/news/373190-biden-hits-trump-on-porter-response"
+            },
+            {
+                "datetime": "2018-02-18T08:48:33Z",
+                "uri": "http://wayback.archive-it.org/all/20180218084833/http://thehill.com/homenews/news/373190-biden-hits-trump-on-porter-response"
+            },
+            {
+                "datetime": "2018-02-18T08:48:33Z",
+                "uri": "http://web.archive.org/web/20180218084833/http://thehill.com/homenews/news/373190-biden-hits-trump-on-porter-response"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/homenews/news/373190-biden-hits-trump-on-porter-response",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/news/373190-biden-hits-trump-on-porter-response",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/homenews/news/373190-biden-hits-trump-on-porter-response",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/homenews/news/373190-biden-hits-trump-on-porter-response",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/news/373190-biden-hits-trump-on-porter-response",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/homenews/news/373190-biden-hits-trump-on-porter-response"
+    }
+}

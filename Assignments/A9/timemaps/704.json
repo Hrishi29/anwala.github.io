@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T07:10:22Z",
+            "uri": "http://wayback.archive-it.org/all/20180211071022/https://sojo.net/articles/trump-administration-may-target-immigrants-who-use-food-aid-other-benefits"
+        },
+        "last": {
+            "datetime": "2018-02-11T07:10:22Z",
+            "uri": "http://web.archive.org/web/20180211071022/https://sojo.net/articles/trump-administration-may-target-immigrants-who-use-food-aid-other-benefits"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T07:10:22Z",
+                "uri": "http://wayback.archive-it.org/all/20180211071022/https://sojo.net/articles/trump-administration-may-target-immigrants-who-use-food-aid-other-benefits"
+            },
+            {
+                "datetime": "2018-02-11T07:10:22Z",
+                "uri": "http://web.archive.org/web/20180211071022/https://sojo.net/articles/trump-administration-may-target-immigrants-who-use-food-aid-other-benefits"
+            }
+        ]
+    },
+    "original_uri": "https://sojo.net/articles/trump-administration-may-target-immigrants-who-use-food-aid-other-benefits",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://sojo.net/articles/trump-administration-may-target-immigrants-who-use-food-aid-other-benefits",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://sojo.net/articles/trump-administration-may-target-immigrants-who-use-food-aid-other-benefits",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://sojo.net/articles/trump-administration-may-target-immigrants-who-use-food-aid-other-benefits",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://sojo.net/articles/trump-administration-may-target-immigrants-who-use-food-aid-other-benefits",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://sojo.net/articles/trump-administration-may-target-immigrants-who-use-food-aid-other-benefits"
+    }
+}

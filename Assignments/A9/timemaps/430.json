@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-03-23T18:29:53Z",
+            "uri": "http://web.archive.org/web/20160323182953/http://www.foxnews.com/politics/2015/03/09/location-clinton-email-server.html"
+        },
+        "last": {
+            "datetime": "2016-12-22T08:28:26Z",
+            "uri": "http://web.archive.org/web/20161222082826/http://www.foxnews.com/politics/2015/03/09/location-clinton-email-server.html"
+        },
+        "list": [
+            {
+                "datetime": "2016-03-23T18:29:53Z",
+                "uri": "http://web.archive.org/web/20160323182953/http://www.foxnews.com/politics/2015/03/09/location-clinton-email-server.html"
+            },
+            {
+                "datetime": "2016-05-01T05:13:51Z",
+                "uri": "http://web.archive.org/web/20160501051351/http://www.foxnews.com/politics/2015/03/09/location-clinton-email-server.html"
+            },
+            {
+                "datetime": "2016-06-03T05:09:08Z",
+                "uri": "http://web.archive.org/web/20160603050908/http://www.foxnews.com/politics/2015/03/09/location-clinton-email-server.html"
+            },
+            {
+                "datetime": "2016-10-26T00:33:48Z",
+                "uri": "http://web.archive.org/web/20161026003348/http://www.foxnews.com:80/politics/2015/03/09/location-clinton-email-server.html"
+            },
+            {
+                "datetime": "2016-12-21T20:19:18Z",
+                "uri": "http://web.archive.org/web/20161221201918/http://foxnews.com/politics/2015/03/09/location-clinton-email-server.html/"
+            },
+            {
+                "datetime": "2016-12-22T07:37:39Z",
+                "uri": "http://web.archive.org/web/20161222073739/http://www.foxnews.com/politics/2015/03/09/location-clinton-email-server.html/"
+            },
+            {
+                "datetime": "2016-12-22T08:28:26Z",
+                "uri": "http://web.archive.org/web/20161222082826/http://www.foxnews.com/politics/2015/03/09/location-clinton-email-server.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.foxnews.com/politics/2015/03/09/location-clinton-email-server.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2015/03/09/location-clinton-email-server.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.foxnews.com/politics/2015/03/09/location-clinton-email-server.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.foxnews.com/politics/2015/03/09/location-clinton-email-server.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2015/03/09/location-clinton-email-server.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.foxnews.com/politics/2015/03/09/location-clinton-email-server.html"
+    }
+}

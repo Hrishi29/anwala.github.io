@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T20:34:03Z",
+            "uri": "http://web.archive.org/web/20180210203403/https://newrepublic.com/minutes/147014/trump-sympathizes-alleged-abuser-rob-porter"
+        },
+        "last": {
+            "datetime": "2018-02-15T03:22:25Z",
+            "uri": "http://web.archive.org/web/20180215032225/https://newrepublic.com/minutes/147014/trump-sympathizes-alleged-abuser-rob-porter"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T20:34:03Z",
+                "uri": "http://web.archive.org/web/20180210203403/https://newrepublic.com/minutes/147014/trump-sympathizes-alleged-abuser-rob-porter"
+            },
+            {
+                "datetime": "2018-02-11T05:16:05Z",
+                "uri": "http://wayback.archive-it.org/all/20180211051605/https://newrepublic.com/minutes/147014/trump-sympathizes-alleged-abuser-rob-porter"
+            },
+            {
+                "datetime": "2018-02-11T05:16:05Z",
+                "uri": "http://web.archive.org/web/20180211051605/https://newrepublic.com/minutes/147014/trump-sympathizes-alleged-abuser-rob-porter"
+            },
+            {
+                "datetime": "2018-02-15T03:22:25Z",
+                "uri": "http://web.archive.org/web/20180215032225/https://newrepublic.com/minutes/147014/trump-sympathizes-alleged-abuser-rob-porter"
+            }
+        ]
+    },
+    "original_uri": "https://newrepublic.com/minutes/147014/trump-sympathizes-alleged-abuser-rob-porter",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://newrepublic.com/minutes/147014/trump-sympathizes-alleged-abuser-rob-porter",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://newrepublic.com/minutes/147014/trump-sympathizes-alleged-abuser-rob-porter",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://newrepublic.com/minutes/147014/trump-sympathizes-alleged-abuser-rob-porter",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://newrepublic.com/minutes/147014/trump-sympathizes-alleged-abuser-rob-porter",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://newrepublic.com/minutes/147014/trump-sympathizes-alleged-abuser-rob-porter"
+    }
+}

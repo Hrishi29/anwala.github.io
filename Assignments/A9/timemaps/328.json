@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T05:03:47Z",
+            "uri": "http://web.archive.org/web/20180210050347/http://www.times-news.com/cnhi_network/trump-expresses-sympathy-for-ex-aide-doesn-t-mention-his/article_b6b60eb6-2f0d-5ad0-a1b0-5d8e92509e47.html"
+        },
+        "last": {
+            "datetime": "2018-02-10T05:03:47Z",
+            "uri": "http://web.archive.org/web/20180210050347/http://www.times-news.com/cnhi_network/trump-expresses-sympathy-for-ex-aide-doesn-t-mention-his/article_b6b60eb6-2f0d-5ad0-a1b0-5d8e92509e47.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T05:03:47Z",
+                "uri": "http://web.archive.org/web/20180210050347/http://www.times-news.com/cnhi_network/trump-expresses-sympathy-for-ex-aide-doesn-t-mention-his/article_b6b60eb6-2f0d-5ad0-a1b0-5d8e92509e47.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.times-news.com/cnhi_network/trump-expresses-sympathy-for-ex-aide-doesn-t-mention-his/article_b6b60eb6-2f0d-5ad0-a1b0-5d8e92509e47.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.times-news.com/cnhi_network/trump-expresses-sympathy-for-ex-aide-doesn-t-mention-his/article_b6b60eb6-2f0d-5ad0-a1b0-5d8e92509e47.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.times-news.com/cnhi_network/trump-expresses-sympathy-for-ex-aide-doesn-t-mention-his/article_b6b60eb6-2f0d-5ad0-a1b0-5d8e92509e47.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.times-news.com/cnhi_network/trump-expresses-sympathy-for-ex-aide-doesn-t-mention-his/article_b6b60eb6-2f0d-5ad0-a1b0-5d8e92509e47.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.times-news.com/cnhi_network/trump-expresses-sympathy-for-ex-aide-doesn-t-mention-his/article_b6b60eb6-2f0d-5ad0-a1b0-5d8e92509e47.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.times-news.com/cnhi_network/trump-expresses-sympathy-for-ex-aide-doesn-t-mention-his/article_b6b60eb6-2f0d-5ad0-a1b0-5d8e92509e47.html"
+    }
+}

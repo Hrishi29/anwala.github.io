@@ -1,0 +1,58 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T15:03:33Z",
+            "uri": "http://web.archive.org/web/20180210150333/http://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/"
+        },
+        "last": {
+            "datetime": "2018-04-27T14:42:45Z",
+            "uri": "http://web.archive.org/web/20180427144245/https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T15:03:33Z",
+                "uri": "http://web.archive.org/web/20180210150333/http://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/"
+            },
+            {
+                "datetime": "2018-02-10T18:50:33Z",
+                "uri": "http://web.archive.org/web/20180210185033/https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/"
+            },
+            {
+                "datetime": "2018-02-11T06:48:21Z",
+                "uri": "http://wayback.archive-it.org/all/20180211064821/https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/"
+            },
+            {
+                "datetime": "2018-02-11T06:48:21Z",
+                "uri": "http://web.archive.org/web/20180211064821/https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/"
+            },
+            {
+                "datetime": "2018-03-23T09:24:32Z",
+                "uri": "http://web.archive.org/web/20180323092432/https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/"
+            },
+            {
+                "datetime": "2018-03-30T20:06:18Z",
+                "uri": "http://web.archive.org/web/20180330200618/https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/"
+            },
+            {
+                "datetime": "2018-04-06T14:46:40Z",
+                "uri": "http://web.archive.org/web/20180406144640/https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/"
+            },
+            {
+                "datetime": "2018-04-20T16:51:41Z",
+                "uri": "http://web.archive.org/web/20180420165141/https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/"
+            },
+            {
+                "datetime": "2018-04-27T14:42:45Z",
+                "uri": "http://web.archive.org/web/20180427144245/https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/"
+            }
+        ]
+    },
+    "original_uri": "https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://shareblue.com/intel-experts-trumps-fixation-on-twitter-and-fox-threatens-national-security/"
+    }
+}

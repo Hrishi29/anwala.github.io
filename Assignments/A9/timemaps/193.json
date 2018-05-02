@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-13T17:12:33Z",
+            "uri": "http://web.archive.org/web/20180213171233/http://defencereport.com/russian-military-acknowledged-trump-acts-interest/"
+        },
+        "last": {
+            "datetime": "2018-02-13T17:12:33Z",
+            "uri": "http://web.archive.org/web/20180213171233/http://defencereport.com/russian-military-acknowledged-trump-acts-interest/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-13T17:12:33Z",
+                "uri": "http://web.archive.org/web/20180213171233/http://defencereport.com/russian-military-acknowledged-trump-acts-interest/"
+            }
+        ]
+    },
+    "original_uri": "http://defencereport.com/russian-military-acknowledged-trump-acts-interest/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://defencereport.com/russian-military-acknowledged-trump-acts-interest/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://defencereport.com/russian-military-acknowledged-trump-acts-interest/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://defencereport.com/russian-military-acknowledged-trump-acts-interest/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://defencereport.com/russian-military-acknowledged-trump-acts-interest/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://defencereport.com/russian-military-acknowledged-trump-acts-interest/"
+    }
+}

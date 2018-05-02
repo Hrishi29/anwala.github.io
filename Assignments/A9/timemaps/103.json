@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T05:13:10Z",
+            "uri": "http://wayback.archive-it.org/all/20180211051310/https://www.teenvogue.com/story/bts-dna-2018-winter-olympics"
+        },
+        "last": {
+            "datetime": "2018-04-28T21:28:37Z",
+            "uri": "http://web.archive.org/web/20180428212837/http://www.teenvogue.com/story/bts-dna-2018-winter-olympics"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T05:13:10Z",
+                "uri": "http://wayback.archive-it.org/all/20180211051310/https://www.teenvogue.com/story/bts-dna-2018-winter-olympics"
+            },
+            {
+                "datetime": "2018-02-11T05:13:10Z",
+                "uri": "http://web.archive.org/web/20180211051310/https://www.teenvogue.com/story/bts-dna-2018-winter-olympics"
+            },
+            {
+                "datetime": "2018-03-24T15:48:21Z",
+                "uri": "http://web.archive.org/web/20180324154821/http://www.teenvogue.com/story/bts-dna-2018-winter-olympics"
+            },
+            {
+                "datetime": "2018-04-07T21:41:07Z",
+                "uri": "http://web.archive.org/web/20180407214107/http://www.teenvogue.com/story/bts-dna-2018-winter-olympics"
+            },
+            {
+                "datetime": "2018-04-21T23:52:24Z",
+                "uri": "http://web.archive.org/web/20180421235224/http://www.teenvogue.com/story/bts-dna-2018-winter-olympics"
+            },
+            {
+                "datetime": "2018-04-28T21:28:37Z",
+                "uri": "http://web.archive.org/web/20180428212837/http://www.teenvogue.com/story/bts-dna-2018-winter-olympics"
+            }
+        ]
+    },
+    "original_uri": "https://www.teenvogue.com/story/bts-dna-2018-winter-olympics",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.teenvogue.com/story/bts-dna-2018-winter-olympics",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.teenvogue.com/story/bts-dna-2018-winter-olympics",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.teenvogue.com/story/bts-dna-2018-winter-olympics",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.teenvogue.com/story/bts-dna-2018-winter-olympics",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.teenvogue.com/story/bts-dna-2018-winter-olympics"
+    }
+}

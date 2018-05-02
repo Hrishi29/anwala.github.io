@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-10-04T00:58:30Z",
+            "uri": "http://web.archive.org/web/20171004005830/https://www.redbubble.com/people/duckdrumpfmerch/works/27507615-fuck-trump?asc=u&p=long-t-shirt&rel=carousel"
+        },
+        "last": {
+            "datetime": "2017-11-10T18:13:12Z",
+            "uri": "http://web.archive.org/web/20171110181312/https://www.redbubble.com/people/duckdrumpfmerch/works/27507615-fuck-trump?asc=u&p=long-t-shirt&rel=carousel"
+        },
+        "list": [
+            {
+                "datetime": "2017-10-04T00:58:30Z",
+                "uri": "http://web.archive.org/web/20171004005830/https://www.redbubble.com/people/duckdrumpfmerch/works/27507615-fuck-trump?asc=u&p=long-t-shirt&rel=carousel"
+            },
+            {
+                "datetime": "2017-11-10T18:13:12Z",
+                "uri": "http://web.archive.org/web/20171110181312/https://www.redbubble.com/people/duckdrumpfmerch/works/27507615-fuck-trump?asc=u&p=long-t-shirt&rel=carousel"
+            }
+        ]
+    },
+    "original_uri": "https://www.redbubble.com/people/duckdrumpfmerch/works/27507615-fuck-trump?asc=u&p=long-t-shirt&rel=carousel",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.redbubble.com/people/duckdrumpfmerch/works/27507615-fuck-trump?asc=u&p=long-t-shirt&rel=carousel",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.redbubble.com/people/duckdrumpfmerch/works/27507615-fuck-trump?asc=u&p=long-t-shirt&rel=carousel",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.redbubble.com/people/duckdrumpfmerch/works/27507615-fuck-trump?asc=u&p=long-t-shirt&rel=carousel",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.redbubble.com/people/duckdrumpfmerch/works/27507615-fuck-trump?asc=u&p=long-t-shirt&rel=carousel",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.redbubble.com/people/duckdrumpfmerch/works/27507615-fuck-trump?asc=u&p=long-t-shirt&rel=carousel"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T17:03:55Z",
+            "uri": "http://web.archive.org/web/20180209170355/https://nypost.com/2018/02/09/lawmaker-accused-of-using-taxpayer-money-for-sex-with-escort/amp/"
+        },
+        "last": {
+            "datetime": "2018-02-24T00:06:26Z",
+            "uri": "http://web.archive.org/web/20180224000626/https://nypost.com/2018/02/09/lawmaker-accused-of-using-taxpayer-money-for-sex-with-escort/amp/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T17:03:55Z",
+                "uri": "http://web.archive.org/web/20180209170355/https://nypost.com/2018/02/09/lawmaker-accused-of-using-taxpayer-money-for-sex-with-escort/amp/"
+            },
+            {
+                "datetime": "2018-02-24T00:06:26Z",
+                "uri": "http://web.archive.org/web/20180224000626/https://nypost.com/2018/02/09/lawmaker-accused-of-using-taxpayer-money-for-sex-with-escort/amp/"
+            }
+        ]
+    },
+    "original_uri": "https://nypost.com/2018/02/09/lawmaker-accused-of-using-taxpayer-money-for-sex-with-escort/amp/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://nypost.com/2018/02/09/lawmaker-accused-of-using-taxpayer-money-for-sex-with-escort/amp/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://nypost.com/2018/02/09/lawmaker-accused-of-using-taxpayer-money-for-sex-with-escort/amp/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://nypost.com/2018/02/09/lawmaker-accused-of-using-taxpayer-money-for-sex-with-escort/amp/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://nypost.com/2018/02/09/lawmaker-accused-of-using-taxpayer-money-for-sex-with-escort/amp/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://nypost.com/2018/02/09/lawmaker-accused-of-using-taxpayer-money-for-sex-with-escort/amp/"
+    }
+}

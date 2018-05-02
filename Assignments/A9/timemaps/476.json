@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-24T00:07:27Z",
+            "uri": "http://web.archive.org/web/20180224000727/http://insider.foxnews.com/2018/02/08/lindsey-graham-fbi-doj-conduct-garbage-trump-dossier-chilling"
+        },
+        "last": {
+            "datetime": "2018-02-24T00:07:27Z",
+            "uri": "http://web.archive.org/web/20180224000727/http://insider.foxnews.com/2018/02/08/lindsey-graham-fbi-doj-conduct-garbage-trump-dossier-chilling"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-24T00:07:27Z",
+                "uri": "http://web.archive.org/web/20180224000727/http://insider.foxnews.com/2018/02/08/lindsey-graham-fbi-doj-conduct-garbage-trump-dossier-chilling"
+            }
+        ]
+    },
+    "original_uri": "http://insider.foxnews.com/2018/02/08/lindsey-graham-fbi-doj-conduct-garbage-trump-dossier-chilling",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://insider.foxnews.com/2018/02/08/lindsey-graham-fbi-doj-conduct-garbage-trump-dossier-chilling",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://insider.foxnews.com/2018/02/08/lindsey-graham-fbi-doj-conduct-garbage-trump-dossier-chilling",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://insider.foxnews.com/2018/02/08/lindsey-graham-fbi-doj-conduct-garbage-trump-dossier-chilling",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://insider.foxnews.com/2018/02/08/lindsey-graham-fbi-doj-conduct-garbage-trump-dossier-chilling",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://insider.foxnews.com/2018/02/08/lindsey-graham-fbi-doj-conduct-garbage-trump-dossier-chilling"
+    }
+}

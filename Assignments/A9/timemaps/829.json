@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T05:11:15Z",
+            "uri": "http://web.archive.org/web/20180211051115/http://ftw.usatoday.com/2018/02/2018-winter-olympics-opening-ceremony-intruder-slides-down-ramp"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:11:15Z",
+            "uri": "http://wayback.archive-it.org/all/20180211051115/http://ftw.usatoday.com/2018/02/2018-winter-olympics-opening-ceremony-intruder-slides-down-ramp"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T05:11:15Z",
+                "uri": "http://web.archive.org/web/20180211051115/http://ftw.usatoday.com/2018/02/2018-winter-olympics-opening-ceremony-intruder-slides-down-ramp"
+            },
+            {
+                "datetime": "2018-02-11T05:11:15Z",
+                "uri": "http://wayback.archive-it.org/all/20180211051115/http://ftw.usatoday.com/2018/02/2018-winter-olympics-opening-ceremony-intruder-slides-down-ramp"
+            }
+        ]
+    },
+    "original_uri": "http://ftw.usatoday.com/2018/02/2018-winter-olympics-opening-ceremony-intruder-slides-down-ramp",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://ftw.usatoday.com/2018/02/2018-winter-olympics-opening-ceremony-intruder-slides-down-ramp",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://ftw.usatoday.com/2018/02/2018-winter-olympics-opening-ceremony-intruder-slides-down-ramp",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://ftw.usatoday.com/2018/02/2018-winter-olympics-opening-ceremony-intruder-slides-down-ramp",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://ftw.usatoday.com/2018/02/2018-winter-olympics-opening-ceremony-intruder-slides-down-ramp",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://ftw.usatoday.com/2018/02/2018-winter-olympics-opening-ceremony-intruder-slides-down-ramp"
+    }
+}

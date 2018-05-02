@@ -1,0 +1,566 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T20:35:18Z",
+            "uri": "http://web.archive.org/web/20180209203518/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+        },
+        "last": {
+            "datetime": "2018-04-21T21:12:01Z",
+            "uri": "http://web.archive.org/web/20180421211201/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T20:35:18Z",
+                "uri": "http://web.archive.org/web/20180209203518/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-09T20:35:18Z",
+                "uri": "http://web.archive.org/web/20180209203518/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-09T20:38:40Z",
+                "uri": "http://web.archive.org/web/20180209203840/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-09T20:39:31Z",
+                "uri": "http://archive.is/20180209203931/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-09T22:38:31Z",
+                "uri": "http://web.archive.org/web/20180209223831/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-10T00:07:51Z",
+                "uri": "http://web.archive.org/web/20180210000751/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-10T03:17:04Z",
+                "uri": "http://web.archive.org/web/20180210031704/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-10T10:16:02Z",
+                "uri": "http://web.archive.org/web/20180210101602/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-10T12:17:33Z",
+                "uri": "http://web.archive.org/web/20180210121733/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-10T18:45:21Z",
+                "uri": "http://web.archive.org/web/20180210184521/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-10T18:53:18Z",
+                "uri": "http://web.archive.org/web/20180210185318/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-10T20:20:49Z",
+                "uri": "http://web.archive.org/web/20180210202049/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-10T23:50:13Z",
+                "uri": "http://web.archive.org/web/20180210235013/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-11T18:03:53Z",
+                "uri": "http://web.archive.org/web/20180211180353/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-11T19:11:41Z",
+                "uri": "http://web.archive.org/web/20180211191141/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-12T01:07:47Z",
+                "uri": "http://web.archive.org/web/20180212010747/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-12T10:11:27Z",
+                "uri": "http://web.archive.org/web/20180212101127/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-12T19:52:13Z",
+                "uri": "http://web.archive.org/web/20180212195213/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-12T20:54:05Z",
+                "uri": "http://web.archive.org/web/20180212205405/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-12T23:58:31Z",
+                "uri": "http://web.archive.org/web/20180212235831/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-13T01:38:11Z",
+                "uri": "http://web.archive.org/web/20180213013811/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-13T05:22:26Z",
+                "uri": "http://web.archive.org/web/20180213052226/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-13T22:51:49Z",
+                "uri": "http://web.archive.org/web/20180213225149/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-14T02:50:26Z",
+                "uri": "http://web.archive.org/web/20180214025026/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-14T02:50:39Z",
+                "uri": "http://web.archive.org/web/20180214025039/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-14T03:43:28Z",
+                "uri": "http://web.archive.org/web/20180214034328/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-14T05:52:29Z",
+                "uri": "http://web.archive.org/web/20180214055229/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-14T05:52:42Z",
+                "uri": "http://web.archive.org/web/20180214055242/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-15T00:20:45Z",
+                "uri": "http://web.archive.org/web/20180215002045/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-15T02:05:08Z",
+                "uri": "http://web.archive.org/web/20180215020508/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-15T02:09:12Z",
+                "uri": "http://web.archive.org/web/20180215020912/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-15T02:16:09Z",
+                "uri": "http://web.archive.org/web/20180215021609/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-15T02:52:28Z",
+                "uri": "http://web.archive.org/web/20180215025228/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-15T02:52:37Z",
+                "uri": "http://web.archive.org/web/20180215025237/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-15T08:59:05Z",
+                "uri": "http://web.archive.org/web/20180215085905/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-16T02:53:40Z",
+                "uri": "http://web.archive.org/web/20180216025340/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-16T03:42:32Z",
+                "uri": "http://web.archive.org/web/20180216034232/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-16T05:53:51Z",
+                "uri": "http://web.archive.org/web/20180216055351/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-16T06:14:17Z",
+                "uri": "http://web.archive.org/web/20180216061417/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-16T09:48:16Z",
+                "uri": "http://web.archive.org/web/20180216094816/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-17T04:00:56Z",
+                "uri": "http://web.archive.org/web/20180217040056/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-17T04:01:01Z",
+                "uri": "http://web.archive.org/web/20180217040101/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-17T07:09:45Z",
+                "uri": "http://web.archive.org/web/20180217070945/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-17T07:09:57Z",
+                "uri": "http://web.archive.org/web/20180217070957/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-17T11:57:52Z",
+                "uri": "http://web.archive.org/web/20180217115752/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-18T12:05:45Z",
+                "uri": "http://web.archive.org/web/20180218120545/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-18T12:05:56Z",
+                "uri": "http://web.archive.org/web/20180218120556/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-18T12:32:41Z",
+                "uri": "http://web.archive.org/web/20180218123241/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-18T12:32:51Z",
+                "uri": "http://web.archive.org/web/20180218123251/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-18T13:32:03Z",
+                "uri": "http://web.archive.org/web/20180218133203/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-19T10:12:16Z",
+                "uri": "http://web.archive.org/web/20180219101216/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-19T10:12:30Z",
+                "uri": "http://web.archive.org/web/20180219101230/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-19T12:56:08Z",
+                "uri": "http://web.archive.org/web/20180219125608/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-19T12:56:19Z",
+                "uri": "http://web.archive.org/web/20180219125619/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-19T20:25:19Z",
+                "uri": "http://web.archive.org/web/20180219202519/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-19T22:56:40Z",
+                "uri": "http://web.archive.org/web/20180219225640/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-19T22:56:54Z",
+                "uri": "http://web.archive.org/web/20180219225654/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-20T11:46:05Z",
+                "uri": "http://web.archive.org/web/20180220114605/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-20T11:46:18Z",
+                "uri": "http://web.archive.org/web/20180220114618/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-20T17:09:06Z",
+                "uri": "http://web.archive.org/web/20180220170906/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-20T17:09:17Z",
+                "uri": "http://web.archive.org/web/20180220170917/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-20T21:52:59Z",
+                "uri": "http://web.archive.org/web/20180220215259/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-21T03:08:38Z",
+                "uri": "http://web.archive.org/web/20180221030838/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-21T03:11:45Z",
+                "uri": "http://web.archive.org/web/20180221031145/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-21T03:11:54Z",
+                "uri": "http://web.archive.org/web/20180221031154/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-21T09:53:53Z",
+                "uri": "http://web.archive.org/web/20180221095353/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-21T09:54:04Z",
+                "uri": "http://web.archive.org/web/20180221095404/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-22T00:11:59Z",
+                "uri": "http://web.archive.org/web/20180222001159/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-22T00:12:06Z",
+                "uri": "http://web.archive.org/web/20180222001206/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-22T03:30:01Z",
+                "uri": "http://web.archive.org/web/20180222033001/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-22T10:06:07Z",
+                "uri": "http://web.archive.org/web/20180222100607/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-22T10:06:15Z",
+                "uri": "http://web.archive.org/web/20180222100615/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-22T11:38:24Z",
+                "uri": "http://web.archive.org/web/20180222113824/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-22T18:37:23Z",
+                "uri": "http://web.archive.org/web/20180222183723/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-22T18:37:28Z",
+                "uri": "http://web.archive.org/web/20180222183728/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-23T05:04:44Z",
+                "uri": "http://web.archive.org/web/20180223050444/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-23T06:19:23Z",
+                "uri": "http://web.archive.org/web/20180223061923/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-23T06:19:29Z",
+                "uri": "http://web.archive.org/web/20180223061929/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-23T06:30:42Z",
+                "uri": "http://web.archive.org/web/20180223063042/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-23T06:31:00Z",
+                "uri": "http://web.archive.org/web/20180223063100/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-23T18:45:34Z",
+                "uri": "http://web.archive.org/web/20180223184534/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-23T18:45:44Z",
+                "uri": "http://web.archive.org/web/20180223184544/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-23T22:58:49Z",
+                "uri": "http://web.archive.org/web/20180223225849/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-23T22:58:56Z",
+                "uri": "http://web.archive.org/web/20180223225856/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-24T06:53:21Z",
+                "uri": "http://web.archive.org/web/20180224065321/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-24T13:03:15Z",
+                "uri": "http://web.archive.org/web/20180224130315/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-24T13:03:26Z",
+                "uri": "http://web.archive.org/web/20180224130326/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-24T20:43:31Z",
+                "uri": "http://web.archive.org/web/20180224204331/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-24T20:43:40Z",
+                "uri": "http://web.archive.org/web/20180224204340/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-25T01:14:47Z",
+                "uri": "http://web.archive.org/web/20180225011447/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-25T01:15:09Z",
+                "uri": "http://web.archive.org/web/20180225011509/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-25T07:37:49Z",
+                "uri": "http://web.archive.org/web/20180225073749/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-25T10:36:36Z",
+                "uri": "http://web.archive.org/web/20180225103636/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-25T10:36:47Z",
+                "uri": "http://web.archive.org/web/20180225103647/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-26T01:24:57Z",
+                "uri": "http://web.archive.org/web/20180226012457/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-26T01:25:12Z",
+                "uri": "http://web.archive.org/web/20180226012512/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-26T09:05:38Z",
+                "uri": "http://web.archive.org/web/20180226090538/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-26T15:06:07Z",
+                "uri": "http://web.archive.org/web/20180226150607/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-26T15:06:15Z",
+                "uri": "http://web.archive.org/web/20180226150615/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-26T17:36:52Z",
+                "uri": "http://web.archive.org/web/20180226173652/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-26T17:37:22Z",
+                "uri": "http://web.archive.org/web/20180226173722/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-27T08:43:21Z",
+                "uri": "http://web.archive.org/web/20180227084321/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-27T09:32:31Z",
+                "uri": "http://web.archive.org/web/20180227093231/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-27T10:55:23Z",
+                "uri": "http://web.archive.org/web/20180227105523/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-27T10:56:13Z",
+                "uri": "http://web.archive.org/web/20180227105613/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-27T11:46:11Z",
+                "uri": "http://web.archive.org/web/20180227114611/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-28T00:03:25Z",
+                "uri": "http://web.archive.org/web/20180228000325/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-28T00:03:42Z",
+                "uri": "http://web.archive.org/web/20180228000342/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-28T04:09:39Z",
+                "uri": "http://web.archive.org/web/20180228040939/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-28T04:09:50Z",
+                "uri": "http://web.archive.org/web/20180228040950/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-28T07:16:45Z",
+                "uri": "http://web.archive.org/web/20180228071645/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-02-28T07:16:46Z",
+                "uri": "http://web.archive.org/web/20180228071646/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-01T09:16:00Z",
+                "uri": "http://web.archive.org/web/20180301091600/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-01T09:16:10Z",
+                "uri": "http://web.archive.org/web/20180301091610/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-01T13:35:53Z",
+                "uri": "http://web.archive.org/web/20180301133553/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-01T13:38:01Z",
+                "uri": "http://web.archive.org/web/20180301133801/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-05T14:52:17Z",
+                "uri": "http://web.archive.org/web/20180305145217/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-08T10:40:29Z",
+                "uri": "http://web.archive.org/web/20180308104029/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-08T10:40:40Z",
+                "uri": "http://web.archive.org/web/20180308104040/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-08T16:03:10Z",
+                "uri": "http://web.archive.org/web/20180308160310/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-08T16:03:19Z",
+                "uri": "http://web.archive.org/web/20180308160319/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-09T08:38:36Z",
+                "uri": "http://web.archive.org/web/20180309083836/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-09T08:38:53Z",
+                "uri": "http://web.archive.org/web/20180309083853/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-11T04:08:12Z",
+                "uri": "http://web.archive.org/web/20180311040812/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-14T03:45:03Z",
+                "uri": "http://web.archive.org/web/20180314034503/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-14T03:45:32Z",
+                "uri": "http://web.archive.org/web/20180314034532/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-14T13:43:45Z",
+                "uri": "http://web.archive.org/web/20180314134345/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-14T13:45:23Z",
+                "uri": "http://web.archive.org/web/20180314134523/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-15T03:30:15Z",
+                "uri": "http://web.archive.org/web/20180315033015/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-15T03:30:26Z",
+                "uri": "http://web.archive.org/web/20180315033026/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-15T03:38:22Z",
+                "uri": "http://web.archive.org/web/20180315033822/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-03-15T03:40:26Z",
+                "uri": "http://web.archive.org/web/20180315034026/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-04-02T06:34:46Z",
+                "uri": "http://web.archive.org/web/20180402063446/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-04-05T09:18:09Z",
+                "uri": "http://web.archive.org/web/20180405091809/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-04-05T09:18:46Z",
+                "uri": "http://web.archive.org/web/20180405091846/http://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            },
+            {
+                "datetime": "2018-04-21T21:12:01Z",
+                "uri": "http://web.archive.org/web/20180421211201/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+            }
+        ]
+    },
+    "original_uri": "https://www.wsj.com/articles/the-trump-spending-binge-1518208134",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.wsj.com/articles/the-trump-spending-binge-1518208134",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.wsj.com/articles/the-trump-spending-binge-1518208134",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.wsj.com/articles/the-trump-spending-binge-1518208134",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.wsj.com/articles/the-trump-spending-binge-1518208134",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.wsj.com/articles/the-trump-spending-binge-1518208134"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T18:54:21Z",
+            "uri": "http://web.archive.org/web/20180209185421/http://www.washingtonexaminer.com/new-york-times-photographer-trump-gives-us-more-access-than-obama/article/2648647"
+        },
+        "last": {
+            "datetime": "2018-02-17T17:42:53Z",
+            "uri": "http://web.archive.org/web/20180217174253/http://www.washingtonexaminer.com/new-york-times-photographer-trump-gives-us-more-access-than-obama/article/2648647"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T18:54:21Z",
+                "uri": "http://web.archive.org/web/20180209185421/http://www.washingtonexaminer.com/new-york-times-photographer-trump-gives-us-more-access-than-obama/article/2648647"
+            },
+            {
+                "datetime": "2018-02-09T23:01:12Z",
+                "uri": "http://archive.is/20180209230112/http://www.washingtonexaminer.com/new-york-times-photographer-trump-gives-us-more-access-than-obama/article/2648647"
+            },
+            {
+                "datetime": "2018-02-10T06:28:03Z",
+                "uri": "http://web.archive.org/web/20180210062803/http://www.washingtonexaminer.com/new-york-times-photographer-trump-gives-us-more-access-than-obama/article/2648647"
+            },
+            {
+                "datetime": "2018-02-10T06:57:50Z",
+                "uri": "http://web.archive.org/web/20180210065750/http://www.washingtonexaminer.com/new-york-times-photographer-trump-gives-us-more-access-than-obama/article/2648647"
+            },
+            {
+                "datetime": "2018-02-11T06:54:45Z",
+                "uri": "http://wayback.archive-it.org/all/20180211065445/http://www.washingtonexaminer.com/new-york-times-photographer-trump-gives-us-more-access-than-obama/article/2648647"
+            },
+            {
+                "datetime": "2018-02-11T06:54:45Z",
+                "uri": "http://web.archive.org/web/20180211065445/http://www.washingtonexaminer.com/new-york-times-photographer-trump-gives-us-more-access-than-obama/article/2648647"
+            },
+            {
+                "datetime": "2018-02-17T17:42:53Z",
+                "uri": "http://web.archive.org/web/20180217174253/http://www.washingtonexaminer.com/new-york-times-photographer-trump-gives-us-more-access-than-obama/article/2648647"
+            }
+        ]
+    },
+    "original_uri": "http://www.washingtonexaminer.com/new-york-times-photographer-trump-gives-us-more-access-than-obama/article/2648647",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.washingtonexaminer.com/new-york-times-photographer-trump-gives-us-more-access-than-obama/article/2648647",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.washingtonexaminer.com/new-york-times-photographer-trump-gives-us-more-access-than-obama/article/2648647",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.washingtonexaminer.com/new-york-times-photographer-trump-gives-us-more-access-than-obama/article/2648647",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.washingtonexaminer.com/new-york-times-photographer-trump-gives-us-more-access-than-obama/article/2648647",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.washingtonexaminer.com/new-york-times-photographer-trump-gives-us-more-access-than-obama/article/2648647"
+    }
+}

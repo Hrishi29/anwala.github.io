@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-03-03T03:29:00Z",
+            "uri": "http://web.archive.org/web/20180303032900/http://nymag.com/daily/intelligencer/2018/02/trumps-hair-illusion-came-undone-and-we-all-missed-it.html?utm_source=tw&utm_medium=s3&utm_campaign=sharebutton-t"
+        },
+        "last": {
+            "datetime": "2018-03-11T14:23:19Z",
+            "uri": "http://web.archive.org/web/20180311142319/http://nymag.com/daily/intelligencer/2018/02/trumps-hair-illusion-came-undone-and-we-all-missed-it.html?utm_source=tw&utm_medium=s3&utm_campaign=sharebutton-t"
+        },
+        "list": [
+            {
+                "datetime": "2018-03-03T03:29:00Z",
+                "uri": "http://web.archive.org/web/20180303032900/http://nymag.com/daily/intelligencer/2018/02/trumps-hair-illusion-came-undone-and-we-all-missed-it.html?utm_source=tw&utm_medium=s3&utm_campaign=sharebutton-t"
+            },
+            {
+                "datetime": "2018-03-08T01:36:04Z",
+                "uri": "http://web.archive.org/web/20180308013604/http://nymag.com/daily/intelligencer/2018/02/trumps-hair-illusion-came-undone-and-we-all-missed-it.html?utm_source=tw&utm_medium=s3&utm_campaign=sharebutton-t"
+            },
+            {
+                "datetime": "2018-03-09T17:54:27Z",
+                "uri": "http://web.archive.org/web/20180309175427/http://nymag.com/daily/intelligencer/2018/02/trumps-hair-illusion-came-undone-and-we-all-missed-it.html?utm_source=tw&utm_medium=s3&utm_campaign=sharebutton-t"
+            },
+            {
+                "datetime": "2018-03-11T14:23:19Z",
+                "uri": "http://web.archive.org/web/20180311142319/http://nymag.com/daily/intelligencer/2018/02/trumps-hair-illusion-came-undone-and-we-all-missed-it.html?utm_source=tw&utm_medium=s3&utm_campaign=sharebutton-t"
+            }
+        ]
+    },
+    "original_uri": "http://nymag.com/daily/intelligencer/2018/02/trumps-hair-illusion-came-undone-and-we-all-missed-it.html?utm_source=tw&utm_medium=s3&utm_campaign=sharebutton-t",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://nymag.com/daily/intelligencer/2018/02/trumps-hair-illusion-came-undone-and-we-all-missed-it.html?utm_source=tw&utm_medium=s3&utm_campaign=sharebutton-t",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://nymag.com/daily/intelligencer/2018/02/trumps-hair-illusion-came-undone-and-we-all-missed-it.html?utm_source=tw&utm_medium=s3&utm_campaign=sharebutton-t",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://nymag.com/daily/intelligencer/2018/02/trumps-hair-illusion-came-undone-and-we-all-missed-it.html?utm_source=tw&utm_medium=s3&utm_campaign=sharebutton-t",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://nymag.com/daily/intelligencer/2018/02/trumps-hair-illusion-came-undone-and-we-all-missed-it.html?utm_source=tw&utm_medium=s3&utm_campaign=sharebutton-t",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://nymag.com/daily/intelligencer/2018/02/trumps-hair-illusion-came-undone-and-we-all-missed-it.html?utm_source=tw&utm_medium=s3&utm_campaign=sharebutton-t"
+    }
+}

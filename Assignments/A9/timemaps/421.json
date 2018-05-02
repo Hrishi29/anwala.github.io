@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T02:52:32Z",
+            "uri": "http://web.archive.org/web/20180210025232/http://thehill.com/policy/defense/373184-pacific-command-chief-nominated-for-australia-ambassador"
+        },
+        "last": {
+            "datetime": "2018-02-10T02:52:32Z",
+            "uri": "http://web.archive.org/web/20180210025232/http://thehill.com/policy/defense/373184-pacific-command-chief-nominated-for-australia-ambassador"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T02:52:32Z",
+                "uri": "http://web.archive.org/web/20180210025232/http://thehill.com/policy/defense/373184-pacific-command-chief-nominated-for-australia-ambassador"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/policy/defense/373184-pacific-command-chief-nominated-for-australia-ambassador",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/policy/defense/373184-pacific-command-chief-nominated-for-australia-ambassador",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/policy/defense/373184-pacific-command-chief-nominated-for-australia-ambassador",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/policy/defense/373184-pacific-command-chief-nominated-for-australia-ambassador",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/policy/defense/373184-pacific-command-chief-nominated-for-australia-ambassador",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/policy/defense/373184-pacific-command-chief-nominated-for-australia-ambassador"
+    }
+}

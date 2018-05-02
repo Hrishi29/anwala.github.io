@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-20T12:56:16Z",
+            "uri": "http://web.archive.org/web/20180220125616/http://hollywoodlife.com/2018/02/08/who-is-exo-kpop-band-performing-winter-olympics/"
+        },
+        "last": {
+            "datetime": "2018-04-06T10:19:56Z",
+            "uri": "http://web.archive.org/web/20180406101956/https://hollywoodlife.com/2018/02/08/who-is-exo-kpop-band-performing-winter-olympics/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-20T12:56:16Z",
+                "uri": "http://web.archive.org/web/20180220125616/http://hollywoodlife.com/2018/02/08/who-is-exo-kpop-band-performing-winter-olympics/"
+            },
+            {
+                "datetime": "2018-04-06T10:19:56Z",
+                "uri": "http://web.archive.org/web/20180406101956/https://hollywoodlife.com/2018/02/08/who-is-exo-kpop-band-performing-winter-olympics/"
+            }
+        ]
+    },
+    "original_uri": "http://hollywoodlife.com/2018/02/08/who-is-exo-kpop-band-performing-winter-olympics/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://hollywoodlife.com/2018/02/08/who-is-exo-kpop-band-performing-winter-olympics/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://hollywoodlife.com/2018/02/08/who-is-exo-kpop-band-performing-winter-olympics/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://hollywoodlife.com/2018/02/08/who-is-exo-kpop-band-performing-winter-olympics/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://hollywoodlife.com/2018/02/08/who-is-exo-kpop-band-performing-winter-olympics/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://hollywoodlife.com/2018/02/08/who-is-exo-kpop-band-performing-winter-olympics/"
+    }
+}

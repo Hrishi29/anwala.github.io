@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T21:45:44Z",
+            "uri": "http://archive.is/20180209214544/https://nypost.com/2018/02/09/trump-signs-sweeping-two-year-budget-deal/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons"
+        },
+        "last": {
+            "datetime": "2018-02-09T21:45:44Z",
+            "uri": "http://archive.is/20180209214544/https://nypost.com/2018/02/09/trump-signs-sweeping-two-year-budget-deal/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T21:45:44Z",
+                "uri": "http://archive.is/20180209214544/https://nypost.com/2018/02/09/trump-signs-sweeping-two-year-budget-deal/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons"
+            }
+        ]
+    },
+    "original_uri": "https://nypost.com/2018/02/09/trump-signs-sweeping-two-year-budget-deal/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://nypost.com/2018/02/09/trump-signs-sweeping-two-year-budget-deal/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://nypost.com/2018/02/09/trump-signs-sweeping-two-year-budget-deal/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://nypost.com/2018/02/09/trump-signs-sweeping-two-year-budget-deal/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://nypost.com/2018/02/09/trump-signs-sweeping-two-year-budget-deal/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://nypost.com/2018/02/09/trump-signs-sweeping-two-year-budget-deal/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons"
+    }
+}

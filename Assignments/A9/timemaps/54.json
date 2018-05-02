@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-21T23:49:51Z",
+            "uri": "http://web.archive.org/web/20180221234951/http://thehill.com/blogs/blog-briefing-room/news/373146-poll-most-say-they-believe-fbi-over-trump"
+        },
+        "last": {
+            "datetime": "2018-03-31T10:42:45Z",
+            "uri": "http://web.archive.org/web/20180331104245/http://thehill.com/blogs/blog-briefing-room/news/373146-poll-most-say-they-believe-fbi-over-trump"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-21T23:49:51Z",
+                "uri": "http://web.archive.org/web/20180221234951/http://thehill.com/blogs/blog-briefing-room/news/373146-poll-most-say-they-believe-fbi-over-trump"
+            },
+            {
+                "datetime": "2018-03-31T10:42:45Z",
+                "uri": "http://web.archive.org/web/20180331104245/http://thehill.com/blogs/blog-briefing-room/news/373146-poll-most-say-they-believe-fbi-over-trump"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/blogs/blog-briefing-room/news/373146-poll-most-say-they-believe-fbi-over-trump",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/blogs/blog-briefing-room/news/373146-poll-most-say-they-believe-fbi-over-trump",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/blogs/blog-briefing-room/news/373146-poll-most-say-they-believe-fbi-over-trump",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/blogs/blog-briefing-room/news/373146-poll-most-say-they-believe-fbi-over-trump",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/blogs/blog-briefing-room/news/373146-poll-most-say-they-believe-fbi-over-trump",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/blogs/blog-briefing-room/news/373146-poll-most-say-they-believe-fbi-over-trump"
+    }
+}

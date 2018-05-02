@@ -1,0 +1,78 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T17:28:11Z",
+            "uri": "http://web.archive.org/web/20180209172811/http://www.bbc.com/news/blogs-trending-43003630"
+        },
+        "last": {
+            "datetime": "2018-03-23T08:04:32Z",
+            "uri": "http://web.archive.org/web/20180323080432/http://www.bbc.com/news/blogs-trending-43003630"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T17:28:11Z",
+                "uri": "http://web.archive.org/web/20180209172811/http://www.bbc.com/news/blogs-trending-43003630"
+            },
+            {
+                "datetime": "2018-02-09T19:57:54Z",
+                "uri": "http://web.archive.org/web/20180209195754/http://www.bbc.com/news/blogs-trending-43003630"
+            },
+            {
+                "datetime": "2018-02-09T23:12:17Z",
+                "uri": "http://web.archive.org/web/20180209231217/http://www.bbc.com/news/blogs-trending-43003630"
+            },
+            {
+                "datetime": "2018-02-09T23:13:09Z",
+                "uri": "http://archive.is/20180209231309/http://www.bbc.com/news/blogs-trending-43003630"
+            },
+            {
+                "datetime": "2018-02-09T23:44:56Z",
+                "uri": "http://web.archive.org/web/20180209234456/http://www.bbc.com/news/blogs-trending-43003630"
+            },
+            {
+                "datetime": "2018-02-10T00:13:14Z",
+                "uri": "http://web.archive.org/web/20180210001314/http://www.bbc.com/news/blogs-trending-43003630"
+            },
+            {
+                "datetime": "2018-02-10T03:15:32Z",
+                "uri": "http://web.archive.org/web/20180210031532/http://www.bbc.com/news/blogs-trending-43003630"
+            },
+            {
+                "datetime": "2018-02-10T05:15:16Z",
+                "uri": "http://web.archive.org/web/20180210051516/http://www.bbc.com/news/blogs-trending-43003630"
+            },
+            {
+                "datetime": "2018-02-10T07:13:34Z",
+                "uri": "http://web.archive.org/web/20180210071334/http://www.bbc.com/news/blogs-trending-43003630"
+            },
+            {
+                "datetime": "2018-02-10T18:55:27Z",
+                "uri": "http://web.archive.org/web/20180210185527/http://www.bbc.com/news/blogs-trending-43003630"
+            },
+            {
+                "datetime": "2018-02-11T20:04:03Z",
+                "uri": "http://web.archive.org/web/20180211200403/http://www.bbc.com/news/blogs-trending-43003630"
+            },
+            {
+                "datetime": "2018-02-12T01:31:53Z",
+                "uri": "http://web.archive.org/web/20180212013153/http://www.bbc.com/news/blogs-trending-43003630"
+            },
+            {
+                "datetime": "2018-02-15T06:26:07Z",
+                "uri": "http://web.archive.org/web/20180215062607/http://www.bbc.com/news/blogs-trending-43003630"
+            },
+            {
+                "datetime": "2018-03-23T08:04:32Z",
+                "uri": "http://web.archive.org/web/20180323080432/http://www.bbc.com/news/blogs-trending-43003630"
+            }
+        ]
+    },
+    "original_uri": "http://www.bbc.com/news/blogs-trending-43003630",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.com/news/blogs-trending-43003630",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.bbc.com/news/blogs-trending-43003630",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.bbc.com/news/blogs-trending-43003630",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.com/news/blogs-trending-43003630",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.bbc.com/news/blogs-trending-43003630"
+    }
+}

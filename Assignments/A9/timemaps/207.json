@@ -1,0 +1,82 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T23:30:52Z",
+            "uri": "http://web.archive.org/web/20180209233052/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+        },
+        "last": {
+            "datetime": "2018-03-22T18:39:50Z",
+            "uri": "http://web.archive.org/web/20180322183950/http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T23:30:52Z",
+                "uri": "http://web.archive.org/web/20180209233052/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-02-10T03:40:14Z",
+                "uri": "http://web.archive.org/web/20180210034014/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-02-10T21:53:53Z",
+                "uri": "http://web.archive.org/web/20180210215353/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-02-11T22:48:18Z",
+                "uri": "http://web.archive.org/web/20180211224818/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-02-12T03:19:59Z",
+                "uri": "http://wayback.archive-it.org/all/20180212031959/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-02-12T03:19:59Z",
+                "uri": "http://web.archive.org/web/20180212031959/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-02-13T00:54:45Z",
+                "uri": "http://web.archive.org/web/20180213005445/http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-02-13T01:15:35Z",
+                "uri": "http://web.archive.org/web/20180213011535/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-02-14T03:40:07Z",
+                "uri": "http://web.archive.org/web/20180214034007/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-02-22T14:48:56Z",
+                "uri": "http://web.archive.org/web/20180222144856/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-02-26T04:26:35Z",
+                "uri": "http://web.archive.org/web/20180226042635/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-03-22T18:39:50Z",
+                "uri": "http://web.archive.org/web/20180322183950/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-03-22T18:39:50Z",
+                "uri": "http://web.archive.org/web/20180322183950/http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-03-22T18:39:50Z",
+                "uri": "http://web.archive.org/web/20180322183950/https://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            },
+            {
+                "datetime": "2018-03-22T18:39:50Z",
+                "uri": "http://web.archive.org/web/20180322183950/http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+            }
+        ]
+    },
+    "original_uri": "http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://edition.cnn.com/2018/02/09/politics/democratic-memo/index.html"
+    }
+}

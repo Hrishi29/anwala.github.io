@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-08-31T14:39:44Z",
+            "uri": "http://web.archive.org/web/20160831143944/https://www.yahoo.com/news/top-democrat-urges-fbi-probe-allegations-russia-seeking-141255099.html"
+        },
+        "last": {
+            "datetime": "2017-05-02T23:06:18Z",
+            "uri": "http://web.archive.org/web/20170502230618/https://www.yahoo.com/news/top-democrat-urges-fbi-probe-allegations-russia-seeking-141255099.html"
+        },
+        "list": [
+            {
+                "datetime": "2016-08-31T14:39:44Z",
+                "uri": "http://web.archive.org/web/20160831143944/https://www.yahoo.com/news/top-democrat-urges-fbi-probe-allegations-russia-seeking-141255099.html"
+            },
+            {
+                "datetime": "2016-08-31T18:16:04Z",
+                "uri": "http://web.archive.org/web/20160831181604/https://www.yahoo.com/news/top-democrat-urges-fbi-probe-allegations-russia-seeking-141255099.html"
+            },
+            {
+                "datetime": "2016-08-31T18:16:13Z",
+                "uri": "http://web.archive.org/web/20160831181613/http://www.yahoo.com/news/top-democrat-urges-fbi-probe-allegations-russia-seeking-141255099.html"
+            },
+            {
+                "datetime": "2017-05-02T23:06:18Z",
+                "uri": "http://web.archive.org/web/20170502230618/https://www.yahoo.com/news/top-democrat-urges-fbi-probe-allegations-russia-seeking-141255099.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.yahoo.com/news/top-democrat-urges-fbi-probe-allegations-russia-seeking-141255099.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.yahoo.com/news/top-democrat-urges-fbi-probe-allegations-russia-seeking-141255099.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.yahoo.com/news/top-democrat-urges-fbi-probe-allegations-russia-seeking-141255099.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.yahoo.com/news/top-democrat-urges-fbi-probe-allegations-russia-seeking-141255099.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.yahoo.com/news/top-democrat-urges-fbi-probe-allegations-russia-seeking-141255099.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.yahoo.com/news/top-democrat-urges-fbi-probe-allegations-russia-seeking-141255099.html"
+    }
+}

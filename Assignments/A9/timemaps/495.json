@@ -1,0 +1,94 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T19:18:23Z",
+            "uri": "http://web.archive.org/web/20180208191823/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+        },
+        "last": {
+            "datetime": "2018-04-12T09:34:34Z",
+            "uri": "http://web.archive.org/web/20180412093434/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T19:18:23Z",
+                "uri": "http://web.archive.org/web/20180208191823/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-02-11T06:49:16Z",
+                "uri": "http://wayback.archive-it.org/all/20180211064916/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-02-11T06:49:16Z",
+                "uri": "http://web.archive.org/web/20180211064916/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-02-13T16:23:19Z",
+                "uri": "http://wayback.archive-it.org/all/20180213162319/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-02-15T03:22:57Z",
+                "uri": "http://web.archive.org/web/20180215032257/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-02-22T04:05:39Z",
+                "uri": "http://web.archive.org/web/20180222040539/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-02-23T22:02:18Z",
+                "uri": "http://wayback.archive-it.org/all/20180223220218/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-02-23T22:02:18Z",
+                "uri": "http://web.archive.org/web/20180223220218/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-02-25T10:59:56Z",
+                "uri": "http://web.archive.org/web/20180225105956/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-02-28T09:22:14Z",
+                "uri": "http://wayback.archive-it.org/all/20180228092214/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-02-28T09:22:14Z",
+                "uri": "http://web.archive.org/web/20180228092214/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-03-01T04:25:07Z",
+                "uri": "http://web.archive.org/web/20180301042507/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-03-08T06:41:28Z",
+                "uri": "http://web.archive.org/web/20180308064128/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-03-15T07:00:36Z",
+                "uri": "http://web.archive.org/web/20180315070036/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-03-22T07:46:08Z",
+                "uri": "http://web.archive.org/web/20180322074608/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-03-29T08:09:08Z",
+                "uri": "http://web.archive.org/web/20180329080908/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-04-05T08:42:23Z",
+                "uri": "http://web.archive.org/web/20180405084223/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            },
+            {
+                "datetime": "2018-04-12T09:34:34Z",
+                "uri": "http://web.archive.org/web/20180412093434/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+            }
+        ]
+    },
+    "original_uri": "https://newrepublic.com/article/146990/unacceptable-cost-taming-trump",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://newrepublic.com/article/146990/unacceptable-cost-taming-trump"
+    }
+}

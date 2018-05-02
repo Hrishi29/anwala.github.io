@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T06:46:04Z",
+            "uri": "http://wayback.archive-it.org/all/20180211064604/https://shareblue.com/pence-and-trump-cant-get-agree-on-whether-to-condemn-domestic-violence/"
+        },
+        "last": {
+            "datetime": "2018-02-11T06:46:04Z",
+            "uri": "http://web.archive.org/web/20180211064604/https://shareblue.com/pence-and-trump-cant-get-agree-on-whether-to-condemn-domestic-violence/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T06:46:04Z",
+                "uri": "http://wayback.archive-it.org/all/20180211064604/https://shareblue.com/pence-and-trump-cant-get-agree-on-whether-to-condemn-domestic-violence/"
+            },
+            {
+                "datetime": "2018-02-11T06:46:04Z",
+                "uri": "http://web.archive.org/web/20180211064604/https://shareblue.com/pence-and-trump-cant-get-agree-on-whether-to-condemn-domestic-violence/"
+            }
+        ]
+    },
+    "original_uri": "https://shareblue.com/pence-and-trump-cant-get-agree-on-whether-to-condemn-domestic-violence/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://shareblue.com/pence-and-trump-cant-get-agree-on-whether-to-condemn-domestic-violence/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://shareblue.com/pence-and-trump-cant-get-agree-on-whether-to-condemn-domestic-violence/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://shareblue.com/pence-and-trump-cant-get-agree-on-whether-to-condemn-domestic-violence/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://shareblue.com/pence-and-trump-cant-get-agree-on-whether-to-condemn-domestic-violence/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://shareblue.com/pence-and-trump-cant-get-agree-on-whether-to-condemn-domestic-violence/"
+    }
+}

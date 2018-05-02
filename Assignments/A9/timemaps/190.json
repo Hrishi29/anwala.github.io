@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-03-11T07:59:10Z",
+            "uri": "http://web.archive.org/web/20180311075910/https://actualidad.rt.com/actualidad/262549-expulsar-trump-kim-jongun-apertura-jjoo"
+        },
+        "last": {
+            "datetime": "2018-03-11T07:59:10Z",
+            "uri": "http://web.archive.org/web/20180311075910/https://actualidad.rt.com/actualidad/262549-expulsar-trump-kim-jongun-apertura-jjoo"
+        },
+        "list": [
+            {
+                "datetime": "2018-03-11T07:59:10Z",
+                "uri": "http://web.archive.org/web/20180311075910/https://actualidad.rt.com/actualidad/262549-expulsar-trump-kim-jongun-apertura-jjoo"
+            }
+        ]
+    },
+    "original_uri": "https://actualidad.rt.com/actualidad/262549-expulsar-trump-kim-jongun-apertura-jjoo",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://actualidad.rt.com/actualidad/262549-expulsar-trump-kim-jongun-apertura-jjoo",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://actualidad.rt.com/actualidad/262549-expulsar-trump-kim-jongun-apertura-jjoo",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://actualidad.rt.com/actualidad/262549-expulsar-trump-kim-jongun-apertura-jjoo",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://actualidad.rt.com/actualidad/262549-expulsar-trump-kim-jongun-apertura-jjoo",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://actualidad.rt.com/actualidad/262549-expulsar-trump-kim-jongun-apertura-jjoo"
+    }
+}

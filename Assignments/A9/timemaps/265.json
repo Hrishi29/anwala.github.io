@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T02:25:00Z",
+            "uri": "http://web.archive.org/web/20180208022500/https://www.thestar.com/sports/olympics/opinion/2018/02/07/the-problem-with-pyeongchang-is-there-arent-any-problems.html"
+        },
+        "last": {
+            "datetime": "2018-04-13T15:43:48Z",
+            "uri": "http://web.archive.org/web/20180413154348/https://www.thestar.com/sports/olympics/opinion/2018/02/07/the-problem-with-pyeongchang-is-there-arent-any-problems.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T02:25:00Z",
+                "uri": "http://web.archive.org/web/20180208022500/https://www.thestar.com/sports/olympics/opinion/2018/02/07/the-problem-with-pyeongchang-is-there-arent-any-problems.html"
+            },
+            {
+                "datetime": "2018-02-09T13:39:21Z",
+                "uri": "http://web.archive.org/web/20180209133921/https://www.thestar.com/sports/olympics/opinion/2018/02/07/the-problem-with-pyeongchang-is-there-arent-any-problems.html"
+            },
+            {
+                "datetime": "2018-03-03T10:06:59Z",
+                "uri": "http://web.archive.org/web/20180303100659/https://www.thestar.com/sports/olympics/opinion/2018/02/07/the-problem-with-pyeongchang-is-there-arent-any-problems.html"
+            },
+            {
+                "datetime": "2018-03-09T09:32:36Z",
+                "uri": "http://web.archive.org/web/20180309093236/https://www.thestar.com/sports/olympics/opinion/2018/02/07/the-problem-with-pyeongchang-is-there-arent-any-problems.html"
+            },
+            {
+                "datetime": "2018-03-27T14:34:32Z",
+                "uri": "http://web.archive.org/web/20180327143432/http://www.thestar.com/sports/olympics/opinion/2018/02/07/the-problem-with-pyeongchang-is-there-arent-any-problems.html"
+            },
+            {
+                "datetime": "2018-03-27T14:34:35Z",
+                "uri": "http://web.archive.org/web/20180327143435/https://www.thestar.com/sports/olympics/opinion/2018/02/07/the-problem-with-pyeongchang-is-there-arent-any-problems.html"
+            },
+            {
+                "datetime": "2018-04-13T15:43:48Z",
+                "uri": "http://web.archive.org/web/20180413154348/https://www.thestar.com/sports/olympics/opinion/2018/02/07/the-problem-with-pyeongchang-is-there-arent-any-problems.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.thestar.com/sports/olympics/opinion/2018/02/07/the-problem-with-pyeongchang-is-there-arent-any-problems.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thestar.com/sports/olympics/opinion/2018/02/07/the-problem-with-pyeongchang-is-there-arent-any-problems.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thestar.com/sports/olympics/opinion/2018/02/07/the-problem-with-pyeongchang-is-there-arent-any-problems.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thestar.com/sports/olympics/opinion/2018/02/07/the-problem-with-pyeongchang-is-there-arent-any-problems.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thestar.com/sports/olympics/opinion/2018/02/07/the-problem-with-pyeongchang-is-there-arent-any-problems.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thestar.com/sports/olympics/opinion/2018/02/07/the-problem-with-pyeongchang-is-there-arent-any-problems.html"
+    }
+}

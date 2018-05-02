@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T21:05:44Z",
+            "uri": "http://web.archive.org/web/20180209210544/http://www.independent.co.uk/news/world/americas/donald-trump-jr-valentines-day-present-idea-branded-teddy-bear-mocked-twitter-a8202831.html"
+        },
+        "last": {
+            "datetime": "2018-02-12T16:07:25Z",
+            "uri": "http://web.archive.org/web/20180212160725/http://www.independent.co.uk/news/world/americas/donald-trump-jr-valentines-day-present-idea-branded-teddy-bear-mocked-twitter-a8202831.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T21:05:44Z",
+                "uri": "http://web.archive.org/web/20180209210544/http://www.independent.co.uk/news/world/americas/donald-trump-jr-valentines-day-present-idea-branded-teddy-bear-mocked-twitter-a8202831.html"
+            },
+            {
+                "datetime": "2018-02-12T16:07:25Z",
+                "uri": "http://web.archive.org/web/20180212160725/http://www.independent.co.uk/news/world/americas/donald-trump-jr-valentines-day-present-idea-branded-teddy-bear-mocked-twitter-a8202831.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.independent.co.uk:80/news/world/americas/donald-trump-jr-valentines-day-present-idea-branded-teddy-bear-mocked-twitter-a8202831.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.independent.co.uk:80/news/world/americas/donald-trump-jr-valentines-day-present-idea-branded-teddy-bear-mocked-twitter-a8202831.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.independent.co.uk:80/news/world/americas/donald-trump-jr-valentines-day-present-idea-branded-teddy-bear-mocked-twitter-a8202831.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.independent.co.uk:80/news/world/americas/donald-trump-jr-valentines-day-present-idea-branded-teddy-bear-mocked-twitter-a8202831.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.independent.co.uk:80/news/world/americas/donald-trump-jr-valentines-day-present-idea-branded-teddy-bear-mocked-twitter-a8202831.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.independent.co.uk:80/news/world/americas/donald-trump-jr-valentines-day-present-idea-branded-teddy-bear-mocked-twitter-a8202831.html"
+    }
+}

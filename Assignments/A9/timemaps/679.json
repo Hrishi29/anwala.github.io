@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-13T14:12:22Z",
+            "uri": "http://web.archive.org/web/20180213141222/https://olympics.cbc.ca/video/whats-on-tv/olympic-morning-featuring-the-opening-ceremony/index.html"
+        },
+        "last": {
+            "datetime": "2018-02-13T14:12:22Z",
+            "uri": "http://web.archive.org/web/20180213141222/https://olympics.cbc.ca/video/whats-on-tv/olympic-morning-featuring-the-opening-ceremony/index.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-13T14:12:22Z",
+                "uri": "http://web.archive.org/web/20180213141222/https://olympics.cbc.ca/video/whats-on-tv/olympic-morning-featuring-the-opening-ceremony/index.html"
+            }
+        ]
+    },
+    "original_uri": "https://olympics.cbc.ca/video/whats-on-tv/olympic-morning-featuring-the-opening-ceremony/index.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://olympics.cbc.ca/video/whats-on-tv/olympic-morning-featuring-the-opening-ceremony/index.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://olympics.cbc.ca/video/whats-on-tv/olympic-morning-featuring-the-opening-ceremony/index.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://olympics.cbc.ca/video/whats-on-tv/olympic-morning-featuring-the-opening-ceremony/index.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://olympics.cbc.ca/video/whats-on-tv/olympic-morning-featuring-the-opening-ceremony/index.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://olympics.cbc.ca/video/whats-on-tv/olympic-morning-featuring-the-opening-ceremony/index.html"
+    }
+}

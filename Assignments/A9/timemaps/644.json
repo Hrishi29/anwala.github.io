@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-07-29T07:24:51Z",
+            "uri": "http://web.archive.org/web/20160729072451/http://www.diversityinc.com:80/news/trump-roger-ailes-sexual-assault/?"
+        },
+        "last": {
+            "datetime": "2017-06-04T02:04:02Z",
+            "uri": "http://web.archive.org/web/20170604020402/http://www.diversityinc.com/news/trump-roger-ailes-sexual-assault/"
+        },
+        "list": [
+            {
+                "datetime": "2016-07-29T07:24:51Z",
+                "uri": "http://web.archive.org/web/20160729072451/http://www.diversityinc.com:80/news/trump-roger-ailes-sexual-assault/?"
+            },
+            {
+                "datetime": "2016-07-29T17:23:18Z",
+                "uri": "http://web.archive.org/web/20160729172318/http://www.diversityinc.com:80/news/trump-roger-ailes-sexual-assault/"
+            },
+            {
+                "datetime": "2016-09-29T01:19:59Z",
+                "uri": "http://web.archive.org/web/20160929011959/http://www.diversityinc.com:80/news/trump-roger-ailes-sexual-assault/"
+            },
+            {
+                "datetime": "2016-09-30T02:46:57Z",
+                "uri": "http://web.archive.org/web/20160930024657/http://www.diversityinc.com:80/news/trump-roger-ailes-sexual-assault/"
+            },
+            {
+                "datetime": "2016-10-11T09:42:31Z",
+                "uri": "http://web.archive.org/web/20161011094231/http://www.diversityinc.com:80/news/trump-roger-ailes-sexual-assault/?"
+            },
+            {
+                "datetime": "2017-04-12T02:51:21Z",
+                "uri": "http://web.archive.org/web/20170412025121/http://www.diversityinc.com:80/news/trump-roger-ailes-sexual-assault/"
+            },
+            {
+                "datetime": "2017-06-04T02:04:02Z",
+                "uri": "http://web.archive.org/web/20170604020402/http://www.diversityinc.com/news/trump-roger-ailes-sexual-assault/"
+            }
+        ]
+    },
+    "original_uri": "http://www.diversityinc.com/news/trump-roger-ailes-sexual-assault/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.diversityinc.com/news/trump-roger-ailes-sexual-assault/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.diversityinc.com/news/trump-roger-ailes-sexual-assault/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.diversityinc.com/news/trump-roger-ailes-sexual-assault/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.diversityinc.com/news/trump-roger-ailes-sexual-assault/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.diversityinc.com/news/trump-roger-ailes-sexual-assault/"
+    }
+}

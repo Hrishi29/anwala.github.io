@@ -1,0 +1,54 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T02:23:33Z",
+            "uri": "http://web.archive.org/web/20180211022333/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+        },
+        "last": {
+            "datetime": "2018-03-03T10:42:36Z",
+            "uri": "http://web.archive.org/web/20180303104236/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T02:23:33Z",
+                "uri": "http://web.archive.org/web/20180211022333/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+            },
+            {
+                "datetime": "2018-02-11T04:39:57Z",
+                "uri": "http://web.archive.org/web/20180211043957/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+            },
+            {
+                "datetime": "2018-02-12T03:10:26Z",
+                "uri": "http://web.archive.org/web/20180212031026/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+            },
+            {
+                "datetime": "2018-02-12T05:03:13Z",
+                "uri": "http://web.archive.org/web/20180212050313/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+            },
+            {
+                "datetime": "2018-02-13T13:47:04Z",
+                "uri": "http://web.archive.org/web/20180213134704/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+            },
+            {
+                "datetime": "2018-02-27T04:07:04Z",
+                "uri": "http://web.archive.org/web/20180227040704/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+            },
+            {
+                "datetime": "2018-02-27T05:12:04Z",
+                "uri": "http://web.archive.org/web/20180227051204/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+            },
+            {
+                "datetime": "2018-03-03T10:42:36Z",
+                "uri": "http://web.archive.org/web/20180303104236/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+            }
+        ]
+    },
+    "original_uri": "http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://english.yonhapnews.co.kr/news/2018/02/10/0200000000AEN20180210000500320.html"
+    }
+}

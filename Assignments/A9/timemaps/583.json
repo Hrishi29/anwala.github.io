@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T14:12:15Z",
+            "uri": "http://web.archive.org/web/20180209141215/https://www.dailyo.in/politics/maldives-state-of-emergency-supreme-court-judges-bribed-india-ties-abdulla-yameen/story/1/22275.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T13:34:55Z",
+            "uri": "http://archive.is/20180211133455/https://www.dailyo.in/politics/maldives-state-of-emergency-supreme-court-judges-bribed-india-ties-abdulla-yameen/story/1/22275.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T14:12:15Z",
+                "uri": "http://web.archive.org/web/20180209141215/https://www.dailyo.in/politics/maldives-state-of-emergency-supreme-court-judges-bribed-india-ties-abdulla-yameen/story/1/22275.html"
+            },
+            {
+                "datetime": "2018-02-11T13:34:55Z",
+                "uri": "http://archive.is/20180211133455/https://www.dailyo.in/politics/maldives-state-of-emergency-supreme-court-judges-bribed-india-ties-abdulla-yameen/story/1/22275.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.dailyo.in/politics/maldives-state-of-emergency-supreme-court-judges-bribed-india-ties-abdulla-yameen/story/1/22275.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.dailyo.in/politics/maldives-state-of-emergency-supreme-court-judges-bribed-india-ties-abdulla-yameen/story/1/22275.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.dailyo.in/politics/maldives-state-of-emergency-supreme-court-judges-bribed-india-ties-abdulla-yameen/story/1/22275.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.dailyo.in/politics/maldives-state-of-emergency-supreme-court-judges-bribed-india-ties-abdulla-yameen/story/1/22275.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.dailyo.in/politics/maldives-state-of-emergency-supreme-court-judges-bribed-india-ties-abdulla-yameen/story/1/22275.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.dailyo.in/politics/maldives-state-of-emergency-supreme-court-judges-bribed-india-ties-abdulla-yameen/story/1/22275.html"
+    }
+}

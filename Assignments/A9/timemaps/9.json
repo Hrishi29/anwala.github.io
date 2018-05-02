@@ -1,0 +1,586 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T21:48:22Z",
+            "uri": "http://web.archive.org/web/20180209214822/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+        },
+        "last": {
+            "datetime": "2018-05-01T11:00:15Z",
+            "uri": "http://web.archive.org/web/20180501110015/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T21:48:22Z",
+                "uri": "http://web.archive.org/web/20180209214822/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-09T21:56:29Z",
+                "uri": "http://archive.is/20180209215629/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-09T22:03:30Z",
+                "uri": "http://web.archive.org/web/20180209220330/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-09T22:13:54Z",
+                "uri": "http://web.archive.org/web/20180209221354/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-09T22:24:22Z",
+                "uri": "http://web.archive.org/web/20180209222422/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-09T22:26:45Z",
+                "uri": "http://web.archive.org/web/20180209222645/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-09T22:34:16Z",
+                "uri": "http://archive.is/20180209223416/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-09T22:35:17Z",
+                "uri": "http://web.archive.org/web/20180209223517/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-09T23:06:51Z",
+                "uri": "http://web.archive.org/web/20180209230651/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-09T23:30:48Z",
+                "uri": "http://web.archive.org/web/20180209233048/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-09T23:50:18Z",
+                "uri": "http://web.archive.org/web/20180209235018/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T00:58:01Z",
+                "uri": "http://web.archive.org/web/20180210005801/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T01:04:58Z",
+                "uri": "http://web.archive.org/web/20180210010458/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T01:31:59Z",
+                "uri": "http://web.archive.org/web/20180210013159/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T02:40:29Z",
+                "uri": "http://web.archive.org/web/20180210024029/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T03:14:50Z",
+                "uri": "http://web.archive.org/web/20180210031450/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T05:04:32Z",
+                "uri": "http://web.archive.org/web/20180210050432/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T05:38:20Z",
+                "uri": "http://web.archive.org/web/20180210053820/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T06:13:10Z",
+                "uri": "http://web.archive.org/web/20180210061310/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T06:21:37Z",
+                "uri": "http://web.archive.org/web/20180210062137/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T06:47:18Z",
+                "uri": "http://web.archive.org/web/20180210064718/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T06:56:35Z",
+                "uri": "http://wayback.archive-it.org/all/20180210065635/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T07:22:20Z",
+                "uri": "http://web.archive.org/web/20180210072220/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T07:56:48Z",
+                "uri": "http://web.archive.org/web/20180210075648/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T08:30:59Z",
+                "uri": "http://web.archive.org/web/20180210083059/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T09:08:18Z",
+                "uri": "http://web.archive.org/web/20180210090818/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T09:45:31Z",
+                "uri": "http://web.archive.org/web/20180210094531/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T10:19:55Z",
+                "uri": "http://web.archive.org/web/20180210101955/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T10:53:56Z",
+                "uri": "http://web.archive.org/web/20180210105356/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T11:28:18Z",
+                "uri": "http://web.archive.org/web/20180210112818/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T12:02:51Z",
+                "uri": "http://web.archive.org/web/20180210120251/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T12:37:18Z",
+                "uri": "http://web.archive.org/web/20180210123718/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T13:11:35Z",
+                "uri": "http://web.archive.org/web/20180210131135/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T13:46:00Z",
+                "uri": "http://web.archive.org/web/20180210134600/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T14:13:23Z",
+                "uri": "http://web.archive.org/web/20180210141323/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T14:21:29Z",
+                "uri": "http://web.archive.org/web/20180210142129/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T14:56:07Z",
+                "uri": "http://web.archive.org/web/20180210145607/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T15:13:51Z",
+                "uri": "http://web.archive.org/web/20180210151351/http://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T15:30:55Z",
+                "uri": "http://web.archive.org/web/20180210153055/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T16:06:16Z",
+                "uri": "http://web.archive.org/web/20180210160616/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T16:28:09Z",
+                "uri": "http://web.archive.org/web/20180210162809/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T16:38:37Z",
+                "uri": "http://web.archive.org/web/20180210163837/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T18:59:23Z",
+                "uri": "http://wayback.archive-it.org/all/20180210185923/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T18:59:23Z",
+                "uri": "http://web.archive.org/web/20180210185923/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T21:13:22Z",
+                "uri": "http://web.archive.org/web/20180210211322/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T21:25:48Z",
+                "uri": "http://web.archive.org/web/20180210212548/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T21:37:03Z",
+                "uri": "http://web.archive.org/web/20180210213703/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T21:57:39Z",
+                "uri": "http://web.archive.org/web/20180210215739/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-10T23:35:26Z",
+                "uri": "http://web.archive.org/web/20180210233526/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-11T06:58:47Z",
+                "uri": "http://wayback.archive-it.org/all/20180211065847/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-11T06:58:47Z",
+                "uri": "http://web.archive.org/web/20180211065847/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-11T18:58:01Z",
+                "uri": "http://wayback.archive-it.org/all/20180211185801/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-11T18:58:01Z",
+                "uri": "http://web.archive.org/web/20180211185801/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-11T21:34:43Z",
+                "uri": "http://web.archive.org/web/20180211213443/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-11T23:57:17Z",
+                "uri": "http://web.archive.org/web/20180211235717/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-12T00:48:03Z",
+                "uri": "http://web.archive.org/web/20180212004803/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-12T02:35:07Z",
+                "uri": "http://web.archive.org/web/20180212023507/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-12T06:57:05Z",
+                "uri": "http://wayback.archive-it.org/all/20180212065705/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-12T18:56:43Z",
+                "uri": "http://wayback.archive-it.org/all/20180212185643/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-12T18:56:43Z",
+                "uri": "http://web.archive.org/web/20180212185643/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-12T21:58:23Z",
+                "uri": "http://web.archive.org/web/20180212215823/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-13T04:00:23Z",
+                "uri": "http://web.archive.org/web/20180213040023/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-13T04:31:08Z",
+                "uri": "http://web.archive.org/web/20180213043108/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-13T06:58:06Z",
+                "uri": "http://wayback.archive-it.org/all/20180213065806/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-13T18:56:31Z",
+                "uri": "http://wayback.archive-it.org/all/20180213185631/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-13T18:56:31Z",
+                "uri": "http://web.archive.org/web/20180213185631/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-13T22:53:18Z",
+                "uri": "http://web.archive.org/web/20180213225318/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-13T23:37:38Z",
+                "uri": "http://web.archive.org/web/20180213233738/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-14T00:28:29Z",
+                "uri": "http://web.archive.org/web/20180214002829/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-14T06:58:10Z",
+                "uri": "http://wayback.archive-it.org/all/20180214065810/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-14T06:58:10Z",
+                "uri": "http://web.archive.org/web/20180214065810/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-14T16:05:50Z",
+                "uri": "http://web.archive.org/web/20180214160550/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-14T18:57:42Z",
+                "uri": "http://wayback.archive-it.org/all/20180214185742/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-14T18:57:42Z",
+                "uri": "http://web.archive.org/web/20180214185742/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-15T01:11:10Z",
+                "uri": "http://web.archive.org/web/20180215011110/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-15T01:22:54Z",
+                "uri": "http://web.archive.org/web/20180215012254/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-15T13:48:18Z",
+                "uri": "http://web.archive.org/web/20180215134818/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-16T06:13:02Z",
+                "uri": "http://web.archive.org/web/20180216061302/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-16T11:28:16Z",
+                "uri": "http://web.archive.org/web/20180216112816/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-16T15:08:04Z",
+                "uri": "http://web.archive.org/web/20180216150804/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-17T19:51:51Z",
+                "uri": "http://web.archive.org/web/20180217195151/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-23T19:43:17Z",
+                "uri": "http://web.archive.org/web/20180223194317/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-24T13:47:03Z",
+                "uri": "http://wayback.archive-it.org/all/20180224134703/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-24T13:47:03Z",
+                "uri": "http://web.archive.org/web/20180224134703/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-24T20:13:56Z",
+                "uri": "http://web.archive.org/web/20180224201356/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-26T01:09:53Z",
+                "uri": "http://web.archive.org/web/20180226010953/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-26T22:35:29Z",
+                "uri": "http://web.archive.org/web/20180226223529/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-02-28T23:16:38Z",
+                "uri": "http://web.archive.org/web/20180228231638/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-03T08:14:44Z",
+                "uri": "http://web.archive.org/web/20180303081444/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-05T09:27:16Z",
+                "uri": "http://web.archive.org/web/20180305092716/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-08T20:10:25Z",
+                "uri": "http://web.archive.org/web/20180308201025/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-09T08:14:22Z",
+                "uri": "http://web.archive.org/web/20180309081422/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-10T00:19:28Z",
+                "uri": "http://web.archive.org/web/20180310001928/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-10T12:49:32Z",
+                "uri": "http://web.archive.org/web/20180310124932/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-11T01:24:14Z",
+                "uri": "http://web.archive.org/web/20180311012414/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-12T02:31:53Z",
+                "uri": "http://web.archive.org/web/20180312023153/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-12T16:46:55Z",
+                "uri": "http://web.archive.org/web/20180312164655/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-13T03:18:42Z",
+                "uri": "http://web.archive.org/web/20180313031842/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-13T11:05:32Z",
+                "uri": "http://web.archive.org/web/20180313110532/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-14T05:12:15Z",
+                "uri": "http://web.archive.org/web/20180314051215/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-15T03:41:27Z",
+                "uri": "http://web.archive.org/web/20180315034127/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-15T16:20:27Z",
+                "uri": "http://web.archive.org/web/20180315162027/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-16T01:54:37Z",
+                "uri": "http://web.archive.org/web/20180316015437/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-17T00:54:07Z",
+                "uri": "http://web.archive.org/web/20180317005407/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-17T19:31:23Z",
+                "uri": "http://web.archive.org/web/20180317193123/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-18T07:59:18Z",
+                "uri": "http://web.archive.org/web/20180318075918/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-18T21:21:28Z",
+                "uri": "http://web.archive.org/web/20180318212128/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-19T22:29:08Z",
+                "uri": "http://web.archive.org/web/20180319222908/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-20T06:35:11Z",
+                "uri": "http://web.archive.org/web/20180320063511/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-20T09:23:44Z",
+                "uri": "http://web.archive.org/web/20180320092344/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-20T21:06:17Z",
+                "uri": "http://web.archive.org/web/20180320210617/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-21T06:41:57Z",
+                "uri": "http://web.archive.org/web/20180321064157/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-22T07:32:53Z",
+                "uri": "http://web.archive.org/web/20180322073253/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-27T10:04:42Z",
+                "uri": "http://web.archive.org/web/20180327100442/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-28T13:24:39Z",
+                "uri": "http://web.archive.org/web/20180328132439/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-29T03:12:25Z",
+                "uri": "http://web.archive.org/web/20180329031225/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-29T06:00:34Z",
+                "uri": "http://web.archive.org/web/20180329060034/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-30T06:44:18Z",
+                "uri": "http://web.archive.org/web/20180330064418/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-03-30T08:12:05Z",
+                "uri": "http://web.archive.org/web/20180330081205/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-01T12:15:03Z",
+                "uri": "http://web.archive.org/web/20180401121503/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-03T15:00:23Z",
+                "uri": "http://web.archive.org/web/20180403150023/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-04T11:29:06Z",
+                "uri": "http://web.archive.org/web/20180404112906/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-04T15:20:39Z",
+                "uri": "http://web.archive.org/web/20180404152039/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-06T03:06:46Z",
+                "uri": "http://web.archive.org/web/20180406030646/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-09T17:09:50Z",
+                "uri": "http://web.archive.org/web/20180409170950/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-10T20:12:11Z",
+                "uri": "http://web.archive.org/web/20180410201211/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-11T06:49:06Z",
+                "uri": "http://web.archive.org/web/20180411064906/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-13T11:31:10Z",
+                "uri": "http://web.archive.org/web/20180413113110/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-13T13:10:26Z",
+                "uri": "http://web.archive.org/web/20180413131026/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-16T11:19:08Z",
+                "uri": "http://web.archive.org/web/20180416111908/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-18T12:21:50Z",
+                "uri": "http://web.archive.org/web/20180418122150/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-19T13:50:47Z",
+                "uri": "http://web.archive.org/web/20180419135047/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-23T22:56:17Z",
+                "uri": "http://web.archive.org/web/20180423225617/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-25T05:18:17Z",
+                "uri": "http://web.archive.org/web/20180425051817/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-25T16:31:20Z",
+                "uri": "http://web.archive.org/web/20180425163120/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-26T23:36:12Z",
+                "uri": "http://web.archive.org/web/20180426233612/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-27T17:07:31Z",
+                "uri": "http://web.archive.org/web/20180427170731/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-28T19:54:12Z",
+                "uri": "http://web.archive.org/web/20180428195412/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-29T21:17:33Z",
+                "uri": "http://web.archive.org/web/20180429211733/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-04-30T20:21:54Z",
+                "uri": "http://web.archive.org/web/20180430202154/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            },
+            {
+                "datetime": "2018-05-01T11:00:15Z",
+                "uri": "http://web.archive.org/web/20180501110015/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html"
+    }
+}

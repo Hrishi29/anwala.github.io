@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-24T02:04:11Z",
+            "uri": "http://web.archive.org/web/20180224020411/http://insider.foxnews.com/2018/02/08/trump-honors-sophia-campa-peters-girl-rare-disease-prayer-breakfast"
+        },
+        "last": {
+            "datetime": "2018-03-23T11:52:20Z",
+            "uri": "http://web.archive.org/web/20180323115220/http://insider.foxnews.com/2018/02/08/trump-honors-sophia-campa-peters-girl-rare-disease-prayer-breakfast"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-24T02:04:11Z",
+                "uri": "http://web.archive.org/web/20180224020411/http://insider.foxnews.com/2018/02/08/trump-honors-sophia-campa-peters-girl-rare-disease-prayer-breakfast"
+            },
+            {
+                "datetime": "2018-03-23T11:52:20Z",
+                "uri": "http://web.archive.org/web/20180323115220/http://insider.foxnews.com/2018/02/08/trump-honors-sophia-campa-peters-girl-rare-disease-prayer-breakfast"
+            }
+        ]
+    },
+    "original_uri": "http://insider.foxnews.com/2018/02/08/trump-honors-sophia-campa-peters-girl-rare-disease-prayer-breakfast",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://insider.foxnews.com/2018/02/08/trump-honors-sophia-campa-peters-girl-rare-disease-prayer-breakfast",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://insider.foxnews.com/2018/02/08/trump-honors-sophia-campa-peters-girl-rare-disease-prayer-breakfast",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://insider.foxnews.com/2018/02/08/trump-honors-sophia-campa-peters-girl-rare-disease-prayer-breakfast",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://insider.foxnews.com/2018/02/08/trump-honors-sophia-campa-peters-girl-rare-disease-prayer-breakfast",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://insider.foxnews.com/2018/02/08/trump-honors-sophia-campa-peters-girl-rare-disease-prayer-breakfast"
+    }
+}

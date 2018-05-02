@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T12:42:48Z",
+            "uri": "http://web.archive.org/web/20180209124248/https://www.theatlantic.com/entertainment/archive/2018/02/how-the-olympics-got-disneyfied/552659/?utm_source=feed"
+        },
+        "last": {
+            "datetime": "2018-02-18T16:19:01Z",
+            "uri": "http://web.archive.org/web/20180218161901/https://www.theatlantic.com/entertainment/archive/2018/02/how-the-olympics-got-disneyfied/552659/?utm_source=feed"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T12:42:48Z",
+                "uri": "http://web.archive.org/web/20180209124248/https://www.theatlantic.com/entertainment/archive/2018/02/how-the-olympics-got-disneyfied/552659/?utm_source=feed"
+            },
+            {
+                "datetime": "2018-02-10T16:40:07Z",
+                "uri": "http://web.archive.org/web/20180210164007/https://www.theatlantic.com/entertainment/archive/2018/02/how-the-olympics-got-disneyfied/552659/?utm_source=feed"
+            },
+            {
+                "datetime": "2018-02-18T16:19:01Z",
+                "uri": "http://web.archive.org/web/20180218161901/https://www.theatlantic.com/entertainment/archive/2018/02/how-the-olympics-got-disneyfied/552659/?utm_source=feed"
+            }
+        ]
+    },
+    "original_uri": "https://www.theatlantic.com/entertainment/archive/2018/02/how-the-olympics-got-disneyfied/552659/?utm_source=feed",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theatlantic.com/entertainment/archive/2018/02/how-the-olympics-got-disneyfied/552659/?utm_source=feed",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theatlantic.com/entertainment/archive/2018/02/how-the-olympics-got-disneyfied/552659/?utm_source=feed",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theatlantic.com/entertainment/archive/2018/02/how-the-olympics-got-disneyfied/552659/?utm_source=feed",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theatlantic.com/entertainment/archive/2018/02/how-the-olympics-got-disneyfied/552659/?utm_source=feed",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theatlantic.com/entertainment/archive/2018/02/how-the-olympics-got-disneyfied/552659/?utm_source=feed"
+    }
+}

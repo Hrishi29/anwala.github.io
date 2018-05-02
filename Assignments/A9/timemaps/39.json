@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-13T05:14:40Z",
+            "uri": "http://web.archive.org/web/20180213051440/http://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/drone-light-show-scrapped-after-logistical-challenges-winter-olympics-opening-ceremony/325597002/"
+        },
+        "last": {
+            "datetime": "2018-03-18T10:57:51Z",
+            "uri": "http://web.archive.org/web/20180318105751/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/drone-light-show-scrapped-after-logistical-challenges-winter-olympics-opening-ceremony/325597002/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-13T05:14:40Z",
+                "uri": "http://web.archive.org/web/20180213051440/http://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/drone-light-show-scrapped-after-logistical-challenges-winter-olympics-opening-ceremony/325597002/"
+            },
+            {
+                "datetime": "2018-02-13T05:14:42Z",
+                "uri": "http://web.archive.org/web/20180213051442/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/drone-light-show-scrapped-after-logistical-challenges-winter-olympics-opening-ceremony/325597002/"
+            },
+            {
+                "datetime": "2018-03-18T10:57:51Z",
+                "uri": "http://web.archive.org/web/20180318105751/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/drone-light-show-scrapped-after-logistical-challenges-winter-olympics-opening-ceremony/325597002/"
+            }
+        ]
+    },
+    "original_uri": "https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/drone-light-show-scrapped-after-logistical-challenges-winter-olympics-opening-ceremony/325597002/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/drone-light-show-scrapped-after-logistical-challenges-winter-olympics-opening-ceremony/325597002/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/drone-light-show-scrapped-after-logistical-challenges-winter-olympics-opening-ceremony/325597002/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/drone-light-show-scrapped-after-logistical-challenges-winter-olympics-opening-ceremony/325597002/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/drone-light-show-scrapped-after-logistical-challenges-winter-olympics-opening-ceremony/325597002/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/drone-light-show-scrapped-after-logistical-challenges-winter-olympics-opening-ceremony/325597002/"
+    }
+}

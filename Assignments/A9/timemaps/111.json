@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T20:52:25Z",
+            "uri": "http://web.archive.org/web/20180208205225/http://www.washingtonexaminer.com/like-trump-aide-who-resigned-two-senators-faced-spousal-abuse-charges/article/2648520"
+        },
+        "last": {
+            "datetime": "2018-02-11T02:04:41Z",
+            "uri": "http://archive.is/20180211020441/http://www.washingtonexaminer.com/like-trump-aide-who-resigned-two-senators-faced-spousal-abuse-charges/article/2648520"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T20:52:25Z",
+                "uri": "http://web.archive.org/web/20180208205225/http://www.washingtonexaminer.com/like-trump-aide-who-resigned-two-senators-faced-spousal-abuse-charges/article/2648520"
+            },
+            {
+                "datetime": "2018-02-10T04:37:24Z",
+                "uri": "http://web.archive.org/web/20180210043724/http://www.washingtonexaminer.com/like-trump-aide-who-resigned-two-senators-faced-spousal-abuse-charges/article/2648520"
+            },
+            {
+                "datetime": "2018-02-11T02:04:41Z",
+                "uri": "http://archive.is/20180211020441/http://www.washingtonexaminer.com/like-trump-aide-who-resigned-two-senators-faced-spousal-abuse-charges/article/2648520"
+            }
+        ]
+    },
+    "original_uri": "http://www.washingtonexaminer.com/like-trump-aide-who-resigned-two-senators-faced-spousal-abuse-charges/article/2648520",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.washingtonexaminer.com/like-trump-aide-who-resigned-two-senators-faced-spousal-abuse-charges/article/2648520",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.washingtonexaminer.com/like-trump-aide-who-resigned-two-senators-faced-spousal-abuse-charges/article/2648520",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.washingtonexaminer.com/like-trump-aide-who-resigned-two-senators-faced-spousal-abuse-charges/article/2648520",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.washingtonexaminer.com/like-trump-aide-who-resigned-two-senators-faced-spousal-abuse-charges/article/2648520",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.washingtonexaminer.com/like-trump-aide-who-resigned-two-senators-faced-spousal-abuse-charges/article/2648520"
+    }
+}

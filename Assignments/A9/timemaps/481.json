@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T22:24:58Z",
+            "uri": "http://web.archive.org/web/20180209222458/http://people.com/politics/donald-trump-lied-paid-melania-engagement-ring/"
+        },
+        "last": {
+            "datetime": "2018-02-24T11:52:10Z",
+            "uri": "http://web.archive.org/web/20180224115210/http://people.com/politics/donald-trump-lied-paid-melania-engagement-ring/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T22:24:58Z",
+                "uri": "http://web.archive.org/web/20180209222458/http://people.com/politics/donald-trump-lied-paid-melania-engagement-ring/"
+            },
+            {
+                "datetime": "2018-02-10T19:02:59Z",
+                "uri": "http://web.archive.org/web/20180210190259/http://people.com/politics/donald-trump-lied-paid-melania-engagement-ring/"
+            },
+            {
+                "datetime": "2018-02-11T20:24:14Z",
+                "uri": "http://web.archive.org/web/20180211202414/http://people.com/politics/donald-trump-lied-paid-melania-engagement-ring/"
+            },
+            {
+                "datetime": "2018-02-24T11:52:10Z",
+                "uri": "http://web.archive.org/web/20180224115210/http://people.com/politics/donald-trump-lied-paid-melania-engagement-ring/"
+            }
+        ]
+    },
+    "original_uri": "http://people.com/politics/donald-trump-lied-paid-melania-engagement-ring/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://people.com/politics/donald-trump-lied-paid-melania-engagement-ring/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://people.com/politics/donald-trump-lied-paid-melania-engagement-ring/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://people.com/politics/donald-trump-lied-paid-melania-engagement-ring/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://people.com/politics/donald-trump-lied-paid-melania-engagement-ring/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://people.com/politics/donald-trump-lied-paid-melania-engagement-ring/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-03T22:45:20Z",
+            "uri": "http://web.archive.org/web/20180203224520/http://usalibertypress.com/2017/12/26/jorge-ramos-trump-effect-is-scaring-illegal-immigrants-from-coming-to-the-us/"
+        },
+        "last": {
+            "datetime": "2018-03-02T07:46:58Z",
+            "uri": "http://web.archive.org/web/20180302074658/http://usalibertypress.com/2017/12/26/jorge-ramos-trump-effect-is-scaring-illegal-immigrants-from-coming-to-the-us/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-03T22:45:20Z",
+                "uri": "http://web.archive.org/web/20180203224520/http://usalibertypress.com/2017/12/26/jorge-ramos-trump-effect-is-scaring-illegal-immigrants-from-coming-to-the-us/"
+            },
+            {
+                "datetime": "2018-03-02T07:46:58Z",
+                "uri": "http://web.archive.org/web/20180302074658/http://usalibertypress.com/2017/12/26/jorge-ramos-trump-effect-is-scaring-illegal-immigrants-from-coming-to-the-us/"
+            }
+        ]
+    },
+    "original_uri": "http://usalibertypress.com/2017/12/26/jorge-ramos-trump-effect-is-scaring-illegal-immigrants-from-coming-to-the-us/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://usalibertypress.com/2017/12/26/jorge-ramos-trump-effect-is-scaring-illegal-immigrants-from-coming-to-the-us/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://usalibertypress.com/2017/12/26/jorge-ramos-trump-effect-is-scaring-illegal-immigrants-from-coming-to-the-us/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://usalibertypress.com/2017/12/26/jorge-ramos-trump-effect-is-scaring-illegal-immigrants-from-coming-to-the-us/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://usalibertypress.com/2017/12/26/jorge-ramos-trump-effect-is-scaring-illegal-immigrants-from-coming-to-the-us/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://usalibertypress.com/2017/12/26/jorge-ramos-trump-effect-is-scaring-illegal-immigrants-from-coming-to-the-us/"
+    }
+}

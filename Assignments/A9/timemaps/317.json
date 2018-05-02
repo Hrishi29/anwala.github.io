@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-03-25T12:17:47Z",
+            "uri": "http://web.archive.org/web/20180325121747/http://proceso.hn/aldia/15-al-d%C3%ADa/trump-nomina-a-un-nuevo-director-para-la-oficina-de-control-de-drogas.html"
+        },
+        "last": {
+            "datetime": "2018-03-25T12:17:47Z",
+            "uri": "http://web.archive.org/web/20180325121747/http://proceso.hn/aldia/15-al-d%C3%ADa/trump-nomina-a-un-nuevo-director-para-la-oficina-de-control-de-drogas.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-03-25T12:17:47Z",
+                "uri": "http://web.archive.org/web/20180325121747/http://proceso.hn/aldia/15-al-d%C3%ADa/trump-nomina-a-un-nuevo-director-para-la-oficina-de-control-de-drogas.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.proceso.hn/aldia/15-al-d%C3%ADa/trump-nomina-a-un-nuevo-director-para-la-oficina-de-control-de-drogas.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.proceso.hn/aldia/15-al-d%C3%ADa/trump-nomina-a-un-nuevo-director-para-la-oficina-de-control-de-drogas.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.proceso.hn/aldia/15-al-d%C3%ADa/trump-nomina-a-un-nuevo-director-para-la-oficina-de-control-de-drogas.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.proceso.hn/aldia/15-al-d%C3%ADa/trump-nomina-a-un-nuevo-director-para-la-oficina-de-control-de-drogas.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.proceso.hn/aldia/15-al-d%C3%ADa/trump-nomina-a-un-nuevo-director-para-la-oficina-de-control-de-drogas.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.proceso.hn/aldia/15-al-d%C3%ADa/trump-nomina-a-un-nuevo-director-para-la-oficina-de-control-de-drogas.html"
+    }
+}

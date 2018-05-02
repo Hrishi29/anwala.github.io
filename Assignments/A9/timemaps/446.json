@@ -1,0 +1,94 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T15:29:21Z",
+            "uri": "http://web.archive.org/web/20180210152921/http://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+        },
+        "last": {
+            "datetime": "2018-04-13T10:49:42Z",
+            "uri": "http://web.archive.org/web/20180413104942/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T15:29:21Z",
+                "uri": "http://web.archive.org/web/20180210152921/http://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-02-10T21:38:43Z",
+                "uri": "http://web.archive.org/web/20180210213843/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-02-10T21:59:51Z",
+                "uri": "http://web.archive.org/web/20180210215951/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-02-11T05:12:27Z",
+                "uri": "http://web.archive.org/web/20180211051227/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-02-12T02:45:45Z",
+                "uri": "http://web.archive.org/web/20180212024545/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-02-12T04:29:15Z",
+                "uri": "http://web.archive.org/web/20180212042915/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-02-12T10:12:22Z",
+                "uri": "http://web.archive.org/web/20180212101222/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-02-13T09:20:20Z",
+                "uri": "http://web.archive.org/web/20180213092020/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-02-14T01:57:55Z",
+                "uri": "http://web.archive.org/web/20180214015755/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-02-14T07:40:55Z",
+                "uri": "http://web.archive.org/web/20180214074055/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-03-07T06:28:37Z",
+                "uri": "http://web.archive.org/web/20180307062837/http://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-03-07T06:28:39Z",
+                "uri": "http://web.archive.org/web/20180307062839/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-03-29T06:00:27Z",
+                "uri": "http://web.archive.org/web/20180329060027/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-03-30T06:43:58Z",
+                "uri": "http://web.archive.org/web/20180330064358/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-03-30T08:11:44Z",
+                "uri": "http://web.archive.org/web/20180330081144/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-04-01T12:14:42Z",
+                "uri": "http://web.archive.org/web/20180401121442/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-04-02T10:13:17Z",
+                "uri": "http://web.archive.org/web/20180402101317/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            },
+            {
+                "datetime": "2018-04-13T10:49:42Z",
+                "uri": "http://web.archive.org/web/20180413104942/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/02/09/us/politics/david-sorensen-trump-abuse.html"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T01:34:47Z",
+            "uri": "http://web.archive.org/web/20180211013447/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe"
+        },
+        "last": {
+            "datetime": "2018-03-09T18:42:43Z",
+            "uri": "http://web.archive.org/web/20180309184243/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T01:34:47Z",
+                "uri": "http://web.archive.org/web/20180211013447/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe"
+            },
+            {
+                "datetime": "2018-02-15T23:09:25Z",
+                "uri": "http://web.archive.org/web/20180215230925/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe"
+            },
+            {
+                "datetime": "2018-02-16T23:21:26Z",
+                "uri": "http://web.archive.org/web/20180216232126/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe"
+            },
+            {
+                "datetime": "2018-02-18T00:19:11Z",
+                "uri": "http://web.archive.org/web/20180218001911/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe"
+            },
+            {
+                "datetime": "2018-02-19T00:50:52Z",
+                "uri": "http://web.archive.org/web/20180219005052/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe"
+            },
+            {
+                "datetime": "2018-02-20T01:05:55Z",
+                "uri": "http://web.archive.org/web/20180220010555/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe"
+            },
+            {
+                "datetime": "2018-02-25T03:53:38Z",
+                "uri": "http://web.archive.org/web/20180225035338/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe"
+            },
+            {
+                "datetime": "2018-02-26T04:47:28Z",
+                "uri": "http://web.archive.org/web/20180226044728/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe"
+            },
+            {
+                "datetime": "2018-02-28T12:56:16Z",
+                "uri": "http://web.archive.org/web/20180228125616/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe"
+            },
+            {
+                "datetime": "2018-03-09T18:42:43Z",
+                "uri": "http://web.archive.org/web/20180309184243/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe"
+            }
+        ]
+    },
+    "original_uri": "https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.pbs.org/newshour/politics/trump-weighing-his-options-on-releasing-democratic-memo-on-russia-probe"
+    }
+}

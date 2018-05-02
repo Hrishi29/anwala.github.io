@@ -1,0 +1,54 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T05:14:40Z",
+            "uri": "http://web.archive.org/web/20180210051440/http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/"
+        },
+        "last": {
+            "datetime": "2018-04-02T03:43:50Z",
+            "uri": "http://web.archive.org/web/20180402034350/http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T05:14:40Z",
+                "uri": "http://web.archive.org/web/20180210051440/http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/"
+            },
+            {
+                "datetime": "2018-02-11T07:44:48Z",
+                "uri": "http://wayback.archive-it.org/all/20180211074448/http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/"
+            },
+            {
+                "datetime": "2018-02-11T07:44:48Z",
+                "uri": "http://web.archive.org/web/20180211074448/http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/"
+            },
+            {
+                "datetime": "2018-02-11T20:39:44Z",
+                "uri": "http://web.archive.org/web/20180211203944/http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/"
+            },
+            {
+                "datetime": "2018-02-12T06:29:37Z",
+                "uri": "http://web.archive.org/web/20180212062937/http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/"
+            },
+            {
+                "datetime": "2018-02-13T21:48:42Z",
+                "uri": "http://web.archive.org/web/20180213214842/http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/"
+            },
+            {
+                "datetime": "2018-02-18T04:40:16Z",
+                "uri": "http://web.archive.org/web/20180218044016/http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/"
+            },
+            {
+                "datetime": "2018-04-02T03:43:50Z",
+                "uri": "http://web.archive.org/web/20180402034350/http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/"
+            }
+        ]
+    },
+    "original_uri": "http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://people.com/sports/winter-olympics-2018-figure-skater-nathan-chen-falls/"
+    }
+}

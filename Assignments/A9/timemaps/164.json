@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T02:50:54Z",
+            "uri": "http://web.archive.org/web/20180210025054/http://thehill.com/homenews/administration/373220-at-least-30-white-house-officials-trump-appointees-lack-full"
+        },
+        "last": {
+            "datetime": "2018-04-01T08:07:24Z",
+            "uri": "http://web.archive.org/web/20180401080724/http://thehill.com/homenews/administration/373220-at-least-30-white-house-officials-trump-appointees-lack-full"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T02:50:54Z",
+                "uri": "http://web.archive.org/web/20180210025054/http://thehill.com/homenews/administration/373220-at-least-30-white-house-officials-trump-appointees-lack-full"
+            },
+            {
+                "datetime": "2018-02-10T04:41:03Z",
+                "uri": "http://web.archive.org/web/20180210044103/http://thehill.com/homenews/administration/373220-at-least-30-white-house-officials-trump-appointees-lack-full"
+            },
+            {
+                "datetime": "2018-02-11T05:24:14Z",
+                "uri": "http://wayback.archive-it.org/all/20180211052414/http://thehill.com/homenews/administration/373220-at-least-30-white-house-officials-trump-appointees-lack-full"
+            },
+            {
+                "datetime": "2018-02-11T05:24:14Z",
+                "uri": "http://web.archive.org/web/20180211052414/http://thehill.com/homenews/administration/373220-at-least-30-white-house-officials-trump-appointees-lack-full"
+            },
+            {
+                "datetime": "2018-04-01T08:07:24Z",
+                "uri": "http://web.archive.org/web/20180401080724/http://thehill.com/homenews/administration/373220-at-least-30-white-house-officials-trump-appointees-lack-full"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/homenews/administration/373220-at-least-30-white-house-officials-trump-appointees-lack-full",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/administration/373220-at-least-30-white-house-officials-trump-appointees-lack-full",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/homenews/administration/373220-at-least-30-white-house-officials-trump-appointees-lack-full",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/homenews/administration/373220-at-least-30-white-house-officials-trump-appointees-lack-full",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/administration/373220-at-least-30-white-house-officials-trump-appointees-lack-full",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/homenews/administration/373220-at-least-30-white-house-officials-trump-appointees-lack-full"
+    }
+}

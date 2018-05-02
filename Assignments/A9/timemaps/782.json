@@ -1,0 +1,58 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-03-04T18:38:10Z",
+            "uri": "http://web.archive.org/web/20180304183810/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517"
+        },
+        "last": {
+            "datetime": "2018-04-22T17:51:26Z",
+            "uri": "http://web.archive.org/web/20180422175126/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517"
+        },
+        "list": [
+            {
+                "datetime": "2018-03-04T18:38:10Z",
+                "uri": "http://web.archive.org/web/20180304183810/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517"
+            },
+            {
+                "datetime": "2018-03-09T18:20:53Z",
+                "uri": "http://web.archive.org/web/20180309182053/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517"
+            },
+            {
+                "datetime": "2018-03-11T14:49:47Z",
+                "uri": "http://web.archive.org/web/20180311144947/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517"
+            },
+            {
+                "datetime": "2018-03-18T16:54:12Z",
+                "uri": "http://web.archive.org/web/20180318165412/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517"
+            },
+            {
+                "datetime": "2018-03-25T18:16:13Z",
+                "uri": "http://web.archive.org/web/20180325181613/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517"
+            },
+            {
+                "datetime": "2018-04-01T18:06:21Z",
+                "uri": "http://web.archive.org/web/20180401180621/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517"
+            },
+            {
+                "datetime": "2018-04-08T17:59:34Z",
+                "uri": "http://web.archive.org/web/20180408175934/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517"
+            },
+            {
+                "datetime": "2018-04-15T18:17:27Z",
+                "uri": "http://web.archive.org/web/20180415181727/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517"
+            },
+            {
+                "datetime": "2018-04-22T17:51:26Z",
+                "uri": "http://web.archive.org/web/20180422175126/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517"
+            }
+        ]
+    },
+    "original_uri": "https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.mirror.co.uk/news/politics/jeremy-corbyn-demands-world-cup-11992517"
+    }
+}

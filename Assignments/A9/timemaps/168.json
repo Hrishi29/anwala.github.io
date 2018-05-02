@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T19:37:40Z",
+            "uri": "http://web.archive.org/web/20180211193740/https://shareblue.com/air-force-jag-congressman-nails-trump-an-innocent-person-would-not-block-the-democratic-memo/"
+        },
+        "last": {
+            "datetime": "2018-02-25T06:45:47Z",
+            "uri": "http://web.archive.org/web/20180225064547/https://shareblue.com/air-force-jag-congressman-nails-trump-an-innocent-person-would-not-block-the-democratic-memo/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T19:37:40Z",
+                "uri": "http://web.archive.org/web/20180211193740/https://shareblue.com/air-force-jag-congressman-nails-trump-an-innocent-person-would-not-block-the-democratic-memo/"
+            },
+            {
+                "datetime": "2018-02-25T06:45:47Z",
+                "uri": "http://wayback.archive-it.org/all/20180225064547/https://shareblue.com/air-force-jag-congressman-nails-trump-an-innocent-person-would-not-block-the-democratic-memo/"
+            },
+            {
+                "datetime": "2018-02-25T06:45:47Z",
+                "uri": "http://web.archive.org/web/20180225064547/https://shareblue.com/air-force-jag-congressman-nails-trump-an-innocent-person-would-not-block-the-democratic-memo/"
+            }
+        ]
+    },
+    "original_uri": "https://shareblue.com/air-force-jag-congressman-nails-trump-an-innocent-person-would-not-block-the-democratic-memo/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://shareblue.com/air-force-jag-congressman-nails-trump-an-innocent-person-would-not-block-the-democratic-memo/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://shareblue.com/air-force-jag-congressman-nails-trump-an-innocent-person-would-not-block-the-democratic-memo/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://shareblue.com/air-force-jag-congressman-nails-trump-an-innocent-person-would-not-block-the-democratic-memo/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://shareblue.com/air-force-jag-congressman-nails-trump-an-innocent-person-would-not-block-the-democratic-memo/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://shareblue.com/air-force-jag-congressman-nails-trump-an-innocent-person-would-not-block-the-democratic-memo/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-15T13:06:38Z",
+            "uri": "http://web.archive.org/web/20180215130638/https://shareblue.com/trump-throws-female-aide-hope-hicks-under-the-bus-to-cover-for-john-kelly-in-latest-scandal/"
+        },
+        "last": {
+            "datetime": "2018-02-15T13:06:38Z",
+            "uri": "http://web.archive.org/web/20180215130638/https://shareblue.com/trump-throws-female-aide-hope-hicks-under-the-bus-to-cover-for-john-kelly-in-latest-scandal/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-15T13:06:38Z",
+                "uri": "http://web.archive.org/web/20180215130638/https://shareblue.com/trump-throws-female-aide-hope-hicks-under-the-bus-to-cover-for-john-kelly-in-latest-scandal/"
+            }
+        ]
+    },
+    "original_uri": "https://shareblue.com/trump-throws-female-aide-hope-hicks-under-the-bus-to-cover-for-john-kelly-in-latest-scandal/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://shareblue.com/trump-throws-female-aide-hope-hicks-under-the-bus-to-cover-for-john-kelly-in-latest-scandal/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://shareblue.com/trump-throws-female-aide-hope-hicks-under-the-bus-to-cover-for-john-kelly-in-latest-scandal/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://shareblue.com/trump-throws-female-aide-hope-hicks-under-the-bus-to-cover-for-john-kelly-in-latest-scandal/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://shareblue.com/trump-throws-female-aide-hope-hicks-under-the-bus-to-cover-for-john-kelly-in-latest-scandal/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://shareblue.com/trump-throws-female-aide-hope-hicks-under-the-bus-to-cover-for-john-kelly-in-latest-scandal/"
+    }
+}

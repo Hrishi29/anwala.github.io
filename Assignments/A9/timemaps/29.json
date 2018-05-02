@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T16:20:53Z",
+            "uri": "http://web.archive.org/web/20180209162053/https://www.theguardian.com/commentisfree/2018/feb/09/trump-saddle-america-debt-bankrupted-hotels?CMP=share_btn_fb"
+        },
+        "last": {
+            "datetime": "2018-02-11T06:02:04Z",
+            "uri": "http://web.archive.org/web/20180211060204/https://www.theguardian.com/commentisfree/2018/feb/09/trump-saddle-america-debt-bankrupted-hotels?CMP=share_btn_fb"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T16:20:53Z",
+                "uri": "http://web.archive.org/web/20180209162053/https://www.theguardian.com/commentisfree/2018/feb/09/trump-saddle-america-debt-bankrupted-hotels?CMP=share_btn_fb"
+            },
+            {
+                "datetime": "2018-02-11T06:02:04Z",
+                "uri": "http://web.archive.org/web/20180211060204/https://www.theguardian.com/commentisfree/2018/feb/09/trump-saddle-america-debt-bankrupted-hotels?CMP=share_btn_fb"
+            }
+        ]
+    },
+    "original_uri": "https://www.theguardian.com/commentisfree/2018/feb/09/trump-saddle-america-debt-bankrupted-hotels?CMP=share_btn_fb",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/commentisfree/2018/feb/09/trump-saddle-america-debt-bankrupted-hotels?CMP=share_btn_fb",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/commentisfree/2018/feb/09/trump-saddle-america-debt-bankrupted-hotels?CMP=share_btn_fb",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/commentisfree/2018/feb/09/trump-saddle-america-debt-bankrupted-hotels?CMP=share_btn_fb",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/commentisfree/2018/feb/09/trump-saddle-america-debt-bankrupted-hotels?CMP=share_btn_fb",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/commentisfree/2018/feb/09/trump-saddle-america-debt-bankrupted-hotels?CMP=share_btn_fb"
+    }
+}

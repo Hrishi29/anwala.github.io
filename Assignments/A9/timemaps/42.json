@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-01-10T22:59:23Z",
+            "uri": "http://webarchive.loc.gov/all/20160110225923/http://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article50358355.html"
+        },
+        "last": {
+            "datetime": "2018-02-09T13:13:51Z",
+            "uri": "http://web.archive.org/web/20180209131351/http://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article50358355.html"
+        },
+        "list": [
+            {
+                "datetime": "2016-01-10T22:59:23Z",
+                "uri": "http://webarchive.loc.gov/all/20160110225923/http://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article50358355.html"
+            },
+            {
+                "datetime": "2017-10-13T05:53:45Z",
+                "uri": "http://web.archive.org/web/20171013055345/http://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article50358355.html"
+            },
+            {
+                "datetime": "2017-11-10T08:46:06Z",
+                "uri": "http://web.archive.org/web/20171110084606/http://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article50358355.html"
+            },
+            {
+                "datetime": "2018-02-09T13:13:51Z",
+                "uri": "http://web.archive.org/web/20180209131351/http://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article50358355.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article50358355.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article50358355.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article50358355.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article50358355.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article50358355.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article50358355.html"
+    }
+}

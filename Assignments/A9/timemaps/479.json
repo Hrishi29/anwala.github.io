@@ -1,0 +1,82 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-03T21:27:50Z",
+            "uri": "http://web.archive.org/web/20180203212750/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+        },
+        "last": {
+            "datetime": "2018-04-11T23:06:24Z",
+            "uri": "http://web.archive.org/web/20180411230624/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-03T21:27:50Z",
+                "uri": "http://web.archive.org/web/20180203212750/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+            },
+            {
+                "datetime": "2018-02-03T21:40:25Z",
+                "uri": "http://web.archive.org/web/20180203214025/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+            },
+            {
+                "datetime": "2018-02-03T21:51:35Z",
+                "uri": "http://web.archive.org/web/20180203215135/http://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+            },
+            {
+                "datetime": "2018-02-04T03:22:05Z",
+                "uri": "http://web.archive.org/web/20180204032205/http://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+            },
+            {
+                "datetime": "2018-02-04T03:22:06Z",
+                "uri": "http://web.archive.org/web/20180204032206/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+            },
+            {
+                "datetime": "2018-02-04T05:08:37Z",
+                "uri": "http://wayback.archive-it.org/all/20180204050837/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+            },
+            {
+                "datetime": "2018-02-04T05:08:37Z",
+                "uri": "http://web.archive.org/web/20180204050837/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+            },
+            {
+                "datetime": "2018-02-04T20:37:48Z",
+                "uri": "http://web.archive.org/web/20180204203748/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+            },
+            {
+                "datetime": "2018-02-11T08:34:18Z",
+                "uri": "http://wayback.archive-it.org/all/20180211083418/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+            },
+            {
+                "datetime": "2018-02-11T08:34:18Z",
+                "uri": "http://web.archive.org/web/20180211083418/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+            },
+            {
+                "datetime": "2018-02-25T06:42:09Z",
+                "uri": "http://wayback.archive-it.org/all/20180225064209/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+            },
+            {
+                "datetime": "2018-02-25T06:42:09Z",
+                "uri": "http://web.archive.org/web/20180225064209/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+            },
+            {
+                "datetime": "2018-04-11T23:05:15Z",
+                "uri": "http://web.archive.org/web/20180411230515/http://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+            },
+            {
+                "datetime": "2018-04-11T23:05:17Z",
+                "uri": "http://web.archive.org/web/20180411230517/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+            },
+            {
+                "datetime": "2018-04-11T23:06:24Z",
+                "uri": "http://web.archive.org/web/20180411230624/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+            }
+        ]
+    },
+    "original_uri": "https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theatlantic.com/politics/archive/2018/02/stop-searching-for-a-new-saturday-night-massacre/552209/"
+    }
+}

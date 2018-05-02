@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-04-11T03:15:04Z",
+            "uri": "http://web.archive.org/web/20180411031504/https://sportiva.shueisha.co.jp/clm/football/jleague_other/2018/02/09/___split_13/"
+        },
+        "last": {
+            "datetime": "2018-04-12T13:12:04Z",
+            "uri": "http://web.archive.org/web/20180412131204/https://sportiva.shueisha.co.jp/clm/football/jleague_other/2018/02/09/___split_13/"
+        },
+        "list": [
+            {
+                "datetime": "2018-04-11T03:15:04Z",
+                "uri": "http://web.archive.org/web/20180411031504/https://sportiva.shueisha.co.jp/clm/football/jleague_other/2018/02/09/___split_13/"
+            },
+            {
+                "datetime": "2018-04-12T13:12:04Z",
+                "uri": "http://web.archive.org/web/20180412131204/https://sportiva.shueisha.co.jp/clm/football/jleague_other/2018/02/09/___split_13/"
+            }
+        ]
+    },
+    "original_uri": "https://sportiva.shueisha.co.jp/clm/football/jleague_other/2018/02/09/___split_13/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://sportiva.shueisha.co.jp/clm/football/jleague_other/2018/02/09/___split_13/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://sportiva.shueisha.co.jp/clm/football/jleague_other/2018/02/09/___split_13/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://sportiva.shueisha.co.jp/clm/football/jleague_other/2018/02/09/___split_13/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://sportiva.shueisha.co.jp/clm/football/jleague_other/2018/02/09/___split_13/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://sportiva.shueisha.co.jp/clm/football/jleague_other/2018/02/09/___split_13/"
+    }
+}

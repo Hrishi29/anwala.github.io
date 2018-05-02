@@ -1,0 +1,58 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T20:57:51Z",
+            "uri": "http://web.archive.org/web/20180209205751/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/"
+        },
+        "last": {
+            "datetime": "2018-04-29T19:01:33Z",
+            "uri": "http://web.archive.org/web/20180429190133/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T20:57:51Z",
+                "uri": "http://web.archive.org/web/20180209205751/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/"
+            },
+            {
+                "datetime": "2018-02-09T22:45:05Z",
+                "uri": "http://web.archive.org/web/20180209224505/http://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/"
+            },
+            {
+                "datetime": "2018-02-15T18:15:32Z",
+                "uri": "http://web.archive.org/web/20180215181532/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/"
+            },
+            {
+                "datetime": "2018-02-15T18:15:32Z",
+                "uri": "http://web.archive.org/web/20180215181532/http://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/"
+            },
+            {
+                "datetime": "2018-02-25T07:24:33Z",
+                "uri": "http://wayback.archive-it.org/all/20180225072433/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/"
+            },
+            {
+                "datetime": "2018-02-25T07:24:33Z",
+                "uri": "http://web.archive.org/web/20180225072433/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/"
+            },
+            {
+                "datetime": "2018-03-18T10:58:35Z",
+                "uri": "http://web.archive.org/web/20180318105835/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/"
+            },
+            {
+                "datetime": "2018-04-29T19:01:29Z",
+                "uri": "http://web.archive.org/web/20180429190129/http://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/"
+            },
+            {
+                "datetime": "2018-04-29T19:01:33Z",
+                "uri": "http://web.archive.org/web/20180429190133/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/"
+            }
+        ]
+    },
+    "original_uri": "https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.usatoday.com/story/sports/winter-olympics-2018/2018/02/09/opening-ceremony-winter-olympics-2018/322556002/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-07T16:19:32Z",
+            "uri": "http://web.archive.org/web/20180207161932/http://bangordailynews.com/2018/02/07/politics/as-maines-recreational-pot-law-stalls-lawmakers-seek-to-revamp-medical-marijuana-program/"
+        },
+        "last": {
+            "datetime": "2018-02-07T16:19:32Z",
+            "uri": "http://web.archive.org/web/20180207161932/http://bangordailynews.com/2018/02/07/politics/as-maines-recreational-pot-law-stalls-lawmakers-seek-to-revamp-medical-marijuana-program/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-07T16:19:32Z",
+                "uri": "http://web.archive.org/web/20180207161932/http://bangordailynews.com/2018/02/07/politics/as-maines-recreational-pot-law-stalls-lawmakers-seek-to-revamp-medical-marijuana-program/"
+            }
+        ]
+    },
+    "original_uri": "https://bangordailynews.com/2018/02/07/politics/as-maines-recreational-pot-law-stalls-lawmakers-seek-to-revamp-medical-marijuana-program/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://bangordailynews.com/2018/02/07/politics/as-maines-recreational-pot-law-stalls-lawmakers-seek-to-revamp-medical-marijuana-program/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://bangordailynews.com/2018/02/07/politics/as-maines-recreational-pot-law-stalls-lawmakers-seek-to-revamp-medical-marijuana-program/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://bangordailynews.com/2018/02/07/politics/as-maines-recreational-pot-law-stalls-lawmakers-seek-to-revamp-medical-marijuana-program/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://bangordailynews.com/2018/02/07/politics/as-maines-recreational-pot-law-stalls-lawmakers-seek-to-revamp-medical-marijuana-program/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://bangordailynews.com/2018/02/07/politics/as-maines-recreational-pot-law-stalls-lawmakers-seek-to-revamp-medical-marijuana-program/"
+    }
+}

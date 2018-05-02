@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T06:24:19Z",
+            "uri": "http://web.archive.org/web/20180209062419/https://globalnews.ca/news/4015565/norway-olympics-team-eggs/"
+        },
+        "last": {
+            "datetime": "2018-02-09T08:08:39Z",
+            "uri": "http://web.archive.org/web/20180209080839/http://globalnews.ca/news/4015565/norway-olympics-team-eggs/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T06:24:19Z",
+                "uri": "http://web.archive.org/web/20180209062419/https://globalnews.ca/news/4015565/norway-olympics-team-eggs/"
+            },
+            {
+                "datetime": "2018-02-09T08:08:39Z",
+                "uri": "http://web.archive.org/web/20180209080839/http://globalnews.ca/news/4015565/norway-olympics-team-eggs/"
+            }
+        ]
+    },
+    "original_uri": "https://globalnews.ca/news/4015565/norway-olympics-team-eggs/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://globalnews.ca/news/4015565/norway-olympics-team-eggs/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://globalnews.ca/news/4015565/norway-olympics-team-eggs/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://globalnews.ca/news/4015565/norway-olympics-team-eggs/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://globalnews.ca/news/4015565/norway-olympics-team-eggs/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://globalnews.ca/news/4015565/norway-olympics-team-eggs/"
+    }
+}

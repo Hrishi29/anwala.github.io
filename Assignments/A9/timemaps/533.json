@@ -1,0 +1,2618 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T14:23:16Z",
+            "uri": "http://web.archive.org/web/20180209142316/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+        },
+        "last": {
+            "datetime": "2018-05-01T05:01:21Z",
+            "uri": "http://web.archive.org/web/20180501050121/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T14:23:16Z",
+                "uri": "http://web.archive.org/web/20180209142316/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-09T14:23:17Z",
+                "uri": "http://web.archive.org/web/20180209142317/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-10T11:49:23Z",
+                "uri": "http://web.archive.org/web/20180210114923/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-10T11:49:23Z",
+                "uri": "http://web.archive.org/web/20180210114923/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-10T12:22:19Z",
+                "uri": "http://web.archive.org/web/20180210122219/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-10T18:54:11Z",
+                "uri": "http://web.archive.org/web/20180210185411/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-10T18:54:12Z",
+                "uri": "http://web.archive.org/web/20180210185412/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-10T19:12:57Z",
+                "uri": "http://web.archive.org/web/20180210191257/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-10T19:12:59Z",
+                "uri": "http://web.archive.org/web/20180210191259/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-11T09:45:43Z",
+                "uri": "http://web.archive.org/web/20180211094543/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-11T09:53:48Z",
+                "uri": "http://web.archive.org/web/20180211095348/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-11T15:56:32Z",
+                "uri": "http://web.archive.org/web/20180211155632/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-11T15:56:33Z",
+                "uri": "http://web.archive.org/web/20180211155633/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-11T17:29:50Z",
+                "uri": "http://web.archive.org/web/20180211172950/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-11T17:29:51Z",
+                "uri": "http://web.archive.org/web/20180211172951/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-12T08:00:46Z",
+                "uri": "http://web.archive.org/web/20180212080046/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-12T08:00:47Z",
+                "uri": "http://web.archive.org/web/20180212080047/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-12T08:43:47Z",
+                "uri": "http://web.archive.org/web/20180212084347/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-12T08:43:48Z",
+                "uri": "http://web.archive.org/web/20180212084348/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-12T10:07:10Z",
+                "uri": "http://web.archive.org/web/20180212100710/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-12T10:50:22Z",
+                "uri": "http://web.archive.org/web/20180212105022/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-12T10:50:23Z",
+                "uri": "http://web.archive.org/web/20180212105023/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-12T19:40:39Z",
+                "uri": "http://web.archive.org/web/20180212194039/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-13T00:39:57Z",
+                "uri": "http://web.archive.org/web/20180213003957/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-13T00:39:57Z",
+                "uri": "http://web.archive.org/web/20180213003957/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-13T01:22:37Z",
+                "uri": "http://web.archive.org/web/20180213012237/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-13T01:22:38Z",
+                "uri": "http://web.archive.org/web/20180213012238/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-13T01:25:10Z",
+                "uri": "http://web.archive.org/web/20180213012510/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-13T01:25:28Z",
+                "uri": "http://web.archive.org/web/20180213012528/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-13T04:44:04Z",
+                "uri": "http://web.archive.org/web/20180213044404/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-13T04:44:19Z",
+                "uri": "http://web.archive.org/web/20180213044419/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-13T13:28:29Z",
+                "uri": "http://web.archive.org/web/20180213132829/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-13T13:32:15Z",
+                "uri": "http://web.archive.org/web/20180213133215/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-13T15:46:41Z",
+                "uri": "http://web.archive.org/web/20180213154641/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-13T15:46:42Z",
+                "uri": "http://web.archive.org/web/20180213154642/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-14T10:28:21Z",
+                "uri": "http://web.archive.org/web/20180214102821/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-14T10:28:22Z",
+                "uri": "http://web.archive.org/web/20180214102822/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-14T12:01:03Z",
+                "uri": "http://web.archive.org/web/20180214120103/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-14T13:29:47Z",
+                "uri": "http://web.archive.org/web/20180214132947/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-14T13:29:47Z",
+                "uri": "http://web.archive.org/web/20180214132947/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-14T15:08:03Z",
+                "uri": "http://web.archive.org/web/20180214150803/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-14T15:08:04Z",
+                "uri": "http://web.archive.org/web/20180214150804/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-14T23:07:36Z",
+                "uri": "http://web.archive.org/web/20180214230736/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-14T23:07:36Z",
+                "uri": "http://web.archive.org/web/20180214230736/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-15T01:35:53Z",
+                "uri": "http://web.archive.org/web/20180215013553/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-15T01:35:53Z",
+                "uri": "http://web.archive.org/web/20180215013553/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-15T09:37:06Z",
+                "uri": "http://web.archive.org/web/20180215093706/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-15T09:37:06Z",
+                "uri": "http://web.archive.org/web/20180215093706/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-15T10:11:15Z",
+                "uri": "http://web.archive.org/web/20180215101115/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-15T10:11:20Z",
+                "uri": "http://web.archive.org/web/20180215101120/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-15T23:48:56Z",
+                "uri": "http://web.archive.org/web/20180215234856/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-16T01:02:39Z",
+                "uri": "http://web.archive.org/web/20180216010239/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-16T01:02:39Z",
+                "uri": "http://web.archive.org/web/20180216010239/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-16T04:01:13Z",
+                "uri": "http://web.archive.org/web/20180216040113/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-16T04:01:14Z",
+                "uri": "http://web.archive.org/web/20180216040114/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-16T04:44:48Z",
+                "uri": "http://web.archive.org/web/20180216044448/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-16T14:45:37Z",
+                "uri": "http://web.archive.org/web/20180216144537/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-16T14:45:38Z",
+                "uri": "http://web.archive.org/web/20180216144538/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-16T19:51:22Z",
+                "uri": "http://web.archive.org/web/20180216195122/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-16T19:51:23Z",
+                "uri": "http://web.archive.org/web/20180216195123/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-17T02:23:17Z",
+                "uri": "http://web.archive.org/web/20180217022317/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-17T02:23:17Z",
+                "uri": "http://web.archive.org/web/20180217022317/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-17T07:41:15Z",
+                "uri": "http://web.archive.org/web/20180217074115/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-17T11:24:06Z",
+                "uri": "http://web.archive.org/web/20180217112406/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-17T11:24:07Z",
+                "uri": "http://web.archive.org/web/20180217112407/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-17T12:09:53Z",
+                "uri": "http://web.archive.org/web/20180217120953/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-17T12:09:53Z",
+                "uri": "http://web.archive.org/web/20180217120953/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-17T15:45:10Z",
+                "uri": "http://web.archive.org/web/20180217154510/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-17T16:02:37Z",
+                "uri": "http://web.archive.org/web/20180217160237/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-17T16:02:38Z",
+                "uri": "http://web.archive.org/web/20180217160238/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-18T07:59:13Z",
+                "uri": "http://web.archive.org/web/20180218075913/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-18T07:59:13Z",
+                "uri": "http://web.archive.org/web/20180218075913/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-18T09:34:49Z",
+                "uri": "http://web.archive.org/web/20180218093449/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-18T09:34:50Z",
+                "uri": "http://web.archive.org/web/20180218093450/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-18T15:59:02Z",
+                "uri": "http://web.archive.org/web/20180218155902/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-18T15:59:04Z",
+                "uri": "http://web.archive.org/web/20180218155904/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-18T16:28:32Z",
+                "uri": "http://web.archive.org/web/20180218162832/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-18T16:28:33Z",
+                "uri": "http://web.archive.org/web/20180218162833/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-19T11:08:38Z",
+                "uri": "http://web.archive.org/web/20180219110838/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T01:53:20Z",
+                "uri": "http://web.archive.org/web/20180220015320/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T01:53:21Z",
+                "uri": "http://web.archive.org/web/20180220015321/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T04:31:41Z",
+                "uri": "http://web.archive.org/web/20180220043141/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T04:31:41Z",
+                "uri": "http://web.archive.org/web/20180220043141/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T04:59:50Z",
+                "uri": "http://web.archive.org/web/20180220045950/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T04:59:51Z",
+                "uri": "http://web.archive.org/web/20180220045951/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T05:40:23Z",
+                "uri": "http://web.archive.org/web/20180220054023/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T05:40:24Z",
+                "uri": "http://web.archive.org/web/20180220054024/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T09:10:33Z",
+                "uri": "http://web.archive.org/web/20180220091033/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T09:10:34Z",
+                "uri": "http://web.archive.org/web/20180220091034/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T09:33:00Z",
+                "uri": "http://web.archive.org/web/20180220093300/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T09:33:02Z",
+                "uri": "http://web.archive.org/web/20180220093302/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T11:20:24Z",
+                "uri": "http://web.archive.org/web/20180220112024/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T11:20:28Z",
+                "uri": "http://web.archive.org/web/20180220112028/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T14:16:03Z",
+                "uri": "http://web.archive.org/web/20180220141603/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T14:16:03Z",
+                "uri": "http://web.archive.org/web/20180220141603/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T14:17:34Z",
+                "uri": "http://web.archive.org/web/20180220141734/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T14:35:09Z",
+                "uri": "http://web.archive.org/web/20180220143509/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T14:35:10Z",
+                "uri": "http://web.archive.org/web/20180220143510/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T22:55:40Z",
+                "uri": "http://web.archive.org/web/20180220225540/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-20T22:55:40Z",
+                "uri": "http://web.archive.org/web/20180220225540/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-21T08:39:07Z",
+                "uri": "http://web.archive.org/web/20180221083907/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-21T08:39:09Z",
+                "uri": "http://web.archive.org/web/20180221083909/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-21T12:58:21Z",
+                "uri": "http://web.archive.org/web/20180221125821/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-21T12:58:23Z",
+                "uri": "http://web.archive.org/web/20180221125823/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-21T17:41:54Z",
+                "uri": "http://web.archive.org/web/20180221174154/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-21T17:41:56Z",
+                "uri": "http://web.archive.org/web/20180221174156/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-21T17:46:20Z",
+                "uri": "http://web.archive.org/web/20180221174620/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-21T19:51:31Z",
+                "uri": "http://web.archive.org/web/20180221195131/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-21T19:51:31Z",
+                "uri": "http://web.archive.org/web/20180221195131/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-21T20:03:47Z",
+                "uri": "http://web.archive.org/web/20180221200347/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-21T20:03:48Z",
+                "uri": "http://web.archive.org/web/20180221200348/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-21T20:05:16Z",
+                "uri": "http://web.archive.org/web/20180221200516/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-21T20:05:17Z",
+                "uri": "http://web.archive.org/web/20180221200517/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-21T21:43:08Z",
+                "uri": "http://web.archive.org/web/20180221214308/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-21T21:43:09Z",
+                "uri": "http://web.archive.org/web/20180221214309/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-22T06:16:04Z",
+                "uri": "http://web.archive.org/web/20180222061604/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-22T12:01:31Z",
+                "uri": "http://web.archive.org/web/20180222120131/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-22T12:01:31Z",
+                "uri": "http://web.archive.org/web/20180222120131/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-22T15:06:39Z",
+                "uri": "http://web.archive.org/web/20180222150639/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-22T15:06:40Z",
+                "uri": "http://web.archive.org/web/20180222150640/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-22T18:14:36Z",
+                "uri": "http://web.archive.org/web/20180222181436/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-22T20:17:12Z",
+                "uri": "http://web.archive.org/web/20180222201712/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-22T20:17:13Z",
+                "uri": "http://web.archive.org/web/20180222201713/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-22T22:26:19Z",
+                "uri": "http://web.archive.org/web/20180222222619/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-22T22:26:20Z",
+                "uri": "http://web.archive.org/web/20180222222620/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-22T23:10:13Z",
+                "uri": "http://web.archive.org/web/20180222231013/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-22T23:10:15Z",
+                "uri": "http://web.archive.org/web/20180222231015/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-23T23:23:53Z",
+                "uri": "http://web.archive.org/web/20180223232353/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-26T17:06:39Z",
+                "uri": "http://web.archive.org/web/20180226170639/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-27T02:33:35Z",
+                "uri": "http://web.archive.org/web/20180227023335/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-27T02:33:58Z",
+                "uri": "http://web.archive.org/web/20180227023358/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-27T07:48:58Z",
+                "uri": "http://web.archive.org/web/20180227074858/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-27T07:48:59Z",
+                "uri": "http://web.archive.org/web/20180227074859/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-27T16:59:34Z",
+                "uri": "http://web.archive.org/web/20180227165934/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-27T16:59:35Z",
+                "uri": "http://web.archive.org/web/20180227165935/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-27T18:03:11Z",
+                "uri": "http://web.archive.org/web/20180227180311/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-27T18:03:12Z",
+                "uri": "http://web.archive.org/web/20180227180312/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-28T12:07:44Z",
+                "uri": "http://web.archive.org/web/20180228120744/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-28T12:07:45Z",
+                "uri": "http://web.archive.org/web/20180228120745/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-28T13:09:12Z",
+                "uri": "http://web.archive.org/web/20180228130912/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-28T13:09:13Z",
+                "uri": "http://web.archive.org/web/20180228130913/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-28T16:53:46Z",
+                "uri": "http://web.archive.org/web/20180228165346/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-28T17:25:40Z",
+                "uri": "http://web.archive.org/web/20180228172540/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-28T17:25:42Z",
+                "uri": "http://web.archive.org/web/20180228172542/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-28T19:00:54Z",
+                "uri": "http://web.archive.org/web/20180228190054/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-02-28T19:00:55Z",
+                "uri": "http://web.archive.org/web/20180228190055/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-01T03:40:34Z",
+                "uri": "http://web.archive.org/web/20180301034034/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-01T03:57:33Z",
+                "uri": "http://web.archive.org/web/20180301035733/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-01T03:57:34Z",
+                "uri": "http://web.archive.org/web/20180301035734/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-01T04:27:02Z",
+                "uri": "http://web.archive.org/web/20180301042702/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-01T06:30:26Z",
+                "uri": "http://web.archive.org/web/20180301063026/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-01T06:30:27Z",
+                "uri": "http://web.archive.org/web/20180301063027/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-01T22:04:17Z",
+                "uri": "http://web.archive.org/web/20180301220417/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-01T22:04:19Z",
+                "uri": "http://web.archive.org/web/20180301220419/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T02:34:58Z",
+                "uri": "http://web.archive.org/web/20180302023458/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T06:05:42Z",
+                "uri": "http://web.archive.org/web/20180302060542/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T06:05:43Z",
+                "uri": "http://web.archive.org/web/20180302060543/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T09:32:37Z",
+                "uri": "http://web.archive.org/web/20180302093237/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T09:32:38Z",
+                "uri": "http://web.archive.org/web/20180302093238/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T10:31:13Z",
+                "uri": "http://web.archive.org/web/20180302103113/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T10:31:14Z",
+                "uri": "http://web.archive.org/web/20180302103114/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T11:19:59Z",
+                "uri": "http://web.archive.org/web/20180302111959/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T11:20:00Z",
+                "uri": "http://web.archive.org/web/20180302112000/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T11:32:01Z",
+                "uri": "http://web.archive.org/web/20180302113201/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T11:32:02Z",
+                "uri": "http://web.archive.org/web/20180302113202/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T16:10:28Z",
+                "uri": "http://web.archive.org/web/20180302161028/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T16:10:28Z",
+                "uri": "http://web.archive.org/web/20180302161028/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T22:55:31Z",
+                "uri": "http://web.archive.org/web/20180302225531/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T22:55:32Z",
+                "uri": "http://web.archive.org/web/20180302225532/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-02T23:53:10Z",
+                "uri": "http://web.archive.org/web/20180302235310/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-03T10:04:01Z",
+                "uri": "http://web.archive.org/web/20180303100401/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-03T15:10:23Z",
+                "uri": "http://web.archive.org/web/20180303151023/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-03T17:38:58Z",
+                "uri": "http://web.archive.org/web/20180303173858/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-03T17:38:59Z",
+                "uri": "http://web.archive.org/web/20180303173859/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-03T21:56:14Z",
+                "uri": "http://web.archive.org/web/20180303215614/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-03T21:56:15Z",
+                "uri": "http://web.archive.org/web/20180303215615/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-03T22:58:52Z",
+                "uri": "http://web.archive.org/web/20180303225852/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-04T00:07:21Z",
+                "uri": "http://web.archive.org/web/20180304000721/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-04T09:56:53Z",
+                "uri": "http://web.archive.org/web/20180304095653/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-04T10:16:53Z",
+                "uri": "http://web.archive.org/web/20180304101653/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-04T11:58:47Z",
+                "uri": "http://web.archive.org/web/20180304115847/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-04T11:58:48Z",
+                "uri": "http://web.archive.org/web/20180304115848/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-04T16:46:42Z",
+                "uri": "http://web.archive.org/web/20180304164642/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-04T16:46:43Z",
+                "uri": "http://web.archive.org/web/20180304164643/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-04T20:30:03Z",
+                "uri": "http://web.archive.org/web/20180304203003/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-04T20:30:04Z",
+                "uri": "http://web.archive.org/web/20180304203004/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-05T01:22:06Z",
+                "uri": "http://web.archive.org/web/20180305012206/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-05T01:22:07Z",
+                "uri": "http://web.archive.org/web/20180305012207/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-05T01:43:46Z",
+                "uri": "http://web.archive.org/web/20180305014346/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-05T01:43:47Z",
+                "uri": "http://web.archive.org/web/20180305014347/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-05T06:58:30Z",
+                "uri": "http://web.archive.org/web/20180305065830/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-05T13:23:07Z",
+                "uri": "http://web.archive.org/web/20180305132307/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-05T13:23:08Z",
+                "uri": "http://web.archive.org/web/20180305132308/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-05T18:37:01Z",
+                "uri": "http://web.archive.org/web/20180305183701/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-05T18:37:01Z",
+                "uri": "http://web.archive.org/web/20180305183701/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-05T18:42:13Z",
+                "uri": "http://web.archive.org/web/20180305184213/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-05T18:42:13Z",
+                "uri": "http://web.archive.org/web/20180305184213/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-06T09:08:57Z",
+                "uri": "http://web.archive.org/web/20180306090857/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-06T09:08:57Z",
+                "uri": "http://web.archive.org/web/20180306090857/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-06T09:53:25Z",
+                "uri": "http://web.archive.org/web/20180306095325/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-06T09:53:26Z",
+                "uri": "http://web.archive.org/web/20180306095326/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-06T10:01:11Z",
+                "uri": "http://web.archive.org/web/20180306100111/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-06T10:01:12Z",
+                "uri": "http://web.archive.org/web/20180306100112/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-06T11:03:46Z",
+                "uri": "http://web.archive.org/web/20180306110346/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-07T00:47:35Z",
+                "uri": "http://web.archive.org/web/20180307004735/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-07T00:47:36Z",
+                "uri": "http://web.archive.org/web/20180307004736/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-07T07:10:00Z",
+                "uri": "http://web.archive.org/web/20180307071000/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-07T07:10:01Z",
+                "uri": "http://web.archive.org/web/20180307071001/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-07T07:28:47Z",
+                "uri": "http://web.archive.org/web/20180307072847/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-07T23:06:07Z",
+                "uri": "http://web.archive.org/web/20180307230607/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-07T23:06:08Z",
+                "uri": "http://web.archive.org/web/20180307230608/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-08T02:05:41Z",
+                "uri": "http://web.archive.org/web/20180308020541/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-08T02:05:42Z",
+                "uri": "http://web.archive.org/web/20180308020542/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-08T02:53:15Z",
+                "uri": "http://web.archive.org/web/20180308025315/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-08T02:53:16Z",
+                "uri": "http://web.archive.org/web/20180308025316/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-09T00:16:01Z",
+                "uri": "http://web.archive.org/web/20180309001601/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-09T00:16:02Z",
+                "uri": "http://web.archive.org/web/20180309001602/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-09T01:38:50Z",
+                "uri": "http://web.archive.org/web/20180309013850/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-09T01:38:50Z",
+                "uri": "http://web.archive.org/web/20180309013850/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-09T06:11:20Z",
+                "uri": "http://web.archive.org/web/20180309061120/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-09T06:11:21Z",
+                "uri": "http://web.archive.org/web/20180309061121/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-09T09:52:10Z",
+                "uri": "http://web.archive.org/web/20180309095210/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-09T09:52:11Z",
+                "uri": "http://web.archive.org/web/20180309095211/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-09T18:36:11Z",
+                "uri": "http://web.archive.org/web/20180309183611/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-09T18:36:12Z",
+                "uri": "http://web.archive.org/web/20180309183612/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-10T01:10:26Z",
+                "uri": "http://web.archive.org/web/20180310011026/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-10T01:10:27Z",
+                "uri": "http://web.archive.org/web/20180310011027/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-10T04:40:30Z",
+                "uri": "http://web.archive.org/web/20180310044030/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-10T08:55:45Z",
+                "uri": "http://web.archive.org/web/20180310085545/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-10T08:55:46Z",
+                "uri": "http://web.archive.org/web/20180310085546/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-10T10:11:16Z",
+                "uri": "http://web.archive.org/web/20180310101116/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-10T10:11:17Z",
+                "uri": "http://web.archive.org/web/20180310101117/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-10T13:18:55Z",
+                "uri": "http://web.archive.org/web/20180310131855/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-10T22:44:10Z",
+                "uri": "http://web.archive.org/web/20180310224410/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-10T22:44:11Z",
+                "uri": "http://web.archive.org/web/20180310224411/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T01:57:47Z",
+                "uri": "http://web.archive.org/web/20180311015747/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T01:57:47Z",
+                "uri": "http://web.archive.org/web/20180311015747/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T01:57:47Z",
+                "uri": "http://web.archive.org/web/20180311015747/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T01:57:47Z",
+                "uri": "http://web.archive.org/web/20180311015747/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T08:41:23Z",
+                "uri": "http://web.archive.org/web/20180311084123/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T08:41:24Z",
+                "uri": "http://web.archive.org/web/20180311084124/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T09:42:23Z",
+                "uri": "http://web.archive.org/web/20180311094223/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T09:42:24Z",
+                "uri": "http://web.archive.org/web/20180311094224/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T12:37:36Z",
+                "uri": "http://web.archive.org/web/20180311123736/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T12:37:37Z",
+                "uri": "http://web.archive.org/web/20180311123737/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T17:20:34Z",
+                "uri": "http://web.archive.org/web/20180311172034/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T17:20:35Z",
+                "uri": "http://web.archive.org/web/20180311172035/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T19:35:47Z",
+                "uri": "http://web.archive.org/web/20180311193547/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T19:35:48Z",
+                "uri": "http://web.archive.org/web/20180311193548/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T20:32:22Z",
+                "uri": "http://web.archive.org/web/20180311203222/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-11T20:32:23Z",
+                "uri": "http://web.archive.org/web/20180311203223/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-12T00:50:14Z",
+                "uri": "http://web.archive.org/web/20180312005014/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T01:39:57Z",
+                "uri": "http://web.archive.org/web/20180313013957/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T02:11:41Z",
+                "uri": "http://web.archive.org/web/20180313021141/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T02:11:42Z",
+                "uri": "http://web.archive.org/web/20180313021142/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T08:23:28Z",
+                "uri": "http://web.archive.org/web/20180313082328/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T08:23:35Z",
+                "uri": "http://web.archive.org/web/20180313082335/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T08:32:10Z",
+                "uri": "http://web.archive.org/web/20180313083210/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T08:33:05Z",
+                "uri": "http://web.archive.org/web/20180313083305/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T10:12:12Z",
+                "uri": "http://web.archive.org/web/20180313101212/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T10:12:12Z",
+                "uri": "http://web.archive.org/web/20180313101212/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T10:12:12Z",
+                "uri": "http://web.archive.org/web/20180313101212/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T10:12:12Z",
+                "uri": "http://web.archive.org/web/20180313101212/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T10:55:20Z",
+                "uri": "http://web.archive.org/web/20180313105520/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T10:55:21Z",
+                "uri": "http://web.archive.org/web/20180313105521/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T14:22:47Z",
+                "uri": "http://web.archive.org/web/20180313142247/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T14:22:48Z",
+                "uri": "http://web.archive.org/web/20180313142248/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T18:27:09Z",
+                "uri": "http://web.archive.org/web/20180313182709/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T18:27:10Z",
+                "uri": "http://web.archive.org/web/20180313182710/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-13T18:28:23Z",
+                "uri": "http://web.archive.org/web/20180313182823/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-14T01:01:29Z",
+                "uri": "http://web.archive.org/web/20180314010129/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-14T02:26:26Z",
+                "uri": "http://web.archive.org/web/20180314022626/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-14T05:05:57Z",
+                "uri": "http://web.archive.org/web/20180314050557/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-14T18:01:49Z",
+                "uri": "http://web.archive.org/web/20180314180149/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-14T18:01:50Z",
+                "uri": "http://web.archive.org/web/20180314180150/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-14T22:52:51Z",
+                "uri": "http://web.archive.org/web/20180314225251/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-14T22:52:52Z",
+                "uri": "http://web.archive.org/web/20180314225252/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-14T23:53:59Z",
+                "uri": "http://web.archive.org/web/20180314235359/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-14T23:54:00Z",
+                "uri": "http://web.archive.org/web/20180314235400/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-15T02:12:34Z",
+                "uri": "http://web.archive.org/web/20180315021234/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-15T02:12:34Z",
+                "uri": "http://web.archive.org/web/20180315021234/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-15T02:12:34Z",
+                "uri": "http://web.archive.org/web/20180315021234/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-15T02:12:34Z",
+                "uri": "http://web.archive.org/web/20180315021234/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-15T03:16:23Z",
+                "uri": "http://web.archive.org/web/20180315031623/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-15T19:05:48Z",
+                "uri": "http://web.archive.org/web/20180315190548/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-15T19:05:49Z",
+                "uri": "http://web.archive.org/web/20180315190549/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-15T22:50:13Z",
+                "uri": "http://web.archive.org/web/20180315225013/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-15T22:50:14Z",
+                "uri": "http://web.archive.org/web/20180315225014/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-16T01:42:47Z",
+                "uri": "http://web.archive.org/web/20180316014247/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-16T04:05:55Z",
+                "uri": "http://web.archive.org/web/20180316040555/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-16T07:58:38Z",
+                "uri": "http://web.archive.org/web/20180316075838/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-16T07:58:39Z",
+                "uri": "http://web.archive.org/web/20180316075839/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-16T16:13:07Z",
+                "uri": "http://web.archive.org/web/20180316161307/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-16T16:13:08Z",
+                "uri": "http://web.archive.org/web/20180316161308/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-16T17:45:33Z",
+                "uri": "http://web.archive.org/web/20180316174533/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-16T17:45:34Z",
+                "uri": "http://web.archive.org/web/20180316174534/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-16T17:49:58Z",
+                "uri": "http://web.archive.org/web/20180316174958/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-16T17:49:59Z",
+                "uri": "http://web.archive.org/web/20180316174959/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-17T09:30:25Z",
+                "uri": "http://web.archive.org/web/20180317093025/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-17T09:30:25Z",
+                "uri": "http://web.archive.org/web/20180317093025/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-17T09:30:25Z",
+                "uri": "http://web.archive.org/web/20180317093025/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-17T09:30:25Z",
+                "uri": "http://web.archive.org/web/20180317093025/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-17T09:41:33Z",
+                "uri": "http://web.archive.org/web/20180317094133/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-17T09:41:33Z",
+                "uri": "http://web.archive.org/web/20180317094133/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-17T09:41:33Z",
+                "uri": "http://web.archive.org/web/20180317094133/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-17T09:41:33Z",
+                "uri": "http://web.archive.org/web/20180317094133/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-18T04:51:53Z",
+                "uri": "http://web.archive.org/web/20180318045153/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-18T04:51:54Z",
+                "uri": "http://web.archive.org/web/20180318045154/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-18T08:15:38Z",
+                "uri": "http://web.archive.org/web/20180318081538/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-18T08:15:57Z",
+                "uri": "http://web.archive.org/web/20180318081557/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-18T11:45:29Z",
+                "uri": "http://web.archive.org/web/20180318114529/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-18T11:45:31Z",
+                "uri": "http://web.archive.org/web/20180318114531/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-18T18:37:11Z",
+                "uri": "http://web.archive.org/web/20180318183711/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-18T18:37:12Z",
+                "uri": "http://web.archive.org/web/20180318183712/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-19T04:47:01Z",
+                "uri": "http://web.archive.org/web/20180319044701/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-19T04:47:01Z",
+                "uri": "http://web.archive.org/web/20180319044701/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-19T04:47:01Z",
+                "uri": "http://web.archive.org/web/20180319044701/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-19T04:47:01Z",
+                "uri": "http://web.archive.org/web/20180319044701/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-19T04:59:56Z",
+                "uri": "http://web.archive.org/web/20180319045956/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-19T16:37:07Z",
+                "uri": "http://web.archive.org/web/20180319163707/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-19T16:37:09Z",
+                "uri": "http://web.archive.org/web/20180319163709/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-19T17:08:08Z",
+                "uri": "http://web.archive.org/web/20180319170808/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-19T17:08:12Z",
+                "uri": "http://web.archive.org/web/20180319170812/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-20T04:40:04Z",
+                "uri": "http://web.archive.org/web/20180320044004/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-20T04:40:05Z",
+                "uri": "http://web.archive.org/web/20180320044005/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-20T06:03:15Z",
+                "uri": "http://web.archive.org/web/20180320060315/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-20T22:24:26Z",
+                "uri": "http://web.archive.org/web/20180320222426/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-20T22:24:27Z",
+                "uri": "http://web.archive.org/web/20180320222427/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-20T22:43:15Z",
+                "uri": "http://web.archive.org/web/20180320224315/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-20T22:43:15Z",
+                "uri": "http://web.archive.org/web/20180320224315/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-20T22:43:15Z",
+                "uri": "http://web.archive.org/web/20180320224315/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-20T22:43:15Z",
+                "uri": "http://web.archive.org/web/20180320224315/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-21T06:22:30Z",
+                "uri": "http://web.archive.org/web/20180321062230/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-21T06:22:30Z",
+                "uri": "http://web.archive.org/web/20180321062230/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-21T06:22:30Z",
+                "uri": "http://web.archive.org/web/20180321062230/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-21T06:22:30Z",
+                "uri": "http://web.archive.org/web/20180321062230/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-21T06:42:40Z",
+                "uri": "http://web.archive.org/web/20180321064240/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-21T12:36:58Z",
+                "uri": "http://web.archive.org/web/20180321123658/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-21T12:36:59Z",
+                "uri": "http://web.archive.org/web/20180321123659/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-21T15:30:00Z",
+                "uri": "http://web.archive.org/web/20180321153000/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-21T15:30:01Z",
+                "uri": "http://web.archive.org/web/20180321153001/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-21T22:06:59Z",
+                "uri": "http://web.archive.org/web/20180321220659/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-21T22:06:59Z",
+                "uri": "http://web.archive.org/web/20180321220659/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-21T22:06:59Z",
+                "uri": "http://web.archive.org/web/20180321220659/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-21T22:06:59Z",
+                "uri": "http://web.archive.org/web/20180321220659/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T02:01:50Z",
+                "uri": "http://web.archive.org/web/20180322020150/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T02:01:51Z",
+                "uri": "http://web.archive.org/web/20180322020151/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T02:02:37Z",
+                "uri": "http://web.archive.org/web/20180322020237/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T02:02:38Z",
+                "uri": "http://web.archive.org/web/20180322020238/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T03:53:04Z",
+                "uri": "http://web.archive.org/web/20180322035304/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T05:06:45Z",
+                "uri": "http://web.archive.org/web/20180322050645/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T05:06:46Z",
+                "uri": "http://web.archive.org/web/20180322050646/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T06:14:40Z",
+                "uri": "http://web.archive.org/web/20180322061440/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T06:14:40Z",
+                "uri": "http://web.archive.org/web/20180322061440/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T06:14:40Z",
+                "uri": "http://web.archive.org/web/20180322061440/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T06:14:40Z",
+                "uri": "http://web.archive.org/web/20180322061440/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T07:12:28Z",
+                "uri": "http://web.archive.org/web/20180322071228/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T07:43:45Z",
+                "uri": "http://web.archive.org/web/20180322074345/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T07:43:46Z",
+                "uri": "http://web.archive.org/web/20180322074346/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T17:51:35Z",
+                "uri": "http://web.archive.org/web/20180322175135/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T17:51:35Z",
+                "uri": "http://web.archive.org/web/20180322175135/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T17:51:35Z",
+                "uri": "http://web.archive.org/web/20180322175135/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-22T17:51:35Z",
+                "uri": "http://web.archive.org/web/20180322175135/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-23T07:31:37Z",
+                "uri": "http://web.archive.org/web/20180323073137/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-23T07:31:37Z",
+                "uri": "http://web.archive.org/web/20180323073137/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-23T07:31:37Z",
+                "uri": "http://web.archive.org/web/20180323073137/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-23T07:31:37Z",
+                "uri": "http://web.archive.org/web/20180323073137/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-23T07:49:24Z",
+                "uri": "http://web.archive.org/web/20180323074924/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-23T10:01:00Z",
+                "uri": "http://web.archive.org/web/20180323100100/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-23T10:01:02Z",
+                "uri": "http://web.archive.org/web/20180323100102/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-23T14:42:44Z",
+                "uri": "http://web.archive.org/web/20180323144244/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-23T14:42:45Z",
+                "uri": "http://web.archive.org/web/20180323144245/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-24T01:32:30Z",
+                "uri": "http://web.archive.org/web/20180324013230/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-24T02:08:06Z",
+                "uri": "http://web.archive.org/web/20180324020806/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-24T02:08:07Z",
+                "uri": "http://web.archive.org/web/20180324020807/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-24T07:39:56Z",
+                "uri": "http://web.archive.org/web/20180324073956/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-24T07:39:57Z",
+                "uri": "http://web.archive.org/web/20180324073957/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-24T09:05:39Z",
+                "uri": "http://web.archive.org/web/20180324090539/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-25T00:59:33Z",
+                "uri": "http://web.archive.org/web/20180325005933/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-25T00:59:34Z",
+                "uri": "http://web.archive.org/web/20180325005934/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-25T06:50:31Z",
+                "uri": "http://web.archive.org/web/20180325065031/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-25T06:50:32Z",
+                "uri": "http://web.archive.org/web/20180325065032/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-25T09:43:24Z",
+                "uri": "http://web.archive.org/web/20180325094324/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-26T09:52:28Z",
+                "uri": "http://web.archive.org/web/20180326095228/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-27T10:40:40Z",
+                "uri": "http://web.archive.org/web/20180327104040/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-27T13:40:59Z",
+                "uri": "http://web.archive.org/web/20180327134059/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-27T13:41:00Z",
+                "uri": "http://web.archive.org/web/20180327134100/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-27T14:20:21Z",
+                "uri": "http://web.archive.org/web/20180327142021/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-27T14:20:23Z",
+                "uri": "http://web.archive.org/web/20180327142023/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-27T18:30:20Z",
+                "uri": "http://web.archive.org/web/20180327183020/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-27T18:30:21Z",
+                "uri": "http://web.archive.org/web/20180327183021/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-27T18:46:37Z",
+                "uri": "http://web.archive.org/web/20180327184637/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-27T23:33:29Z",
+                "uri": "http://web.archive.org/web/20180327233329/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-27T23:33:33Z",
+                "uri": "http://web.archive.org/web/20180327233333/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-28T05:07:18Z",
+                "uri": "http://web.archive.org/web/20180328050718/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-28T05:07:20Z",
+                "uri": "http://web.archive.org/web/20180328050720/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-28T11:40:26Z",
+                "uri": "http://web.archive.org/web/20180328114026/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-28T16:21:03Z",
+                "uri": "http://web.archive.org/web/20180328162103/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-28T16:21:04Z",
+                "uri": "http://web.archive.org/web/20180328162104/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-28T16:42:42Z",
+                "uri": "http://web.archive.org/web/20180328164242/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-28T16:42:42Z",
+                "uri": "http://web.archive.org/web/20180328164242/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-28T19:34:48Z",
+                "uri": "http://web.archive.org/web/20180328193448/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-28T19:34:52Z",
+                "uri": "http://web.archive.org/web/20180328193452/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-29T11:43:36Z",
+                "uri": "http://web.archive.org/web/20180329114336/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-30T09:21:39Z",
+                "uri": "http://web.archive.org/web/20180330092139/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-30T09:21:40Z",
+                "uri": "http://web.archive.org/web/20180330092140/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-30T09:39:27Z",
+                "uri": "http://web.archive.org/web/20180330093927/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-30T09:39:28Z",
+                "uri": "http://web.archive.org/web/20180330093928/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-30T11:53:31Z",
+                "uri": "http://web.archive.org/web/20180330115331/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-30T20:14:49Z",
+                "uri": "http://web.archive.org/web/20180330201449/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-30T20:14:50Z",
+                "uri": "http://web.archive.org/web/20180330201450/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-03-31T13:13:26Z",
+                "uri": "http://web.archive.org/web/20180331131326/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-01T22:56:08Z",
+                "uri": "http://web.archive.org/web/20180401225608/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-01T22:56:10Z",
+                "uri": "http://web.archive.org/web/20180401225610/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-02T00:39:55Z",
+                "uri": "http://web.archive.org/web/20180402003955/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-02T00:40:12Z",
+                "uri": "http://web.archive.org/web/20180402004012/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-02T01:37:20Z",
+                "uri": "http://web.archive.org/web/20180402013720/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-02T01:37:21Z",
+                "uri": "http://web.archive.org/web/20180402013721/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-02T02:13:14Z",
+                "uri": "http://web.archive.org/web/20180402021314/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-02T02:13:15Z",
+                "uri": "http://web.archive.org/web/20180402021315/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-02T07:55:49Z",
+                "uri": "http://web.archive.org/web/20180402075549/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-02T07:55:50Z",
+                "uri": "http://web.archive.org/web/20180402075550/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-03T03:04:18Z",
+                "uri": "http://web.archive.org/web/20180403030418/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-03T03:04:19Z",
+                "uri": "http://web.archive.org/web/20180403030419/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-03T13:43:14Z",
+                "uri": "http://web.archive.org/web/20180403134314/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-03T13:43:15Z",
+                "uri": "http://web.archive.org/web/20180403134315/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-03T13:49:50Z",
+                "uri": "http://web.archive.org/web/20180403134950/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-03T13:51:57Z",
+                "uri": "http://web.archive.org/web/20180403135157/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-03T13:51:57Z",
+                "uri": "http://web.archive.org/web/20180403135157/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-03T14:42:43Z",
+                "uri": "http://web.archive.org/web/20180403144243/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-03T14:42:48Z",
+                "uri": "http://web.archive.org/web/20180403144248/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-03T18:38:01Z",
+                "uri": "http://web.archive.org/web/20180403183801/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-03T18:38:03Z",
+                "uri": "http://web.archive.org/web/20180403183803/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-03T21:47:44Z",
+                "uri": "http://web.archive.org/web/20180403214744/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-03T21:47:44Z",
+                "uri": "http://web.archive.org/web/20180403214744/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T05:29:41Z",
+                "uri": "http://web.archive.org/web/20180404052941/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T05:29:43Z",
+                "uri": "http://web.archive.org/web/20180404052943/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T08:34:55Z",
+                "uri": "http://web.archive.org/web/20180404083455/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T08:34:57Z",
+                "uri": "http://web.archive.org/web/20180404083457/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T10:10:56Z",
+                "uri": "http://web.archive.org/web/20180404101056/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T10:10:57Z",
+                "uri": "http://web.archive.org/web/20180404101057/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T10:16:48Z",
+                "uri": "http://web.archive.org/web/20180404101648/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T10:16:49Z",
+                "uri": "http://web.archive.org/web/20180404101649/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T13:53:13Z",
+                "uri": "http://web.archive.org/web/20180404135313/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T13:53:14Z",
+                "uri": "http://web.archive.org/web/20180404135314/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T15:49:32Z",
+                "uri": "http://web.archive.org/web/20180404154932/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T15:49:33Z",
+                "uri": "http://web.archive.org/web/20180404154933/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T19:53:18Z",
+                "uri": "http://web.archive.org/web/20180404195318/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T19:53:19Z",
+                "uri": "http://web.archive.org/web/20180404195319/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T22:19:23Z",
+                "uri": "http://web.archive.org/web/20180404221923/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T22:19:23Z",
+                "uri": "http://web.archive.org/web/20180404221923/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T22:37:14Z",
+                "uri": "http://web.archive.org/web/20180404223714/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-04T22:37:15Z",
+                "uri": "http://web.archive.org/web/20180404223715/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-05T00:36:42Z",
+                "uri": "http://web.archive.org/web/20180405003642/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-05T07:18:57Z",
+                "uri": "http://web.archive.org/web/20180405071857/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-05T12:44:56Z",
+                "uri": "http://web.archive.org/web/20180405124456/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-05T12:44:57Z",
+                "uri": "http://web.archive.org/web/20180405124457/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-05T13:43:55Z",
+                "uri": "http://web.archive.org/web/20180405134355/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-05T19:40:11Z",
+                "uri": "http://web.archive.org/web/20180405194011/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-05T23:13:58Z",
+                "uri": "http://web.archive.org/web/20180405231358/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-05T23:13:58Z",
+                "uri": "http://web.archive.org/web/20180405231358/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-06T02:27:41Z",
+                "uri": "http://web.archive.org/web/20180406022741/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-06T02:27:51Z",
+                "uri": "http://web.archive.org/web/20180406022751/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-06T18:05:22Z",
+                "uri": "http://web.archive.org/web/20180406180522/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-06T18:05:29Z",
+                "uri": "http://web.archive.org/web/20180406180529/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-06T22:12:51Z",
+                "uri": "http://web.archive.org/web/20180406221251/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-06T22:12:52Z",
+                "uri": "http://web.archive.org/web/20180406221252/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-06T23:17:54Z",
+                "uri": "http://web.archive.org/web/20180406231754/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-06T23:17:55Z",
+                "uri": "http://web.archive.org/web/20180406231755/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-06T23:27:46Z",
+                "uri": "http://web.archive.org/web/20180406232746/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-06T23:27:48Z",
+                "uri": "http://web.archive.org/web/20180406232748/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-07T04:36:51Z",
+                "uri": "http://web.archive.org/web/20180407043651/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-07T04:36:52Z",
+                "uri": "http://web.archive.org/web/20180407043652/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-08T00:49:23Z",
+                "uri": "http://web.archive.org/web/20180408004923/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-08T00:49:24Z",
+                "uri": "http://web.archive.org/web/20180408004924/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-08T01:43:48Z",
+                "uri": "http://web.archive.org/web/20180408014348/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-08T06:08:29Z",
+                "uri": "http://web.archive.org/web/20180408060829/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-08T06:08:32Z",
+                "uri": "http://web.archive.org/web/20180408060832/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-08T08:02:54Z",
+                "uri": "http://web.archive.org/web/20180408080254/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-08T08:02:55Z",
+                "uri": "http://web.archive.org/web/20180408080255/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-09T13:05:41Z",
+                "uri": "http://web.archive.org/web/20180409130541/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-09T13:05:43Z",
+                "uri": "http://web.archive.org/web/20180409130543/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-09T18:11:48Z",
+                "uri": "http://web.archive.org/web/20180409181148/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-09T18:11:52Z",
+                "uri": "http://web.archive.org/web/20180409181152/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-10T07:35:02Z",
+                "uri": "http://web.archive.org/web/20180410073502/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-10T07:35:07Z",
+                "uri": "http://web.archive.org/web/20180410073507/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-10T16:37:33Z",
+                "uri": "http://web.archive.org/web/20180410163733/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-10T16:37:35Z",
+                "uri": "http://web.archive.org/web/20180410163735/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-11T06:34:30Z",
+                "uri": "http://web.archive.org/web/20180411063430/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-11T06:34:32Z",
+                "uri": "http://web.archive.org/web/20180411063432/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-11T06:37:19Z",
+                "uri": "http://web.archive.org/web/20180411063719/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-11T06:37:20Z",
+                "uri": "http://web.archive.org/web/20180411063720/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-11T14:44:46Z",
+                "uri": "http://web.archive.org/web/20180411144446/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-11T14:44:55Z",
+                "uri": "http://web.archive.org/web/20180411144455/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-11T16:52:25Z",
+                "uri": "http://web.archive.org/web/20180411165225/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-11T16:52:25Z",
+                "uri": "http://web.archive.org/web/20180411165225/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-12T03:47:14Z",
+                "uri": "http://web.archive.org/web/20180412034714/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-12T03:47:20Z",
+                "uri": "http://web.archive.org/web/20180412034720/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-12T11:58:20Z",
+                "uri": "http://web.archive.org/web/20180412115820/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-12T11:58:21Z",
+                "uri": "http://web.archive.org/web/20180412115821/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-12T14:29:52Z",
+                "uri": "http://web.archive.org/web/20180412142952/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-12T14:29:54Z",
+                "uri": "http://web.archive.org/web/20180412142954/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-12T15:04:35Z",
+                "uri": "http://web.archive.org/web/20180412150435/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-12T15:04:36Z",
+                "uri": "http://web.archive.org/web/20180412150436/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-12T19:54:39Z",
+                "uri": "http://web.archive.org/web/20180412195439/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-12T19:54:39Z",
+                "uri": "http://web.archive.org/web/20180412195439/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-12T19:58:32Z",
+                "uri": "http://web.archive.org/web/20180412195832/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-13T10:58:57Z",
+                "uri": "http://web.archive.org/web/20180413105857/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-13T10:58:58Z",
+                "uri": "http://web.archive.org/web/20180413105858/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-14T00:34:28Z",
+                "uri": "http://web.archive.org/web/20180414003428/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-14T00:34:28Z",
+                "uri": "http://web.archive.org/web/20180414003428/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-14T10:53:50Z",
+                "uri": "http://web.archive.org/web/20180414105350/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-14T10:53:52Z",
+                "uri": "http://web.archive.org/web/20180414105352/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-15T10:54:54Z",
+                "uri": "http://web.archive.org/web/20180415105454/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-15T10:54:59Z",
+                "uri": "http://web.archive.org/web/20180415105459/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-15T23:49:32Z",
+                "uri": "http://web.archive.org/web/20180415234932/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-16T01:43:24Z",
+                "uri": "http://web.archive.org/web/20180416014324/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-16T01:43:25Z",
+                "uri": "http://web.archive.org/web/20180416014325/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-16T05:59:29Z",
+                "uri": "http://web.archive.org/web/20180416055929/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-16T05:59:30Z",
+                "uri": "http://web.archive.org/web/20180416055930/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-16T07:56:24Z",
+                "uri": "http://web.archive.org/web/20180416075624/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-16T07:56:29Z",
+                "uri": "http://web.archive.org/web/20180416075629/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-16T10:14:25Z",
+                "uri": "http://web.archive.org/web/20180416101425/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-16T10:14:26Z",
+                "uri": "http://web.archive.org/web/20180416101426/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-16T20:00:50Z",
+                "uri": "http://web.archive.org/web/20180416200050/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-16T20:00:51Z",
+                "uri": "http://web.archive.org/web/20180416200051/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-17T01:04:41Z",
+                "uri": "http://web.archive.org/web/20180417010441/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-17T01:04:41Z",
+                "uri": "http://web.archive.org/web/20180417010441/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-17T02:19:17Z",
+                "uri": "http://web.archive.org/web/20180417021917/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-17T02:19:27Z",
+                "uri": "http://web.archive.org/web/20180417021927/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-17T03:53:30Z",
+                "uri": "http://web.archive.org/web/20180417035330/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-17T03:53:31Z",
+                "uri": "http://web.archive.org/web/20180417035331/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-17T05:23:24Z",
+                "uri": "http://web.archive.org/web/20180417052324/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-17T05:23:25Z",
+                "uri": "http://web.archive.org/web/20180417052325/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-17T22:18:23Z",
+                "uri": "http://web.archive.org/web/20180417221823/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-17T23:02:18Z",
+                "uri": "http://web.archive.org/web/20180417230218/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-17T23:02:19Z",
+                "uri": "http://web.archive.org/web/20180417230219/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-17T23:41:36Z",
+                "uri": "http://web.archive.org/web/20180417234136/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-17T23:41:37Z",
+                "uri": "http://web.archive.org/web/20180417234137/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-18T00:33:13Z",
+                "uri": "http://web.archive.org/web/20180418003313/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-18T00:33:15Z",
+                "uri": "http://web.archive.org/web/20180418003315/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-18T12:04:45Z",
+                "uri": "http://web.archive.org/web/20180418120445/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-18T12:04:46Z",
+                "uri": "http://web.archive.org/web/20180418120446/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-18T15:11:39Z",
+                "uri": "http://web.archive.org/web/20180418151139/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-18T15:11:41Z",
+                "uri": "http://web.archive.org/web/20180418151141/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-19T02:29:05Z",
+                "uri": "http://web.archive.org/web/20180419022905/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-19T11:06:51Z",
+                "uri": "http://web.archive.org/web/20180419110651/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-19T11:06:51Z",
+                "uri": "http://web.archive.org/web/20180419110651/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-19T12:48:10Z",
+                "uri": "http://web.archive.org/web/20180419124810/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-19T12:48:14Z",
+                "uri": "http://web.archive.org/web/20180419124814/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-19T20:07:44Z",
+                "uri": "http://web.archive.org/web/20180419200744/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-19T20:07:45Z",
+                "uri": "http://web.archive.org/web/20180419200745/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-19T21:17:10Z",
+                "uri": "http://web.archive.org/web/20180419211710/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-19T21:17:11Z",
+                "uri": "http://web.archive.org/web/20180419211711/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-19T21:23:05Z",
+                "uri": "http://web.archive.org/web/20180419212305/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-19T21:23:05Z",
+                "uri": "http://web.archive.org/web/20180419212305/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-19T23:02:38Z",
+                "uri": "http://web.archive.org/web/20180419230238/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-19T23:02:39Z",
+                "uri": "http://web.archive.org/web/20180419230239/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-20T02:07:08Z",
+                "uri": "http://web.archive.org/web/20180420020708/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-20T02:07:09Z",
+                "uri": "http://web.archive.org/web/20180420020709/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-20T02:23:39Z",
+                "uri": "http://web.archive.org/web/20180420022339/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-20T02:23:39Z",
+                "uri": "http://web.archive.org/web/20180420022339/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-20T03:15:56Z",
+                "uri": "http://web.archive.org/web/20180420031556/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-20T03:38:24Z",
+                "uri": "http://web.archive.org/web/20180420033824/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-20T03:38:25Z",
+                "uri": "http://web.archive.org/web/20180420033825/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-20T09:52:56Z",
+                "uri": "http://web.archive.org/web/20180420095256/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-20T09:52:57Z",
+                "uri": "http://web.archive.org/web/20180420095257/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-20T11:27:35Z",
+                "uri": "http://web.archive.org/web/20180420112735/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-20T11:27:35Z",
+                "uri": "http://web.archive.org/web/20180420112735/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-20T12:15:01Z",
+                "uri": "http://web.archive.org/web/20180420121501/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-20T12:15:03Z",
+                "uri": "http://web.archive.org/web/20180420121503/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-20T23:32:32Z",
+                "uri": "http://web.archive.org/web/20180420233232/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-20T23:32:33Z",
+                "uri": "http://web.archive.org/web/20180420233233/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-21T06:23:20Z",
+                "uri": "http://web.archive.org/web/20180421062320/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-21T06:23:21Z",
+                "uri": "http://web.archive.org/web/20180421062321/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-21T08:56:59Z",
+                "uri": "http://web.archive.org/web/20180421085659/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-21T08:56:59Z",
+                "uri": "http://web.archive.org/web/20180421085659/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-21T18:51:02Z",
+                "uri": "http://web.archive.org/web/20180421185102/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-21T18:51:04Z",
+                "uri": "http://web.archive.org/web/20180421185104/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-21T22:46:53Z",
+                "uri": "http://web.archive.org/web/20180421224653/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-21T22:46:53Z",
+                "uri": "http://web.archive.org/web/20180421224653/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-22T02:48:56Z",
+                "uri": "http://web.archive.org/web/20180422024856/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-22T04:13:06Z",
+                "uri": "http://web.archive.org/web/20180422041306/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-22T04:13:07Z",
+                "uri": "http://web.archive.org/web/20180422041307/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-22T04:18:24Z",
+                "uri": "http://web.archive.org/web/20180422041824/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-22T04:18:25Z",
+                "uri": "http://web.archive.org/web/20180422041825/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-22T07:32:46Z",
+                "uri": "http://web.archive.org/web/20180422073246/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-22T07:32:47Z",
+                "uri": "http://web.archive.org/web/20180422073247/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-22T13:04:19Z",
+                "uri": "http://web.archive.org/web/20180422130419/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-22T13:04:21Z",
+                "uri": "http://web.archive.org/web/20180422130421/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-22T13:07:19Z",
+                "uri": "http://web.archive.org/web/20180422130719/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-22T13:07:20Z",
+                "uri": "http://web.archive.org/web/20180422130720/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-23T00:20:06Z",
+                "uri": "http://web.archive.org/web/20180423002006/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-23T00:30:19Z",
+                "uri": "http://web.archive.org/web/20180423003019/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-23T00:30:26Z",
+                "uri": "http://web.archive.org/web/20180423003026/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-23T10:41:43Z",
+                "uri": "http://web.archive.org/web/20180423104143/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-23T10:42:38Z",
+                "uri": "http://web.archive.org/web/20180423104238/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-23T12:06:48Z",
+                "uri": "http://web.archive.org/web/20180423120648/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-23T12:06:50Z",
+                "uri": "http://web.archive.org/web/20180423120650/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-23T12:44:11Z",
+                "uri": "http://web.archive.org/web/20180423124411/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-23T12:44:12Z",
+                "uri": "http://web.archive.org/web/20180423124412/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-23T13:16:47Z",
+                "uri": "http://web.archive.org/web/20180423131647/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-23T13:16:49Z",
+                "uri": "http://web.archive.org/web/20180423131649/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-24T02:36:29Z",
+                "uri": "http://web.archive.org/web/20180424023629/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-24T02:36:30Z",
+                "uri": "http://web.archive.org/web/20180424023630/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-24T05:10:49Z",
+                "uri": "http://web.archive.org/web/20180424051049/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-24T07:47:03Z",
+                "uri": "http://web.archive.org/web/20180424074703/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-24T07:47:04Z",
+                "uri": "http://web.archive.org/web/20180424074704/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-24T13:13:59Z",
+                "uri": "http://web.archive.org/web/20180424131359/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-24T13:14:00Z",
+                "uri": "http://web.archive.org/web/20180424131400/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-24T15:50:27Z",
+                "uri": "http://web.archive.org/web/20180424155027/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-24T15:50:28Z",
+                "uri": "http://web.archive.org/web/20180424155028/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-25T01:31:12Z",
+                "uri": "http://web.archive.org/web/20180425013112/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-25T07:56:08Z",
+                "uri": "http://web.archive.org/web/20180425075608/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-25T07:56:08Z",
+                "uri": "http://web.archive.org/web/20180425075608/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-25T21:40:36Z",
+                "uri": "http://web.archive.org/web/20180425214036/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-25T21:40:37Z",
+                "uri": "http://web.archive.org/web/20180425214037/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-26T03:14:32Z",
+                "uri": "http://web.archive.org/web/20180426031432/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-26T07:21:21Z",
+                "uri": "http://web.archive.org/web/20180426072121/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-26T07:21:23Z",
+                "uri": "http://web.archive.org/web/20180426072123/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-26T12:29:26Z",
+                "uri": "http://web.archive.org/web/20180426122926/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-26T12:29:27Z",
+                "uri": "http://web.archive.org/web/20180426122927/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-26T17:25:33Z",
+                "uri": "http://web.archive.org/web/20180426172533/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-26T17:25:34Z",
+                "uri": "http://web.archive.org/web/20180426172534/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-27T03:29:12Z",
+                "uri": "http://web.archive.org/web/20180427032912/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-27T06:20:52Z",
+                "uri": "http://web.archive.org/web/20180427062052/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-27T06:20:52Z",
+                "uri": "http://web.archive.org/web/20180427062052/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-28T07:15:05Z",
+                "uri": "http://web.archive.org/web/20180428071505/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-28T07:15:06Z",
+                "uri": "http://web.archive.org/web/20180428071506/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-28T11:00:35Z",
+                "uri": "http://web.archive.org/web/20180428110035/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-28T11:00:36Z",
+                "uri": "http://web.archive.org/web/20180428110036/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-28T11:10:41Z",
+                "uri": "http://web.archive.org/web/20180428111041/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-28T11:10:42Z",
+                "uri": "http://web.archive.org/web/20180428111042/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-28T11:33:52Z",
+                "uri": "http://web.archive.org/web/20180428113352/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-29T08:47:48Z",
+                "uri": "http://web.archive.org/web/20180429084748/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-29T18:44:03Z",
+                "uri": "http://web.archive.org/web/20180429184403/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-29T18:44:04Z",
+                "uri": "http://web.archive.org/web/20180429184404/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-29T21:41:07Z",
+                "uri": "http://web.archive.org/web/20180429214107/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-29T21:41:08Z",
+                "uri": "http://web.archive.org/web/20180429214108/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-30T03:23:35Z",
+                "uri": "http://web.archive.org/web/20180430032335/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-30T03:23:35Z",
+                "uri": "http://web.archive.org/web/20180430032335/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-30T04:27:40Z",
+                "uri": "http://web.archive.org/web/20180430042740/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-30T05:52:47Z",
+                "uri": "http://web.archive.org/web/20180430055247/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-30T05:52:49Z",
+                "uri": "http://web.archive.org/web/20180430055249/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-30T16:47:46Z",
+                "uri": "http://web.archive.org/web/20180430164746/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-30T16:47:47Z",
+                "uri": "http://web.archive.org/web/20180430164747/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-30T20:30:48Z",
+                "uri": "http://web.archive.org/web/20180430203048/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-04-30T20:30:48Z",
+                "uri": "http://web.archive.org/web/20180430203048/http://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            },
+            {
+                "datetime": "2018-05-01T05:01:21Z",
+                "uri": "http://web.archive.org/web/20180501050121/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+            }
+        ]
+    },
+    "original_uri": "https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64"
+    }
+}

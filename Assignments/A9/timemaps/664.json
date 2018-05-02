@@ -1,0 +1,54 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T15:09:38Z",
+            "uri": "http://web.archive.org/web/20180210150938/http://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html"
+        },
+        "last": {
+            "datetime": "2018-02-27T04:38:52Z",
+            "uri": "http://web.archive.org/web/20180227043852/https://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T15:09:38Z",
+                "uri": "http://web.archive.org/web/20180210150938/http://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html"
+            },
+            {
+                "datetime": "2018-02-10T18:40:32Z",
+                "uri": "http://web.archive.org/web/20180210184032/https://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html"
+            },
+            {
+                "datetime": "2018-02-11T01:58:38Z",
+                "uri": "http://web.archive.org/web/20180211015838/https://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html"
+            },
+            {
+                "datetime": "2018-02-11T04:04:45Z",
+                "uri": "http://web.archive.org/web/20180211040445/https://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html"
+            },
+            {
+                "datetime": "2018-02-12T02:45:41Z",
+                "uri": "http://web.archive.org/web/20180212024541/https://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html"
+            },
+            {
+                "datetime": "2018-02-12T04:29:12Z",
+                "uri": "http://web.archive.org/web/20180212042912/https://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html"
+            },
+            {
+                "datetime": "2018-02-15T09:13:56Z",
+                "uri": "http://web.archive.org/web/20180215091356/https://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html"
+            },
+            {
+                "datetime": "2018-02-27T04:38:52Z",
+                "uri": "http://web.archive.org/web/20180227043852/https://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/02/09/us/politics/john-kelly-porter-marines.html"
+    }
+}

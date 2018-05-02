@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T18:36:47Z",
+            "uri": "http://web.archive.org/web/20180210183647/http://www.independentsentinel.com/u-s-spies-tried-buy-dirt-trump-cyberweapons-russians/"
+        },
+        "last": {
+            "datetime": "2018-02-10T18:36:47Z",
+            "uri": "http://web.archive.org/web/20180210183647/http://www.independentsentinel.com/u-s-spies-tried-buy-dirt-trump-cyberweapons-russians/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T18:36:47Z",
+                "uri": "http://web.archive.org/web/20180210183647/http://www.independentsentinel.com/u-s-spies-tried-buy-dirt-trump-cyberweapons-russians/"
+            }
+        ]
+    },
+    "original_uri": "http://www.independentsentinel.com/u-s-spies-tried-buy-dirt-trump-cyberweapons-russians/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.independentsentinel.com/u-s-spies-tried-buy-dirt-trump-cyberweapons-russians/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.independentsentinel.com/u-s-spies-tried-buy-dirt-trump-cyberweapons-russians/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.independentsentinel.com/u-s-spies-tried-buy-dirt-trump-cyberweapons-russians/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.independentsentinel.com/u-s-spies-tried-buy-dirt-trump-cyberweapons-russians/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.independentsentinel.com/u-s-spies-tried-buy-dirt-trump-cyberweapons-russians/"
+    }
+}

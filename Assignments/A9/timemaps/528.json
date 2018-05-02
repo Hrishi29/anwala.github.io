@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T01:15:04Z",
+            "uri": "http://web.archive.org/web/20180211011504/https://www.reuters.com/article/us-facebook-cambodia/facebook-runs-into-lawsuit-over-cambodian-politics-idUSKBN1FT1PB"
+        },
+        "last": {
+            "datetime": "2018-02-12T07:41:39Z",
+            "uri": "http://web.archive.org/web/20180212074139/https://www.reuters.com/article/us-facebook-cambodia/facebook-runs-into-lawsuit-over-cambodian-politics-idUSKBN1FT1PB"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T01:15:04Z",
+                "uri": "http://web.archive.org/web/20180211011504/https://www.reuters.com/article/us-facebook-cambodia/facebook-runs-into-lawsuit-over-cambodian-politics-idUSKBN1FT1PB"
+            },
+            {
+                "datetime": "2018-02-12T01:40:40Z",
+                "uri": "http://web.archive.org/web/20180212014040/https://www.reuters.com/article/us-facebook-cambodia/facebook-runs-into-lawsuit-over-cambodian-politics-idUSKBN1FT1PB"
+            },
+            {
+                "datetime": "2018-02-12T07:41:39Z",
+                "uri": "http://web.archive.org/web/20180212074139/https://www.reuters.com/article/us-facebook-cambodia/facebook-runs-into-lawsuit-over-cambodian-politics-idUSKBN1FT1PB"
+            }
+        ]
+    },
+    "original_uri": "https://www.reuters.com/article/us-facebook-cambodia/facebook-runs-into-lawsuit-over-cambodian-politics-idUSKBN1FT1PB",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-facebook-cambodia/facebook-runs-into-lawsuit-over-cambodian-politics-idUSKBN1FT1PB",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.reuters.com/article/us-facebook-cambodia/facebook-runs-into-lawsuit-over-cambodian-politics-idUSKBN1FT1PB",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.reuters.com/article/us-facebook-cambodia/facebook-runs-into-lawsuit-over-cambodian-politics-idUSKBN1FT1PB",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-facebook-cambodia/facebook-runs-into-lawsuit-over-cambodian-politics-idUSKBN1FT1PB",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.reuters.com/article/us-facebook-cambodia/facebook-runs-into-lawsuit-over-cambodian-politics-idUSKBN1FT1PB"
+    }
+}

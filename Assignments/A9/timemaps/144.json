@@ -1,0 +1,610 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T13:31:40Z",
+            "uri": "http://web.archive.org/web/20180209133140/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+        },
+        "last": {
+            "datetime": "2018-04-23T07:25:03Z",
+            "uri": "http://web.archive.org/web/20180423072503/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T13:31:40Z",
+                "uri": "http://web.archive.org/web/20180209133140/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-09T14:05:30Z",
+                "uri": "http://web.archive.org/web/20180209140530/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-09T14:16:06Z",
+                "uri": "http://web.archive.org/web/20180209141606/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-09T14:39:19Z",
+                "uri": "http://web.archive.org/web/20180209143919/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-09T15:13:13Z",
+                "uri": "http://web.archive.org/web/20180209151313/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-09T15:46:58Z",
+                "uri": "http://web.archive.org/web/20180209154658/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-09T16:20:54Z",
+                "uri": "http://web.archive.org/web/20180209162054/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-09T16:55:18Z",
+                "uri": "http://web.archive.org/web/20180209165518/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-09T17:29:12Z",
+                "uri": "http://web.archive.org/web/20180209172912/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-09T18:03:44Z",
+                "uri": "http://web.archive.org/web/20180209180344/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-09T18:39:32Z",
+                "uri": "http://web.archive.org/web/20180209183932/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-09T19:14:11Z",
+                "uri": "http://web.archive.org/web/20180209191411/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-09T22:22:10Z",
+                "uri": "http://web.archive.org/web/20180209222210/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-10T15:35:03Z",
+                "uri": "http://web.archive.org/web/20180210153503/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-10T23:30:27Z",
+                "uri": "http://web.archive.org/web/20180210233027/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-11T06:46:47Z",
+                "uri": "http://wayback.archive-it.org/all/20180211064647/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-11T06:46:47Z",
+                "uri": "http://web.archive.org/web/20180211064647/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-13T00:54:09Z",
+                "uri": "http://web.archive.org/web/20180213005409/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-13T04:31:59Z",
+                "uri": "http://web.archive.org/web/20180213043159/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-14T00:47:28Z",
+                "uri": "http://web.archive.org/web/20180214004728/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-14T08:32:54Z",
+                "uri": "http://web.archive.org/web/20180214083254/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-15T00:34:08Z",
+                "uri": "http://web.archive.org/web/20180215003408/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-15T08:17:09Z",
+                "uri": "http://web.archive.org/web/20180215081709/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-15T12:56:00Z",
+                "uri": "http://web.archive.org/web/20180215125600/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-16T05:57:01Z",
+                "uri": "http://web.archive.org/web/20180216055701/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-16T09:04:09Z",
+                "uri": "http://web.archive.org/web/20180216090409/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-16T13:15:13Z",
+                "uri": "http://web.archive.org/web/20180216131513/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-17T05:19:40Z",
+                "uri": "http://web.archive.org/web/20180217051940/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-17T11:18:52Z",
+                "uri": "http://web.archive.org/web/20180217111852/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-17T14:13:14Z",
+                "uri": "http://web.archive.org/web/20180217141314/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-18T06:12:20Z",
+                "uri": "http://web.archive.org/web/20180218061220/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-18T14:47:51Z",
+                "uri": "http://web.archive.org/web/20180218144751/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-19T06:51:46Z",
+                "uri": "http://web.archive.org/web/20180219065146/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-19T19:05:39Z",
+                "uri": "http://web.archive.org/web/20180219190539/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-19T19:47:38Z",
+                "uri": "http://web.archive.org/web/20180219194738/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-20T11:19:38Z",
+                "uri": "http://web.archive.org/web/20180220111938/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-20T20:27:45Z",
+                "uri": "http://web.archive.org/web/20180220202745/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-21T12:02:50Z",
+                "uri": "http://web.archive.org/web/20180221120250/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-21T21:22:35Z",
+                "uri": "http://web.archive.org/web/20180221212235/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-23T04:19:05Z",
+                "uri": "http://web.archive.org/web/20180223041905/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-23T04:22:07Z",
+                "uri": "http://web.archive.org/web/20180223042207/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-23T19:20:52Z",
+                "uri": "http://web.archive.org/web/20180223192052/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-24T04:21:55Z",
+                "uri": "http://web.archive.org/web/20180224042155/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-24T23:40:18Z",
+                "uri": "http://web.archive.org/web/20180224234018/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-25T04:46:36Z",
+                "uri": "http://web.archive.org/web/20180225044636/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-25T06:56:33Z",
+                "uri": "http://web.archive.org/web/20180225065633/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-25T23:21:23Z",
+                "uri": "http://web.archive.org/web/20180225232123/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-26T05:19:52Z",
+                "uri": "http://web.archive.org/web/20180226051952/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-26T08:15:24Z",
+                "uri": "http://web.archive.org/web/20180226081524/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-26T22:18:15Z",
+                "uri": "http://web.archive.org/web/20180226221815/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-27T07:03:57Z",
+                "uri": "http://web.archive.org/web/20180227070357/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-27T10:56:22Z",
+                "uri": "http://web.archive.org/web/20180227105622/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-28T01:50:54Z",
+                "uri": "http://web.archive.org/web/20180228015054/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-28T06:45:14Z",
+                "uri": "http://web.archive.org/web/20180228064514/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-02-28T12:36:41Z",
+                "uri": "http://web.archive.org/web/20180228123641/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-01T09:29:15Z",
+                "uri": "http://web.archive.org/web/20180301092915/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-03T07:30:52Z",
+                "uri": "http://web.archive.org/web/20180303073052/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-03T18:22:19Z",
+                "uri": "http://web.archive.org/web/20180303182219/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-04T00:49:12Z",
+                "uri": "http://web.archive.org/web/20180304004912/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-04T11:48:31Z",
+                "uri": "http://web.archive.org/web/20180304114831/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-04T18:39:43Z",
+                "uri": "http://web.archive.org/web/20180304183943/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-05T02:22:03Z",
+                "uri": "http://web.archive.org/web/20180305022203/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-05T13:35:47Z",
+                "uri": "http://web.archive.org/web/20180305133547/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-05T19:43:37Z",
+                "uri": "http://web.archive.org/web/20180305194337/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-06T05:14:07Z",
+                "uri": "http://web.archive.org/web/20180306051407/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-06T12:51:23Z",
+                "uri": "http://web.archive.org/web/20180306125123/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-06T20:18:08Z",
+                "uri": "http://web.archive.org/web/20180306201808/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-07T13:14:53Z",
+                "uri": "http://web.archive.org/web/20180307131453/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-07T23:51:06Z",
+                "uri": "http://web.archive.org/web/20180307235106/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-08T00:46:16Z",
+                "uri": "http://web.archive.org/web/20180308004616/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-08T17:10:35Z",
+                "uri": "http://web.archive.org/web/20180308171035/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-09T03:25:51Z",
+                "uri": "http://web.archive.org/web/20180309032551/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-09T05:11:03Z",
+                "uri": "http://web.archive.org/web/20180309051103/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-09T21:24:21Z",
+                "uri": "http://web.archive.org/web/20180309212421/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-10T07:33:03Z",
+                "uri": "http://web.archive.org/web/20180310073303/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-10T13:59:03Z",
+                "uri": "http://web.archive.org/web/20180310135903/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-10T23:31:15Z",
+                "uri": "http://web.archive.org/web/20180310233115/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-11T07:43:50Z",
+                "uri": "http://web.archive.org/web/20180311074350/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-11T15:17:34Z",
+                "uri": "http://web.archive.org/web/20180311151734/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-11T23:50:34Z",
+                "uri": "http://web.archive.org/web/20180311235034/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-12T07:56:43Z",
+                "uri": "http://web.archive.org/web/20180312075643/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-12T16:19:08Z",
+                "uri": "http://web.archive.org/web/20180312161908/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-13T00:50:18Z",
+                "uri": "http://web.archive.org/web/20180313005018/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-13T08:25:02Z",
+                "uri": "http://web.archive.org/web/20180313082502/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-14T00:21:37Z",
+                "uri": "http://web.archive.org/web/20180314002137/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-14T09:00:58Z",
+                "uri": "http://web.archive.org/web/20180314090058/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-14T18:07:28Z",
+                "uri": "http://web.archive.org/web/20180314180728/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-15T01:30:10Z",
+                "uri": "http://web.archive.org/web/20180315013010/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-15T09:28:51Z",
+                "uri": "http://web.archive.org/web/20180315092851/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-15T19:36:20Z",
+                "uri": "http://web.archive.org/web/20180315193620/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-16T01:34:01Z",
+                "uri": "http://web.archive.org/web/20180316013401/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-16T10:09:35Z",
+                "uri": "http://web.archive.org/web/20180316100935/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-17T02:32:58Z",
+                "uri": "http://web.archive.org/web/20180317023258/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-17T10:27:18Z",
+                "uri": "http://web.archive.org/web/20180317102718/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-17T21:39:41Z",
+                "uri": "http://web.archive.org/web/20180317213941/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-18T01:59:37Z",
+                "uri": "http://web.archive.org/web/20180318015937/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-18T11:16:46Z",
+                "uri": "http://web.archive.org/web/20180318111646/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-18T23:01:24Z",
+                "uri": "http://web.archive.org/web/20180318230124/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-19T03:31:21Z",
+                "uri": "http://web.archive.org/web/20180319033121/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-19T11:38:41Z",
+                "uri": "http://web.archive.org/web/20180319113841/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-21T04:13:20Z",
+                "uri": "http://web.archive.org/web/20180321041320/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-21T05:55:46Z",
+                "uri": "http://web.archive.org/web/20180321055546/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-21T13:01:55Z",
+                "uri": "http://web.archive.org/web/20180321130155/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-21T22:39:17Z",
+                "uri": "http://web.archive.org/web/20180321223917/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-22T02:35:33Z",
+                "uri": "http://web.archive.org/web/20180322023533/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-22T13:37:18Z",
+                "uri": "http://web.archive.org/web/20180322133718/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-22T20:08:16Z",
+                "uri": "http://web.archive.org/web/20180322200816/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-23T03:49:29Z",
+                "uri": "http://web.archive.org/web/20180323034929/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-23T14:07:16Z",
+                "uri": "http://web.archive.org/web/20180323140716/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-23T20:23:50Z",
+                "uri": "http://web.archive.org/web/20180323202350/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-24T05:12:31Z",
+                "uri": "http://web.archive.org/web/20180324051231/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-24T14:55:11Z",
+                "uri": "http://web.archive.org/web/20180324145511/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-24T21:04:45Z",
+                "uri": "http://web.archive.org/web/20180324210445/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-25T06:08:19Z",
+                "uri": "http://web.archive.org/web/20180325060819/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-25T15:45:23Z",
+                "uri": "http://web.archive.org/web/20180325154523/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-26T07:56:24Z",
+                "uri": "http://web.archive.org/web/20180326075624/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-27T00:40:53Z",
+                "uri": "http://web.archive.org/web/20180327004053/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-27T09:32:26Z",
+                "uri": "http://web.archive.org/web/20180327093226/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-28T01:19:55Z",
+                "uri": "http://web.archive.org/web/20180328011955/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-28T04:38:50Z",
+                "uri": "http://web.archive.org/web/20180328043850/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-28T17:43:52Z",
+                "uri": "http://web.archive.org/web/20180328174352/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-29T00:00:38Z",
+                "uri": "http://web.archive.org/web/20180329000038/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-29T06:00:25Z",
+                "uri": "http://web.archive.org/web/20180329060025/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-29T18:25:47Z",
+                "uri": "http://web.archive.org/web/20180329182547/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-30T00:51:35Z",
+                "uri": "http://web.archive.org/web/20180330005135/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-30T18:50:01Z",
+                "uri": "http://web.archive.org/web/20180330185001/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-31T07:59:43Z",
+                "uri": "http://web.archive.org/web/20180331075943/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-03-31T19:37:25Z",
+                "uri": "http://web.archive.org/web/20180331193725/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-01T01:50:13Z",
+                "uri": "http://web.archive.org/web/20180401015013/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-01T20:19:49Z",
+                "uri": "http://web.archive.org/web/20180401201949/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-02T02:39:26Z",
+                "uri": "http://web.archive.org/web/20180402023926/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-03T03:32:18Z",
+                "uri": "http://web.archive.org/web/20180403033218/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-03T05:08:09Z",
+                "uri": "http://web.archive.org/web/20180403050809/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-04T03:55:59Z",
+                "uri": "http://web.archive.org/web/20180404035559/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-05T04:52:15Z",
+                "uri": "http://web.archive.org/web/20180405045215/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-05T04:52:16Z",
+                "uri": "http://web.archive.org/web/20180405045216/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-06T05:34:23Z",
+                "uri": "http://web.archive.org/web/20180406053423/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-06T05:34:25Z",
+                "uri": "http://web.archive.org/web/20180406053425/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-08T16:24:57Z",
+                "uri": "http://web.archive.org/web/20180408162457/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-13T03:23:12Z",
+                "uri": "http://web.archive.org/web/20180413032312/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-14T05:26:09Z",
+                "uri": "http://web.archive.org/web/20180414052609/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-16T03:48:45Z",
+                "uri": "http://web.archive.org/web/20180416034845/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-16T03:48:47Z",
+                "uri": "http://web.archive.org/web/20180416034847/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-22T05:28:43Z",
+                "uri": "http://web.archive.org/web/20180422052843/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-22T05:28:46Z",
+                "uri": "http://web.archive.org/web/20180422052846/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-23T07:25:02Z",
+                "uri": "http://web.archive.org/web/20180423072502/https://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            },
+            {
+                "datetime": "2018-04-23T07:25:03Z",
+                "uri": "http://web.archive.org/web/20180423072503/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+            }
+        ]
+    },
+    "original_uri": "http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://theweek.com/articles/753966/trump-doesnt-best-people-gets-worst-heres-why"
+    }
+}

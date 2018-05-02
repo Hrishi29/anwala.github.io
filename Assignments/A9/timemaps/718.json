@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-12T18:23:23Z",
+            "uri": "http://web.archive.org/web/20180212182323/https://pyeongchang-2018.alibabacloud.com/"
+        },
+        "last": {
+            "datetime": "2018-03-11T03:37:03Z",
+            "uri": "http://web.archive.org/web/20180311033703/https://pyeongchang-2018.alibabacloud.com/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-12T18:23:23Z",
+                "uri": "http://web.archive.org/web/20180212182323/https://pyeongchang-2018.alibabacloud.com/"
+            },
+            {
+                "datetime": "2018-03-10T13:01:21Z",
+                "uri": "http://web.archive.org/web/20180310130121/https://pyeongchang-2018.alibabacloud.com/"
+            },
+            {
+                "datetime": "2018-03-11T03:37:03Z",
+                "uri": "http://web.archive.org/web/20180311033703/https://pyeongchang-2018.alibabacloud.com/"
+            }
+        ]
+    },
+    "original_uri": "https://pyeongchang-2018.alibabacloud.com/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://pyeongchang-2018.alibabacloud.com/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://pyeongchang-2018.alibabacloud.com/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://pyeongchang-2018.alibabacloud.com/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://pyeongchang-2018.alibabacloud.com/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://pyeongchang-2018.alibabacloud.com/"
+    }
+}

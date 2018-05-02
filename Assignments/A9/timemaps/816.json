@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-27T22:21:14Z",
+            "uri": "http://web.archive.org/web/20180227222114/https://digiday.com/media/nbc-sports-recruits-snap-musical-ly-winter-olympics/"
+        },
+        "last": {
+            "datetime": "2018-02-27T22:21:14Z",
+            "uri": "http://web.archive.org/web/20180227222114/https://digiday.com/media/nbc-sports-recruits-snap-musical-ly-winter-olympics/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-27T22:21:14Z",
+                "uri": "http://web.archive.org/web/20180227222114/https://digiday.com/media/nbc-sports-recruits-snap-musical-ly-winter-olympics/"
+            }
+        ]
+    },
+    "original_uri": "https://digiday.com/media/nbc-sports-recruits-snap-musical-ly-winter-olympics/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://digiday.com/media/nbc-sports-recruits-snap-musical-ly-winter-olympics/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://digiday.com/media/nbc-sports-recruits-snap-musical-ly-winter-olympics/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://digiday.com/media/nbc-sports-recruits-snap-musical-ly-winter-olympics/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://digiday.com/media/nbc-sports-recruits-snap-musical-ly-winter-olympics/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://digiday.com/media/nbc-sports-recruits-snap-musical-ly-winter-olympics/"
+    }
+}

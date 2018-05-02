@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-01-21T15:31:53Z",
+            "uri": "http://web.archive.org/web/20180121153153/http://usalibertypress.com/2017/09/16/rage-machine-bassist-anyone-voted-trump-racist/"
+        },
+        "last": {
+            "datetime": "2018-01-21T15:31:53Z",
+            "uri": "http://web.archive.org/web/20180121153153/http://usalibertypress.com/2017/09/16/rage-machine-bassist-anyone-voted-trump-racist/"
+        },
+        "list": [
+            {
+                "datetime": "2018-01-21T15:31:53Z",
+                "uri": "http://web.archive.org/web/20180121153153/http://usalibertypress.com/2017/09/16/rage-machine-bassist-anyone-voted-trump-racist/"
+            }
+        ]
+    },
+    "original_uri": "http://usalibertypress.com/2017/09/16/rage-machine-bassist-anyone-voted-trump-racist/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://usalibertypress.com/2017/09/16/rage-machine-bassist-anyone-voted-trump-racist/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://usalibertypress.com/2017/09/16/rage-machine-bassist-anyone-voted-trump-racist/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://usalibertypress.com/2017/09/16/rage-machine-bassist-anyone-voted-trump-racist/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://usalibertypress.com/2017/09/16/rage-machine-bassist-anyone-voted-trump-racist/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://usalibertypress.com/2017/09/16/rage-machine-bassist-anyone-voted-trump-racist/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T05:35:36Z",
+            "uri": "http://web.archive.org/web/20180211053536/https://www.adn.com/features/sports/2018/02/08/meet-alaskas-winter-olympians/"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:35:36Z",
+            "uri": "http://web.archive.org/web/20180211053536/https://www.adn.com/features/sports/2018/02/08/meet-alaskas-winter-olympians/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T05:35:36Z",
+                "uri": "http://web.archive.org/web/20180211053536/https://www.adn.com/features/sports/2018/02/08/meet-alaskas-winter-olympians/"
+            }
+        ]
+    },
+    "original_uri": "https://www.adn.com/features/sports/2018/02/08/meet-alaskas-winter-olympians/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.adn.com/features/sports/2018/02/08/meet-alaskas-winter-olympians/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.adn.com/features/sports/2018/02/08/meet-alaskas-winter-olympians/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.adn.com/features/sports/2018/02/08/meet-alaskas-winter-olympians/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.adn.com/features/sports/2018/02/08/meet-alaskas-winter-olympians/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.adn.com/features/sports/2018/02/08/meet-alaskas-winter-olympians/"
+    }
+}

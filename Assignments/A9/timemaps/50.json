@@ -1,0 +1,66 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-12T09:15:33Z",
+            "uri": "http://web.archive.org/web/20180212091533/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the"
+        },
+        "last": {
+            "datetime": "2018-02-25T07:38:35Z",
+            "uri": "http://web.archive.org/web/20180225073835/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-12T09:15:33Z",
+                "uri": "http://web.archive.org/web/20180212091533/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the"
+            },
+            {
+                "datetime": "2018-02-12T09:49:04Z",
+                "uri": "http://web.archive.org/web/20180212094904/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the"
+            },
+            {
+                "datetime": "2018-02-12T10:22:37Z",
+                "uri": "http://web.archive.org/web/20180212102237/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the"
+            },
+            {
+                "datetime": "2018-02-12T10:55:58Z",
+                "uri": "http://web.archive.org/web/20180212105558/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the"
+            },
+            {
+                "datetime": "2018-02-12T11:29:39Z",
+                "uri": "http://web.archive.org/web/20180212112939/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the"
+            },
+            {
+                "datetime": "2018-02-12T13:10:51Z",
+                "uri": "http://web.archive.org/web/20180212131051/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the"
+            },
+            {
+                "datetime": "2018-02-13T00:55:04Z",
+                "uri": "http://web.archive.org/web/20180213005504/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the"
+            },
+            {
+                "datetime": "2018-02-22T00:38:38Z",
+                "uri": "http://web.archive.org/web/20180222003838/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the"
+            },
+            {
+                "datetime": "2018-02-22T14:49:09Z",
+                "uri": "http://web.archive.org/web/20180222144909/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the"
+            },
+            {
+                "datetime": "2018-02-25T07:38:35Z",
+                "uri": "http://wayback.archive-it.org/all/20180225073835/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the"
+            },
+            {
+                "datetime": "2018-02-25T07:38:35Z",
+                "uri": "http://web.archive.org/web/20180225073835/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the"
+            }
+        ]
+    },
+    "original_uri": "http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thehill.com/homenews/house/373232-gop-lawmaker-hits-trump-over-democratic-memo-the-american-people-deserve-the"
+    }
+}

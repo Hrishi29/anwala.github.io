@@ -1,0 +1,104 @@
+(python35) C:\Users\GADKARI\Documents\Python Scripts\web_science\a9>python knncalc.py
+===========================================
+F-Measure
+===========================================
+k = 1
+DaveCromwell Writes     0.546405
+-------------------------------------------
+k = 2
+DaveCromwell Writes     0.546405
+The Jeopardy of Contentment     0.510352
+-------------------------------------------
+k = 5
+DaveCromwell Writes     0.546405
+The Jeopardy of Contentment     0.510352
+Pithy Title Here        0.502027
+KiDCHAIR        0.500508
+Alex Denney     0.484831
+-------------------------------------------
+k = 10
+DaveCromwell Writes     0.546405
+The Jeopardy of Contentment     0.510352
+Pithy Title Here        0.502027
+KiDCHAIR        0.500508
+Alex Denney     0.484831
+Skiptrack music 0.482491
+New Amusements  0.469968
+My Name Is Blue Canary  0.464781
+The Slow Music Movement 0.462693
+.       0.459632
+-------------------------------------------
+k = 20
+DaveCromwell Writes     0.546405
+The Jeopardy of Contentment     0.510352
+Pithy Title Here        0.502027
+KiDCHAIR        0.500508
+Alex Denney     0.484831
+Skiptrack music 0.482491
+New Amusements  0.469968
+My Name Is Blue Canary  0.464781
+The Slow Music Movement 0.462693
+.       0.459632
+Diagnosis: No Radio     0.453053
+The Power of Independent Trucking       0.451962
+Did Not Chart   0.451597
+Captain Panda's Local & Independent Music Showcase      0.451494
+PSI LAB 0.448001
+unter diesem gesichtspunkt      0.421705
+Lyrically Speaking      0.412260
+macthemost      0.407770
+Notes from a Genius     0.403266
+She May Be Naked        0.397429
+---------------------------------------------
+
+=============================================
+Web Science and Digital Libraries Research Group
+============================================= 
+k = 1
+unter diesem gesichtspunkt      0.393208
+---------------------------------------------
+k = 2
+unter diesem gesichtspunkt      0.393208
+Myopiamuse      0.390856
+---------------------------------------------
+k = 5
+unter diesem gesichtspunkt      0.393208
+Myopiamuse      0.390856
+She May Be Naked        0.379675
+Alex Denney     0.367140
+DaveCromwell Writes     0.350813
+----------------------------------------------
+k = 10
+unter diesem gesichtspunkt      0.393208
+Myopiamuse      0.390856
+She May Be Naked        0.379675
+Alex Denney     0.367140
+DaveCromwell Writes     0.350813
+Pithy Title Here        0.348897
+The Power of Independent Trucking       0.347941
+The Professional Daydreamer     0.344014
+Diagnosis: No Radio     0.333850
+My Name Is Blue Canary  0.325889
+---------------------------------------------
+k = 20
+unter diesem gesichtspunkt      0.393208
+Myopiamuse      0.390856
+She May Be Naked        0.379675
+Alex Denney     0.367140
+DaveCromwell Writes     0.350813
+Pithy Title Here        0.348897
+The Power of Independent Trucking       0.347941
+The Professional Daydreamer     0.344014
+Diagnosis: No Radio     0.333850
+My Name Is Blue Canary  0.325889
+Mile In Mine    0.319843
+Morgan's Blog   0.318304
+Media Coursework        0.313015
+.       0.311779
+macthemost      0.310349
+New Amusements  0.306653
+ELLIA TOWNSEND A2       0.301376
+hello my name is justin.        0.297976
+PSI LAB 0.295423
+Nothing But Ordinary Glances At Extraordinary Things    0.295058
+------------------------------------------------

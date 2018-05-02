@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-24T08:16:44Z",
+            "uri": "http://web.archive.org/web/20180224081644/http://therightscoop.com/trump-reveals-the-greatest-moment-of-his-first-year-as-president/"
+        },
+        "last": {
+            "datetime": "2018-04-29T04:02:35Z",
+            "uri": "http://web.archive.org/web/20180429040235/http://therightscoop.com/trump-reveals-the-greatest-moment-of-his-first-year-as-president/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-24T08:16:44Z",
+                "uri": "http://web.archive.org/web/20180224081644/http://therightscoop.com/trump-reveals-the-greatest-moment-of-his-first-year-as-president/"
+            },
+            {
+                "datetime": "2018-04-29T04:02:35Z",
+                "uri": "http://web.archive.org/web/20180429040235/http://therightscoop.com/trump-reveals-the-greatest-moment-of-his-first-year-as-president/"
+            }
+        ]
+    },
+    "original_uri": "http://therightscoop.com/trump-reveals-the-greatest-moment-of-his-first-year-as-president/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://therightscoop.com/trump-reveals-the-greatest-moment-of-his-first-year-as-president/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://therightscoop.com/trump-reveals-the-greatest-moment-of-his-first-year-as-president/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://therightscoop.com/trump-reveals-the-greatest-moment-of-his-first-year-as-president/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://therightscoop.com/trump-reveals-the-greatest-moment-of-his-first-year-as-president/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://therightscoop.com/trump-reveals-the-greatest-moment-of-his-first-year-as-president/"
+    }
+}

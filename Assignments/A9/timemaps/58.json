@@ -1,0 +1,390 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-10T00:16:54Z",
+            "uri": "http://archive.is/20180210001654/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+        },
+        "last": {
+            "datetime": "2018-05-01T03:12:13Z",
+            "uri": "http://web.archive.org/web/20180501031213/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-10T00:16:54Z",
+                "uri": "http://archive.is/20180210001654/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T00:18:05Z",
+                "uri": "http://archive.is/20180210001805/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T00:30:00Z",
+                "uri": "http://archive.is/20180210003000/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T00:47:18Z",
+                "uri": "http://web.archive.org/web/20180210004718/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T01:02:34Z",
+                "uri": "http://web.archive.org/web/20180210010234/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T01:12:22Z",
+                "uri": "http://web.archive.org/web/20180210011222/http://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T01:12:26Z",
+                "uri": "http://web.archive.org/web/20180210011226/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T01:13:17Z",
+                "uri": "http://archive.is/20180210011317/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T01:17:15Z",
+                "uri": "http://web.archive.org/web/20180210011715/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T01:32:26Z",
+                "uri": "http://web.archive.org/web/20180210013226/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T01:38:06Z",
+                "uri": "http://archive.is/20180210013806/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T02:13:23Z",
+                "uri": "http://web.archive.org/web/20180210021323/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T02:40:38Z",
+                "uri": "http://web.archive.org/web/20180210024038/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T03:01:58Z",
+                "uri": "http://web.archive.org/web/20180210030158/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T03:10:24Z",
+                "uri": "http://web.archive.org/web/20180210031024/http://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T03:15:06Z",
+                "uri": "http://web.archive.org/web/20180210031506/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T03:16:02Z",
+                "uri": "http://web.archive.org/web/20180210031602/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T03:30:25Z",
+                "uri": "http://web.archive.org/web/20180210033025/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T05:04:39Z",
+                "uri": "http://web.archive.org/web/20180210050439/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T05:16:43Z",
+                "uri": "http://web.archive.org/web/20180210051643/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T05:38:27Z",
+                "uri": "http://web.archive.org/web/20180210053827/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T06:13:19Z",
+                "uri": "http://web.archive.org/web/20180210061319/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T06:47:25Z",
+                "uri": "http://web.archive.org/web/20180210064725/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T07:22:29Z",
+                "uri": "http://web.archive.org/web/20180210072229/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T07:56:55Z",
+                "uri": "http://web.archive.org/web/20180210075655/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T08:31:09Z",
+                "uri": "http://web.archive.org/web/20180210083109/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T09:08:26Z",
+                "uri": "http://web.archive.org/web/20180210090826/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T09:29:46Z",
+                "uri": "http://web.archive.org/web/20180210092946/http://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T09:45:39Z",
+                "uri": "http://web.archive.org/web/20180210094539/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T10:04:59Z",
+                "uri": "http://web.archive.org/web/20180210100459/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T10:20:03Z",
+                "uri": "http://web.archive.org/web/20180210102003/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T10:54:04Z",
+                "uri": "http://web.archive.org/web/20180210105404/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T11:28:26Z",
+                "uri": "http://web.archive.org/web/20180210112826/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T12:01:35Z",
+                "uri": "http://web.archive.org/web/20180210120135/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T12:10:11Z",
+                "uri": "http://web.archive.org/web/20180210121011/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T12:37:27Z",
+                "uri": "http://web.archive.org/web/20180210123727/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T13:11:50Z",
+                "uri": "http://web.archive.org/web/20180210131150/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T13:46:08Z",
+                "uri": "http://web.archive.org/web/20180210134608/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T14:21:44Z",
+                "uri": "http://web.archive.org/web/20180210142144/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T14:47:50Z",
+                "uri": "http://web.archive.org/web/20180210144750/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T16:37:32Z",
+                "uri": "http://web.archive.org/web/20180210163732/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T18:30:53Z",
+                "uri": "http://web.archive.org/web/20180210183053/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T20:13:01Z",
+                "uri": "http://web.archive.org/web/20180210201301/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T20:29:00Z",
+                "uri": "http://archive.is/20180210202900/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T21:01:00Z",
+                "uri": "http://web.archive.org/web/20180210210100/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-10T21:55:29Z",
+                "uri": "http://web.archive.org/web/20180210215529/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-11T00:10:41Z",
+                "uri": "http://web.archive.org/web/20180211001041/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-11T04:14:39Z",
+                "uri": "http://web.archive.org/web/20180211041439/http://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-11T04:33:00Z",
+                "uri": "http://web.archive.org/web/20180211043300/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-11T07:01:39Z",
+                "uri": "http://web.archive.org/web/20180211070139/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-11T07:16:36Z",
+                "uri": "http://web.archive.org/web/20180211071636/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-11T07:31:39Z",
+                "uri": "http://web.archive.org/web/20180211073139/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-11T21:34:33Z",
+                "uri": "http://web.archive.org/web/20180211213433/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-12T02:46:31Z",
+                "uri": "http://web.archive.org/web/20180212024631/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-12T04:29:58Z",
+                "uri": "http://web.archive.org/web/20180212042958/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-12T04:38:21Z",
+                "uri": "http://web.archive.org/web/20180212043821/http://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-12T11:34:18Z",
+                "uri": "http://web.archive.org/web/20180212113418/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-13T05:55:07Z",
+                "uri": "http://web.archive.org/web/20180213055507/http://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-13T14:48:09Z",
+                "uri": "http://web.archive.org/web/20180213144809/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-13T17:32:20Z",
+                "uri": "http://web.archive.org/web/20180213173220/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-13T17:41:04Z",
+                "uri": "http://archive.is/20180213174104/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-14T15:16:46Z",
+                "uri": "http://web.archive.org/web/20180214151646/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-14T18:33:07Z",
+                "uri": "http://wayback.archive-it.org/all/20180214183307/http://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-14T18:33:07Z",
+                "uri": "http://web.archive.org/web/20180214183307/http://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-14T18:48:00Z",
+                "uri": "http://wayback.archive-it.org/all/20180214184800/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-14T18:48:00Z",
+                "uri": "http://web.archive.org/web/20180214184800/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-16T12:53:01Z",
+                "uri": "http://web.archive.org/web/20180216125301/http://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-16T12:55:47Z",
+                "uri": "http://web.archive.org/web/20180216125547/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-16T23:58:12Z",
+                "uri": "http://wayback.archive-it.org/all/20180216235812/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-16T23:58:12Z",
+                "uri": "http://web.archive.org/web/20180216235812/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-17T16:08:02Z",
+                "uri": "http://web.archive.org/web/20180217160802/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-18T21:08:34Z",
+                "uri": "http://web.archive.org/web/20180218210834/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-19T19:51:35Z",
+                "uri": "http://web.archive.org/web/20180219195135/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-20T11:56:46Z",
+                "uri": "http://web.archive.org/web/20180220115646/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-21T01:32:14Z",
+                "uri": "http://web.archive.org/web/20180221013214/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-21T03:03:17Z",
+                "uri": "http://wayback.archive-it.org/all/20180221030317/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-21T03:03:17Z",
+                "uri": "http://web.archive.org/web/20180221030317/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-21T09:48:16Z",
+                "uri": "http://web.archive.org/web/20180221094816/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-02-22T09:56:32Z",
+                "uri": "http://web.archive.org/web/20180222095632/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-03-01T14:36:29Z",
+                "uri": "http://web.archive.org/web/20180301143629/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-03-20T13:11:47Z",
+                "uri": "http://wayback.archive-it.org/all/20180320131147/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-03-20T13:11:47Z",
+                "uri": "http://web.archive.org/web/20180320131147/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-04-18T09:34:13Z",
+                "uri": "http://web.archive.org/web/20180418093413/http://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-04-18T09:34:15Z",
+                "uri": "http://web.archive.org/web/20180418093415/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-04-18T21:05:24Z",
+                "uri": "http://web.archive.org/web/20180418210524/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-04-26T13:53:05Z",
+                "uri": "http://wayback.archive-it.org/all/20180426135305/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-04-26T13:53:05Z",
+                "uri": "http://web.archive.org/web/20180426135305/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-04-28T13:09:19Z",
+                "uri": "http://web.archive.org/web/20180428130919/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-04-29T13:33:46Z",
+                "uri": "http://wayback.archive-it.org/all/20180429133346/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-04-29T13:33:46Z",
+                "uri": "http://web.archive.org/web/20180429133346/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-05-01T03:12:13Z",
+                "uri": "http://wayback.archive-it.org/all/20180501031213/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            },
+            {
+                "datetime": "2018-05-01T03:12:13Z",
+                "uri": "http://web.archive.org/web/20180501031213/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/02/09/us/politics/us-cyberweapons-russia-trump.html"
+    }
+}

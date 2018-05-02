@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T05:13:30Z",
+            "uri": "http://web.archive.org/web/20180211051330/https://www.elitedaily.com/p/this-video-of-jamaicas-opening-ceremony-entrance-already-won-the-olympics-8185043"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:13:30Z",
+            "uri": "http://wayback.archive-it.org/all/20180211051330/https://www.elitedaily.com/p/this-video-of-jamaicas-opening-ceremony-entrance-already-won-the-olympics-8185043"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T05:13:30Z",
+                "uri": "http://web.archive.org/web/20180211051330/https://www.elitedaily.com/p/this-video-of-jamaicas-opening-ceremony-entrance-already-won-the-olympics-8185043"
+            },
+            {
+                "datetime": "2018-02-11T05:13:30Z",
+                "uri": "http://wayback.archive-it.org/all/20180211051330/https://www.elitedaily.com/p/this-video-of-jamaicas-opening-ceremony-entrance-already-won-the-olympics-8185043"
+            }
+        ]
+    },
+    "original_uri": "https://www.elitedaily.com/p/this-video-of-jamaicas-opening-ceremony-entrance-already-won-the-olympics-8185043",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.elitedaily.com/p/this-video-of-jamaicas-opening-ceremony-entrance-already-won-the-olympics-8185043",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.elitedaily.com/p/this-video-of-jamaicas-opening-ceremony-entrance-already-won-the-olympics-8185043",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.elitedaily.com/p/this-video-of-jamaicas-opening-ceremony-entrance-already-won-the-olympics-8185043",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.elitedaily.com/p/this-video-of-jamaicas-opening-ceremony-entrance-already-won-the-olympics-8185043",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.elitedaily.com/p/this-video-of-jamaicas-opening-ceremony-entrance-already-won-the-olympics-8185043"
+    }
+}

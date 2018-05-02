@@ -1,0 +1,90 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T22:48:54Z",
+            "uri": "http://web.archive.org/web/20180209224854/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+        },
+        "last": {
+            "datetime": "2018-04-12T19:56:32Z",
+            "uri": "http://web.archive.org/web/20180412195632/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T22:48:54Z",
+                "uri": "http://web.archive.org/web/20180209224854/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-02-09T23:30:50Z",
+                "uri": "http://web.archive.org/web/20180209233050/http://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-02-10T03:01:57Z",
+                "uri": "http://web.archive.org/web/20180210030157/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-02-10T17:39:49Z",
+                "uri": "http://web.archive.org/web/20180210173949/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-02-10T21:34:38Z",
+                "uri": "http://web.archive.org/web/20180210213438/http://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-02-10T23:26:04Z",
+                "uri": "http://web.archive.org/web/20180210232604/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-02-10T23:50:36Z",
+                "uri": "http://web.archive.org/web/20180210235036/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-02-11T06:58:54Z",
+                "uri": "http://web.archive.org/web/20180211065854/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-02-11T18:58:08Z",
+                "uri": "http://web.archive.org/web/20180211185808/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-02-11T21:34:45Z",
+                "uri": "http://web.archive.org/web/20180211213445/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-02-11T21:58:07Z",
+                "uri": "http://web.archive.org/web/20180211215807/http://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-02-13T01:14:13Z",
+                "uri": "http://web.archive.org/web/20180213011413/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-02-25T11:56:07Z",
+                "uri": "http://web.archive.org/web/20180225115607/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-03-09T13:26:49Z",
+                "uri": "http://web.archive.org/web/20180309132649/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-03-21T05:44:10Z",
+                "uri": "http://web.archive.org/web/20180321054410/http://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-03-27T02:50:09Z",
+                "uri": "http://archive.is/20180327025009/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            },
+            {
+                "datetime": "2018-04-12T19:56:32Z",
+                "uri": "http://web.archive.org/web/20180412195632/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cnn.com/2018/02/09/politics/john-kelly-resign/index.html"
+    }
+}

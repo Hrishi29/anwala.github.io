@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T21:08:53Z",
+            "uri": "http://web.archive.org/web/20180209210853/http://observador.pt/2018/02/09/o-torpedo-do-juizo-final-trump-teme-o-mas-putin-pode-nem-o-ter/"
+        },
+        "last": {
+            "datetime": "2018-02-09T21:08:53Z",
+            "uri": "http://web.archive.org/web/20180209210853/http://observador.pt/2018/02/09/o-torpedo-do-juizo-final-trump-teme-o-mas-putin-pode-nem-o-ter/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T21:08:53Z",
+                "uri": "http://web.archive.org/web/20180209210853/http://observador.pt/2018/02/09/o-torpedo-do-juizo-final-trump-teme-o-mas-putin-pode-nem-o-ter/"
+            }
+        ]
+    },
+    "original_uri": "http://observador.pt/2018/02/09/o-torpedo-do-juizo-final-trump-teme-o-mas-putin-pode-nem-o-ter/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://observador.pt/2018/02/09/o-torpedo-do-juizo-final-trump-teme-o-mas-putin-pode-nem-o-ter/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://observador.pt/2018/02/09/o-torpedo-do-juizo-final-trump-teme-o-mas-putin-pode-nem-o-ter/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://observador.pt/2018/02/09/o-torpedo-do-juizo-final-trump-teme-o-mas-putin-pode-nem-o-ter/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://observador.pt/2018/02/09/o-torpedo-do-juizo-final-trump-teme-o-mas-putin-pode-nem-o-ter/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://observador.pt/2018/02/09/o-torpedo-do-juizo-final-trump-teme-o-mas-putin-pode-nem-o-ter/"
+    }
+}
